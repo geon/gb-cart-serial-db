@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "check": "tsx node-src/check-my-games.ts",
     "import": "tsx node-src/import-cartridges.ts"
   },
   "dependencies": {
