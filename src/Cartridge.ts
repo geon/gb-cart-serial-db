@@ -1,4 +1,4 @@
 export type Cartridge = Readonly<{
-    code: string;
-    title: string;
+	code: string;
+	title: string;
 }>;
