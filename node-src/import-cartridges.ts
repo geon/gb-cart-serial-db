@@ -1,7 +1,6 @@
-import { readFileSync, writeFileSync } from "fs";
-import { parse } from "csv-pipe";
-import type { Cartridge } from "../src/Cartridge.js";
-import type { CartridgesCsvRow } from "./CartridgesCsvRow.js";
+import { writeFileSync } from "fs";
+import { importNoIntro } from "./importers/import-no-intro.js";
+import { importGbdb } from "./importers/import-gbdb.js";
 
 export function uniqueBy<T>(
 	array: readonly T[],
@@ -17,16 +16,14 @@ export function uniqueBy<T>(
 }
 
 function main() {
-	const csvPath = "assets/cartridges.csv";
-	const csvCartridges = parse<CartridgesCsvRow>(
-		readFileSync(csvPath, { encoding: "utf-8" }),
-	);
-
-	const cartridges = uniqueBy(csvCartridges, (x) => x.code).map(
-		(row): Cartridge => ({
-			code: row.code,
-			title: row.game_name,
-		}),
+	const cartridges = uniqueBy(
+		[
+			//
+			...importNoIntro(),
+			...importGbdb(),
+			...importNoIntro(),
+		],
+		(x) => x.code,
 	);
 
 	const jsonPath = "public/cartridges.json";
