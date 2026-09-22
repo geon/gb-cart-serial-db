@@ -27990,5 +27990,229 @@
 	{
 		"title": "Zoop USA",
 		"code": "DMG-AZPE-USA"
+	},
+	{
+		"code": "DMG-APXP-EUR",
+		"title": "a bug’s life, UK/GER"
+	},
+	{
+		"code": "DMG-ALAP-NEU5",
+		"title": "Aladdin, UK/FR/NED/GER/ESP"
+	},
+	{
+		"code": "DMG-ACPE-USA-1",
+		"title": "Arcade Classics 2 Centipede & Millipede, US"
+	},
+	{
+		"code": "DMG-AARP-NOE",
+		"title": "Asteroids, GER"
+	},
+	{
+		"code": "DMG-AARE-USA-1",
+		"title": "Asteroids, US"
+	},
+	{
+		"code": "DMG-BS-USA-1",
+		"title": "Baseball, US"
+	},
+	{
+		"code": "DMG-AVUP-NEU6",
+		"title": "Beauty and the Beast – A Board Game Adventure, UK/GER/FR/NED/ESP/IT"
+	},
+	{
+		"code": "DMG-AQVP-EUU",
+		"title": "Bomberman Quest, FR/GER/NED"
+	},
+	{
+		"code": "DMG-AB6P-NEU5",
+		"title": "Bugs Bunny Crazy Castle 3, UK/GER/FR/NED/ESP"
+	},
+	{
+		"code": "DMG-CE-USA-2",
+		"title": "Caesars Palace, US"
+	},
+	{
+		"code": "DMG-ACRP-NEU6",
+		"title": "Conker’s Pocket Tales, UK/GER/FR/NED/ESP/IT"
+	},
+	{
+		"code": "DMG-AMVP-NOE",
+		"title": "Die Biene Maja & ihre Freunde, GER"
+	},
+	{
+		"code": "DMG-ADDP-NOE-1",
+		"title": "Donkey Kong Land 2, GER"
+	},
+	{
+		"code": "DMG-FN-UKV",
+		"title": "Dr. Franken, UK"
+	},
+	{
+		"code": "DMG-DP-UKV",
+		"title": "Dropzone, UK"
+	},
+	{
+		"code": "DMG-AEBP-EUU",
+		"title": "Eartworm Jim – Menace 2 the Galaxy, FR/GER/NED"
+	},
+	{
+		"code": "DMG-F1-NOE-1",
+		"title": "F-1 Race, GER"
+	},
+	{
+		"code": "DMG-AFOP-NOE",
+		"title": "FIFA 2000, GER"
+	},
+	{
+		"code": "DMG-AGGA-UKV-3",
+		"title": "Game Boy Gallery, UK"
+	},
+	{
+		"code": "DMG-AGLP-NEU5",
+		"title": "Game & Watch Gallery 2, UK/GER/FR/NED/ESP"
+	},
+	{
+		"code": "DMG-L4-UKV",
+		"title": "Garfield Labyrinth, UK"
+	},
+	{
+		"code": "DMG-G8-UKV",
+		"title": "Gear Works, UK"
+	},
+	{
+		"code": "DMG-GO-UKV-2",
+		"title": "Golf, UK"
+	},
+	{
+		"code": "DMG-GO-UKV-4",
+		"title": "Golf, UK"
+	},
+	{
+		"code": "DMG-HM-UKV",
+		"title": "Home Alone, UK"
+	},
+	{
+		"code": "DMG-KY-UKV-2",
+		"title": "Kirby’s Dream Land, UK"
+	},
+	{
+		"code": "DMG-LN-NOE-3",
+		"title": "Looney Tunes, GER"
+	},
+	{
+		"code": "DMG-ALTP-NOE",
+		"title": "Looney Tunes, GER"
+	},
+	{
+		"code": "DMG-AR4P-EUU",
+		"title": "Matchbox Construction Zone, IT/FR/GER"
+	},
+	{
+		"code": "DMG-A8NP-EUR-1",
+		"title": "NBA JAM, UK/GER/FR/ESP/IT/NED"
+	},
+	{
+		"code": "DMG-AACP-NOE",
+		"title": "Pac-Man Special Colour Edition, GER"
+	},
+	{
+		"code": "DMG-D8-UKV",
+		"title": "Pinball Dreams, UK"
+	},
+	{
+		"code": "DMG-P-ACGP-NOE",
+		"title": "Pinocchio, GER"
+	},
+	{
+		"code": "DMG-AFLP-EUU",
+		"title": "Pitfall – Beyond the Jungle, FR/GER/NED"
+	},
+	{
+		"code": "DMG-VPHP-NEU6",
+		"title": "Pokémon Pinball, UK/GER/FR/NED/ESP/IT"
+	},
+	{
+		"code": "DMG-AXQP-FHUG",
+		"title": "Pokémon Trading Card Game, UK/GER/FR/NED"
+	},
+	{
+		"code": "DMG-P-ACNP-NEU5",
+		"title": "Quest for Camelot, UK/GER/FR/NED/ESP"
+	},
+	{
+		"code": "DMG-AVMP-NOE",
+		"title": "Rugrats – Die Zeitreise, GER"
+	},
+	{
+		"code": "DMG-ASCE-EUR",
+		"title": "Sea Quest DSV, UK/FR/GER"
+	},
+	{
+		"code": "DMG-ASWP-NEU5",
+		"title": "Shadowgate Classic, UK/GER/FR/NED/ESP"
+	},
+	{
+		"code": "DMG-AVXP-EURO",
+		"title": "Shamus, UK"
+	},
+	{
+		"code": "G/DMG-YK-NOE-1",
+		"title": "Soccer, GER"
+	},
+	{
+		"code": "DMG-SS-USA-1",
+		"title": "Solar Striker, US"
+	},
+	{
+		"code": "DMG-LQ-UKV",
+		"title": "Spider-Man 3, UK/GER/FR/NED"
+	},
+	{
+		"code": "DMG-AYDP-NOE",
+		"title": "Star Wars – Yoda Stories, GER"
+	},
+	{
+		"code": "DMG-KF-NOE",
+		"title": "Super Kick Off, GER"
+	},
+	{
+		"code": "DMG-MQ-NOE-3",
+		"title": "Super Mario Land 2 – 6 Golden Coins, GER"
+	},
+	{
+		"code": "DMG-NT-NOE-1",
+		"title": "Teenage Mutant Hero Turtles Fall of the Foot Clan, GER"
+	},
+	{
+		"code": "DMG-TT-NOE-2",
+		"title": "Teenage Mutant Hero Turtles II Back from the Sewers, GER"
+	},
+	{
+		"code": "DMG-TR-NOE-1",
+		"title": "Tetris, GER"
+	},
+	{
+		"code": "DMG-TR-UKV-4",
+		"title": "Tetris, UK"
+	},
+	{
+		"code": "DMG-EH-FRG-1",
+		"title": "Tetris 2, GER/FR"
+	},
+	{
+		"code": "DMG-LD-USA-2",
+		"title": "The little Mermaid, US"
+	},
+	{
+		"code": "DMG-A2TP-NOE",
+		"title": "Turok 2 – Seeds of Evil, GER"
+	},
+	{
+		"code": "DMG-WJ-UKV-1",
+		"title": "Wario Land – Super Mario Land 3, UK"
+	},
+	{
+		"code": "DMG-W9-UKV",
+		"title": "WorldCup USA 94, UK"
 	}
 ]

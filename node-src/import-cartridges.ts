@@ -1,6 +1,7 @@
 import { writeFileSync } from "fs";
 import { importNoIntro } from "./importers/import-no-intro.js";
 import { importGbdb } from "./importers/import-gbdb.js";
+import { importDe } from "./importers/import-de.js";
 
 export function uniqueBy<T>(
 	array: readonly T[],
@@ -22,6 +23,7 @@ function main() {
 			...importNoIntro(),
 			...importGbdb(),
 			...importNoIntro(),
+			...importDe(),
 		],
 		(x) => x.code,
 	);
