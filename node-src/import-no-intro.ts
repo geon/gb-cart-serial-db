@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from "fs";
-import { JSDOM } from "jsdom";
+import { parse, type TNode } from "txml";
 import type { Cartridge } from "../src/Cartridge.js";
 
 export function uniqueBy<T>(
@@ -26,32 +26,47 @@ function main() {
 
 	const cartridges = inputPaths.flatMap((inputPath) => {
 		console.log(inputPath);
-		const dom = new JSDOM(readFileSync(inputPath, { encoding: "utf-8" }));
-		console.log(dom);
-		const cartridges = [
-			...(dom.window.document
-				.querySelector("datafile")
-				?.querySelectorAll("game") ?? []),
-		]
+
+		const result = parse(readFileSync(inputPath, { encoding: "utf-8" }));
+		const cartridges = result
+			.find(
+				(node): node is TNode =>
+					typeof node === "object" && node.tagName === "datafile",
+			)
+			?.children.filter(
+				(node): node is TNode =>
+					typeof node === "object" && node.tagName === "game",
+			)
 			.map((game): Cartridge | undefined => {
-				const serials = [...(game.querySelectorAll("serials") ?? [])]
+				const serials = game.children
+					.filter(
+						(node): node is TNode =>
+							typeof node === "object" && node.tagName === "source",
+					)
 					.map(
-						(serial) =>
-							serial.attributes.getNamedItem("media_serial1")?.nodeValue,
+						(source) =>
+							source.children.find(
+								(node): node is TNode =>
+									typeof node === "object" && node.tagName === "serials",
+							)?.attributes.media_serial1,
 					)
 					.filter(isDefined);
+				// console.log(serials);
 
 				const code = serials[0];
 
-				const archive = game.querySelector("archive")?.attributes;
+				const archive = game.children.find(
+					(node): node is TNode =>
+						typeof node === "object" && node.tagName === "archive",
+				);
 				if (!archive) {
 					throw new Error("Missing archive.");
 				}
 
 				// name region languages
-				const title = archive.getNamedItem("name")?.textContent;
+				const title = archive.attributes.name;
 
-				console.log(title);
+				// console.log(title);
 				return (
 					(code &&
 						title && {
