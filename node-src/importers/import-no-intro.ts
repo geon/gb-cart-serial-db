@@ -27,7 +27,8 @@ export function importNoIntro(): readonly Cartridge[] {
 					const serials = game.children
 						.filter(
 							(node): node is TNode =>
-								typeof node === "object" && node.tagName === "source",
+								typeof node === "object" &&
+								(node.tagName === "source" || node.tagName === "release"),
 						)
 						.map(
 							(source) =>
@@ -37,7 +38,10 @@ export function importNoIntro(): readonly Cartridge[] {
 								)?.attributes.media_serial1,
 						)
 						.filter(isDefined);
-					// console.log(serials);
+
+					// if (game.attributes.name?.[0] === "G") {
+					// 	console.log(game);
+					// }
 
 					const code = serials[0];
 
@@ -52,7 +56,6 @@ export function importNoIntro(): readonly Cartridge[] {
 					// name region languages
 					const title = archive.attributes.name;
 
-					// console.log(title);
 					return (
 						(code &&
 							title && {

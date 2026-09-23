@@ -1285,6 +1285,12 @@
 		]
 	},
 	{
+		"code": "DMG-CEL-UK",
+		"titles": [
+			"Cel Story"
+		]
+	},
+	{
 		"code": "DMG-CZ-FRG",
 		"titles": [
 			"Centipede",
@@ -7779,6 +7785,12 @@
 		]
 	},
 	{
+		"code": "FTK-001",
+		"titles": [
+			"Super Connard"
+		]
+	},
+	{
 		"code": "DMG-YTJ",
 		"titles": [
 			"Super Donkey Kong GB",
@@ -9197,6 +9209,12 @@
 		]
 	},
 	{
+		"code": "CGB-B99D-NOE",
+		"titles": [
+			"102 Dalmatiner"
+		]
+	},
+	{
 		"code": "CGB-AQ4P-EUR",
 		"titles": [
 			"1942"
@@ -9277,9 +9295,40 @@
 		]
 	},
 	{
+		"code": "CGB-BDLJ-JPN",
+		"titles": [
+			"AirForce Delta"
+		]
+	},
+	{
+		"code": "CGB-BDLE-USA",
+		"titles": [
+			"AirForce Delta"
+		]
+	},
+	{
+		"code": "CGB-BADP-EUR",
+		"titles": [
+			"Aladdin",
+			"Aladdin (Europe) (En,Fr,De,Es,It,Nl)"
+		]
+	},
+	{
 		"code": "CGB-BADE-USA",
 		"titles": [
 			"Aladdin"
+		]
+	},
+	{
+		"code": "CGB-BAAP-EUR",
+		"titles": [
+			"Alfred's Adventure"
+		]
+	},
+	{
+		"code": "CGB-AIWP-EUR",
+		"titles": [
+			"Alice in Wonderland"
 		]
 	},
 	{
@@ -9308,6 +9357,12 @@
 		]
 	},
 	{
+		"code": "CGB-BASE-USA",
+		"titles": [
+			"All-Star Baseball 2001"
+		]
+	},
+	{
 		"code": "DMG-MBC5-32M-FLASH",
 		"titles": [
 			"Alone in the Dark - The New Nightmare",
@@ -9320,6 +9375,12 @@
 	},
 	{
 		"code": "CGB-BIDP-UKV",
+		"titles": [
+			"Alone in the Dark - The New Nightmare"
+		]
+	},
+	{
+		"code": "CGB-BIDE-USA",
 		"titles": [
 			"Alone in the Dark - The New Nightmare"
 		]
@@ -9340,6 +9401,12 @@
 		"code": "CGB-BNMJ-JPN",
 		"titles": [
 			"Animastar GB"
+		]
+	},
+	{
+		"code": "CGB-BAMP-EUR",
+		"titles": [
+			"Animorphs"
 		]
 	},
 	{
@@ -9385,6 +9452,18 @@
 		]
 	},
 	{
+		"code": "DMG-BRBJ-JPN",
+		"titles": [
+			"Arle no Bouken - Mahou no Jewel"
+		]
+	},
+	{
+		"code": "CGB-BARE-USA",
+		"titles": [
+			"Armada - FX Racers"
+		]
+	},
+	{
 		"code": "CGB-AOXE-USA",
 		"titles": [
 			"Armorines - Project S.W.A.R.M."
@@ -9415,9 +9494,21 @@
 		]
 	},
 	{
+		"code": "CGB-BFDE-USA",
+		"titles": [
+			"Arthur's Absolutely Fun Day!"
+		]
+	},
+	{
 		"code": "CGB-AA6P-ESP",
 		"titles": [
 			"Asterix - Sur la Trace D'Idefix"
+		]
+	},
+	{
+		"code": "CGB-AOLP-EUR",
+		"titles": [
+			"Asterix &amp; Obelix"
 		]
 	},
 	{
@@ -9463,6 +9554,18 @@
 		]
 	},
 	{
+		"code": "CGB-BAPX-EUR",
+		"titles": [
+			"Austin Powers - Oh, Behave!"
+		]
+	},
+	{
+		"code": "CGB-BAPE-USA",
+		"titles": [
+			"Austin Powers - Oh, Behave!"
+		]
+	},
+	{
 		"code": "CGB-BEAX-EUU",
 		"titles": [
 			"Austin Powers - Welcome to My Underground Lair!"
@@ -9472,6 +9575,12 @@
 		"code": "CGB-BEAE-USA",
 		"titles": [
 			"Austin Powers - Welcome to My Underground Lair!"
+		]
+	},
+	{
+		"code": "CGB-BUZF-FRA",
+		"titles": [
+			"Aventures de Buzz l'Eclair, Les"
 		]
 	},
 	{
@@ -9512,7 +9621,25 @@
 		]
 	},
 	{
+		"code": "DMG-AVAE-USA",
+		"titles": [
+			"Babe and Friends"
+		]
+	},
+	{
+		"code": "CGB-BFHP-EUR",
+		"titles": [
+			"Baby Felix - Halloween"
+		]
+	},
+	{
 		"code": "DMG-AAKP-EUR",
+		"titles": [
+			"Backgammon"
+		]
+	},
+	{
+		"code": "DMG-AAKJ-JPN",
 		"titles": [
 			"Backgammon"
 		]
@@ -9549,6 +9676,18 @@
 		]
 	},
 	{
+		"code": "DMG-ALIE-USA",
+		"titles": [
+			"Ballistic"
+		]
+	},
+	{
+		"code": "DMG-BBKJ-JPN",
+		"titles": [
+			"Balloon Fight GB"
+		]
+	},
+	{
 		"code": "DMG-ADYS-ESP",
 		"titles": [
 			"Barbie - Aventura Submarina"
@@ -9558,6 +9697,12 @@
 		"code": "DMG-ADYI-ITA",
 		"titles": [
 			"Barbie - Avventure nell'Oceano"
+		]
+	},
+	{
+		"code": "DMG-ADYF-FRA",
+		"titles": [
+			"Barbie - Chasse au Tresor Sous-Marine"
 		]
 	},
 	{
@@ -9573,6 +9718,12 @@
 		]
 	},
 	{
+		"code": "CGB-BMCE-USA",
+		"titles": [
+			"Barbie - Magic Genie Adventure"
+		]
+	},
+	{
 		"code": "DMG-ADYD-NOE",
 		"titles": [
 			"Barbie - Meeres Abenteuer",
@@ -9580,10 +9731,35 @@
 		]
 	},
 	{
+		"code": "DMG-ADYP-UKV",
+		"titles": [
+			"Barbie - Ocean Discovery",
+			"Barbie - Ocean Discovery (United Kingdom) (GB Compatible)"
+		]
+	},
+	{
+		"code": "DMG-ADYE-USA",
+		"titles": [
+			"Barbie - Ocean Discovery"
+		]
+	},
+	{
 		"code": "CGB-BPEP-EUR",
 		"titles": [
 			"Barbie - Pet Rescue",
 			"Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It)"
+		]
+	},
+	{
+		"code": "CGB-BPEE-USA",
+		"titles": [
+			"Barbie - Pet Rescue"
+		]
+	},
+	{
+		"code": "CGB-AO3X-EUU",
+		"titles": [
+			"Barca Total 2000"
 		]
 	},
 	{
@@ -9613,6 +9789,12 @@
 		]
 	},
 	{
+		"code": "CGB-BBBE-USA",
+		"titles": [
+			"Batman - Chaos in Gotham"
+		]
+	},
+	{
 		"code": "CGB-BTKJ-JPN",
 		"titles": [
 			"Batman Beyond - Return of the Joker"
@@ -9625,6 +9807,19 @@
 		]
 	},
 	{
+		"code": "CGB-BTKP-EUR",
+		"titles": [
+			"Batman of the Future - Return of the Joker",
+			"Batman of the Future - Return of the Joker (Europe) (En,Fr,De)"
+		]
+	},
+	{
+		"code": "CGB-BBAJ-JPN",
+		"titles": [
+			"Battle Fishers"
+		]
+	},
+	{
 		"code": "DMG-AIPP-EUR",
 		"titles": [
 			"Battleship"
@@ -9632,6 +9827,12 @@
 	},
 	{
 		"code": "CGB-AVNP-UKV",
+		"titles": [
+			"BattleTanx"
+		]
+	},
+	{
+		"code": "CGB-AVNE-USA",
 		"titles": [
 			"BattleTanx"
 		]
@@ -9653,6 +9854,12 @@
 		"code": "DMG-AOOJ-JPN",
 		"titles": [
 			"Beatmania GB"
+		]
+	},
+	{
+		"code": "CGB-B3GJ-JPN",
+		"titles": [
+			"Beatmania GB - Gotcha Mix 2"
 		]
 	},
 	{
@@ -9725,6 +9932,12 @@
 		]
 	},
 	{
+		"code": "CGB-BBOJ-JPN",
+		"titles": [
+			"Black Onyx, The"
+		]
+	},
+	{
 		"code": "CGB-BLEP-EUR",
 		"titles": [
 			"Blade"
@@ -9743,10 +9956,22 @@
 		]
 	},
 	{
+		"code": "CGB-AXWE-USA",
+		"titles": [
+			"Boarder Zone"
+		]
+	},
+	{
 		"code": "CGB-BBQP-FAH",
 		"titles": [
 			"Bob et Bobette - Les Dompteurs du Temps",
 			"Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl)"
+		]
+	},
+	{
+		"code": "CGB-BOBP-EUR",
+		"titles": [
+			"Bob the Builder - Fix it Fun!"
 		]
 	},
 	{
@@ -9759,6 +9984,18 @@
 		"code": "CGB-BOBX-SCN",
 		"titles": [
 			"Bob the Builder - Fix it Fun!"
+		]
+	},
+	{
+		"code": "CGB-BOBE-USA",
+		"titles": [
+			"Bob the Builder - Fix it Fun!"
+		]
+	},
+	{
+		"code": "CGB-BDPJ-JPN",
+		"titles": [
+			"Boku no Camp-jou"
 		]
 	},
 	{
@@ -9816,9 +10053,21 @@
 		]
 	},
 	{
+		"code": "DMG-AVQE-USA",
+		"titles": [
+			"Bomberman Quest"
+		]
+	},
+	{
 		"code": "CGB-B2CK-KOR",
 		"titles": [
 			"Bomberman Selection"
+		]
+	},
+	{
+		"code": "CGB-BDVJ-JPN",
+		"titles": [
+			"Bouken! Dondoko Shima"
 		]
 	},
 	{
@@ -9834,6 +10083,13 @@
 		]
 	},
 	{
+		"code": "DMG-APXP-EUR",
+		"titles": [
+			"Bug's Life, A",
+			"a bug’s life, UK/GER"
+		]
+	},
+	{
 		"code": "DMG-APXE-USA",
 		"titles": [
 			"Bug's Life, A",
@@ -9841,10 +10097,22 @@
 		]
 	},
 	{
+		"code": "DMG-AB6J-JPN",
+		"titles": [
+			"Bugs Bunny - Crazy Castle 3"
+		]
+	},
+	{
 		"code": "DMG-AB6P-EUR",
 		"titles": [
 			"Bugs Bunny - Crazy Castle 3",
 			"Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible)"
+		]
+	},
+	{
+		"code": "CGB-AO4J-JPN",
+		"titles": [
+			"Bugs Bunny - Crazy Castle 4"
 		]
 	},
 	{
@@ -9867,9 +10135,33 @@
 		]
 	},
 	{
+		"code": "CGB-AO4E-USA",
+		"titles": [
+			"Bugs Bunny in - Crazy Castle 4"
+		]
+	},
+	{
 		"code": "CGB-BSJD-NOE",
 		"titles": [
 			"Bundesliga Stars 2001"
+		]
+	},
+	{
+		"code": "CGB-AZYJ-JPN",
+		"titles": [
+			"Burai Senshi Color"
+		]
+	},
+	{
+		"code": "DMG-ABNJ-JPN",
+		"titles": [
+			"Burger Burger Pocket - Hamburger Simulation"
+		]
+	},
+	{
+		"code": "CGB-AEYJ-JPN",
+		"titles": [
+			"Burger Paradise International"
 		]
 	},
 	{
@@ -9911,6 +10203,12 @@
 		]
 	},
 	{
+		"code": "CGB-BCFP-EUR",
+		"titles": [
+			"Cannon Fodder"
+		]
+	},
+	{
 		"code": "CGB-BCFE-USA",
 		"titles": [
 			"Cannon Fodder"
@@ -9926,6 +10224,12 @@
 		"code": "DMG-AM7J-JPN",
 		"titles": [
 			"Cardcaptor Sakura - Itsumo Sakura-chan to Issho"
+		]
+	},
+	{
+		"code": "CGB-BS7J-JPN",
+		"titles": [
+			"Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai"
 		]
 	},
 	{
@@ -9954,10 +10258,35 @@
 		]
 	},
 	{
+		"code": "CGB-AF9P-EUR",
+		"titles": [
+			"Casper",
+			"Casper (Europe) (En,Fr,De)"
+		]
+	},
+	{
+		"code": "CGB-AF9E-USA",
+		"titles": [
+			"Casper"
+		]
+	},
+	{
 		"code": "DMG-AR4P-EUR",
 		"titles": [
 			"Caterpillar Construction Zone",
 			"Caterpillar Construction Zone (USA, Europe) (GB Compatible)"
+		]
+	},
+	{
+		"code": "CGB-A3CP-EUR",
+		"titles": [
+			"Catwoman"
+		]
+	},
+	{
+		"code": "CGB-A3CE-USA",
+		"titles": [
+			"Catwoman"
 		]
 	},
 	{
@@ -9968,7 +10297,19 @@
 		]
 	},
 	{
+		"code": "CGB-AZCE-USA",
+		"titles": [
+			"Catz"
+		]
+	},
+	{
 		"code": "DMG-AC5P-EUR",
+		"titles": [
+			"Centipede"
+		]
+	},
+	{
+		"code": "DMG-AC5E-USA",
 		"titles": [
 			"Centipede"
 		]
@@ -9986,9 +10327,21 @@
 		]
 	},
 	{
+		"code": "DMG-AH9P-EUR",
+		"titles": [
+			"Chase H.Q. - Secret Police"
+		]
+	},
+	{
 		"code": "DMG-AH9E-USA",
 		"titles": [
 			"Chase H.Q. - Secret Police"
+		]
+	},
+	{
+		"code": "DMG-ACZJ-JPN",
+		"titles": [
+			"Checkmate"
 		]
 	},
 	{
@@ -10001,6 +10354,18 @@
 		"code": "DMG-AC9P-EUR",
 		"titles": [
 			"Chessmaster"
+		]
+	},
+	{
+		"code": "CGB-BBJJ-JPN",
+		"titles": [
+			"Chi to Ase to Namida no Koukou Yakyuu"
+		]
+	},
+	{
+		"code": "CGB-BCNJ-JPN",
+		"titles": [
+			"Chibi Maruko-chan - Go Chounai Minna de Game Da yo!"
 		]
 	},
 	{
@@ -10019,6 +10384,24 @@
 		"code": "DMG-ACQJ-JPN",
 		"titles": [
 			"Choro Q - Hyper Customable GB"
+		]
+	},
+	{
+		"code": "DMG-AVWP-EUR",
+		"titles": [
+			"Classic Bubble Bobble"
+		]
+	},
+	{
+		"code": "DMG-AVWE-USA",
+		"titles": [
+			"Classic Bubble Bobble"
+		]
+	},
+	{
+		"code": "CGB-BCOP-EUR",
+		"titles": [
+			"Colin McRae Rally"
 		]
 	},
 	{
@@ -10048,6 +10431,18 @@
 		]
 	},
 	{
+		"code": "CGB-BOGP-EUR",
+		"titles": [
+			"Cool Bricks"
+		]
+	},
+	{
+		"code": "DMG-ACWP-EUR",
+		"titles": [
+			"Cool Hand"
+		]
+	},
+	{
 		"code": "CGB-AMHP-EUR",
 		"titles": [
 			"Crazy Bikers"
@@ -10066,9 +10461,39 @@
 		]
 	},
 	{
+		"code": "DMG-ARLP-EUR",
+		"titles": [
+			"Cross Country Racing"
+		]
+	},
+	{
+		"code": "CGB-BC8J-JPN",
+		"titles": [
+			"Cross Hunter - Monster Hunter Version"
+		]
+	},
+	{
+		"code": "CGB-BC7J-JPN",
+		"titles": [
+			"Cross Hunter - Treasure Hunter Version"
+		]
+	},
+	{
 		"code": "CGB-BC9J-JPN",
 		"titles": [
 			"Cross Hunter - X Hunter Version"
+		]
+	},
+	{
+		"code": "CGB-BXOE-USA",
+		"titles": [
+			"Cruis'n Exotica"
+		]
+	},
+	{
+		"code": "CGB-AYJE-USA",
+		"titles": [
+			"Crystalis"
 		]
 	},
 	{
@@ -10109,6 +10534,12 @@
 		]
 	},
 	{
+		"code": "DMG-A3SJ-JPN",
+		"titles": [
+			"Daffy Duck - Subette Koron de Oogane Mochi"
+		]
+	},
+	{
 		"code": "DMG-ADZJ-JPN",
 		"titles": [
 			"Daikaijuu Monogatari - Poyon no Dungeon Room"
@@ -10128,15 +10559,69 @@
 		]
 	},
 	{
+		"code": "CGB-A22J-JPN",
+		"titles": [
+			"Daikatana GB"
+		]
+	},
+	{
+		"code": "DMG-BGNJ-JPN",
+		"titles": [
+			"Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi"
+		]
+	},
+	{
+		"code": "CGB-BDGJ-JPN",
+		"titles": [
+			"Dance Dance Revolution GB"
+		]
+	},
+	{
+		"code": "CGB-BD7J-JPN",
+		"titles": [
+			"Dance Dance Revolution GB - Disney Mix"
+		]
+	},
+	{
+		"code": "CGB-BD2J-JPN",
+		"titles": [
+			"Dance Dance Revolution GB 2"
+		]
+	},
+	{
+		"code": "DMG-BD6J-JPN",
+		"titles": [
+			"Dance Dance Revolution GB 3"
+		]
+	},
+	{
 		"code": "DMG-BFBJ-JPN",
 		"titles": [
 			"Dancing Furby"
 		]
 	},
 	{
+		"code": "CGB-A89J-JPN",
+		"titles": [
+			"Data-Navi Pro Yakyuu"
+		]
+	},
+	{
+		"code": "CGB-B8QJ-JPN",
+		"titles": [
+			"Data-Navi Pro Yakyuu 2"
+		]
+	},
+	{
 		"code": "CGB-BMXP-EUR",
 		"titles": [
 			"Dave Mirra Freestyle BMX"
+		]
+	},
+	{
+		"code": "CGB-BJ2P-EUR",
+		"titles": [
+			"David Beckham Soccer"
 		]
 	},
 	{
@@ -10156,6 +10641,30 @@
 		"code": "DMG-BSAJ-JPN",
 		"titles": [
 			"Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite"
+		]
+	},
+	{
+		"code": "CGB-AXHE-USA",
+		"titles": [
+			"Deer Hunter"
+		]
+	},
+	{
+		"code": "CGB-ADTJ-JPN",
+		"titles": [
+			"Deja Vu I &amp; II"
+		]
+	},
+	{
+		"code": "CGB-ADTX-EUR",
+		"titles": [
+			"Deja Vu I &amp; II - The Casebooks of Ace Harding"
+		]
+	},
+	{
+		"code": "CGB-ADTY-EUR",
+		"titles": [
+			"Deja Vu I &amp; II - The Casebooks of Ace Harding"
 		]
 	},
 	{
@@ -10259,6 +10768,19 @@
 		]
 	},
 	{
+		"code": "CGB-BD8E-USA",
+		"titles": [
+			"Diva Starz - Mall Mania"
+		]
+	},
+	{
+		"code": "CGB-AOZP-EUR",
+		"titles": [
+			"Dogz",
+			"Dogz (Europe)"
+		]
+	},
+	{
 		"code": "CGB-AOZE-USA",
 		"titles": [
 			"Dogz"
@@ -10280,6 +10802,12 @@
 		"code": "CGB-B96J-JPN",
 		"titles": [
 			"Dokidoki Densetsu - Mahoujin Guruguru"
+		]
+	},
+	{
+		"code": "CGB-BUDJ-JPN",
+		"titles": [
+			"Donald Duck - Daisy o Sukue!"
 		]
 	},
 	{
@@ -10326,6 +10854,12 @@
 		]
 	},
 	{
+		"code": "DMG-BRDJ-JPN",
+		"titles": [
+			"Doraemon - Kimi to Pet no Monogatari"
+		]
+	},
+	{
 		"code": "DMG-ADOJ-JPN",
 		"titles": [
 			"Doraemon Kart 2"
@@ -10368,7 +10902,19 @@
 		]
 	},
 	{
+		"code": "CGB-BDUF-FRA",
+		"titles": [
+			"Doug - La Grande Aventure"
+		]
+	},
+	{
 		"code": "CGB-BDUD-NOE",
+		"titles": [
+			"Doug's Big Game"
+		]
+	},
+	{
+		"code": "CGB-BDUE-USA",
 		"titles": [
 			"Doug's Big Game"
 		]
@@ -10392,9 +10938,21 @@
 		]
 	},
 	{
+		"code": "CGB-BUAE-USA",
+		"titles": [
+			"Dracula - Crazy Vampire"
+		]
+	},
+	{
 		"code": "CGB-BBZJ-JPN",
 		"titles": [
 			"Dragon Ball Z - Densetsu no Chou Senshi-tachi"
+		]
+	},
+	{
+		"code": "CGB-BBZS-SPA",
+		"titles": [
+			"Dragon Ball Z - Guerreros de Leyenda"
 		]
 	},
 	{
@@ -10411,9 +10969,21 @@
 		]
 	},
 	{
+		"code": "CGB-BBZP-EUR",
+		"titles": [
+			"Dragon Ball Z - Legendary Super Warriors"
+		]
+	},
+	{
 		"code": "CGB-BBZE-USA",
 		"titles": [
 			"Dragon Ball Z - Legendary Super Warriors"
+		]
+	},
+	{
+		"code": "DMG-BDAE-USA",
+		"titles": [
+			"Dragon Dance"
 		]
 	},
 	{
@@ -10463,6 +11033,18 @@
 		]
 	},
 	{
+		"code": "CGB-BDZP-EUR",
+		"titles": [
+			"Dragon Tales - Dragon Wings"
+		]
+	},
+	{
+		"code": "CGB-BDZE-USA",
+		"titles": [
+			"Dragon Tales - Dragon Wings"
+		]
+	},
+	{
 		"code": "DMG-AEDE-USA",
 		"titles": [
 			"Dragon Warrior I &amp; II"
@@ -10481,6 +11063,12 @@
 		]
 	},
 	{
+		"code": "DMG-BQLE-USA",
+		"titles": [
+			"Dragon Warrior Monsters 2 - Cobi's Journey"
+		]
+	},
+	{
 		"code": "DMG-BQIE-USA",
 		"titles": [
 			"Dragon Warrior Monsters 2 - Tara's Adventure"
@@ -10496,6 +11084,12 @@
 		"code": "CGB-BDRP-EUR",
 		"titles": [
 			"Driver"
+		]
+	},
+	{
+		"code": "CGB-BDRE-USA",
+		"titles": [
+			"Driver - You Are the Wheelman"
 		]
 	},
 	{
@@ -10518,6 +11112,12 @@
 		]
 	},
 	{
+		"code": "CGB-ADIE-USA",
+		"titles": [
+			"Duke Nukem"
+		]
+	},
+	{
 		"code": "CGB-BDCP-EUR",
 		"titles": [
 			"Dukes of Hazzard, The - Racing for Home",
@@ -10525,9 +11125,33 @@
 		]
 	},
 	{
+		"code": "CGB-BDCE-USA",
+		"titles": [
+			"Dukes of Hazzard, The - Racing for Home"
+		]
+	},
+	{
+		"code": "DMG-ADWJ-JPN",
+		"titles": [
+			"Dungeon Savior"
+		]
+	},
+	{
 		"code": "CGB-BZGJ-JPN",
 		"titles": [
 			"DX Jinsei Game"
+		]
+	},
+	{
+		"code": "DMG-BMPJ-JPN",
+		"titles": [
+			"DX Monopoly GB"
+		]
+	},
+	{
+		"code": "CGB-BETE-USA",
+		"titles": [
+			"E.T. - The Extra-Terrestrial - Digital Companion"
 		]
 	},
 	{
@@ -10574,6 +11198,12 @@
 		]
 	},
 	{
+		"code": "CGB-BEXJ-JPN",
+		"titles": [
+			"Elevator Action EX"
+		]
+	},
+	{
 		"code": "DMG-A8EJ-JPN",
 		"titles": [
 			"Elie no Atelier GB"
@@ -10605,9 +11235,34 @@
 		]
 	},
 	{
+		"code": "CGB-BT4E-USA",
+		"titles": [
+			"ESPN National Hockey Night"
+		]
+	},
+	{
+		"code": "CGB-BLCJ-JPN",
+		"titles": [
+			"Estpolis Denki - Yomigaeru Densetsu"
+		]
+	},
+	{
+		"code": "CGB-BMHP-EUR",
+		"titles": [
+			"European Super League"
+		]
+	},
+	{
 		"code": "DMG-AEVE-USA",
 		"titles": [
 			"Evel Knievel"
+		]
+	},
+	{
+		"code": "CGB-BEBP-EUR",
+		"titles": [
+			"Extreme Ghostbusters",
+			"Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt)"
 		]
 	},
 	{
@@ -10630,6 +11285,18 @@
 		]
 	},
 	{
+		"code": "CGB-BSJP-EUR",
+		"titles": [
+			"F.A. Premier League Stars 2001, The"
+		]
+	},
+	{
+		"code": "CGB-BFIP-EUR",
+		"titles": [
+			"F1 Championship Season 2000"
+		]
+	},
+	{
 		"code": "CGB-AEQP-EUR",
 		"titles": [
 			"F1 Racing Championship"
@@ -10637,6 +11304,12 @@
 	},
 	{
 		"code": "CGB-BF2P-EUR",
+		"titles": [
+			"F1 World Grand Prix II for Game Boy Color"
+		]
+	},
+	{
+		"code": "CGB-BF2J-JPN",
 		"titles": [
 			"F1 World Grand Prix II for Game Boy Color"
 		]
@@ -10654,9 +11327,27 @@
 		]
 	},
 	{
+		"code": "CGB-BBIJ-JPN",
+		"titles": [
+			"Ferret Monogatari"
+		]
+	},
+	{
 		"code": "DMG-AFOP-UKV",
 		"titles": [
 			"FIFA 2000"
+		]
+	},
+	{
+		"code": "CGB-BFQP-EUR",
+		"titles": [
+			"Fish Files, The"
+		]
+	},
+	{
+		"code": "CGB-BFFP-EUR",
+		"titles": [
+			"Fix &amp; Foxi - Episode 1 - Lupo"
 		]
 	},
 	{
@@ -10667,9 +11358,27 @@
 		]
 	},
 	{
+		"code": "CGB-BFSE-USA",
+		"titles": [
+			"Flintstones, The - Burgertime in Bedrock"
+		]
+	},
+	{
+		"code": "CGB-BFLP-EUR",
+		"titles": [
+			"Flipper &amp; Lopaka"
+		]
+	},
+	{
 		"code": "CGB-BFCE-USA",
 		"titles": [
 			"Force 21"
+		]
+	},
+	{
+		"code": "CGB-BFME-USA",
+		"titles": [
+			"Formula One 2000"
 		]
 	},
 	{
@@ -10703,6 +11412,12 @@
 		]
 	},
 	{
+		"code": "DMG-AFRE-USA",
+		"titles": [
+			"Frogger"
+		]
+	},
+	{
 		"code": "CGB-BH2E-USA",
 		"titles": [
 			"Frogger 2",
@@ -10724,6 +11439,18 @@
 		]
 	},
 	{
+		"code": "CGB-BFRJ-JPN",
+		"titles": [
+			"Front Line - The Next Mission"
+		]
+	},
+	{
+		"code": "CGB-AZDJ-JPN",
+		"titles": [
+			"Front Row"
+		]
+	},
+	{
 		"code": "RG201-PK2",
 		"titles": [
 			"Full Time Soccer &amp; Hang Time Basketball"
@@ -10736,10 +11463,22 @@
 		]
 	},
 	{
+		"code": "CGB-BGIJ-JPN",
+		"titles": [
+			"Gaiamaster Duel - Card Attackers"
+		]
+	},
+	{
 		"code": "DMG-AYMJ-JPN",
 		"titles": [
 			"Gakkyuu Ou Yamazaki",
 			"Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible)"
+		]
+	},
+	{
+		"code": "CGB-BGGE-USA",
+		"titles": [
+			"Galaga - Destination Earth"
 		]
 	},
 	{
@@ -10807,9 +11546,21 @@
 		]
 	},
 	{
+		"code": "CGB-BFGP-EUR",
+		"titles": [
+			"Games Frenzy"
+		]
+	},
+	{
 		"code": "DMG-AEFJ-JPN",
 		"titles": [
 			"Ganbare Goemon - Mononoke Douchuu Tobidase Nabebugyou!"
+		]
+	},
+	{
+		"code": "CGB-BEKJ-JPN",
+		"titles": [
+			"Ganbare Goemon - Seikuushi Dynamites Arawaru!!"
 		]
 	},
 	{
@@ -10838,6 +11589,12 @@
 		]
 	},
 	{
+		"code": "CGB-AHFJ-JPN",
+		"titles": [
+			"GB Karan Koron Gakuen - Hanafuda Mahjong"
+		]
+	},
+	{
 		"code": "CGB-BHOD-NOE",
 		"titles": [
 			"Geheimnis der Happy Hippo-Insel, Das"
@@ -10847,6 +11604,12 @@
 		"code": "CGB-BDJJ-JPN",
 		"titles": [
 			"Gekisou Dangun Racer - Onsoku Buster Dangun Dan"
+		]
+	},
+	{
+		"code": "DMG-AJYJ-JPN",
+		"titles": [
+			"Gem Gem Monster"
 		]
 	},
 	{
@@ -10901,10 +11664,28 @@
 		]
 	},
 	{
+		"code": "DMG-AICJ-JPN",
+		"titles": [
+			"Glocal Hexcite"
+		]
+	},
+	{
+		"code": "CGB-BFGE-USA",
+		"titles": [
+			"Gobs of Games"
+		]
+	},
+	{
 		"code": "DMG-AZIP-EUR",
 		"titles": [
 			"Godzilla - The Series",
 			"Godzilla - The Series (Europe) (En,Fr,De) (GB Compatible)"
+		]
+	},
+	{
+		"code": "DMG-AZIE-USA",
+		"titles": [
+			"Godzilla - The Series"
 		]
 	},
 	{
@@ -10917,6 +11698,12 @@
 		"code": "CGB-BGDE-USA",
 		"titles": [
 			"Godzilla - The Series - Monster Wars"
+		]
+	},
+	{
+		"code": "CGB-BEDP-EUR",
+		"titles": [
+			"Gold and Glory - The Road to El Dorado"
 		]
 	},
 	{
@@ -10939,13 +11726,49 @@
 		]
 	},
 	{
+		"code": "DMG-AAGJ-JPN",
+		"titles": [
+			"Golf Daisuki!"
+		]
+	},
+	{
+		"code": "DMG-AOHJ-JPN",
+		"titles": [
+			"Golf de Ohasuta"
+		]
+	},
+	{
+		"code": "CGB-AZAJ-JPN",
+		"titles": [
+			"Golf Ou - The King of Golf"
+		]
+	},
+	{
 		"code": "CGB-B54J-JPN",
 		"titles": [
 			"Gonta no Okiraku Daibouken"
 		]
 	},
 	{
+		"code": "DMG-AOEJ-JPN",
+		"titles": [
+			"Goraku Ou Tango!"
+		]
+	},
+	{
+		"code": "DMG-AOAE-USA",
+		"titles": [
+			"Grand Theft Auto"
+		]
+	},
+	{
 		"code": "CGB-BGTP-UKV",
+		"titles": [
+			"Grand Theft Auto 2"
+		]
+	},
+	{
+		"code": "CGB-BGAE-USA",
 		"titles": [
 			"Grand Theft Auto 2"
 		]
@@ -10975,6 +11798,12 @@
 		]
 	},
 	{
+		"code": "CGB-BGPP-EUR",
+		"titles": [
+			"Gremlins - Unleashed"
+		]
+	},
+	{
 		"code": "CGB-BUGJ-JPN",
 		"titles": [
 			"Grinch"
@@ -10984,6 +11813,18 @@
 		"code": "CGB-BGHP-EUR",
 		"titles": [
 			"Grinch, The"
+		]
+	},
+	{
+		"code": "CGB-BGHE-USA",
+		"titles": [
+			"Grinch, The"
+		]
+	},
+	{
+		"code": "DMG-AUGJ-JPN",
+		"titles": [
+			"Guruguru Garakutas"
 		]
 	},
 	{
@@ -11011,6 +11852,12 @@
 		]
 	},
 	{
+		"code": "CGB-AHIP-EUR",
+		"titles": [
+			"Halloween Racer"
+		]
+	},
+	{
 		"code": "DMG-AJNJ-JPN",
 		"titles": [
 			"Hamster Club"
@@ -11026,6 +11873,12 @@
 		"code": "CGB-BJSJ-JPN",
 		"titles": [
 			"Hamster Club - Oshiema Chuu"
+		]
+	},
+	{
+		"code": "DMG-BJNJ-JPN",
+		"titles": [
+			"Hamster Club 2"
 		]
 	},
 	{
@@ -11097,6 +11950,12 @@
 		]
 	},
 	{
+		"code": "CGB-BHDE-USA",
+		"titles": [
+			"Harley-Davidson Motor Cycles - Race Across America"
+		]
+	},
+	{
 		"code": "CGB-BH6P-EUR",
 		"titles": [
 			"Harry Potter and the Chamber of Secrets",
@@ -11117,9 +11976,34 @@
 		]
 	},
 	{
+		"code": "DMG-BM2P-EUR",
+		"titles": [
+			"Harvest Moon 2 GBC",
+			"Harvest Moon 2 GBC (Europe) (SGB Enhanced) (GB Compatible)"
+		]
+	},
+	{
+		"code": "DMG-BM2D-NOE",
+		"titles": [
+			"Harvest Moon 2 GBC"
+		]
+	},
+	{
 		"code": "DMG-BM2E-USA",
 		"titles": [
 			"Harvest Moon 2 GBC"
+		]
+	},
+	{
+		"code": "CGB-BWAE-USA",
+		"titles": [
+			"Harvest Moon 3 GBC"
+		]
+	},
+	{
+		"code": "DMG-AYXP-EUR",
+		"titles": [
+			"Harvest Moon GB"
 		]
 	},
 	{
@@ -11132,6 +12016,12 @@
 		"code": "DMG-AYXE-USA",
 		"titles": [
 			"Harvest Moon GBC"
+		]
+	},
+	{
+		"code": "DMG-AHBJ-JPN",
+		"titles": [
+			"Hello Kitty no Beads Factory"
 		]
 	},
 	{
@@ -11153,9 +12043,45 @@
 		]
 	},
 	{
+		"code": "CGB-BK8J-JPN",
+		"titles": [
+			"Hello Kitty to Dear Daniel no Dream Adventure"
+		]
+	},
+	{
+		"code": "DMG-AF4E-USA",
+		"titles": [
+			"Hello Kitty's Cube Frenzy"
+		]
+	},
+	{
+		"code": "CGB-BHCP-EUR",
+		"titles": [
+			"Hercules - The Legendary Journeys"
+		]
+	},
+	{
+		"code": "CGB-BH9J-JPN",
+		"titles": [
+			"Hero Hero-kun"
+		]
+	},
+	{
+		"code": "CGB-AUHE-USA",
+		"titles": [
+			"Heroes of Might and Magic"
+		]
+	},
+	{
 		"code": "CGB-AUHP-EUR",
 		"titles": [
 			"Heroes of Might and Magic"
+		]
+	},
+	{
+		"code": "CGB-BUHE-USA",
+		"titles": [
+			"Heroes of Might and Magic II"
 		]
 	},
 	{
@@ -11171,15 +12097,69 @@
 		]
 	},
 	{
+		"code": "CGB-BKEJ-JPN",
+		"titles": [
+			"Hiryuu no Ken - Retsuden GB"
+		]
+	},
+	{
+		"code": "CGB-BHPJ-JPN",
+		"titles": [
+			"Hissatsu Pachinko Boy - CR Monster House"
+		]
+	},
+	{
+		"code": "DMG-VHIE-USA",
+		"titles": [
+			"Hole in One Golf"
+		]
+	},
+	{
+		"code": "DMG-AHNJ-JPN",
+		"titles": [
+			"Hollywood Pinball"
+		]
+	},
+	{
 		"code": "DMG-AQTP-EUR",
 		"titles": [
 			"Holy Magic Century"
 		]
 	},
 	{
+		"code": "CGB-AH3J-JPN",
+		"titles": [
+			"Honkaku Hanafuda GB"
+		]
+	},
+	{
+		"code": "DMG-AGSJ-JPN",
+		"titles": [
+			"Honkaku Shougi - Shougi Ou"
+		]
+	},
+	{
+		"code": "DMG-AIBJ-JPN",
+		"titles": [
+			"Honkaku Taisen Shougi Ayumu"
+		]
+	},
+	{
+		"code": "DMG-AAAJ-JPN",
+		"titles": [
+			"Honkaku Yonin Uchi Mahjong - Mahjong Ou"
+		]
+	},
+	{
 		"code": "DMG-AHEP-EUR",
 		"titles": [
 			"Hot Wheels - Stunt Track Driver"
+		]
+	},
+	{
+		"code": "CGB-BCGE-USA",
+		"titles": [
+			"Hoyle Card Games"
 		]
 	},
 	{
@@ -11215,6 +12195,19 @@
 		]
 	},
 	{
+		"code": "CGB-BHKJ-JPN",
+		"titles": [
+			"Hunter x Hunter - Kindan no Hihou"
+		]
+	},
+	{
+		"code": "CGB-BHQP-EUR",
+		"titles": [
+			"Hype - The Time Quest",
+			"Hype - The Time Quest (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
+		]
+	},
+	{
 		"code": "CGB-A3HJ-JPN",
 		"titles": [
 			"Hyper Olympic - Winter 2000"
@@ -11227,9 +12220,34 @@
 		]
 	},
 	{
+		"code": "CGB-BIMJ-JPN",
+		"titles": [
+			"Ide Yousuke no Mahjong Kyoushitsu GB"
+		]
+	},
+	{
 		"code": "CGB-BIJP-EUR",
 		"titles": [
 			"Indiana Jones and the Infernal Machine"
+		]
+	},
+	{
+		"code": "CGB-BIGP-EUR",
+		"titles": [
+			"Inspector Gadget - Operation Madkactus"
+		]
+	},
+	{
+		"code": "CGB-BIGE-USA",
+		"titles": [
+			"Inspector Gadget - Operation Madkactus"
+		]
+	},
+	{
+		"code": "CGB-BIKP-EUR",
+		"titles": [
+			"International Karate 2000",
+			"International Karate 2000 (Europe)"
 		]
 	},
 	{
@@ -11282,9 +12300,33 @@
 		]
 	},
 	{
+		"code": "DMG-ARLJ-JPN",
+		"titles": [
+			"It's a World Rally"
+		]
+	},
+	{
+		"code": "DMG-BCRJ-JPN",
+		"titles": [
+			"Itsudemo Pachinko GB - CR Monster House"
+		]
+	},
+	{
 		"code": "CGB-AESJ-JPN",
 		"titles": [
 			"J.League Excite Stage GB"
+		]
+	},
+	{
+		"code": "CGB-AJEJ-JPN",
+		"titles": [
+			"J.League Excite Stage Tactics"
+		]
+	},
+	{
+		"code": "DMG-AQJJ-JPN",
+		"titles": [
+			"Jack no Daibouken - Daimaou no Gyakushuu"
 		]
 	},
 	{
@@ -11297,6 +12339,12 @@
 		"code": "CGB-BJMJ-JPN",
 		"titles": [
 			"Jaguar Mishin Sashi Senyou Soft - Mario Family"
+		]
+	},
+	{
+		"code": "CGB-BHGJ-JPN",
+		"titles": [
+			"Jankyuusei - Cosplay Paradise"
 		]
 	},
 	{
@@ -11313,10 +12361,22 @@
 		]
 	},
 	{
+		"code": "DMG-AJZE-USA",
+		"titles": [
+			"Jeff Gordon XS Racing"
+		]
+	},
+	{
 		"code": "CGB-AJUP-EUR",
 		"titles": [
 			"Jeremy McGrath Supercross 2000",
 			"Jeremy McGrath Supercross 2000 (USA, Europe)"
+		]
+	},
+	{
+		"code": "CGB-BJEJ-JPN",
+		"titles": [
+			"Jet de Go! - Let's Go by Airliner"
 		]
 	},
 	{
@@ -11334,6 +12394,12 @@
 	},
 	{
 		"code": "CGB-AX9P-EUR",
+		"titles": [
+			"Jim Henson's Muppets"
+		]
+	},
+	{
+		"code": "CGB-BMUE-USA",
 		"titles": [
 			"Jim Henson's Muppets"
 		]
@@ -11370,6 +12436,37 @@
 		]
 	},
 	{
+		"code": "CGB-A22X-EUR",
+		"titles": [
+			"John Romero's Daikatana",
+			"John Romero's Daikatana (Europe) (En,Fr,It)"
+		]
+	},
+	{
+		"code": "CGB-A22Y-EUR",
+		"titles": [
+			"John Romero's Daikatana"
+		]
+	},
+	{
+		"code": "DMG-A55J-JPN",
+		"titles": [
+			"Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene!"
+		]
+	},
+	{
+		"code": "CGB-BJQE-USA",
+		"titles": [
+			"JumpStart Dino Adventure - Field Trip"
+		]
+	},
+	{
+		"code": "CGB-BJGP-EUR",
+		"titles": [
+			"Jungle Book, The - Mowgli's Wild Adventure"
+		]
+	},
+	{
 		"code": "CGB-BJGE-USA",
 		"titles": [
 			"Jungle Book, The - Mowgli's Wild Adventure"
@@ -11388,9 +12485,21 @@
 		]
 	},
 	{
+		"code": "CGB-BKOJ-JPN",
+		"titles": [
+			"K.O. - The Pro Boxing"
+		]
+	},
+	{
 		"code": "CGB-BVRD-NOE",
 		"titles": [
 			"Kaept'n Blaubaer - Die verrueckte Schatzsuche"
+		]
+	},
+	{
+		"code": "DMG-BDTJ-JPN",
+		"titles": [
+			"Kaitei Densetsu!! Treasure World"
 		]
 	},
 	{
@@ -11418,15 +12527,51 @@
 		]
 	},
 	{
+		"code": "DMG-A2CJ-JPN",
+		"titles": [
+			"Kanji Boy 2"
+		]
+	},
+	{
 		"code": "CGB-BK3J-JPN",
 		"titles": [
 			"Kanji Boy 3"
 		]
 	},
 	{
+		"code": "DMG-BKAJ-JPN",
+		"titles": [
+			"Kanji de Puzzle"
+		]
+	},
+	{
+		"code": "DMG-AQPJ-JPN",
+		"titles": [
+			"Kanzume Monsters Parfait"
+		]
+	},
+	{
+		"code": "DMG-BOOJ-JPN",
+		"titles": [
+			"Karamuchou wa Oosawagi! - Okawari!"
+		]
+	},
+	{
+		"code": "DMG-AOPJ-JPN",
+		"titles": [
+			"Karamuchou wa Oosawagi! - Polinkies to Okashina Nakama-tachi"
+		]
+	},
+	{
 		"code": "DMG-ARMJ-JPN",
 		"titles": [
 			"Kaseki Sousei Reborn II - Monster Digger"
+		]
+	},
+	{
+		"code": "DMG-AKHJ-JPN",
+		"titles": [
+			"Katou Hifumi Kudan - Shougi Kyoushitsu"
 		]
 	},
 	{
@@ -11472,6 +12617,18 @@
 		]
 	},
 	{
+		"code": "CGB-BKIE-USA",
+		"titles": [
+			"Kelly Club"
+		]
+	},
+	{
+		"code": "CGB-AYAE-USA",
+		"titles": [
+			"Ken Griffey Jr.'s Slugfest"
+		]
+	},
+	{
 		"code": "DMG-AB7J-JPN",
 		"titles": [
 			"Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen"
@@ -11481,6 +12638,18 @@
 		"code": "CGB-AQNJ-JPN",
 		"titles": [
 			"Kidou Senkan Nadesico - Ruri Ruri Mahjong"
+		]
+	},
+	{
+		"code": "CGB-BBWJ-JPN",
+		"titles": [
+			"Kikansha Thomas - Sodor-tou no Nakama-tachi"
+		]
+	},
+	{
+		"code": "DMG-BKSJ-JPN",
+		"titles": [
+			"Kindaichi Shounen no Jikenbo - 10 Nenme no Shoutaijou"
 		]
 	},
 	{
@@ -11506,6 +12675,12 @@
 		"titles": [
 			"Kirby - Tilt 'n' Tumble",
 			"Kirby - Tilt 'n' Tumble (USA)"
+		]
+	},
+	{
+		"code": "CGB-BKKP-EUR",
+		"titles": [
+			"Kirikou"
 		]
 	},
 	{
@@ -11552,6 +12727,13 @@
 		]
 	},
 	{
+		"code": "DMG-AF5P-EUR",
+		"titles": [
+			"Konami GB Collection Vol.1",
+			"Konami GB Collection Vol.1 (Europe) (GB Compatible)"
+		]
+	},
+	{
 		"code": "DMG-AF6P-EUR",
 		"titles": [
 			"Konami GB Collection Vol.2",
@@ -11573,9 +12755,22 @@
 		]
 	},
 	{
+		"code": "CGB-A3HP-EUR",
+		"titles": [
+			"Konami Winter Games",
+			"Konami Winter Games (Europe)"
+		]
+	},
+	{
 		"code": "DMG-A2KJ-JPN",
 		"titles": [
 			"Konchuu Hakase 2"
+		]
+	},
+	{
+		"code": "CGB-A3KJ-JPN",
+		"titles": [
+			"Konchuu Hakase 3"
 		]
 	},
 	{
@@ -11605,6 +12800,12 @@
 		]
 	},
 	{
+		"code": "CGB-BLBE-USA",
+		"titles": [
+			"Land Before Time, The"
+		]
+	},
+	{
 		"code": "DMG-ACWE-USA",
 		"titles": [
 			"Las Vegas Cool Hand"
@@ -11626,6 +12827,31 @@
 		"code": "CGB-B24P-NOE",
 		"titles": [
 			"Le Mans 24 Hours"
+		]
+	},
+	{
+		"code": "DMG-BRKP-EUR",
+		"titles": [
+			"Legend of the River King 2"
+		]
+	},
+	{
+		"code": "DMG-BRKE-USA",
+		"titles": [
+			"Legend of the River King 2"
+		]
+	},
+	{
+		"code": "DMG-ARKP-EUR",
+		"titles": [
+			"Legend of the River King GB",
+			"Legend of the River King GB (Europe) (SGB Enhanced) (GB Compatible)"
+		]
+	},
+	{
+		"code": "DMG-ARKD-NOE",
+		"titles": [
+			"Legend of the River King GB"
 		]
 	},
 	{
@@ -11690,9 +12916,21 @@
 		]
 	},
 	{
+		"code": "CGB-BLPP-EUR",
+		"titles": [
+			"LEGO Alpha Team"
+		]
+	},
+	{
 		"code": "CGB-BLPE-USA",
 		"titles": [
 			"LEGO Alpha Team"
+		]
+	},
+	{
+		"code": "CGB-BL2P-EUR",
+		"titles": [
+			"LEGO Island 2 - The Brickster's Revenge"
 		]
 	},
 	{
@@ -11714,10 +12952,40 @@
 		]
 	},
 	{
+		"code": "CGB-BLYE-USA",
+		"titles": [
+			"LEGO Stunt Rally"
+		]
+	},
+	{
+		"code": "CGB-ALEE-USA",
+		"titles": [
+			"Lemmings &amp; Oh No! More Lemmings"
+		]
+	},
+	{
+		"code": "CGB-ALEJ-JPN",
+		"titles": [
+			"Lemmings VS"
+		]
+	},
+	{
+		"code": "DMG-AJYE-USA",
+		"titles": [
+			"Lil' Monster"
+		]
+	},
+	{
 		"code": "CGB-BLKP-UKV",
 		"titles": [
 			"Lion King, The - Simba's Mighty Adventure",
 			"Lion King, The - Simba's Mighty Adventure (USA, Europe)"
+		]
+	},
+	{
+		"code": "CGB-ALJJ-JPN",
+		"titles": [
+			"Little Magic"
 		]
 	},
 	{
@@ -11739,6 +13007,18 @@
 		]
 	},
 	{
+		"code": "CGB-BSJF-FRA",
+		"titles": [
+			"LNF Stars 2001"
+		]
+	},
+	{
+		"code": "DMG-BXLJ-JPN",
+		"titles": [
+			"Lode Runner - Domudomu Dan no Yabou"
+		]
+	},
+	{
 		"code": "DMG-ARAJ-JPN",
 		"titles": [
 			"Lodoss-tou Senki - Eiyuu Kishiden GB"
@@ -11746,6 +13026,12 @@
 	},
 	{
 		"code": "CGB-AOGP-NOE",
+		"titles": [
+			"Logical"
+		]
+	},
+	{
+		"code": "CGB-AOGE-USA",
 		"titles": [
 			"Logical"
 		]
@@ -11763,9 +13049,21 @@
 		]
 	},
 	{
+		"code": "DMG-ABLE-USA",
+		"titles": [
+			"Looney Tunes - Carrot Crazy"
+		]
+	},
+	{
 		"code": "DMG-AYRE-USA",
 		"titles": [
 			"Looney Tunes - Twouble!"
+		]
+	},
+	{
+		"code": "CGB-ALME-USA",
+		"titles": [
+			"Looney Tunes Collector - Alert!"
 		]
 	},
 	{
@@ -11781,9 +13079,27 @@
 		]
 	},
 	{
+		"code": "CGB-BLAP-EUR",
+		"titles": [
+			"Looney Tunes Collector - Martian Revenge!"
+		]
+	},
+	{
 		"code": "CGB-BLQP-EUR",
 		"titles": [
 			"Looney Tunes Racing"
+		]
+	},
+	{
+		"code": "CGB-BLQE-USA",
+		"titles": [
+			"Looney Tunes Racing"
+		]
+	},
+	{
+		"code": "DMG-B52J-JPN",
+		"titles": [
+			"Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou"
 		]
 	},
 	{
@@ -11799,6 +13115,12 @@
 		]
 	},
 	{
+		"code": "DMG-ARCJ-JPN",
+		"titles": [
+			"Luca no Puzzle de Daibouken!"
+		]
+	},
+	{
 		"code": "CGB-ALQP-EUR",
 		"titles": [
 			"Lucky Luke"
@@ -11808,6 +13130,12 @@
 		"code": "CGB-ALQE-USA",
 		"titles": [
 			"Lucky Luke"
+		]
+	},
+	{
+		"code": "CGB-BLLP-EUR",
+		"titles": [
+			"Lucky Luke - Desperado Train"
 		]
 	},
 	{
@@ -11835,6 +13163,18 @@
 		]
 	},
 	{
+		"code": "CGB-BMIE-USA",
+		"titles": [
+			"M&amp;M's Minis Madness"
+		]
+	},
+	{
+		"code": "CGB-BM7J-JPN",
+		"titles": [
+			"Macross 7 - Ginga no Heart o Furuwasero!!"
+		]
+	},
+	{
 		"code": "DMG-AEMP-EUR",
 		"titles": [
 			"Madden NFL 2000",
@@ -11842,9 +13182,27 @@
 		]
 	},
 	{
+		"code": "CGB-BNFE-USA",
+		"titles": [
+			"Madden NFL 2001"
+		]
+	},
+	{
+		"code": "CGB-B2ME-USA",
+		"titles": [
+			"Madden NFL 2002"
+		]
+	},
+	{
 		"code": "CGB-BNNE-USA",
 		"titles": [
 			"Magi Nation"
+		]
+	},
+	{
+		"code": "CGB-AIFJ-JPN",
+		"titles": [
+			"Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e"
 		]
 	},
 	{
@@ -11855,13 +13213,43 @@
 		]
 	},
 	{
+		"code": "CGB-AXJE-USA",
+		"titles": [
+			"Magical Drop"
+		]
+	},
+	{
 		"code": "CGB-AXCP-EUR",
 		"titles": [
 			"Magical Tetris Challenge"
 		]
 	},
 	{
+		"code": "CGB-AT7E-USA",
+		"titles": [
+			"Magical Tetris Challenge"
+		]
+	},
+	{
+		"code": "DMG-A56J-JPN",
+		"titles": [
+			"Mahjong Joou"
+		]
+	},
+	{
+		"code": "DMG-AMJJ-JPN",
+		"titles": [
+			"Mahjong Quest"
+		]
+	},
+	{
 		"code": "DMG-A23J-JPN-1",
+		"titles": [
+			"Majokko Mari-chan no Kisekae Monogatari"
+		]
+	},
+	{
+		"code": "DMG-A23J-JPN",
 		"titles": [
 			"Majokko Mari-chan no Kisekae Monogatari"
 		]
@@ -11952,6 +13340,12 @@
 		]
 	},
 	{
+		"code": "CGB-AZRE-USA",
+		"titles": [
+			"Mask of Zorro, The"
+		]
+	},
+	{
 		"code": "CGB-BM5P-EUR",
 		"titles": [
 			"Mat Hoffman's Pro BMX",
@@ -11974,6 +13368,18 @@
 		"code": "CGB-BVOD-NOE",
 		"titles": [
 			"Maus, Die - Verrueckte Olympiade"
+		]
+	},
+	{
+		"code": "CGB-BMJP-EUR",
+		"titles": [
+			"Maya the Bee - Garden Adventures"
+		]
+	},
+	{
+		"code": "DMG-AMVP-EUR",
+		"titles": [
+			"Maya the Bee &amp; Her Friends"
 		]
 	},
 	{
@@ -12074,6 +13480,13 @@
 		]
 	},
 	{
+		"code": "DMG-A2LJ-JPN",
+		"titles": [
+			"Megami Tensei Gaiden - Last Bible II",
+			"Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)"
+		]
+	},
+	{
 		"code": "DMG-A4BJ-JPN",
 		"titles": [
 			"Meitantei Conan - Karakuri Jiin Satsujin Jiken"
@@ -12086,10 +13499,47 @@
 		]
 	},
 	{
+		"code": "DMG-BC3J-JPN",
+		"titles": [
+			"Meitantei Conan - Norowareta Kouro"
+		]
+	},
+	{
 		"code": "DMG-AMNP-EUR",
 		"titles": [
 			"Men in Black - The Series",
 			"Men in Black - The Series (USA, Europe) (SGB Enhanced) (GB Compatible)"
+		]
+	},
+	{
+		"code": "CGB-BB2P-EUR",
+		"titles": [
+			"Men in Black 2 - The Series",
+			"Men in Black 2 - The Series (Europe) (En,Fr,De)"
+		]
+	},
+	{
+		"code": "CGB-BB2E-USA",
+		"titles": [
+			"Men in Black 2 - The Series"
+		]
+	},
+	{
+		"code": "CGB-BMBP-EUR",
+		"titles": [
+			"Merlin"
+		]
+	},
+	{
+		"code": "CGB-A5MJ-JPN",
+		"titles": [
+			"MetaFight EX"
+		]
+	},
+	{
+		"code": "CGB-BMGJ-JPN",
+		"titles": [
+			"Metal Gear - Ghost Babel"
 		]
 	},
 	{
@@ -12114,6 +13564,12 @@
 		"code": "CGB-BTMJ-JPN",
 		"titles": [
 			"Metamode"
+		]
+	},
+	{
+		"code": "CGB-BMHE-USA",
+		"titles": [
+			"Mia Hamm Soccer Shootout"
 		]
 	},
 	{
@@ -12142,6 +13598,18 @@
 		]
 	},
 	{
+		"code": "CGB-B3NP-EUR",
+		"titles": [
+			"Micro Maniacs"
+		]
+	},
+	{
+		"code": "CGB-BMEP-EUR",
+		"titles": [
+			"Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack"
+		]
+	},
+	{
 		"code": "CGB-AZWE-USA",
 		"titles": [
 			"Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack"
@@ -12152,6 +13620,12 @@
 		"titles": [
 			"Microsoft - The Best of Entertainment Pack",
 			"Microsoft - The Best of Entertainment Pack (Europe)"
+		]
+	},
+	{
+		"code": "CGB-BMEE-USA",
+		"titles": [
+			"Microsoft - The Best of Entertainment Pack"
 		]
 	},
 	{
@@ -12176,6 +13650,12 @@
 		"code": "DMG-ADUP-EUR",
 		"titles": [
 			"Midway Presents Arcade Hits - Moon Patrol &amp; Spy Hunter"
+		]
+	},
+	{
+		"code": "CGB-A3HE-USA",
+		"titles": [
+			"Millennium Winter Sports"
 		]
 	},
 	{
@@ -12228,6 +13708,12 @@
 		]
 	},
 	{
+		"code": "CGB-BYPJ-JPN",
+		"titles": [
+			"Mizuki Shigeru no Shin Youkaiden"
+		]
+	},
+	{
 		"code": "CGB-BGOJ-JPN",
 		"titles": [
 			"Mobile Golf"
@@ -12265,6 +13751,12 @@
 		]
 	},
 	{
+		"code": "CGB-B4QD-NOE",
+		"titles": [
+			"Monster AG, Die"
+		]
+	},
+	{
 		"code": "DMG-A6TJ-JPN",
 		"titles": [
 			"Monster Farm Battle Card GB"
@@ -12280,6 +13772,12 @@
 		"code": "DMG-A6TE-USA",
 		"titles": [
 			"Monster Rancher Battle Card GB"
+		]
+	},
+	{
+		"code": "CGB-BSOE-USA",
+		"titles": [
+			"Monster Rancher Explorer"
 		]
 	},
 	{
@@ -12359,6 +13857,12 @@
 		]
 	},
 	{
+		"code": "CGB-AMHE-USA",
+		"titles": [
+			"Motocross Maniacs 2"
+		]
+	},
+	{
 		"code": "CGB-BMDP-EUR",
 		"titles": [
 			"Mr. Driller"
@@ -12383,6 +13887,12 @@
 		]
 	},
 	{
+		"code": "CGB-ANUP-EUR",
+		"titles": [
+			"Mr. Nutz"
+		]
+	},
+	{
 		"code": "CGB-ANUE-USA",
 		"titles": [
 			"Mr. Nutz"
@@ -12392,6 +13902,13 @@
 		"code": "DMG-AQCE-USA",
 		"titles": [
 			"Ms. Pac-Man - Special Color Edition"
+		]
+	},
+	{
+		"code": "DMG-AQCP-EUR",
+		"titles": [
+			"Ms. Pac-Man - Special Colour Edition",
+			"Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)"
 		]
 	},
 	{
@@ -12417,6 +13934,18 @@
 		"code": "CGB-B2RP-EUR",
 		"titles": [
 			"Mummy Returns, The"
+		]
+	},
+	{
+		"code": "CGB-B2RE-USA",
+		"titles": [
+			"Mummy Returns, The"
+		]
+	},
+	{
+		"code": "CGB-BMYP-EUR",
+		"titles": [
+			"Mummy, The"
 		]
 	},
 	{
@@ -12493,6 +14022,12 @@
 		]
 	},
 	{
+		"code": "CGB-BNYJ-JPN",
+		"titles": [
+			"Naminori Yarou!"
+		]
+	},
+	{
 		"code": "CGB-BN2P-EUR",
 		"titles": [
 			"NASCAR 2000"
@@ -12502,6 +14037,42 @@
 		"code": "CGB-VNCE-USA",
 		"titles": [
 			"NASCAR Challenge"
+		]
+	},
+	{
+		"code": "CGB-BNHE-USA",
+		"titles": [
+			"NASCAR Heat"
+		]
+	},
+	{
+		"code": "CGB-BNRE-USA",
+		"titles": [
+			"NASCAR Racers"
+		]
+	},
+	{
+		"code": "CGB-BNLP-EUR",
+		"titles": [
+			"Nations, The - Land of Legends"
+		]
+	},
+	{
+		"code": "DMG-ACVE-USA",
+		"titles": [
+			"NBA 3 on 3 Featuring Kobe Bryant"
+		]
+	},
+	{
+		"code": "CGB-BHIE-USA",
+		"titles": [
+			"NBA Hoopz"
+		]
+	},
+	{
+		"code": "DMG-ANZE-USA",
+		"titles": [
+			"NBA in the Zone"
 		]
 	},
 	{
@@ -12535,6 +14106,12 @@
 		]
 	},
 	{
+		"code": "CGB-AA5E-USA",
+		"titles": [
+			"NBA Show Time - NBA on NBC"
+		]
+	},
+	{
 		"code": "CGB-BMVJ-JPN",
 		"titles": [
 			"Net de Get - Minigame @ 100",
@@ -12554,9 +14131,21 @@
 		]
 	},
 	{
+		"code": "CGB-BAIP-EUR",
+		"titles": [
+			"New Addams Family Series, The"
+		]
+	},
+	{
 		"code": "DMG-AXFP-EUR",
 		"titles": [
 			"New Adventures of Mary-Kate &amp; Ashley, The"
+		]
+	},
+	{
+		"code": "DMG-ABZE-USA",
+		"titles": [
+			"NFL Blitz"
 		]
 	},
 	{
@@ -12574,9 +14163,33 @@
 		]
 	},
 	{
+		"code": "CGB-BLIE-USA",
+		"titles": [
+			"NFL Blitz 2001"
+		]
+	},
+	{
 		"code": "DMG-ANRP-EUR",
 		"titles": [
 			"NHL 2000"
+		]
+	},
+	{
+		"code": "CGB-ANEE-USA",
+		"titles": [
+			"NHL Blades of Steel"
+		]
+	},
+	{
+		"code": "CGB-ANVE-USA",
+		"titles": [
+			"NHL Blades of Steel 2000"
+		]
+	},
+	{
+		"code": "CGB-BNTE-USA",
+		"titles": [
+			"Nicktoons Racing"
 		]
 	},
 	{
@@ -12589,6 +14202,18 @@
 		"code": "CGB-001",
 		"titles": [
 			"Nintendo Game Boy Color Boot ROM"
+		]
+	},
+	{
+		"code": "CGB-BNPJ-JPN",
+		"titles": [
+			"Nisemon Puzzle da Mon! - Feromon Kyuushutsu Daisakusen!"
+		]
+	},
+	{
+		"code": "CGB-BKFP-EUR",
+		"titles": [
+			"No Fear - Downhill Mountain Biking"
 		]
 	},
 	{
@@ -12611,10 +14236,36 @@
 		]
 	},
 	{
+		"code": "CGB-VVJJ-JPN",
+		"titles": [
+			"Nushi Tsuri Adventure - Kite no Bouken"
+		]
+	},
+	{
+		"code": "CGB-BNXP-EUR",
+		"titles": [
+			"NYR - New York Race",
+			"NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt)"
+		]
+	},
+	{
+		"code": "CGB-BUIP-EUR",
+		"titles": [
+			"O'Leary Manager 2000",
+			"O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)"
+		]
+	},
+	{
 		"code": "DMG-AOWP-EUU",
 		"titles": [
 			"Oddworld Adventures 2",
 			"Oddworld Adventures 2, FR/GER"
+		]
+	},
+	{
+		"code": "DMG-AOWE-USA",
+		"titles": [
+			"Oddworld Adventures 2"
 		]
 	},
 	{
@@ -12667,9 +14318,51 @@
 		]
 	},
 	{
+		"code": "CGB-BOTD-NOE",
+		"titles": [
+			"Ottifanten - Kommando Stoertebeker"
+		]
+	},
+	{
+		"code": "DMG-AZWJ-JPN",
+		"titles": [
+			"Ou Dorobou Jing - Angel Version"
+		]
+	},
+	{
+		"code": "DMG-AZKJ-JPN",
+		"titles": [
+			"Ou Dorobou Jing - Devil Version"
+		]
+	},
+	{
+		"code": "DMG-AYIJ-JPN",
+		"titles": [
+			"Owarai Yoiko no Geemumichi - Oyaji Sagashite 3 Choume"
+		]
+	},
+	{
 		"code": "DMG-AACE-USA",
 		"titles": [
 			"Pac-Man - Special Color Edition"
+		]
+	},
+	{
+		"code": "DMG-AACP-EUR",
+		"titles": [
+			"Pac-Man - Special Colour Edition"
+		]
+	},
+	{
+		"code": "DMG-AXAJ-JPN",
+		"titles": [
+			"Pachinko CR Mouretsu Genshijin T"
+		]
+	},
+	{
+		"code": "DMG-AYEJ-JPN",
+		"titles": [
+			"Pachinko Hisshou Guide - Data no Ousama"
 		]
 	},
 	{
@@ -12682,6 +14375,13 @@
 		"code": "CGB-AYPP-EUR",
 		"titles": [
 			"Paperboy"
+		]
+	},
+	{
+		"code": "CGB-AY9P-EUR",
+		"titles": [
+			"Papyrus",
+			"Papyrus (Europe) (En,Fr,De,Es,It,Nl)"
 		]
 	},
 	{
@@ -12714,6 +14414,12 @@
 		]
 	},
 	{
+		"code": "CGB-B22J-JPN",
+		"titles": [
+			"Pia Carrot e Youkoso!! 2.2"
+		]
+	},
+	{
 		"code": "DMG-AFLP-EUR",
 		"titles": [
 			"Pitfall - Beyond the Jungle",
@@ -12721,9 +14427,27 @@
 		]
 	},
 	{
+		"code": "DMG-AFLJ-JPN",
+		"titles": [
+			"Pitfall GB"
+		]
+	},
+	{
+		"code": "CGB-BYNP-EUR",
+		"titles": [
+			"Planet of the Apes"
+		]
+	},
+	{
 		"code": "CGB-BYNE-USA",
 		"titles": [
 			"Planet of the Apes"
+		]
+	},
+	{
+		"code": "CGB-BFBP-EUR",
+		"titles": [
+			"Player Manager 2001"
 		]
 	},
 	{
@@ -12746,9 +14470,33 @@
 		]
 	},
 	{
+		"code": "DMG-AVBE-USA",
+		"titles": [
+			"Pocket Bowling"
+		]
+	},
+	{
 		"code": "CGB-A3AJ-JPN",
 		"titles": [
 			"Pocket Color Billiards"
+		]
+	},
+	{
+		"code": "DMG-AC6J-JPN",
+		"titles": [
+			"Pocket Color Block"
+		]
+	},
+	{
+		"code": "DMG-A2AJ-JPN",
+		"titles": [
+			"Pocket Color Mahjong"
+		]
+	},
+	{
+		"code": "DMG-A4CJ-JPN",
+		"titles": [
+			"Pocket Color Trump"
 		]
 	},
 	{
@@ -12783,9 +14531,21 @@
 		]
 	},
 	{
+		"code": "CGB-A6PJ-JPN",
+		"titles": [
+			"Pocket Hanafuda"
+		]
+	},
+	{
 		"code": "DMG-AV5J-JPN",
 		"titles": [
 			"Pocket King"
+		]
+	},
+	{
+		"code": "CGB-AQIJ-JPN",
+		"titles": [
+			"Pocket Lure Boy"
 		]
 	},
 	{
@@ -12824,6 +14584,12 @@
 		]
 	},
 	{
+		"code": "CGB-BP9P-EUR",
+		"titles": [
+			"Pocket Music"
+		]
+	},
+	{
 		"code": "CGB-AJVJ-JPN",
 		"titles": [
 			"Pocket Pro Wrestling - Perfect Wrestler"
@@ -12845,6 +14611,12 @@
 		"code": "CGB-BPYJ-JPN",
 		"titles": [
 			"Pocket Puyo Puyo-n"
+		]
+	},
+	{
+		"code": "CGB-BPKP-EUR",
+		"titles": [
+			"Pocket Racing"
 		]
 	},
 	{
@@ -12950,6 +14722,13 @@
 		]
 	},
 	{
+		"code": "DMG-AAXI-ITA",
+		"titles": [
+			"Pokemon - Versione Argento",
+			"Pokemon - Versione Argento (Italy) (SGB Enhanced) (GB Compatible)"
+		]
+	},
+	{
 		"code": "CGB-BYTI-ITA",
 		"titles": [
 			"Pokemon - Versione Cristallo",
@@ -13011,6 +14790,12 @@
 		]
 	},
 	{
+		"code": "CGB-BPNP-EUR",
+		"titles": [
+			"Pokemon Puzzle Challenge"
+		]
+	},
+	{
 		"code": "CGB-BPNU-AUS",
 		"titles": [
 			"Pokemon Puzzle Challenge"
@@ -13025,6 +14810,12 @@
 	},
 	{
 		"code": "DMG-AXQX-EUR-1",
+		"titles": [
+			"Pokemon Trading Card Game"
+		]
+	},
+	{
+		"code": "DMG-AXQX-EUU",
 		"titles": [
 			"Pokemon Trading Card Game"
 		]
@@ -13062,15 +14853,45 @@
 		]
 	},
 	{
+		"code": "CGB-BP8E-USA",
+		"titles": [
+			"Pooh and Tigger's Hunny Safari"
+		]
+	},
+	{
 		"code": "CGB-BPMJ-JPN",
 		"titles": [
 			"Pop'n Music GB"
 		]
 	},
 	{
+		"code": "CGB-BPAJ-JPN",
+		"titles": [
+			"Pop'n Music GB - Animation Melody"
+		]
+	},
+	{
+		"code": "CGB-BPDJ-JPN",
+		"titles": [
+			"Pop'n Music GB - Disney Tunes"
+		]
+	},
+	{
 		"code": "CGB-BPIP-EUR",
 		"titles": [
 			"Pop'n Pop"
+		]
+	},
+	{
+		"code": "CGB-BJPJ-JPN",
+		"titles": [
+			"Pop'n Pop"
+		]
+	},
+	{
+		"code": "CGB-BAVE-USA",
+		"titles": [
+			"Portal Runner"
 		]
 	},
 	{
@@ -13105,6 +14926,12 @@
 		]
 	},
 	{
+		"code": "CGB-BJJE-USA",
+		"titles": [
+			"Powerpuff Girls, The - Bad Mojo Jojo"
+		]
+	},
+	{
 		"code": "CGB-BJJE-USA-1",
 		"titles": [
 			"Powerpuff Girls, The - Bad Mojo Jojo",
@@ -13126,6 +14953,12 @@
 	},
 	{
 		"code": "CGB-BBHP-EUR",
+		"titles": [
+			"Powerpuff Girls, The - Battle Him"
+		]
+	},
+	{
+		"code": "CGB-BBHE-USA",
 		"titles": [
 			"Powerpuff Girls, The - Battle Him"
 		]
@@ -13163,9 +14996,22 @@
 		]
 	},
 	{
+		"code": "CGB-BPTE-USA",
+		"titles": [
+			"Powerpuff Girls, The - Paint the Townsville Green",
+			"Powerpuff Girls, The - Paint the Townsville Green (USA)"
+		]
+	},
+	{
 		"code": "CGB-BPTF-FRA",
 		"titles": [
 			"Powerpuff Girls, The - Panique a Townsville"
+		]
+	},
+	{
+		"code": "CGB-BNCP-EUR",
+		"titles": [
+			"Prince Naseem Boxing"
 		]
 	},
 	{
@@ -13195,6 +15041,7 @@
 	{
 		"code": "DMG-AQDJ-JPN",
 		"titles": [
+			"Pro Mahjong Tsuwamono GB",
 			"Pro Mahjong Tsuwamono GB 2"
 		]
 	},
@@ -13217,6 +15064,18 @@
 		]
 	},
 	{
+		"code": "DMG-AIQP-EUR",
+		"titles": [
+			"Puchi Carat"
+		]
+	},
+	{
+		"code": "DMG-ACUJ-JPN",
+		"titles": [
+			"Puchi Carat"
+		]
+	},
+	{
 		"code": "CGB-AVED-NOE",
 		"titles": [
 			"Pumuckls Abenteuer bei den Piraten",
@@ -13230,15 +15089,82 @@
 		]
 	},
 	{
+		"code": "DMG-AWYJ-JPN",
+		"titles": [
+			"Puyo Puyo Gaiden - Puyo Wars"
+		]
+	},
+	{
+		"code": "DMG-BPZJ-JPN",
+		"titles": [
+			"Puzz Loop"
+		]
+	},
+	{
 		"code": "DMG-AA4J-JPN",
 		"titles": [
 			"Puzzle Bobble 4"
 		]
 	},
 	{
+		"code": "CGB-BP5J-JPN",
+		"titles": [
+			"Puzzle Bobble Millennium"
+		]
+	},
+	{
+		"code": "DMG-BKUJ-JPN",
+		"titles": [
+			"Puzzle de Shoubuyo! - Wootama-chan"
+		]
+	},
+	{
+		"code": "DMG-AZQE-USA",
+		"titles": [
+			"Puzzle Master"
+		]
+	},
+	{
 		"code": "CGB-AZWP-EUR",
 		"titles": [
 			"Puzzled"
+		]
+	},
+	{
+		"code": "CGB-BP3E-USA",
+		"titles": [
+			"Puzzled"
+		]
+	},
+	{
+		"code": "CGB-BQTE-USA",
+		"titles": [
+			"Q-bert"
+		]
+	},
+	{
+		"code": "CGB-AQYP-EUR",
+		"titles": [
+			"Qix Adventure",
+			"Qix Adventure (Europe)"
+		]
+	},
+	{
+		"code": "CGB-AQSJ-JPN",
+		"titles": [
+			"Qix Adventure"
+		]
+	},
+	{
+		"code": "DMG-AQRE-USA",
+		"titles": [
+			"Quest - Brian's Journey"
+		]
+	},
+	{
+		"code": "DMG-AQTE-USA",
+		"titles": [
+			"Quest - Fantasy Challenge"
 		]
 	},
 	{
@@ -13260,10 +15186,29 @@
 		]
 	},
 	{
+		"code": "DMG-ARUJ-JPN",
+		"titles": [
+			"R-Type DX"
+		]
+	},
+	{
 		"code": "DMG-AWHP-EUR",
 		"titles": [
 			"R-Type DX",
 			"R-Type DX (USA, Europe) (GB Compatible)"
+		]
+	},
+	{
+		"code": "CGB-BTIE-USA",
+		"titles": [
+			"Racin' Ratz"
+		]
+	},
+	{
+		"code": "CGB-BISP-EUR",
+		"titles": [
+			"Rainbow Islands",
+			"Rainbow Islands (Europe) (En,Fr,De,Es,It)"
 		]
 	},
 	{
@@ -13303,6 +15248,12 @@
 		]
 	},
 	{
+		"code": "DMG-AVTE-USA",
+		"titles": [
+			"Rats!"
+		]
+	},
+	{
 		"code": "CGB-AYQP-EUR",
 		"titles": [
 			"Rayman",
@@ -13317,9 +15268,21 @@
 		]
 	},
 	{
+		"code": "CGB-BURJ-JPN",
+		"titles": [
+			"Rayman - Mister Dark no Wana"
+		]
+	},
+	{
 		"code": "CGB-BRYE-USA",
 		"titles": [
 			"Rayman 2"
+		]
+	},
+	{
+		"code": "CGB-BRYP-EUR",
+		"titles": [
+			"Rayman 2 Forever"
 		]
 	},
 	{
@@ -13372,6 +15335,12 @@
 		]
 	},
 	{
+		"code": "CGB-BRQE-USA",
+		"titles": [
+			"Rescue Heroes - Fire Frenzy"
+		]
+	},
+	{
 		"code": "DMG-AVTP-EUR",
 		"titles": [
 			"Reservoir Rat",
@@ -13386,7 +15355,19 @@
 		]
 	},
 	{
+		"code": "CGB-ARHE-USA",
+		"titles": [
+			"Resident Evil Gaiden"
+		]
+	},
+	{
 		"code": "CGB-BNJP-EUR",
+		"titles": [
+			"Return of the Ninja"
+		]
+	},
+	{
+		"code": "CGB-BNJE-USA",
 		"titles": [
 			"Return of the Ninja"
 		]
@@ -13429,6 +15410,13 @@
 		]
 	},
 	{
+		"code": "DMG-ARRP-EUR",
+		"titles": [
+			"Roadsters",
+			"Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+		]
+	},
+	{
 		"code": "DMG-ARRE-USA",
 		"titles": [
 			"Roadsters"
@@ -13439,6 +15427,12 @@
 		"titles": [
 			"Robin Hood",
 			"Robin Hood (Europe) (En,Fr,De,Es,It,Nl)"
+		]
+	},
+	{
+		"code": "CGB-BR9P-EUR",
+		"titles": [
+			"RoboCop"
 		]
 	},
 	{
@@ -13486,6 +15480,13 @@
 		]
 	},
 	{
+		"code": "CGB-BRUF-FRA",
+		"titles": [
+			"Rocket Power - La Glisse de l'Extreme",
+			"Rocket Power - La Glisse de l'Extreme (France)"
+		]
+	},
+	{
 		"code": "CBA091",
 		"titles": [
 			"Rockman DX6"
@@ -13510,6 +15511,12 @@
 		]
 	},
 	{
+		"code": "CGB-BRME-USA",
+		"titles": [
+			"Rocky Mountain - Trophy Hunter"
+		]
+	},
+	{
 		"code": "Rocman X",
 		"titles": [
 			"Rocman X Gold + 4 in 1"
@@ -13519,6 +15526,12 @@
 		"code": "CGB-BLKF-FRA",
 		"titles": [
 			"Roi Lion, Le - La Formidable Aventure de Simba"
+		]
+	},
+	{
+		"code": "CGB-BKDJ-JPN",
+		"titles": [
+			"Rokumon Tengai Mon-Colle-Knight GB"
 		]
 	},
 	{
@@ -13536,9 +15549,27 @@
 		]
 	},
 	{
+		"code": "DMG-AORE-USA",
+		"titles": [
+			"Ronaldo V-Soccer"
+		]
+	},
+	{
 		"code": "CGB-BCPP-EUR",
 		"titles": [
 			"Roswell Conspiracies - Aliens, Myths &amp; Legends"
+		]
+	},
+	{
+		"code": "CGB-BCPE-USA",
+		"titles": [
+			"Roswell Conspiracies - Aliens, Myths &amp; Legends"
+		]
+	},
+	{
+		"code": "DMG-ARXJ-JPN",
+		"titles": [
+			"Rox"
 		]
 	},
 	{
@@ -13657,6 +15688,12 @@
 		]
 	},
 	{
+		"code": "DMG-AS9J-JPN",
+		"titles": [
+			"Sangokushi - Game Boy Ban 2"
+		]
+	},
+	{
 		"code": "SL-006",
 		"titles": [
 			"Sanguozhi - Aoshi Tianxia"
@@ -13688,9 +15725,27 @@
 		]
 	},
 	{
+		"code": "DMG-BSPJ-JPN",
+		"titles": [
+			"Saru Puncher"
+		]
+	},
+	{
 		"code": "CGB-BCCP-EUR-1",
 		"titles": [
 			"Scooby-Doo! - Classic Creep Capers"
+		]
+	},
+	{
+		"code": "CGB-B9QP-EUR",
+		"titles": [
+			"Scrabble"
+		]
+	},
+	{
+		"code": "DMG-AUXJ-JPN",
+		"titles": [
+			"SD Hiryuu no Ken EX"
 		]
 	},
 	{
@@ -13712,6 +15767,12 @@
 		]
 	},
 	{
+		"code": "DMG-AE3E-USA",
+		"titles": [
+			"Sesame Street - Elmo's 123s"
+		]
+	},
+	{
 		"code": "DMG-AE3P-EUR",
 		"titles": [
 			"Sesame Street - Elmo's 123s"
@@ -13725,9 +15786,27 @@
 		]
 	},
 	{
+		"code": "DMG-AEAE-USA",
+		"titles": [
+			"Sesame Street - Elmo's ABCs"
+		]
+	},
+	{
 		"code": "DMG-AELP-EUR",
 		"titles": [
 			"Sesame Street - The Adventures of Elmo in Grouchland"
+		]
+	},
+	{
+		"code": "DMG-AELE-USA",
+		"titles": [
+			"Sesame Street - The Adventures of Elmo in Grouchland"
+		]
+	},
+	{
+		"code": "CGB-BSQE-USA",
+		"titles": [
+			"Sesame Street Sports"
 		]
 	},
 	{
@@ -13740,6 +15819,12 @@
 		"code": "DMG-BRAZ-EUU",
 		"titles": [
 			"Sewing Machine Operation Software"
+		]
+	},
+	{
+		"code": "CGB-BRFE-USA",
+		"titles": [
+			"Sgt. Rock - On the Frontline"
 		]
 	},
 	{
@@ -13938,6 +16023,12 @@
 		]
 	},
 	{
+		"code": "DMG-ASUJ-JPN",
+		"titles": [
+			"Shutokou Racing, The"
+		]
+	},
+	{
 		"code": "CGB-BNOP-EUR",
 		"titles": [
 			"Simpsons, The - Night of the Living Treehouse of Horror"
@@ -13956,7 +16047,19 @@
 		]
 	},
 	{
+		"code": "CGB-B5CJ-JPN",
+		"titles": [
+			"Snobow Champion"
+		]
+	},
+	{
 		"code": "CGB-BS9P-NOE",
+		"titles": [
+			"Snoopy Tennis"
+		]
+	},
+	{
+		"code": "CGB-BS9J-JPN",
 		"titles": [
 			"Snoopy Tennis"
 		]
@@ -13968,9 +16071,29 @@
 		]
 	},
 	{
+		"code": "CGB-B7DP-EUR",
+		"titles": [
+			"Snow White and the Seven Dwarfs",
+			"Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"
+		]
+	},
+	{
 		"code": "CGB-B7DE-USA",
 		"titles": [
 			"Snow White and the Seven Dwarfs"
+		]
+	},
+	{
+		"code": "CGB-B3OP-EUR",
+		"titles": [
+			"SnowCross",
+			"SnowCross (Europe) (En,Fr,De,Es,It,Pt)"
+		]
+	},
+	{
+		"code": "CGB-BSMP-EUR",
+		"titles": [
+			"Soccer Manager"
 		]
 	},
 	{
@@ -13992,6 +16115,12 @@
 		]
 	},
 	{
+		"code": "DMG-AWIJ-JPN",
+		"titles": [
+			"Soukoban Densetsu - Hikari to Yami no Kuni"
+		]
+	},
+	{
 		"code": "DMG-AL9J-JPN",
 		"titles": [
 			"Soul Getter - Houkago Bouken RPG"
@@ -14001,6 +16130,18 @@
 		"code": "DMG-AIVP-EUR",
 		"titles": [
 			"Space Invaders"
+		]
+	},
+	{
+		"code": "DMG-BSIJ-JPN",
+		"titles": [
+			"Space Invaders X"
+		]
+	},
+	{
+		"code": "CGB-AZYE-USA",
+		"titles": [
+			"Space Marauder"
 		]
 	},
 	{
@@ -14022,6 +16163,12 @@
 		]
 	},
 	{
+		"code": "CGB-AAWE-USA",
+		"titles": [
+			"Spawn"
+		]
+	},
+	{
 		"code": "DMG-ALZP-UKV",
 		"titles": [
 			"Speedy Gonzales - Aztec Adventure"
@@ -14029,6 +16176,12 @@
 	},
 	{
 		"code": "CGB-BSEF-FRA",
+		"titles": [
+			"Spider-Man"
+		]
+	},
+	{
+		"code": "CGB-BSEJ-JPN",
 		"titles": [
 			"Spider-Man"
 		]
@@ -14044,6 +16197,12 @@
 		"titles": [
 			"Spider-Man 2 - The Sinister Six",
 			"Spider-Man 2 - The Sinister Six (USA, Europe)"
+		]
+	},
+	{
+		"code": "CGB-BSCP-EUR",
+		"titles": [
+			"Spirou - The Robot Invasion"
 		]
 	},
 	{
@@ -14065,6 +16224,12 @@
 		]
 	},
 	{
+		"code": "CGB-AS6E-USA",
+		"titles": [
+			"Spy vs Spy"
+		]
+	},
+	{
 		"code": "DMG-BO2J-JPN",
 		"titles": [
 			"Star Ocean - Blue Sphere"
@@ -14077,13 +16242,43 @@
 		]
 	},
 	{
+		"code": "CGB-BOWP-EUR",
+		"titles": [
+			"Star Wars Episode I - Obi-Wan's Adventures"
+		]
+	},
+	{
+		"code": "CGB-BOWE-USA",
+		"titles": [
+			"Star Wars Episode I - Obi-Wan's Adventures"
+		]
+	},
+	{
 		"code": "CGB-VYHP-EUR",
 		"titles": [
 			"Star Wars Episode I - Racer"
 		]
 	},
 	{
+		"code": "DMG-AVKP-EUR",
+		"titles": [
+			"Stranded Kids"
+		]
+	},
+	{
 		"code": "CGB-AFZP-EUR",
+		"titles": [
+			"Street Fighter Alpha - Warriors' Dreams"
+		]
+	},
+	{
+		"code": "CGB-BFZJ-JPN",
+		"titles": [
+			"Street Fighter Alpha - Warriors' Dreams"
+		]
+	},
+	{
+		"code": "CGB-AFZE-USA",
 		"titles": [
 			"Street Fighter Alpha - Warriors' Dreams"
 		]
@@ -14126,9 +16321,27 @@
 		]
 	},
 	{
+		"code": "DMG-A2OJ-JPN",
+		"titles": [
+			"Super Bombliss DX"
+		]
+	},
+	{
 		"code": "DMG-AOTP-EUR",
 		"titles": [
 			"Super Breakout"
+		]
+	},
+	{
+		"code": "DMG-AOTE-USA",
+		"titles": [
+			"Super Breakout"
+		]
+	},
+	{
+		"code": "CGB-A66J-JPN",
+		"titles": [
+			"Super Chinese Fighter EX"
 		]
 	},
 	{
@@ -14239,6 +16452,18 @@
 		]
 	},
 	{
+		"code": "DMG-AVKE-USA",
+		"titles": [
+			"Survival Kids"
+		]
+	},
+	{
+		"code": "DMG-AVKJ-JPN",
+		"titles": [
+			"Survival Kids - Kotou no Boukensha"
+		]
+	},
+	{
 		"code": "DMG-B2VJ-JPN",
 		"titles": [
 			"Survival Kids 2 - Dasshutsu!! Futago-jima!"
@@ -14332,6 +16557,18 @@
 		]
 	},
 	{
+		"code": "DMG-BJBJ-JPN",
+		"titles": [
+			"Taito Memorial - Bubble Bobble"
+		]
+	},
+	{
+		"code": "DMG-BJCJ-JPN",
+		"titles": [
+			"Taito Memorial - Chase H.Q. - Secret Police"
+		]
+	},
+	{
 		"code": "DMG-AN6J-JPN",
 		"titles": [
 			"Tales of Phantasia - Narikiri Dungeon"
@@ -14357,6 +16594,12 @@
 		]
 	},
 	{
+		"code": "CGB-BTHJ-JPN",
+		"titles": [
+			"Tarzan"
+		]
+	},
+	{
 		"code": "CGB-ATHP-EUR",
 		"titles": [
 			"Tarzan"
@@ -14366,6 +16609,19 @@
 		"code": "DMG-AVZP-NOE",
 		"titles": [
 			"Tasmanian Devil - Munching Madness"
+		]
+	},
+	{
+		"code": "DMG-ATIE-USA",
+		"titles": [
+			"Tasmanian Devil - Munching Madness"
+		]
+	},
+	{
+		"code": "CGB-BT2F-FRA",
+		"titles": [
+			"Taxi 2",
+			"Taxi 2 (France)"
 		]
 	},
 	{
@@ -14383,10 +16639,34 @@
 		]
 	},
 	{
+		"code": "CGB-BTEE-USA",
+		"titles": [
+			"Test Drive 2001"
+		]
+	},
+	{
 		"code": "DMG-AW6P-EUR",
 		"titles": [
 			"Test Drive 6",
 			"Test Drive 6, FR/GER/ESP/IT/UK"
+		]
+	},
+	{
+		"code": "DMG-AW6E-USA",
+		"titles": [
+			"Test Drive 6"
+		]
+	},
+	{
+		"code": "CGB-BTDE-USA",
+		"titles": [
+			"Test Drive Cycles"
+		]
+	},
+	{
+		"code": "CGB-B24E-USA",
+		"titles": [
+			"Test Drive Le Mans"
 		]
 	},
 	{
@@ -14433,6 +16713,12 @@
 		]
 	},
 	{
+		"code": "CGB-BTNP-EUR",
+		"titles": [
+			"Thunderbirds"
+		]
+	},
+	{
 		"code": "CGB-BTNX-EUR",
 		"titles": [
 			"Thunderbirds"
@@ -14446,9 +16732,47 @@
 		]
 	},
 	{
+		"code": "CGB-BTTP-EUR",
+		"titles": [
+			"Tintin - Le Temple Du Soleil"
+		]
+	},
+	{
+		"code": "CGB-BT6P-EUR",
+		"titles": [
+			"Tintin au Tibet"
+		]
+	},
+	{
+		"code": "CGB-BUSP-EUR",
+		"titles": [
+			"Tiny Toon Adventures - Buster Saves the Day"
+		]
+	},
+	{
+		"code": "CGB-BDQP-EUR",
+		"titles": [
+			"Tiny Toon Adventures - Dizzy's Candy Quest",
+			"Tiny Toon Adventures - Dizzy's Candy Quest (Europe) (En,Fr,De,Es,It,Nl)"
+		]
+	},
+	{
 		"code": "CGB-BTWF-FRA",
 		"titles": [
 			"Titi - Le Tour du Monde en 80 Chats"
+		]
+	},
+	{
+		"code": "DMG-BFXP-EUR",
+		"titles": [
+			"Titus the Fox",
+			"Titus the Fox (Europe) (GB Compatible)"
+		]
+	},
+	{
+		"code": "DMG-AFCE-USA",
+		"titles": [
+			"TNN Outdoors Fishing Champ"
 		]
 	},
 	{
@@ -14470,15 +16794,33 @@
 		]
 	},
 	{
+		"code": "DMG-AC7J-JPN",
+		"titles": [
+			"Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody"
+		]
+	},
+	{
 		"code": "DMG-AS7J-JPN",
 		"titles": [
 			"Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph"
 		]
 	},
 	{
+		"code": "DMG-BGBJ-JPN",
+		"titles": [
+			"Tokoro-san no Setagaya C.C."
+		]
+	},
+	{
 		"code": "CGB-ATXP-EUR",
 		"titles": [
 			"Tom and Jerry"
+		]
+	},
+	{
+		"code": "CGB-BTJE-USA",
+		"titles": [
+			"Tom and Jerry - Mouse Hunt"
 		]
 	},
 	{
@@ -14516,6 +16858,19 @@
 		"code": "CGB-B9TP-EUR",
 		"titles": [
 			"Tomb Raider - Curse of the Sword"
+		]
+	},
+	{
+		"code": "CGB-AXTP-EUR",
+		"titles": [
+			"Tonic Trouble",
+			"Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl)"
+		]
+	},
+	{
+		"code": "CGB-BCZE-USA",
+		"titles": [
+			"Tonka Construction Site"
 		]
 	},
 	{
@@ -14557,7 +16912,19 @@
 		]
 	},
 	{
+		"code": "CGB-AOIE-USA",
+		"titles": [
+			"Toobin'"
+		]
+	},
+	{
 		"code": "CGB-BSYP-EUR",
+		"titles": [
+			"Toonsylvania"
+		]
+	},
+	{
+		"code": "CGB-BSYE-USA",
 		"titles": [
 			"Toonsylvania"
 		]
@@ -14589,15 +16956,33 @@
 		]
 	},
 	{
+		"code": "CGB-A33E-USA",
+		"titles": [
+			"Top Gear Pocket 2"
+		]
+	},
+	{
 		"code": "CGB-VGRP-NOE",
 		"titles": [
 			"Top Gear Rally"
 		]
 	},
 	{
+		"code": "CGB-A33P-EUR",
+		"titles": [
+			"Top Gear Rally 2"
+		]
+	},
+	{
 		"code": "CGB-BICP-EUR",
 		"titles": [
 			"Top Gun - Fire Storm"
+		]
+	},
+	{
+		"code": "DMG-APHJ-JPN",
+		"titles": [
+			"Totsugeki! Papparatai"
 		]
 	},
 	{
@@ -14627,6 +17012,13 @@
 		]
 	},
 	{
+		"code": "CGB-BT5X-EUU",
+		"titles": [
+			"Toy Story Racer",
+			"Toy Story Racer (Europe) (En,Fr,De)"
+		]
+	},
+	{
 		"code": "CGB-BT5P-EUR",
 		"titles": [
 			"Toy Story Racer"
@@ -14643,6 +17035,18 @@
 		"code": "CGB-BTBP-EUR",
 		"titles": [
 			"Trick Boarder"
+		]
+	},
+	{
+		"code": "CGB-BTBE-USA",
+		"titles": [
+			"Trick Boarder"
+		]
+	},
+	{
+		"code": "CGB-BTBJ-JPN",
+		"titles": [
+			"Trickboarder GP"
 		]
 	},
 	{
@@ -14694,6 +17098,12 @@
 		]
 	},
 	{
+		"code": "DMG-A2TJ-JPN",
+		"titles": [
+			"Turok 2 - Jikku Senshi"
+		]
+	},
+	{
 		"code": "DMG-A2TP-EUR",
 		"titles": [
 			"Turok 2 - Seeds of Evil"
@@ -14703,6 +17113,12 @@
 		"code": "CGB-BT3P-EUR",
 		"titles": [
 			"Turok 3 - Shadow of Oblivion"
+		]
+	},
+	{
+		"code": "CGB-B2ZP-EUR",
+		"titles": [
+			"Tweenies - Doodles' Bones"
 		]
 	},
 	{
@@ -14725,6 +17141,12 @@
 		]
 	},
 	{
+		"code": "CGB-BTWX-EUU",
+		"titles": [
+			"Tweety's High-Flying Adventure"
+		]
+	},
+	{
 		"code": "CGB-BTWE-USA",
 		"titles": [
 			"Tweety's High-Flying Adventure"
@@ -14737,7 +17159,20 @@
 		]
 	},
 	{
+		"code": "CGB-BUEP-EUR",
+		"titles": [
+			"UEFA 2000",
+			"UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)"
+		]
+	},
+	{
 		"code": "CGB-BUCP-EUR-1",
+		"titles": [
+			"Ultimate Fighting Championship"
+		]
+	},
+	{
+		"code": "CGB-BUCE-USA",
 		"titles": [
 			"Ultimate Fighting Championship"
 		]
@@ -14756,9 +17191,40 @@
 		]
 	},
 	{
+		"code": "CGB-BSUE-USA",
+		"titles": [
+			"Ultimate Surfing"
+		]
+	},
+	{
+		"code": "DMG-AUNP-EUR",
+		"titles": [
+			"Uno",
+			"Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+		]
+	},
+	{
 		"code": "DMG-AUNE-USA",
 		"titles": [
 			"Uno"
+		]
+	},
+	{
+		"code": "CGB-AVYP-EUR",
+		"titles": [
+			"V-Rally - Championship Edition"
+		]
+	},
+	{
+		"code": "CGB-AVJJ-JPN",
+		"titles": [
+			"V-Rally - Championship Edition"
+		]
+	},
+	{
+		"code": "CGB-AVLE-USA",
+		"titles": [
+			"V-Rally - Edition 99"
 		]
 	},
 	{
@@ -14766,6 +17232,12 @@
 		"titles": [
 			"Vegas Games",
 			"Vegas Games (Europe) (En,Fr,De)"
+		]
+	},
+	{
+		"code": "CGB-AVFE-USA",
+		"titles": [
+			"Vegas Games"
 		]
 	},
 	{
@@ -14784,6 +17256,25 @@
 		"code": "CGB-BVIE-USA",
 		"titles": [
 			"VIP"
+		]
+	},
+	{
+		"code": "DMG-AVGF-FRA",
+		"titles": [
+			"Visiteurs, Les"
+		]
+	},
+	{
+		"code": "CGB-AW9P-EUR",
+		"titles": [
+			"Wacky Races",
+			"Wacky Races (Europe) (En,Fr,De,Es,It,Nl)"
+		]
+	},
+	{
+		"code": "CGB-AW9E-USA",
+		"titles": [
+			"Wacky Races"
 		]
 	},
 	{
@@ -14844,9 +17335,21 @@
 		]
 	},
 	{
+		"code": "CGB-BWNJ-JPN",
+		"titles": [
+			"Watashi no Restaurant"
+		]
+	},
+	{
 		"code": "CGB-AYHP-NOE",
 		"titles": [
 			"WCW Mayhem"
+		]
+	},
+	{
+		"code": "CGB-BBTE-USA",
+		"titles": [
+			"WDL - World Destruction League - Thunder Tanks"
 		]
 	},
 	{
@@ -14861,6 +17364,42 @@
 		"titles": [
 			"Wendy - Every Witch Way",
 			"Wendy - Every Witch Way (USA, Europe)"
+		]
+	},
+	{
+		"code": "CGB-BWXP-EUR",
+		"titles": [
+			"Wetrix"
+		]
+	},
+	{
+		"code": "DMG-AW5J-JPN",
+		"titles": [
+			"Wetrix GB"
+		]
+	},
+	{
+		"code": "CGB-BMOE-USA",
+		"titles": [
+			"Who Wants to Be a Millionaire - 2nd Edition"
+		]
+	},
+	{
+		"code": "CGB-BWTE-USA",
+		"titles": [
+			"Wild Thornberrys, The - Rambler"
+		]
+	},
+	{
+		"code": "DMG-AFXP-EUR",
+		"titles": [
+			"Wings of Fury"
+		]
+	},
+	{
+		"code": "DMG-AFXE-USA",
+		"titles": [
+			"Wings of Fury"
 		]
 	},
 	{
@@ -14882,9 +17421,45 @@
 		]
 	},
 	{
+		"code": "CGB-BFTJ-JPN",
+		"titles": [
+			"Wizardry Empire - Fukkatsu no Tsue"
+		]
+	},
+	{
+		"code": "CGB-BWIJ-JPN",
+		"titles": [
+			"Wizardry I - Proving Grounds of the Mad Overlord"
+		]
+	},
+	{
+		"code": "CGB-BW2J-JPN",
+		"titles": [
+			"Wizardry II - Llylgamyn no Isan"
+		]
+	},
+	{
 		"code": "CGB-BNDJ-JPN",
 		"titles": [
 			"Wizardry III - Diamond no Kishi"
+		]
+	},
+	{
+		"code": "CGB-BWPP-EUR",
+		"titles": [
+			"Woody Woodpecker"
+		]
+	},
+	{
+		"code": "CGB-BWPE-USA",
+		"titles": [
+			"Woody Woodpecker"
+		]
+	},
+	{
+		"code": "CGB-BWRJ-JPN",
+		"titles": [
+			"Woody Woodpecker no Go! Go! Racing"
 		]
 	},
 	{
@@ -14933,6 +17508,12 @@
 		"code": "DMG-AUWP-EUR",
 		"titles": [
 			"WWF WrestleMania 2000"
+		]
+	},
+	{
+		"code": "CGB-BXAJ-JPN",
+		"titles": [
+			"X-Men - Mutant Academy"
 		]
 	},
 	{
@@ -14997,9 +17578,21 @@
 		]
 	},
 	{
+		"code": "CGB-BXGE-USA",
+		"titles": [
+			"Xtreme Sports"
+		]
+	},
+	{
 		"code": "LRG-XSPTS-USA",
 		"titles": [
 			"Xtreme Sports"
+		]
+	},
+	{
+		"code": "CGB-BXCE-USA",
+		"titles": [
+			"Xtreme Wheels"
 		]
 	},
 	{
@@ -15145,6 +17738,12 @@
 		]
 	},
 	{
+		"code": "CGB-BJFJ-JPN",
+		"titles": [
+			"Zen-Nihon Shounen Soccer Taikai - Mezase Nihon Ichi!"
+		]
+	},
+	{
 		"code": "CGB-BZSP-EUR",
 		"titles": [
 			"Zidane - Football Generation",
@@ -15155,6 +17754,12 @@
 		"code": "DMG-MBC5-32M-FLASH G/A-I",
 		"titles": [
 			"Zidane - Football Generation"
+		]
+	},
+	{
+		"code": "CGB-BZBE-USA",
+		"titles": [
+			"Zoboomafoo - Playtime in Zobooland"
 		]
 	},
 	{
@@ -15208,6 +17813,13 @@
 		]
 	},
 	{
+		"code": "AGB-BB4P-EUR",
+		"titles": [
+			"2 Game Pack! - Matchbox Missions - Emergency Response &amp; Air, Land and Sea Rescue",
+			"MATCHBOXMISS"
+		]
+	},
+	{
 		"code": "AGB-BB4E-USA",
 		"titles": [
 			"2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue",
@@ -15222,6 +17834,12 @@
 		]
 	},
 	{
+		"code": "AGB-BWBP-UKV",
+		"titles": [
+			"2 Games in 1 - Disney Princess + Brother Bear"
+		]
+	},
+	{
 		"code": "AGB-BLDP-UKV",
 		"titles": [
 			"2 Games in 1 - Disney Princess + Lizzie McGuire"
@@ -15232,6 +17850,13 @@
 		"titles": [
 			"2 Games in 1 - Dr. Mario + Puzzle League",
 			"DRMARIO&PONP"
+		]
+	},
+	{
+		"code": "AGB-BNEE-USA",
+		"titles": [
+			"2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles",
+			"NEMO2INCPACK"
 		]
 	},
 	{
@@ -15257,6 +17882,28 @@
 		"titles": [
 			"2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race",
 			"HWVX HWWR"
+		]
+	},
+	{
+		"code": "AGB-BRSF-FRA",
+		"titles": [
+			"2 Games in 1 - Les Razmoket Rencontrent les Delajungle + SpongeBob SquarePants - SuperSponge",
+			"SS_&_RGW_FRE"
+		]
+	},
+	{
+		"code": "AGB-BDZI-ITA",
+		"titles": [
+			"2 Games in 1 - Monsters &amp; Co. + Alla Ricerca di Nemo",
+			"NEMO_MON_ITA"
+		]
+	},
+	{
+		"code": "AGB-BDZH-HOL",
+		"titles": [
+			"2 Games in 1 - Monsters en Co. + Finding Nemo",
+			"2 Games in 1 - Monsters en Co. + Finding Nemo (Netherlands) (En,Es,Nl+Fr,Nl)",
+			"MONSNEMO_DUT"
 		]
 	},
 	{
@@ -15298,6 +17945,20 @@
 		]
 	},
 	{
+		"code": "AGB-BPUE-USA",
+		"titles": [
+			"2 Games in 1 - Scooby-Doo + Scooby-Doo 2 - Monsters Unleashed",
+			"SCOOBYMOVMON"
+		]
+	},
+	{
+		"code": "AGB-BCVE-USA",
+		"titles": [
+			"2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase",
+			"SD_CC&MH_EFG"
+		]
+	},
+	{
 		"code": "AGB-BCVP-EUR",
 		"titles": [
 			"2 Games in 1 - Scooby-Doo! - Mystery Mayhem + Scooby-Doo and the Cyber Chase",
@@ -15316,6 +17977,13 @@
 		"titles": [
 			"2 Games in 1 - Sonic Battle + Sonic Pinball Party",
 			"2IN1_BTL_PIN"
+		]
+	},
+	{
+		"code": "AGB-BU2E-USA",
+		"titles": [
+			"2 Games in 1 - SpongeBob SquarePants - Battle for Bikini Bottom + Nicktoons - Freeze Frame Frenzy",
+			"SBBFBBNTFFF"
 		]
 	},
 	{
@@ -15342,6 +18010,13 @@
 		"code": "AGB-BSZP-UKV",
 		"titles": [
 			"2 Games in 1 - SpongeBob SquarePants - SuperSponge + SpongeBob SquarePants - Battle for Bikini Bottom"
+		]
+	},
+	{
+		"code": "AGB-BLPP-EUR",
+		"titles": [
+			"2 Games in 1 - The Lion King + Disney Princess",
+			"LK_AND_DP"
 		]
 	},
 	{
@@ -15395,6 +18070,13 @@
 		]
 	},
 	{
+		"code": "AGB-BS7E-USA",
+		"titles": [
+			"2 in 1 Game Pack - Shrek 2 + Shark Tale",
+			"SHREK SHARK"
+		]
+	},
+	{
 		"code": "AGB-BX2P-UKV",
 		"titles": [
 			"2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge"
@@ -15408,9 +18090,30 @@
 		]
 	},
 	{
+		"code": "AGB-BX3E-USA",
+		"titles": [
+			"2 in 1 Game Pack - Spider-Man + Spider-Man 2",
+			"SPIDER-MAN"
+		]
+	},
+	{
 		"code": "AGB-BX4P-UKV",
 		"titles": [
 			"2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer"
+		]
+	},
+	{
+		"code": "AGB-BT5F-FRA",
+		"titles": [
+			"2 Jeux en 1 - Titeuf - Ze Gag Machine + Titeuf - Mega Compet",
+			"TITEUF DUO"
+		]
+	},
+	{
+		"code": "AGB-BXGP-UKV",
+		"titles": [
+			"2-in-1 Fun Pack - Shrek 2 + Madagascar",
+			"2-in-1 Fun Pack - Shrek 2 + Madagascar (Europe)"
 		]
 	},
 	{
@@ -15430,6 +18133,13 @@
 		"titles": [
 			"3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game",
 			"CANDYLAND CH"
+		]
+	},
+	{
+		"code": "AGB-BXCE-USA",
+		"titles": [
+			"3 Game Pack! - Ker Plunk! + Toss Across + Tip It",
+			"KERPLUNKTATI"
 		]
 	},
 	{
@@ -15984,6 +18694,13 @@
 		]
 	},
 	{
+		"code": "AGB-BBWP-EUR",
+		"titles": [
+			"Avatar - The Legend of Aang - The Burning Earth",
+			"AVATAR"
+		]
+	},
+	{
 		"code": "AGB-AZAJ-JPN",
 		"titles": [
 			"Azumanga Daiou Advance",
@@ -16043,6 +18760,13 @@
 		"titles": [
 			"Backyard Football 2006",
 			"BYF 2006"
+		]
+	},
+	{
+		"code": "AGB-BS6E-USA",
+		"titles": [
+			"Backyard Skateboarding",
+			"BYSK8NG2006"
 		]
 	},
 	{
@@ -16115,6 +18839,13 @@
 		]
 	},
 	{
+		"code": "AGB-BKZI-ITA",
+		"titles": [
+			"Banjo-Kazooie - La Vendetta di Grunty",
+			"BANJOKAZOOIE"
+		]
+	},
+	{
 		"code": "AGB-BAJE-USA",
 		"titles": [
 			"Banjo-Pilot",
@@ -16127,6 +18858,13 @@
 			"Banjo-Pilot",
 			"Banjo-Pilot (Europe) (En,Fr,De,Es,It)",
 			"BANJO PILOT"
+		]
+	},
+	{
+		"code": "AGB-BBNE-USA",
+		"titles": [
+			"Barbie as The Island Princess",
+			"BARBIEIP"
 		]
 	},
 	{
@@ -16154,6 +18892,13 @@
 		"titles": [
 			"Barbie Horse Adventures - Blue Ribbon Race",
 			"BARBIE"
+		]
+	},
+	{
+		"code": "AGB-BB3E-USA",
+		"titles": [
+			"Barbie in the 12 Dancing Princesses",
+			"BARBIE12PRCS"
 		]
 	},
 	{
@@ -16302,6 +19047,13 @@
 		"titles": [
 			"Beyblade V-Force - Ultimate Blader Jam",
 			"BEYBLADE: UL"
+		]
+	},
+	{
+		"code": "AGB-BBXD-NOE",
+		"titles": [
+			"Bibi Blocksberg - Der Magische Hexenkreis",
+			"Bibi Blocksberg - Der Magische Hexenkreis (Germany)"
 		]
 	},
 	{
@@ -16636,6 +19388,13 @@
 		]
 	},
 	{
+		"code": "AGB-BXFE-USA",
+		"titles": [
+			"Bratz - Forever Diamondz",
+			"BRATZDIAMOND"
+		]
+	},
+	{
 		"code": "AGB-BXFP-EUR",
 		"titles": [
 			"Bratz - Forever Diamondz",
@@ -16702,6 +19461,18 @@
 		"titles": [
 			"Britney's Dance Beat",
 			"DANCE BEAT"
+		]
+	},
+	{
+		"code": "AGB-ABYP-UKV",
+		"titles": [
+			"Britney's Dance Beat"
+		]
+	},
+	{
+		"code": "N/A",
+		"titles": [
+			"Broken Circle"
 		]
 	},
 	{
@@ -16870,6 +19641,12 @@
 	},
 	{
 		"code": "AGB-BCAY-EUR",
+		"titles": [
+			"Cars"
+		]
+	},
+	{
+		"code": "AGB-BCAZ-SCN",
 		"titles": [
 			"Cars"
 		]
@@ -17230,6 +20007,13 @@
 		]
 	},
 	{
+		"code": "AGB-AVCE-USA",
+		"titles": [
+			"Corvette",
+			"CORVETTE"
+		]
+	},
+	{
 		"code": "AGB-B5AP-EUR",
 		"titles": [
 			"Crash &amp; Spyro Super Pack Volume 1",
@@ -17247,6 +20031,13 @@
 		"code": "AGB-B53P-JPN",
 		"titles": [
 			"Crash &amp; Spyro Super Pack Volume 3"
+		]
+	},
+	{
+		"code": "AGB-B54E-USA",
+		"titles": [
+			"Crash &amp; Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure",
+			"CRASHSPYRO4"
 		]
 	},
 	{
@@ -17354,6 +20145,14 @@
 		]
 	},
 	{
+		"code": "AGB-ACTY-EUU",
+		"titles": [
+			"Creatures",
+			"Creatures (Europe) (En,Es,It)",
+			"CREATURESAGB"
+		]
+	},
+	{
 		"code": "AGB-A6CJ-JPN",
 		"titles": [
 			"Croket! - Yume no Banker Survival!",
@@ -17458,6 +20257,14 @@
 		]
 	},
 	{
+		"code": "AGB-BUEP-EUR",
+		"titles": [
+			"Danny Phantom - The Ultimate Enemy",
+			"Danny Phantom - The Ultimate Enemy (Europe) (En,Fr,Nl)",
+			"DANNYPHANTOM"
+		]
+	},
+	{
 		"code": "AGB-BQYE-USA",
 		"titles": [
 			"Danny Phantom - Urban Jungle",
@@ -17488,6 +20295,12 @@
 		"titles": [
 			"Dave Mirra Freestyle BMX 2",
 			"DAVE MIRRA F"
+		]
+	},
+	{
+		"code": "AGB-AX2P-EUR-1",
+		"titles": [
+			"Dave Mirra Freestyle BMX 2"
 		]
 	},
 	{
@@ -17581,6 +20394,13 @@
 		]
 	},
 	{
+		"code": "AGB-ADXP-EUR",
+		"titles": [
+			"Dexter's Laboratory - Chess Challenge",
+			"DEXTER CHESS"
+		]
+	},
+	{
 		"code": "AGB-ADLE-USA",
 		"titles": [
 			"Dexter's Laboratory - Deesaster Strikes!",
@@ -17670,6 +20490,12 @@
 		"titles": [
 			"DK - King of Swing",
 			"KINGOFSWINGE"
+		]
+	},
+	{
+		"code": "DIS-AGB-BWGE-USA",
+		"titles": [
+			"DK - King of Swing"
 		]
 	},
 	{
@@ -17821,6 +20647,13 @@
 		]
 	},
 	{
+		"code": "AGB-BDOP-EUR",
+		"titles": [
+			"Dora the Explorer - Super Star Adventures!",
+			"DORA SPR STR"
+		]
+	},
+	{
 		"code": "AGB-AERE-USA",
 		"titles": [
 			"Dora the Explorer - The Search for the Pirate Pig's Treasure",
@@ -17846,6 +20679,25 @@
 		"titles": [
 			"Double Dragon Advance",
 			"DOUBLEDRAGON"
+		]
+	},
+	{
+		"code": "AGN-BWCP-UKV",
+		"titles": [
+			"Double Game! - Golden Nugget Casino &amp; Texas Hold 'em Poker"
+		]
+	},
+	{
+		"code": "AGB-BWQP-UKV",
+		"titles": [
+			"Double Game! - Quad Desert Fury &amp; Monster Trucks"
+		]
+	},
+	{
+		"code": "AGB-BW4J-JPN",
+		"titles": [
+			"Double Pack - Sonic Battle &amp; Sonic Advance",
+			"2IN1_ADV_BTL"
 		]
 	},
 	{
@@ -17880,6 +20732,13 @@
 		"titles": [
 			"Dragon Ball - Advanced Adventure",
 			"Dragon Ball - Advanced Adventure (Europe) (En,Fr,De,Es,It)",
+			"DRAGONBALLAA"
+		]
+	},
+	{
+		"code": "AGB-BDVE-USA",
+		"titles": [
+			"Dragon Ball - Advanced Adventure",
 			"DRAGONBALLAA"
 		]
 	},
@@ -18166,11 +21025,32 @@
 		]
 	},
 	{
+		"code": "AGB-BEDP-EUR",
+		"titles": [
+			"Ed, Edd n Eddy - The Mis-Edventures",
+			"EEE2"
+		]
+	},
+	{
 		"code": "AGB-AEME-USA",
 		"titles": [
 			"Egg Mania",
 			"Egg Mania (USA) (En,Fr,Es)",
 			"EGGOMANIA"
+		]
+	},
+	{
+		"code": "AGB-BELP-EUR",
+		"titles": [
+			"Elf - The Movie",
+			"ELF"
+		]
+	},
+	{
+		"code": "AGB-BZRE-USA",
+		"titles": [
+			"Enchanted - Once Upon Andalasia",
+			"ENCHANTED"
 		]
 	},
 	{
@@ -19104,6 +21984,22 @@
 		]
 	},
 	{
+		"code": "AGB-AGBJ-JPN",
+		"titles": [
+			"GBA AV Adapter",
+			"GetBackers Dakkanya - Jigoku no Scaramouche",
+			"Pokemon - Liechi Berry Glitch Fix &amp; Shiny Zigzagoon Distribution",
+			"GETBACKERS",
+			"AV 7111"
+		]
+	},
+	{
+		"code": "AGP-AGEE-USA",
+		"titles": [
+			"Gekido Advance - Kintaro's Revenge"
+		]
+	},
+	{
 		"code": "AGB-AZSE-USA",
 		"titles": [
 			"Gem Smashers",
@@ -19124,12 +22020,10 @@
 		]
 	},
 	{
-		"code": "AGB-AGBJ-JPN",
+		"code": "AGB-BGPJ-JPN",
 		"titles": [
-			"GetBackers Dakkanya - Jigoku no Scaramouche",
-			"Pokemon - Liechi Berry Glitch Fix &amp; Shiny Zigzagoon Distribution",
-			"GETBACKERS",
-			"AV 7111"
+			"Get Ride! Amdriver - Shutsugeki! Battle Party",
+			"AMDRIVERBTLP"
 		]
 	},
 	{
@@ -19279,6 +22173,13 @@
 	},
 	{
 		"code": "AGB-AGWE-USA",
+		"titles": [
+			"GT Advance 2 - Rally Racing",
+			"GT ADVANCE 2"
+		]
+	},
+	{
+		"code": "AGB-AGWP-EUR",
 		"titles": [
 			"GT Advance 2 - Rally Racing",
 			"GT ADVANCE 2"
@@ -19492,6 +22393,13 @@
 		"titles": [
 			"Harry Potter and the Goblet of Fire",
 			"Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da)"
+		]
+	},
+	{
+		"code": "AGB-BJXE-USA",
+		"titles": [
+			"Harry Potter and the Order of the Phoenix",
+			"HARRYPHOENI"
 		]
 	},
 	{
@@ -20005,10 +22913,23 @@
 		]
 	},
 	{
+		"code": "AGB-BJYF-FRA",
+		"titles": [
+			"Jimmy Neutron un Garcon Genial - L'Attaque des Twonkies",
+			"JIMMYNEUAOTT"
+		]
+	},
+	{
 		"code": "AGB-AZGJ-JPN",
 		"titles": [
 			"Jinsei Game Advance",
 			"LIFE_ADVANCE"
+		]
+	},
+	{
+		"code": "AGB-S-FZR-00",
+		"titles": [
+			"Jisu F-Zero Weilai Saiche"
 		]
 	},
 	{
@@ -20092,6 +23013,21 @@
 		"code": "AGB-AYKP-UKV",
 		"titles": [
 			"Karnaaj Rally"
+		]
+	},
+	{
+		"code": "AGB-B82J-JPN",
+		"titles": [
+			"Kawaii Koinu Wonderful",
+			"DOGWONDERFUL"
+		]
+	},
+	{
+		"code": "AGB-BKPJ-JPN",
+		"titles": [
+			"Kawaii Pet Game Gallery 2",
+			"Power Pro Kun Pocket 1, 2",
+			"PET GALLERY2"
 		]
 	},
 	{
@@ -20519,6 +23455,13 @@
 		]
 	},
 	{
+		"code": "AGB-BL8E-USA",
+		"titles": [
+			"Lara Croft Tomb Raider - Legend",
+			"TOMB RAIDER"
+		]
+	},
+	{
 		"code": "AGB-AL9P-EUR",
 		"titles": [
 			"Lara Croft Tomb Raider - The Prophecy",
@@ -20547,6 +23490,13 @@
 		]
 	},
 	{
+		"code": "AGB-BU7P-EUR",
+		"titles": [
+			"Legend of Spyro, The - The Eternal Night",
+			"TLOS TEN"
+		]
+	},
+	{
 		"code": "AGB-AZLE-USA",
 		"titles": [
 			"Legend of Zelda, The - A Link to the Past &amp; Four Swords",
@@ -20560,6 +23510,12 @@
 			"Legend of Zelda, The - A Link to the Past &amp; Four Swords",
 			"Legend of Zelda, The - A Link to the Past & Four Swords (Europe) (En,Fr,De,Es,It)",
 			"GBAZELDA"
+		]
+	},
+	{
+		"code": "DIS-AGB-BZHE-USA",
+		"titles": [
+			"Legend of Zelda, The - The Minish Cap"
 		]
 	},
 	{
@@ -21172,6 +24128,13 @@
 		]
 	},
 	{
+		"code": "AGB-BIYE-USA",
+		"titles": [
+			"Math Patrol - The Kleptoid Threat",
+			"MATH PATROL:"
+		]
+	},
+	{
 		"code": "AGB-RZWJ-JPN",
 		"titles": [
 			"Mawaru - Made in Wario",
@@ -21514,6 +24477,13 @@
 		]
 	},
 	{
+		"code": "AGB-BQAJ-JPN",
+		"titles": [
+			"Meitantei Conan - Akatsuki no Monument",
+			"DETECTIVE C2"
+		]
+	},
+	{
 		"code": "AGB-AMIP-EUR",
 		"titles": [
 			"Men in Black - The Series",
@@ -21657,6 +24627,13 @@
 		]
 	},
 	{
+		"code": "AGB-BTLJ-JPN",
+		"titles": [
+			"Minna no Soft Series - Happy Trump 20",
+			"HAPPYTRUMP20"
+		]
+	},
+	{
 		"code": "AGB-BHYJ-JPN",
 		"titles": [
 			"Minna no Soft Series - Hyokkori Hyoutan-jima - Don Gabacho Daikatsuyaku no Maki",
@@ -21795,6 +24772,13 @@
 		]
 	},
 	{
+		"code": "AGB-AJAP-EUR",
+		"titles": [
+			"Monster Jam - Maximum Destruction",
+			"MONSTER JAM"
+		]
+	},
+	{
 		"code": "AGB-A3NJ-JPN",
 		"titles": [
 			"Monster Summoner",
@@ -21826,6 +24810,13 @@
 		"titles": [
 			"Monsters, Inc.",
 			"Monsters, Inc. (USA, Europe)"
+		]
+	},
+	{
+		"code": "AGB-BMNS-ESP",
+		"titles": [
+			"Morning Adventure, The",
+			"Morning Adventure, The (Spain) (Promo)"
 		]
 	},
 	{
@@ -22079,6 +25070,13 @@
 		]
 	},
 	{
+		"code": "AGB-BUJE-USA",
+		"titles": [
+			"Nicktoons - Attack of the Toybots",
+			"NICK ATTACK"
+		]
+	},
+	{
 		"code": "AGB-ANTJ-JPN",
 		"titles": [
 			"Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series",
@@ -22122,6 +25120,13 @@
 		"code": "AGB-BNKP-EUU",
 		"titles": [
 			"Noddy - A Day in Toyland"
+		]
+	},
+	{
+		"code": "AGB-BH5F-FRA",
+		"titles": [
+			"Nos Voisins, les Hommes",
+			"OVERTHEHEDGE"
 		]
 	},
 	{
@@ -22184,6 +25189,13 @@
 		]
 	},
 	{
+		"code": "AGB-BO5J-JPN",
+		"titles": [
+			"Oshare Princess 5",
+			"OSYARE PRI5"
+		]
+	},
+	{
 		"code": "AGB-A5SJ-JPN",
 		"titles": [
 			"Oshare Wanko",
@@ -22215,6 +25227,14 @@
 		"code": "AGB-BH5P-UKV",
 		"titles": [
 			"Over the Hedge"
+		]
+	},
+	{
+		"code": "AGB-BH5H-HOL",
+		"titles": [
+			"Over the Hedge - Beesten bij de Buren",
+			"Over the Hedge - Beesten bij de Buren (Netherlands)",
+			"OVERTHEHEDGE"
 		]
 	},
 	{
@@ -22269,6 +25289,13 @@
 		]
 	},
 	{
+		"code": "AGB-BHBE-USA",
+		"titles": [
+			"Paws &amp; Claws - Best Friends - Dogs &amp; Cats",
+			"BESTFRIENDS"
+		]
+	},
+	{
 		"code": "AGB-BQVE-USA",
 		"titles": [
 			"Paws &amp; Claws - Pet Vet"
@@ -22306,6 +25333,13 @@
 			"Peter Pan - The Motion Picture Event",
 			"Peter Pan - The Motion Picture Event (Europe) (En,Fr,De,Es,It)",
 			"PETER PAN"
+		]
+	},
+	{
+		"code": "AGB-AJHE-USA",
+		"titles": [
+			"Petz - Hamsterz Life 2",
+			"PETZ-HAM2"
 		]
 	},
 	{
@@ -22555,6 +25589,13 @@
 		"titles": [
 			"Pocket Music",
 			"POCKET MUSIC"
+		]
+	},
+	{
+		"code": "AGB-BTDJ-JPN",
+		"titles": [
+			"Poke Inu",
+			"POKEINU"
 		]
 	},
 	{
@@ -22817,9 +25858,30 @@
 		]
 	},
 	{
+		"code": "AGB-B3FE-USA",
+		"titles": [
+			"Polly Pocket! - Super Splash Island",
+			"POLLY POCKET"
+		]
+	},
+	{
 		"code": "AGB-BIDP-UKV",
 		"titles": [
 			"Pop Idol"
+		]
+	},
+	{
+		"code": "AGB-APOE-USA",
+		"titles": [
+			"Popeye - Rush for Spinach",
+			"POPEYE RFS"
+		]
+	},
+	{
+		"code": "AGB-BROP-EUR",
+		"titles": [
+			"Postman Pat and the Greendale Rocket",
+			"POSTMAN PAT"
 		]
 	},
 	{
@@ -22827,13 +25889,6 @@
 		"titles": [
 			"Power Poke Dash",
 			"PAWAPOKED1"
-		]
-	},
-	{
-		"code": "AGB-BKPJ-JPN",
-		"titles": [
-			"Power Pro Kun Pocket 1, 2",
-			"PET GALLERY2"
 		]
 	},
 	{
@@ -22866,6 +25921,12 @@
 		"code": "AGB-BPOP-UKV",
 		"titles": [
 			"Power Rangers - Dino Thunder"
+		]
+	},
+	{
+		"code": "AGB-APRF-FRA",
+		"titles": [
+			"Power Rangers - La Force du Temps"
 		]
 	},
 	{
@@ -22923,6 +25984,13 @@
 		]
 	},
 	{
+		"code": "AGB-BNPE-USA",
+		"titles": [
+			"Princess Natasha - Student, Secret Agent, Princess",
+			"PNATASHASSAP"
+		]
+	},
+	{
 		"code": "AGB-ALMJ-JPN",
 		"titles": [
 			"Pro Yakyuu Team o Tsukurou! Advance",
@@ -22948,6 +26016,13 @@
 		"titles": [
 			"Punch King - Arcade Boxing",
 			"PUNCH KING"
+		]
+	},
+	{
+		"code": "AGB-BYXE-USA",
+		"titles": [
+			"Puppy Luv - Spa and Resort",
+			"PUPPYLUV"
 		]
 	},
 	{
@@ -23026,6 +26101,13 @@
 		"titles": [
 			"Rayman - 10th Anniversary",
 			"RAYMAN 10TH"
+		]
+	},
+	{
+		"code": "AGB-BRYE-USA",
+		"titles": [
+			"Rayman - Hoodlum's Revenge",
+			"HOODLUMS REV"
 		]
 	},
 	{
@@ -23181,6 +26263,13 @@
 	},
 	{
 		"code": "AGB-BRTP-EUR",
+		"titles": [
+			"Robots",
+			"ROBOTS"
+		]
+	},
+	{
+		"code": "AGB-BRTJ-JPN",
 		"titles": [
 			"Robots",
 			"ROBOTS"
@@ -23378,6 +26467,13 @@
 		]
 	},
 	{
+		"code": "AGB-AOSE-USA",
+		"titles": [
+			"Samurai Deeper Kyo",
+			"SAMURAI_DST1"
+		]
+	},
+	{
 		"code": "AGB-AECJ-JPN",
 		"titles": [
 			"Samurai Evolution - Oukoku Geist",
@@ -23478,6 +26574,12 @@
 		]
 	},
 	{
+		"code": "AGB-BLAP-UKV",
+		"titles": [
+			"Scrabble Scramble!"
+		]
+	},
+	{
 		"code": "AGB-V49J-JPN",
 		"titles": [
 			"Screw Breaker - Goushin DoriRureRo",
@@ -23555,6 +26657,13 @@
 		]
 	},
 	{
+		"code": "AGB-BSOP-EUR",
+		"titles": [
+			"Shaman King - Master of Spirits",
+			"SHAMAN KING"
+		]
+	},
+	{
 		"code": "AGB-AKAJ-JPN",
 		"titles": [
 			"Shaman King Card Game - Chou Senjiryakketsu 2",
@@ -23595,6 +26704,20 @@
 		]
 	},
 	{
+		"code": "AGB-BSUI-ITA",
+		"titles": [
+			"Shark Tale",
+			"SHARK STORY"
+		]
+	},
+	{
+		"code": "AGB-B9TJ-JPN",
+		"titles": [
+			"Shark Tale",
+			"SHARK TALE"
+		]
+	},
+	{
 		"code": "AGB-ASCP-EUR",
 		"titles": [
 			"Shaun Palmer's Pro Snowboarder",
@@ -23606,6 +26729,13 @@
 		"titles": [
 			"Shaun Palmer's Pro Snowboarder",
 			"SHAUNPALMER1"
+		]
+	},
+	{
+		"code": "AGB-B4KJ-JPN",
+		"titles": [
+			"Shikakui Atama o Maruku Suru. Advance - Kanji, Keisan",
+			"SIKAMARUKAKE"
 		]
 	},
 	{
@@ -23782,6 +26912,13 @@
 		"titles": [
 			"Shrek 2 - Beg for Mercy",
 			"Shrek 2 - Beg for Mercy (USA, Europe)"
+		]
+	},
+	{
+		"code": "AGB-B3HE-USA",
+		"titles": [
+			"Shrek the Third",
+			"SHREK 3"
 		]
 	},
 	{
@@ -24090,10 +27227,36 @@
 		]
 	},
 	{
+		"code": "AGB-BI3P-UKV",
+		"titles": [
+			"Spider-Man 3"
+		]
+	},
+	{
+		"code": "GBA-BI3I-ITA",
+		"titles": [
+			"Spider-Man 3"
+		]
+	},
+	{
+		"code": "AGB-BI3F-FRA",
+		"titles": [
+			"Spider-Man 3",
+			"SPIDERMAN3"
+		]
+	},
+	{
 		"code": "AGB-BSQE-USA",
 		"titles": [
 			"SpongeBob SquarePants - Battle for Bikini Bottom",
 			"SBSPBATTLEBB"
+		]
+	},
+	{
+		"code": "AGB-BQ4E-USA",
+		"titles": [
+			"SpongeBob SquarePants - Creature from the Krusty Krab",
+			"SPONGEBOBCKK"
 		]
 	},
 	{
@@ -24162,6 +27325,19 @@
 		"titles": [
 			"Sports Illustrated for Kids - Football",
 			"SIFKFOOTBALL"
+		]
+	},
+	{
+		"code": "AGB-B23E-USA",
+		"titles": [
+			"Sportsmans Pack 2 in 1 - Cabela's Big Game Hunter + Rapala Pro Fishing",
+			"SPORTSMAN'S"
+		]
+	},
+	{
+		"code": "AGB-AHNP-EUU",
+		"titles": [
+			"Spy Hunter"
 		]
 	},
 	{
@@ -24664,6 +27840,13 @@
 		]
 	},
 	{
+		"code": "AGB-BXUP-EUR",
+		"titles": [
+			"Surf's Up",
+			"SURFS UP"
+		]
+	},
+	{
 		"code": "AGB-ABGJ-JPN",
 		"titles": [
 			"Sweet Cookie Pie",
@@ -24962,6 +28145,13 @@
 		]
 	},
 	{
+		"code": "AGB-BNCJ-JPN",
+		"titles": [
+			"Tim Burton's The Nightmare Before Christmas - The Pumpkin King",
+			"NIGHTMARE"
+		]
+	},
+	{
 		"code": "AGB-BNCE-USA",
 		"titles": [
 			"Tim Burton's The Nightmare Before Christmas - The Pumpkin King",
@@ -25149,6 +28339,13 @@
 		]
 	},
 	{
+		"code": "AGB-A2YE-USA",
+		"titles": [
+			"Top Gun - Combat Zones",
+			"TOPGUN CZ"
+		]
+	},
+	{
 		"code": "AGB-ATGP-EUR",
 		"titles": [
 			"Top Gun - Firestorm Advance"
@@ -25182,6 +28379,13 @@
 		"titles": [
 			"Totally Spies!",
 			"TOTALLYSPIES"
+		]
+	},
+	{
+		"code": "AGB-B2LE-USA",
+		"titles": [
+			"Totally Spies! 2 - Undercover",
+			"TSPIES 2"
 		]
 	},
 	{
@@ -25248,6 +28452,12 @@
 		]
 	},
 	{
+		"code": "AGB-BT6P-UKV",
+		"titles": [
+			"Trollz - Hair Affair!"
+		]
+	},
+	{
 		"code": "AGB-BTNE-USA",
 		"titles": [
 			"Tron 2.0 - Killer App",
@@ -25299,6 +28509,13 @@
 		"titles": [
 			"Twin Series 1 - Mezase Debut! - Fashion Designer Monogatari + Kawaii Pet Game Gallery 2",
 			"TWIN SERIES1"
+		]
+	},
+	{
+		"code": "AGB-BHFJ-JPN",
+		"titles": [
+			"Twin Series 4 - Hamu Hamu Monster EX - Hamster Monogatari RPG + Fantasy Puzzle - Hamster Monogatari - Mahou no Meikyuu 1.2.3",
+			"TWIN SERIES4"
 		]
 	},
 	{
@@ -25385,6 +28602,20 @@
 		"code": "GBA-BU4E-USA",
 		"titles": [
 			"Unfabulous"
+		]
+	},
+	{
+		"code": "AGB-BUIE-USA",
+		"titles": [
+			"Uno - Free Fall",
+			"UNO FREEFALL"
+		]
+	},
+	{
+		"code": "AGB-BUIP-EUR",
+		"titles": [
+			"Uno - Free Fall",
+			"UNO FREEFALL"
 		]
 	},
 	{
@@ -25480,6 +28711,13 @@
 		"titles": [
 			"Wagamama Fairy Mirumo de Pon! - Yume no Kakera",
 			"MIRUMODEPON4"
+		]
+	},
+	{
+		"code": "AGB-BWXJ-JPN",
+		"titles": [
+			"Wanko Mix Chiwanko World",
+			"WANKOMIKKUSU"
 		]
 	},
 	{
@@ -25626,10 +28864,25 @@
 		]
 	},
 	{
+		"code": "AGB-BWZP-EUR",
+		"titles": [
+			"Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3",
+			"Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+			"WINNIE-RM3"
+		]
+	},
+	{
 		"code": "AGB-AWPJ-JPN",
 		"titles": [
 			"Winning Post for Game Boy Advance",
 			"WINNINGPOST"
+		]
+	},
+	{
+		"code": "AGB-BWIP-EUR",
+		"titles": [
+			"WinX Club",
+			"WINXCLUB"
 		]
 	},
 	{
@@ -25654,6 +28907,13 @@
 		]
 	},
 	{
+		"code": "AGB-BB8E-USA",
+		"titles": [
+			"Word Safari - The Friendship Totems",
+			"WORD SAFARI:"
+		]
+	},
+	{
 		"code": "AGB-BP9E-USA",
 		"titles": [
 			"World Championship Poker",
@@ -25667,6 +28927,12 @@
 			"World Poker Tour",
 			"World Poker Tour (Europe) (En,Fr,De)",
 			"WPT2K6"
+		]
+	},
+	{
+		"code": "AGB-BWRE-USA",
+		"titles": [
+			"World Reborn"
 		]
 	},
 	{
@@ -45470,13 +48736,6 @@
 		]
 	},
 	{
-		"code": "AGB-ACTY-EUU",
-		"titles": [
-			"Creatures (Europe) (En,Es,It)",
-			"CREATURESAGB"
-		]
-	},
-	{
 		"code": "AGB-ADLP-EUR",
 		"titles": [
 			"Dexter's Laboratory - Deesaster Strikes! (Europe) (En,Fr,De,Es,It)",
@@ -45789,12 +49048,6 @@
 		]
 	},
 	{
-		"code": "AGB-BBXD-NOE",
-		"titles": [
-			"Bibi Blocksberg - Der Magische Hexenkreis (Germany)"
-		]
-	},
-	{
 		"code": "AGB-BC2S-ESP",
 		"titles": [
 			"Shin chan contra los Munecos de Shock Gahn (Spain)",
@@ -45805,13 +49058,6 @@
 		"code": "AGB-BCAX-FAH",
 		"titles": [
 			"Cars (Europe) (Fr,Nl)"
-		]
-	},
-	{
-		"code": "AGB-BDZH-HOL",
-		"titles": [
-			"2 Games in 1 - Monsters en Co. + Finding Nemo (Netherlands) (En,Es,Nl+Fr,Nl)",
-			"MONSNEMO_DUT"
 		]
 	},
 	{
@@ -45839,13 +49085,6 @@
 		"titles": [
 			"Madagascar (Netherlands)",
 			"MADAGASCAR"
-		]
-	},
-	{
-		"code": "AGB-BH5H-HOL",
-		"titles": [
-			"Over the Hedge - Beesten bij de Buren (Netherlands)",
-			"OVERTHEHEDGE"
 		]
 	},
 	{
@@ -45933,12 +49172,6 @@
 		"titles": [
 			"Madagascar - Operation Penguin (Europe) (It,Nl)",
 			"PENGUINS"
-		]
-	},
-	{
-		"code": "AGB-BMNS-ESP",
-		"titles": [
-			"Morning Adventure, The (Spain) (Promo)"
 		]
 	},
 	{
@@ -46070,13 +49303,6 @@
 		]
 	},
 	{
-		"code": "AGB-BUEP-EUR",
-		"titles": [
-			"Danny Phantom - The Ultimate Enemy (Europe) (En,Fr,Nl)",
-			"DANNYPHANTOM"
-		]
-	},
-	{
 		"code": "AGB-BUYP-EUR",
 		"titles": [
 			"Ant Bully, The (Europe) (En,Fr,De,Es,It)",
@@ -46088,19 +49314,6 @@
 		"titles": [
 			"WinX Club (USA)",
 			"WINXCLUB"
-		]
-	},
-	{
-		"code": "AGB-BWZP-EUR",
-		"titles": [
-			"Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
-			"WINNIE-RM3"
-		]
-	},
-	{
-		"code": "AGB-BXGP-UKV",
-		"titles": [
-			"2-in-1 Fun Pack - Shrek 2 + Madagascar (Europe)"
 		]
 	},
 	{
@@ -46146,27 +49359,9 @@
 		]
 	},
 	{
-		"code": "CGB-A22X-EUR",
-		"titles": [
-			"John Romero's Daikatana (Europe) (En,Fr,It)"
-		]
-	},
-	{
-		"code": "CGB-A3HP-EUR",
-		"titles": [
-			"Konami Winter Games (Europe)"
-		]
-	},
-	{
 		"code": "CGB-AA6P-FAH",
 		"titles": [
 			"Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
-		"code": "CGB-AF9P-EUR",
-		"titles": [
-			"Casper (Europe) (En,Fr,De)"
 		]
 	},
 	{
@@ -46206,21 +49401,9 @@
 		]
 	},
 	{
-		"code": "CGB-AOZP-EUR",
-		"titles": [
-			"Dogz (Europe)"
-		]
-	},
-	{
 		"code": "CGB-AQOP-EUU",
 		"titles": [
 			"Ready 2 Rumble Boxing (Europe)"
-		]
-	},
-	{
-		"code": "CGB-AQYP-EUR",
-		"titles": [
-			"Qix Adventure (Europe)"
 		]
 	},
 	{
@@ -46290,27 +49473,9 @@
 		]
 	},
 	{
-		"code": "CGB-AW9P-EUR",
-		"titles": [
-			"Wacky Races (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
-		"code": "CGB-AXTP-EUR",
-		"titles": [
-			"Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
 		"code": "CGB-AXWP-FAH",
 		"titles": [
 			"Supreme Snowboarding (Europe) (En,Fr,De)"
-		]
-	},
-	{
-		"code": "CGB-AY9P-EUR",
-		"titles": [
-			"Papyrus (Europe) (En,Fr,De,Es,It,Nl)"
 		]
 	},
 	{
@@ -46344,33 +49509,9 @@
 		]
 	},
 	{
-		"code": "CGB-B3OP-EUR",
-		"titles": [
-			"SnowCross (Europe) (En,Fr,De,Es,It,Pt)"
-		]
-	},
-	{
-		"code": "CGB-B7DP-EUR",
-		"titles": [
-			"Snow White and the Seven Dwarfs (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)"
-		]
-	},
-	{
-		"code": "CGB-BADP-EUR",
-		"titles": [
-			"Aladdin (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
 		"code": "CGB-BAZP-EUR",
 		"titles": [
 			"Antz Racing (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
-		"code": "CGB-BB2P-EUR",
-		"titles": [
-			"Men in Black 2 - The Series (Europe) (En,Fr,De)"
 		]
 	},
 	{
@@ -46398,18 +49539,6 @@
 		]
 	},
 	{
-		"code": "CGB-BDQP-EUR",
-		"titles": [
-			"Tiny Toon Adventures - Dizzy's Candy Quest (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
-		"code": "CGB-BEBP-EUR",
-		"titles": [
-			"Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt)"
-		]
-	},
-	{
 		"code": "CGB-BFUP-EUR",
 		"titles": [
 			"Shrek - Fairy Tale Freakdown (USA, Europe) (En,Fr,De,Es,It)"
@@ -46419,24 +49548,6 @@
 		"code": "CGB-BHFE-USA",
 		"titles": [
 			"Mary-Kate and Ashley - Winners Circle (USA, Europe)"
-		]
-	},
-	{
-		"code": "CGB-BHQP-EUR",
-		"titles": [
-			"Hype - The Time Quest (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)"
-		]
-	},
-	{
-		"code": "CGB-BIKP-EUR",
-		"titles": [
-			"International Karate 2000 (Europe)"
-		]
-	},
-	{
-		"code": "CGB-BISP-EUR",
-		"titles": [
-			"Rainbow Islands (Europe) (En,Fr,De,Es,It)"
 		]
 	},
 	{
@@ -46476,12 +49587,6 @@
 		]
 	},
 	{
-		"code": "CGB-BNXP-EUR",
-		"titles": [
-			"NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt)"
-		]
-	},
-	{
 		"code": "CGB-BOBP-HOL",
 		"titles": [
 			"Bob the Builder - Fix it Fun! (Europe) (En,Fr,De,Es,Nl)"
@@ -46494,21 +49599,9 @@
 		]
 	},
 	{
-		"code": "CGB-BPTE-USA",
-		"titles": [
-			"Powerpuff Girls, The - Paint the Townsville Green (USA)"
-		]
-	},
-	{
 		"code": "CGB-BQAP-EUR-1",
 		"titles": [
 			"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)"
-		]
-	},
-	{
-		"code": "CGB-BRUF-FRA",
-		"titles": [
-			"Rocket Power - La Glisse de l'Extreme (France)"
 		]
 	},
 	{
@@ -46530,18 +49623,6 @@
 		]
 	},
 	{
-		"code": "CGB-BT2F-FRA",
-		"titles": [
-			"Taxi 2 (France)"
-		]
-	},
-	{
-		"code": "CGB-BT5X-EUU",
-		"titles": [
-			"Toy Story Racer (Europe) (En,Fr,De)"
-		]
-	},
-	{
 		"code": "CGB-BT9P-FRA",
 		"titles": [
 			"Tootuff (Europe) (En,Fr,De,Es,It,Nl)"
@@ -46551,12 +49632,6 @@
 		"code": "CGB-BTGP-EUR",
 		"titles": [
 			"Tony Hawk's Pro Skater 2 (USA, Europe)"
-		]
-	},
-	{
-		"code": "CGB-BTKP-EUR",
-		"titles": [
-			"Batman of the Future - Return of the Joker (Europe) (En,Fr,De)"
 		]
 	},
 	{
@@ -46584,18 +49659,6 @@
 		]
 	},
 	{
-		"code": "CGB-BUEP-EUR",
-		"titles": [
-			"UEFA 2000 (Europe) (En,Fr,De,Es,It,Nl)"
-		]
-	},
-	{
-		"code": "CGB-BUIP-EUR",
-		"titles": [
-			"O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)"
-		]
-	},
-	{
 		"code": "CGB-BY3P-HOL",
 		"titles": [
 			"Yu-Gi-Oh! - Dark Duel Stories (Europe)"
@@ -46611,12 +49674,6 @@
 		"code": "CGB-VYHE-USA",
 		"titles": [
 			"Star Wars Episode I - Racer (USA, Europe) (Rumble Version)"
-		]
-	},
-	{
-		"code": "DMG-A2LJ-JPN",
-		"titles": [
-			"Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)"
 		]
 	},
 	{
@@ -46656,12 +49713,6 @@
 		]
 	},
 	{
-		"code": "DMG-AAXI-ITA",
-		"titles": [
-			"Pokemon - Versione Argento (Italy) (SGB Enhanced) (GB Compatible)"
-		]
-	},
-	{
 		"code": "DMG-ACRE-USA",
 		"titles": [
 			"Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
@@ -46683,18 +49734,6 @@
 		"code": "DMG-ADSP-UKV",
 		"titles": [
 			"Desert Strike - Return to the Gulf (Europe) (SGB Enhanced)"
-		]
-	},
-	{
-		"code": "DMG-ADYP-UKV",
-		"titles": [
-			"Barbie - Ocean Discovery (United Kingdom) (GB Compatible)"
-		]
-	},
-	{
-		"code": "DMG-AF5P-EUR",
-		"titles": [
-			"Konami GB Collection Vol.1 (Europe) (GB Compatible)"
 		]
 	},
 	{
@@ -46800,27 +49839,9 @@
 		]
 	},
 	{
-		"code": "DMG-AQCP-EUR",
-		"titles": [
-			"Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)"
-		]
-	},
-	{
-		"code": "DMG-ARKP-EUR",
-		"titles": [
-			"Legend of the River King GB (Europe) (SGB Enhanced) (GB Compatible)"
-		]
-	},
-	{
 		"code": "DMG-ARPP-EUU",
 		"titles": [
 			"Rampage - World Tour (USA, Europe) (GB Compatible)"
-		]
-	},
-	{
-		"code": "DMG-ARRP-EUR",
-		"titles": [
-			"Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 		]
 	},
 	{
@@ -46857,12 +49878,6 @@
 		"code": "DMG-ATEA-EUR",
 		"titles": [
 			"Tetris DX (World) (SGB Enhanced) (GB Compatible)"
-		]
-	},
-	{
-		"code": "DMG-AUNP-EUR",
-		"titles": [
-			"Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
 		]
 	},
 	{
@@ -46942,18 +49957,6 @@
 		"code": "DMG-BB-EUR",
 		"titles": [
 			"Bugs Bunny Crazy Castle, The (USA, Europe)"
-		]
-	},
-	{
-		"code": "DMG-BFXP-EUR",
-		"titles": [
-			"Titus the Fox (Europe) (GB Compatible)"
-		]
-	},
-	{
-		"code": "DMG-BM2P-EUR",
-		"titles": [
-			"Harvest Moon 2 GBC (Europe) (SGB Enhanced) (GB Compatible)"
 		]
 	},
 	{
@@ -47282,12 +50285,6 @@
 		"code": "DMG-ZZJ-1",
 		"titles": [
 			"Shanghai (Japan) (Activision)"
-		]
-	},
-	{
-		"code": "DMG-APXP-EUR",
-		"titles": [
-			"a bug’s life, UK/GER"
 		]
 	},
 	{
@@ -47762,12 +50759,6 @@
 		"code": "AGB-A2XE-USA",
 		"titles": [
 			"MX 2002"
-		]
-	},
-	{
-		"code": "AGB-A2YE-USA",
-		"titles": [
-			"TOPGUN CZ"
 		]
 	},
 	{
@@ -48863,12 +51854,6 @@
 		]
 	},
 	{
-		"code": "AGB-ADXP-EUR",
-		"titles": [
-			"DEXTER CHESS"
-		]
-	},
-	{
 		"code": "AGB-ADYJ-JPN",
 		"titles": [
 			"DEPATIKA"
@@ -49278,12 +52263,6 @@
 		]
 	},
 	{
-		"code": "AGB-AGWP-EUR",
-		"titles": [
-			"GT ADVANCE 2"
-		]
-	},
-	{
 		"code": "AGB-AGXE-USA",
 		"titles": [
 			"GGXAE"
@@ -49578,12 +52557,6 @@
 		]
 	},
 	{
-		"code": "AGB-AJAP-EUR",
-		"titles": [
-			"MONSTER JAM"
-		]
-	},
-	{
 		"code": "AGB-AJCE-USA",
 		"titles": [
 			"JACKIECHANDH"
@@ -49623,12 +52596,6 @@
 		"code": "AGB-AJGF-NOE",
 		"titles": [
 			"DISNEY TARZA"
-		]
-	},
-	{
-		"code": "AGB-AJHE-USA",
-		"titles": [
-			"PETZ-HAM2"
 		]
 	},
 	{
@@ -50430,12 +53397,6 @@
 		]
 	},
 	{
-		"code": "AGB-AOSE-USA",
-		"titles": [
-			"SAMURAI_DST1"
-		]
-	},
-	{
 		"code": "AGB-AOTE-USA",
 		"titles": [
 			"POLLY POCKET"
@@ -50541,12 +53502,6 @@
 		"code": "AGB-APME-USA",
 		"titles": [
 			"PLANET MNSTR"
-		]
-	},
-	{
-		"code": "AGB-APOE-USA",
-		"titles": [
-			"POPEYE RFS"
 		]
 	},
 	{
@@ -51258,12 +54213,6 @@
 		]
 	},
 	{
-		"code": "AGB-AVCE-USA",
-		"titles": [
-			"CORVETTE"
-		]
-	},
-	{
 		"code": "AGB-AVDJ-JPN",
 		"titles": [
 			"DYNAMIC"
@@ -51829,12 +54778,6 @@
 		]
 	},
 	{
-		"code": "AGB-B23E-USA",
-		"titles": [
-			"SPORTSMAN'S"
-		]
-	},
-	{
 		"code": "AGB-B25E-USA",
 		"titles": [
 			"SCOOBYUN"
@@ -51886,12 +54829,6 @@
 		"code": "AGB-B2KJ-JPN",
 		"titles": [
 			"KISSKISS"
-		]
-	},
-	{
-		"code": "AGB-B2LE-USA",
-		"titles": [
-			"TSPIES 2"
 		]
 	},
 	{
@@ -51979,12 +54916,6 @@
 		]
 	},
 	{
-		"code": "AGB-B3FE-USA",
-		"titles": [
-			"POLLY POCKET"
-		]
-	},
-	{
 		"code": "AGB-B3FP-EUR",
 		"titles": [
 			"POLLY POCKET"
@@ -51994,12 +54925,6 @@
 		"code": "AGB-B3GE-USA",
 		"titles": [
 			"SIGMA STAR"
-		]
-	},
-	{
-		"code": "AGB-B3HE-USA",
-		"titles": [
-			"SHREK 3"
 		]
 	},
 	{
@@ -52105,12 +55030,6 @@
 		]
 	},
 	{
-		"code": "AGB-B4KJ-JPN",
-		"titles": [
-			"SIKAMARUKAKE"
-		]
-	},
-	{
 		"code": "AGB-B4LJ-JPN",
 		"titles": [
 			"SYUGA2 HEART"
@@ -52168,12 +55087,6 @@
 		"code": "AGB-B53P-EUR",
 		"titles": [
 			"CRASH & SPYR"
-		]
-	},
-	{
-		"code": "AGB-B54E-USA",
-		"titles": [
-			"CRASHSPYRO4"
 		]
 	},
 	{
@@ -52339,12 +55252,6 @@
 		]
 	},
 	{
-		"code": "AGB-B82J-JPN",
-		"titles": [
-			"DOGWONDERFUL"
-		]
-	},
-	{
 		"code": "AGB-B82P-EUR",
 		"titles": [
 			"DOGZ"
@@ -52423,12 +55330,6 @@
 		]
 	},
 	{
-		"code": "AGB-B9TJ-JPN",
-		"titles": [
-			"SHARK TALE"
-		]
-	},
-	{
 		"code": "AGB-BABJ-JPN",
 		"titles": [
 			"TOWERSHAFT"
@@ -52501,24 +55402,6 @@
 		]
 	},
 	{
-		"code": "AGB-BB3E-USA",
-		"titles": [
-			"BARBIE12PRCS"
-		]
-	},
-	{
-		"code": "AGB-BB4P-EUR",
-		"titles": [
-			"MATCHBOXMISS"
-		]
-	},
-	{
-		"code": "AGB-BB8E-USA",
-		"titles": [
-			"WORD SAFARI:"
-		]
-	},
-	{
 		"code": "AGB-BBAP-EUR",
 		"titles": [
 			"SHAMUSADV"
@@ -52585,12 +55468,6 @@
 		]
 	},
 	{
-		"code": "AGB-BBNE-USA",
-		"titles": [
-			"BARBIEIP"
-		]
-	},
-	{
 		"code": "AGB-BBRP-EUR",
 		"titles": [
 			"BROTHER BEAR"
@@ -52630,12 +55507,6 @@
 		"code": "AGB-BBVE-USA",
 		"titles": [
 			"BABAR_TTR"
-		]
-	},
-	{
-		"code": "AGB-BBWP-EUR",
-		"titles": [
-			"AVATAR"
 		]
 	},
 	{
@@ -52801,12 +55672,6 @@
 		]
 	},
 	{
-		"code": "AGB-BCVE-USA",
-		"titles": [
-			"SD_CC&MH_EFG"
-		]
-	},
-	{
 		"code": "AGB-BCWE-USA",
 		"titles": [
 			"CATWOMAN"
@@ -52939,12 +55804,6 @@
 		]
 	},
 	{
-		"code": "AGB-BDOP-EUR",
-		"titles": [
-			"DORA SPR STR"
-		]
-	},
-	{
 		"code": "AGB-BDPE-USA",
 		"titles": [
 			"SD_SUMOS_AGB"
@@ -52975,12 +55834,6 @@
 		]
 	},
 	{
-		"code": "AGB-BDVE-USA",
-		"titles": [
-			"DRAGONBALLAA"
-		]
-	},
-	{
 		"code": "AGB-BDVK-KOR",
 		"titles": [
 			"DRAGONBALLAA"
@@ -53008,12 +55861,6 @@
 		"code": "AGB-BDZF-NOE",
 		"titles": [
 			"NEMO_MON_FRE"
-		]
-	},
-	{
-		"code": "AGB-BDZI-ITA",
-		"titles": [
-			"NEMO_MON_ITA"
 		]
 	},
 	{
@@ -53071,12 +55918,6 @@
 		]
 	},
 	{
-		"code": "AGB-BEDP-EUR",
-		"titles": [
-			"EEE2"
-		]
-	},
-	{
 		"code": "AGB-BEEP-EUR",
 		"titles": [
 			"MAYA THE BEE"
@@ -53096,12 +55937,6 @@
 	},
 	{
 		"code": "AGB-BELE-USA",
-		"titles": [
-			"ELF"
-		]
-	},
-	{
-		"code": "AGB-BELP-EUR",
 		"titles": [
 			"ELF"
 		]
@@ -53389,12 +56224,6 @@
 		]
 	},
 	{
-		"code": "AGB-BGPJ-JPN",
-		"titles": [
-			"AMDRIVERBTLP"
-		]
-	},
-	{
 		"code": "AGB-BGQE-USA",
 		"titles": [
 			"GHTP MAXD"
@@ -53473,12 +56302,6 @@
 		]
 	},
 	{
-		"code": "AGB-BH5F-FRA",
-		"titles": [
-			"OVERTHEHEDGE"
-		]
-	},
-	{
 		"code": "AGB-BH5P-EUR",
 		"titles": [
 			"OVERTHEHEDGE"
@@ -53527,12 +56350,6 @@
 		]
 	},
 	{
-		"code": "AGB-BHBE-USA",
-		"titles": [
-			"BESTFRIENDS"
-		]
-	},
-	{
 		"code": "AGB-BHCJ-JPN",
 		"titles": [
 			"HAMSTAR COLL"
@@ -53542,12 +56359,6 @@
 		"code": "AGB-BHEE-USA",
 		"titles": [
 			"HOTWHEELSSTC"
-		]
-	},
-	{
-		"code": "AGB-BHFJ-JPN",
-		"titles": [
-			"TWIN SERIES4"
 		]
 	},
 	{
@@ -53630,12 +56441,6 @@
 	},
 	{
 		"code": "AGB-BI3D-NOE",
-		"titles": [
-			"SPIDERMAN3"
-		]
-	},
-	{
-		"code": "AGB-BI3F-FRA",
 		"titles": [
 			"SPIDERMAN3"
 		]
@@ -53809,12 +56614,6 @@
 		]
 	},
 	{
-		"code": "AGB-BIYE-USA",
-		"titles": [
-			"MATH PATROL:"
-		]
-	},
-	{
 		"code": "AGB-BJ3J-JPN",
 		"titles": [
 			"DANGEROUS-G3"
@@ -53905,19 +56704,7 @@
 		]
 	},
 	{
-		"code": "AGB-BJXE-USA",
-		"titles": [
-			"HARRYPHOENI"
-		]
-	},
-	{
 		"code": "AGB-BJYE-USA",
-		"titles": [
-			"JIMMYNEUAOTT"
-		]
-	},
-	{
-		"code": "AGB-BJYF-FRA",
 		"titles": [
 			"JIMMYNEUAOTT"
 		]
@@ -54049,12 +56836,6 @@
 		]
 	},
 	{
-		"code": "AGB-BKZI-ITA",
-		"titles": [
-			"BANJOKAZOOIE"
-		]
-	},
-	{
 		"code": "AGB-BKZS-SPA",
 		"titles": [
 			"BANJOKAZOOIE"
@@ -54082,12 +56863,6 @@
 		"code": "AGB-BL7P-EUR",
 		"titles": [
 			"LSW2GBA"
-		]
-	},
-	{
-		"code": "AGB-BL8E-USA",
-		"titles": [
-			"TOMB RAIDER"
 		]
 	},
 	{
@@ -54184,12 +56959,6 @@
 		"code": "AGB-BLPI-ITA",
 		"titles": [
 			"LK_AND_DPIT"
-		]
-	},
-	{
-		"code": "AGB-BLPP-EUR",
-		"titles": [
-			"LK_AND_DP"
 		]
 	},
 	{
@@ -54493,18 +57262,6 @@
 		]
 	},
 	{
-		"code": "AGB-BNCJ-JPN",
-		"titles": [
-			"NIGHTMARE"
-		]
-	},
-	{
-		"code": "AGB-BNEE-USA",
-		"titles": [
-			"NEMO2INCPACK"
-		]
-	},
-	{
 		"code": "AGB-BNFE-USA",
 		"titles": [
 			"NFSUG2"
@@ -54559,12 +57316,6 @@
 		]
 	},
 	{
-		"code": "AGB-BNPE-USA",
-		"titles": [
-			"PNATASHASSAP"
-		]
-	},
-	{
 		"code": "AGB-BNPP-EUR",
 		"titles": [
 			"PRINCESS NAT"
@@ -54616,12 +57367,6 @@
 		"code": "AGB-BO3J-JPN",
 		"titles": [
 			"OSYARE PRI3"
-		]
-	},
-	{
-		"code": "AGB-BO5J-JPN",
-		"titles": [
-			"OSYARE PRI5"
 		]
 	},
 	{
@@ -54847,12 +57592,6 @@
 		]
 	},
 	{
-		"code": "AGB-BPUE-USA",
-		"titles": [
-			"SCOOBYMOVMON"
-		]
-	},
-	{
 		"code": "AGB-BPUF-FRA",
 		"titles": [
 			"SD_MP&MU_FRE"
@@ -54913,12 +57652,6 @@
 		]
 	},
 	{
-		"code": "AGB-BQ4E-USA",
-		"titles": [
-			"SPONGEBOBCKK"
-		]
-	},
-	{
 		"code": "AGB-BQ7P-EUR",
 		"titles": [
 			"MONSTERHOUSE"
@@ -54934,12 +57667,6 @@
 		"code": "AGB-BQ9Q-DEN",
 		"titles": [
 			"PIXELINE"
-		]
-	},
-	{
-		"code": "AGB-BQAJ-JPN",
-		"titles": [
-			"DETECTIVE C2"
 		]
 	},
 	{
@@ -55093,12 +57820,6 @@
 		]
 	},
 	{
-		"code": "AGB-BROP-EUR",
-		"titles": [
-			"POSTMAN PAT"
-		]
-	},
-	{
 		"code": "AGB-BRPJ-JPN",
 		"titles": [
 			"LILLIPUT"
@@ -55135,12 +57856,6 @@
 		]
 	},
 	{
-		"code": "AGB-BRSF-FRA",
-		"titles": [
-			"SS_&_RGW_FRE"
-		]
-	},
-	{
 		"code": "AGB-BRSP-EUR",
 		"titles": [
 			"SBSS_&RGW_EN"
@@ -55148,12 +57863,6 @@
 	},
 	{
 		"code": "AGB-BRTE-USA",
-		"titles": [
-			"ROBOTS"
-		]
-	},
-	{
-		"code": "AGB-BRTJ-JPN",
 		"titles": [
 			"ROBOTS"
 		]
@@ -55168,12 +57877,6 @@
 		"code": "AGB-BRXJ-JPN",
 		"titles": [
 			"VATTROLLERX1"
-		]
-	},
-	{
-		"code": "AGB-BRYE-USA",
-		"titles": [
-			"HOODLUMS REV"
 		]
 	},
 	{
@@ -55222,18 +57925,6 @@
 		"code": "AGB-BS5J-JPN",
 		"titles": [
 			"SYLVANIA5"
-		]
-	},
-	{
-		"code": "AGB-BS6E-USA",
-		"titles": [
-			"BYSK8NG2006"
-		]
-	},
-	{
-		"code": "AGB-BS7E-USA",
-		"titles": [
-			"SHREK SHARK"
 		]
 	},
 	{
@@ -55333,12 +58024,6 @@
 		]
 	},
 	{
-		"code": "AGB-BSOP-EUR",
-		"titles": [
-			"SHAMAN KING"
-		]
-	},
-	{
 		"code": "AGB-BSPE-USA",
 		"titles": [
 			"SPIDER-MAN2"
@@ -55372,12 +58057,6 @@
 		"code": "AGB-BSUE-USA",
 		"titles": [
 			"SHARK TALE"
-		]
-	},
-	{
-		"code": "AGB-BSUI-ITA",
-		"titles": [
-			"SHARK STORY"
 		]
 	},
 	{
@@ -55441,12 +58120,6 @@
 		]
 	},
 	{
-		"code": "AGB-BT5F-FRA",
-		"titles": [
-			"TITEUF DUO"
-		]
-	},
-	{
 		"code": "AGB-BT6E-USA",
 		"titles": [
 			"TROLLZHAIRAF"
@@ -55501,12 +58174,6 @@
 		]
 	},
 	{
-		"code": "AGB-BTDJ-JPN",
-		"titles": [
-			"POKEINU"
-		]
-	},
-	{
 		"code": "AGB-BTFJ-JPN",
 		"titles": [
 			"FUJUHOUROKU"
@@ -55540,12 +58207,6 @@
 		"code": "AGB-BTJP-EUR",
 		"titles": [
 			"TRINGO"
-		]
-	},
-	{
-		"code": "AGB-BTLJ-JPN",
-		"titles": [
-			"HAPPYTRUMP20"
 		]
 	},
 	{
@@ -55609,12 +58270,6 @@
 		]
 	},
 	{
-		"code": "AGB-BU2E-USA",
-		"titles": [
-			"SBBFBBNTFFF"
-		]
-	},
-	{
 		"code": "AGB-BU4E-USA",
 		"titles": [
 			"UNFABULOUS"
@@ -55624,12 +58279,6 @@
 		"code": "AGB-BU5P-EUR",
 		"titles": [
 			"UNO 52"
-		]
-	},
-	{
-		"code": "AGB-BU7P-EUR",
-		"titles": [
-			"TLOS TEN"
 		]
 	},
 	{
@@ -55654,24 +58303,6 @@
 		"code": "AGB-BUFE-USA",
 		"titles": [
 			"BUUGTCOLLECT"
-		]
-	},
-	{
-		"code": "AGB-BUIE-USA",
-		"titles": [
-			"UNO FREEFALL"
-		]
-	},
-	{
-		"code": "AGB-BUIP-EUR",
-		"titles": [
-			"UNO FREEFALL"
-		]
-	},
-	{
-		"code": "AGB-BUJE-USA",
-		"titles": [
-			"NICK ATTACK"
 		]
 	},
 	{
@@ -55777,12 +58408,6 @@
 		]
 	},
 	{
-		"code": "AGB-BW4J-JPN",
-		"titles": [
-			"2IN1_ADV_BTL"
-		]
-	},
-	{
 		"code": "AGB-BW4P-EUR",
 		"titles": [
 			"2IN1_ADV_BTL"
@@ -55879,12 +58504,6 @@
 		]
 	},
 	{
-		"code": "AGB-BWIP-EUR",
-		"titles": [
-			"WINXCLUB"
-		]
-	},
-	{
 		"code": "AGB-BWJP-EUR",
 		"titles": [
 			"WHO WANTS TO"
@@ -55945,12 +58564,6 @@
 		]
 	},
 	{
-		"code": "AGB-BWXJ-JPN",
-		"titles": [
-			"WANKOMIKKUSU"
-		]
-	},
-	{
 		"code": "AGB-BWYP-EUR",
 		"titles": [
 			"WINTERSPIELE"
@@ -55960,12 +58573,6 @@
 		"code": "AGB-BX2E-USA",
 		"titles": [
 			"SPIDEYMM X2"
-		]
-	},
-	{
-		"code": "AGB-BX3E-USA",
-		"titles": [
-			"SPIDER-MAN"
 		]
 	},
 	{
@@ -55981,19 +58588,7 @@
 		]
 	},
 	{
-		"code": "AGB-BXCE-USA",
-		"titles": [
-			"KERPLUNKTATI"
-		]
-	},
-	{
 		"code": "AGB-BXFD-NOE",
-		"titles": [
-			"BRATZDIAMOND"
-		]
-	},
-	{
-		"code": "AGB-BXFE-USA",
 		"titles": [
 			"BRATZDIAMOND"
 		]
@@ -56042,12 +58637,6 @@
 	},
 	{
 		"code": "AGB-BXUE-USA",
-		"titles": [
-			"SURFS UP"
-		]
-	},
-	{
-		"code": "AGB-BXUP-EUR",
 		"titles": [
 			"SURFS UP"
 		]
@@ -56131,12 +58720,6 @@
 		]
 	},
 	{
-		"code": "AGB-BYXE-USA",
-		"titles": [
-			"PUPPYLUV"
-		]
-	},
-	{
 		"code": "AGB-BYYE-USA",
 		"titles": [
 			"YUYUHAKUSHO1"
@@ -56194,12 +58777,6 @@
 		"code": "AGB-BZOJ-JPN",
 		"titles": [
 			"ZERO ONE SP"
-		]
-	},
-	{
-		"code": "AGB-BZRE-USA",
-		"titles": [
-			"ENCHANTED"
 		]
 	},
 	{
