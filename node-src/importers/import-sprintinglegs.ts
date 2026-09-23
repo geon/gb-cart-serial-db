@@ -4,27 +4,10 @@ import type { Cartridge } from "../../src/Cartridge.js";
 
 const codePattern = /game-([\w\d]+)-\d+-([\w-]+)\.html/;
 
-export function importGbdb(): readonly Cartridge[] {
-	const inputPaths = [
-		"ASI",
-		"AUS",
-		"BRAZIL",
-		"CAN",
-		"CHN",
-		"ESP",
-		"EUR",
-		"FAH",
-		"FRA",
-		"FRG",
-		"GPS",
-		"HOL",
-		"ITA",
-		"JPN",
-		"KOR",
-		"NOE",
-		"SCN",
-		"USA",
-	].map((region) => `assets/gameboy-database-com-fullsets/${region}.html`);
+export function importSprintinglegs(): readonly Cartridge[] {
+	const inputPaths = ["agb", "cgb", "dmg"].map(
+		(platform) => `assets/sprintinglegs/${platform}.html`,
+	);
 
 	const cartridges = inputPaths.flatMap((inputPath) => {
 		const dom = new JSDOM(readFileSync(inputPath, { encoding: "utf-8" }));
