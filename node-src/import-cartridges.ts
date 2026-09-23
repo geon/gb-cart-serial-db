@@ -33,6 +33,26 @@ function main() {
 
 	const jsonPath = "public/cartridges.json";
 	writeFileSync(jsonPath, JSON.stringify(cartridges, null, "\t"));
+
+	const htmlPath = "public/cartridges.html";
+	writeFileSync(
+		htmlPath,
+		`<html>
+			<table>
+				<td>Serial</td>
+				<td>Titles</td>
+				${cartridges
+					.map(
+						(cartridge) => `
+							<tr>
+								<td>${cartridge.code}</td>
+								<td>${cartridge.titles.join("<br/>")}</td>
+							</tr>`,
+					)
+					.join("\n")}
+			<table>
+		</html>`,
+	);
 }
 
 main();
