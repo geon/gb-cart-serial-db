@@ -12,7 +12,7 @@ export function importGbxDumper(): readonly Cartridge[] {
 		CRC32: string;
 		"Memory type": string;
 		"RAM size (KBit) ": string;
-	}>(readFileSync(csvPath, { encoding: "utf-8" }));
+	}>(readFileSync(csvPath, { encoding: "utf-8" }), { separator: "\t" });
 
 	const cartridges = csvCartridges.map(
 		(row): Cartridge => ({
