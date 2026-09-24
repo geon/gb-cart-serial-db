@@ -5,7 +5,7 @@ import type { Cartridge } from "../../src/Cartridge.js";
 const codePattern = /game-([\w\d]+)-\d+-([\w-]+)\.html/;
 
 export function importGbdb(): readonly Cartridge[] {
-	const inputPaths = [
+	const regions = [
 		"ASI",
 		"AUS",
 		"BRAZIL",
@@ -24,7 +24,13 @@ export function importGbdb(): readonly Cartridge[] {
 		"NOE",
 		"SCN",
 		"USA",
-	].map((region) => `assets/gameboy-database-com-fullsets/${region}.html`);
+	];
+
+	const regionSuffixPattern = new RegExp(` (${regions.join("|")})(-\\d)?$`);
+
+	const inputPaths = regions.map(
+		(region) => `assets/gameboy-database-com-fullsets/${region}.html`,
+	);
 
 	const cartridges = inputPaths.flatMap((inputPath) => {
 		const dom = new JSDOM(readFileSync(inputPath, { encoding: "utf-8" }));
@@ -47,13 +53,15 @@ export function importGbdb(): readonly Cartridge[] {
 
 			const code = `DMG-${matches[1]}-${matches[2]}`;
 
-			const title = div
+			let title = div
 				.querySelector("p.game-title")
 				?.textContent.replace("&amp;", "&");
 
 			if (!title) {
 				throw new Error("Missing title");
 			}
+
+			title = title.replace(regionSuffixPattern, "");
 
 			return {
 				title,
