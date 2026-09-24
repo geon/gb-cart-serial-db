@@ -18025,14 +18025,6 @@
 			<file id="838" extension="gb" size="65536" crc32="33cd7550" md5="872b8eb18385ed6b1937b42436af56fd" sha1="e2a75fc09d8f9e56325449ca91cda9a68d058c1f" sha256="62117fdda58ad1ac0cbacf57caa2a54dc0fd32dea931e30a8c7c502816b34244" format="Default"/>
 		</source>
 	</game>
-	<game name="Minolta 2085 Adj. Program (USA) (Unl)">
-		<archive number="2215" clone="P" regparent="(USA PARENT)" name="Minolta 2085 Adj. Program" region="USA" languages="En" langchecked="yes" licensed="0" categories="Applications"/>
-		<source>
-			<details id="5609" section="Trusted Dump" d_date="2022-05-16" d_date_info="0" r_date="2022-05-16" origin="Proto cart" region="USA" dumper="Voodooween" project="Forest of Illusion" originalformat="Default" comment1="For use with the Minolta Dynax/Maxxum 3xi"/>
-			<serials media_serial1="2085 ROM PACK, (7981-5001-78), No. 137"/>
-			<file id="2501" extension="gb" size="32768" crc32="de660a82" md5="56e82954ece9a4a247ccd531ec6aa1ea" sha1="d0e586988108b7238bebcac055cb7c6982abf81c" sha256="5714effe6234ca04b06ed497168de1afa06f4d32c48d9ef301e1cb1f5eb03fd1" format="Default"/>
-		</source>
-	</game>
 	<game name="Minolta 2097 Adj. Program (USA) (Unl)">
 		<archive number="1697" clone="P" regparent="(USA PARENT)" name="Minolta 2097 Adj. Program" region="USA" languages="En" licensed="0" categories="Applications"/>
 		<source>

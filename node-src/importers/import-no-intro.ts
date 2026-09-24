@@ -3,12 +3,15 @@ import { parse, type TNode } from "txml";
 import type { Cartridge } from "../../src/Cartridge.js";
 import { isDefined } from "../../src/is-defined.js";
 
-export function importNoIntro(): readonly Cartridge[] {
-	const inputPaths = ["dmg", "cgb", "agb"].map(
-		(platform) => `assets/no-intro.org/${platform}.xml`,
-	);
+const nameAttributePattern = /[^(]+/;
 
-	const cartridges = inputPaths.flatMap((inputPath): readonly Cartridge[] => {
+export function importNoIntro(): readonly Cartridge[] {
+	const platforms = ["dmg", "cgb", "agb"];
+	const platformUpperCaseSet = new Set(platforms.map((x) => x.toUpperCase()));
+
+	const cartridges = platforms.flatMap((platform): readonly Cartridge[] => {
+		const inputPath = `assets/no-intro.org/${platform}.xml`;
+
 		const result = parse(readFileSync(inputPath, { encoding: "utf-8" }));
 		const cartridges =
 			result
@@ -34,17 +37,8 @@ export function importNoIntro(): readonly Cartridge[] {
 										typeof node === "object" && node.tagName === "serials",
 								)?.attributes.media_serial1,
 						)
-						.filter(isDefined);
-
-					// if (
-					// 	game.attributes.name === "Battleship (USA, Europe) (GB Compatible)"
-					// ) {
-					// 	console.log("game", game);
-					// 	console.log("code", code);
-					// 	console.log("archive", archive);
-					// }
-
-					// const code = serials[0];
+						.filter(isDefined)
+						.filter((code) => platformUpperCaseSet.has(code.slice(0, 3)));
 
 					const archive = game.children.find(
 						(node): node is TNode =>
@@ -54,10 +48,17 @@ export function importNoIntro(): readonly Cartridge[] {
 						throw new Error("Missing archive.");
 					}
 
-					// name region languages
-					const title = archive.attributes.name;
+					// Contains more stuff.
+					// name (tag1) (tag2)
+					const attribute = archive.attributes.name;
+					if (!attribute) {
+						throw new Error("Missing attribute.");
+					}
+
+					const match = attribute.match(nameAttributePattern);
+					const title = match && match[0]?.trimEnd().replace("&amp;", "&");
 					if (!title) {
-						throw new Error("Missing title.");
+						throw new Error(`Missing title in ${attribute}`);
 					}
 
 					return serials.map((code) => ({
