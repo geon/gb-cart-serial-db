@@ -92,8 +92,7 @@
 	{
 		"code": "DMG-T3-USA",
 		"titles": [
-			"Adventure Island",
-			"Adventure Island, US"
+			"Adventure Island"
 		]
 	},
 	{
@@ -105,8 +104,7 @@
 	{
 		"code": "DMG-T3-NOE",
 		"titles": [
-			"Adventure Island",
-			"Adventure Island, GER"
+			"Adventure Island"
 		]
 	},
 	{
@@ -211,8 +209,7 @@
 		"code": "DMG-ALAP-EUR",
 		"titles": [
 			"Aladdin",
-			"Aladdin (Disney's)",
-			"Aladdin, UK/FR/GER/IT/ESP/NED/SV/SUO/DA"
+			"Aladdin (Disney's)"
 		]
 	},
 	{
@@ -238,8 +235,7 @@
 	{
 		"code": "DMG-C3-NOE",
 		"titles": [
-			"Alfred Chicken",
-			"Alfred Chicken, GER"
+			"Alfred Chicken"
 		]
 	},
 	{
@@ -257,8 +253,7 @@
 	{
 		"code": "DMG-L3-NOE",
 		"titles": [
-			"Alien 3",
-			"Alien 3, UK/GER"
+			"Alien 3"
 		]
 	},
 	{
@@ -330,7 +325,7 @@
 		"code": "DMG-PN-NOE",
 		"titles": [
 			"Amazing Penguin",
-			"Amazing Pinguin, GER"
+			"Amazing Pinguin"
 		]
 	},
 	{
@@ -338,7 +333,7 @@
 		"titles": [
 			"Amazing Spider-Man, The",
 			"Amazing Spider-Man (the)",
-			"The amazing Spider-Man, GER"
+			"The amazing Spider-Man"
 		]
 	},
 	{
@@ -442,7 +437,7 @@
 		"titles": [
 			"Arcade Classic No. 1 - Asteroids & Missile Command",
 			"Arcade Classic no.1 Asteroids - Missile Command",
-			"Arcade Classics Asteroids & Missile Command, GER"
+			"Arcade Classics Asteroids & Missile Command"
 		]
 	},
 	{
@@ -456,7 +451,7 @@
 		"titles": [
 			"Arcade Classic No. 2 - Centipede & Millipede",
 			"Arcade Classic no.2 Centipede - Millipede",
-			"Arcade Classics 2 Centipede & Millipede, US"
+			"Arcade Classics 2 Centipede & Millipede"
 		]
 	},
 	{
@@ -470,7 +465,7 @@
 		"titles": [
 			"Arcade Classic No. 3 - Galaga & Galaxian",
 			"Arcade Classic no.3 Galaga - Galaxian",
-			"Galaga & Galaxian, GER"
+			"Galaga & Galaxian"
 		]
 	},
 	{
@@ -538,8 +533,7 @@
 		"code": "DMG-XA-NOE",
 		"titles": [
 			"Asterix",
-			"Astérix",
-			"Asterix, GER"
+			"Astérix"
 		]
 	},
 	{
@@ -603,8 +597,7 @@
 	{
 		"code": "DMG-AK-NOE",
 		"titles": [
-			"Attack of the Killer Tomatoes",
-			"Attack of the Killer Tomatoes, GER"
+			"Attack of the Killer Tomatoes"
 		]
 	},
 	{
@@ -629,8 +622,7 @@
 	{
 		"code": "DMG-GK-NOE",
 		"titles": [
-			"B.C. Kid",
-			"B.C. Kid, GER"
+			"B.C. Kid"
 		]
 	},
 	{
@@ -696,8 +688,7 @@
 	{
 		"code": "DMG-BT-NOE",
 		"titles": [
-			"Balloon Kid",
-			"Balloon Kid, GER"
+			"Balloon Kid"
 		]
 	},
 	{
@@ -721,8 +712,7 @@
 	{
 		"code": "DMG-A6-SCN",
 		"titles": [
-			"Bamse",
-			"Bamse, SWE"
+			"Bamse"
 		]
 	},
 	{
@@ -760,7 +750,7 @@
 		"code": "DMG-TS-NOE",
 		"titles": [
 			"Bart Simpson's Escape from Camp Deadly",
-			"Bart Simpson’s Escape from Camp Deadly, GER"
+			"Bart Simpson’s Escape from Camp Deadly"
 		]
 	},
 	{
@@ -813,7 +803,7 @@
 		"titles": [
 			"Batman - The Animated Series",
 			"Batman the Animated Series",
-			"Batman The animated Series, GER"
+			"Batman The animated Series"
 		]
 	},
 	{
@@ -939,7 +929,7 @@
 		"code": "DMG-R7-NOE",
 		"titles": [
 			"Battletoads in Ragnarok's World",
-			"Battletoads in Ragnarok’s World, GER"
+			"Battletoads in Ragnarok’s World"
 		]
 	},
 	{
@@ -965,7 +955,7 @@
 		"titles": [
 			"Beavis and Butt-head",
 			"Beavis and Butt-Head (MTV's)",
-			"Beavis & Butt-Head, UK/FR/GER/ESP/IT/NED"
+			"Beavis & Butt-Head"
 		]
 	},
 	{
@@ -1019,7 +1009,7 @@
 		"titles": [
 			"Bill & Ted's Excellent Game Boy Adventure - A Bogus Journey!",
 			"Bill & Ted's Excellent Game Boy Adventure",
-			"Bill & Ted’s Excellent Game Boy Adventure, US"
+			"Bill & Ted’s Excellent Game Boy Adventure"
 		]
 	},
 	{
@@ -1027,7 +1017,7 @@
 		"titles": [
 			"Bill Elliott's NASCAR Fast Tracks",
 			"Bill Elliott's Nascar Fast Tracks",
-			"Bill Elliot’s Nascar Fast Tracks, US"
+			"Bill Elliot’s Nascar Fast Tracks"
 		]
 	},
 	{
@@ -1096,15 +1086,13 @@
 	{
 		"code": "DMG-UB-NOE",
 		"titles": [
-			"Blades of Steel",
-			"Blades of Steel, GER"
+			"Blades of Steel"
 		]
 	},
 	{
 		"code": "DMG-UB-USA",
 		"titles": [
-			"Blades of Steel",
-			"Blades of Steel, US"
+			"Blades of Steel"
 		]
 	},
 	{
@@ -1216,8 +1204,7 @@
 	{
 		"code": "DMG-AB2P-EUR",
 		"titles": [
-			"Bomberman GB",
-			"Bomberman GB, UK/FR/GER/ESP/IT/NED"
+			"Bomberman GB"
 		]
 	},
 	{
@@ -1248,7 +1235,7 @@
 		"code": "DMG-GK-USA",
 		"titles": [
 			"Bonk's Adventure",
-			"Bonk’s Adventure, US"
+			"Bonk’s Adventure"
 		]
 	},
 	{
@@ -1256,7 +1243,7 @@
 		"titles": [
 			"Boomer's Adventure in ASMIK World",
 			"Boomer's Adventure in Asmik World",
-			"Boomer’s Adventure in Asmik World, US"
+			"Boomer’s Adventure in Asmik World"
 		]
 	},
 	{
@@ -1275,8 +1262,7 @@
 	{
 		"code": "DMG-BD-NOE",
 		"titles": [
-			"Boulder Dash",
-			"Boulder Dash, GER"
+			"Boulder Dash"
 		]
 	},
 	{
@@ -1296,8 +1282,7 @@
 	{
 		"code": "DMG-SO-USA",
 		"titles": [
-			"Boxxle",
-			"Boxxle, US"
+			"Boxxle"
 		]
 	},
 	{
@@ -1347,8 +1332,7 @@
 	{
 		"code": "DMG-B2-NOE",
 		"titles": [
-			"Bubble Bobble",
-			"Bubble Bobble, GER"
+			"Bubble Bobble"
 		]
 	},
 	{
@@ -1366,8 +1350,7 @@
 	{
 		"code": "DMG-LX-NOE",
 		"titles": [
-			"Bubble Bobble Part 2",
-			"Bubble Bobble Part 2, GER"
+			"Bubble Bobble Part 2"
 		]
 	},
 	{
@@ -1412,7 +1395,7 @@
 		"titles": [
 			"Bugs Bunny Crazy Castle 2, The",
 			"Bugs Bunny Crazy Castle 2",
-			"The Bugs Bunny Crazy Castle 2, US"
+			"The Bugs Bunny Crazy Castle 2"
 		]
 	},
 	{
@@ -1464,8 +1447,7 @@
 	{
 		"code": "DMG-BU-NOE",
 		"titles": [
-			"Burai Fighter Deluxe",
-			"Burai Fighter Deluxe, GER"
+			"Burai Fighter Deluxe"
 		]
 	},
 	{
@@ -1550,8 +1532,7 @@
 	{
 		"code": "DMG-CE-NOE",
 		"titles": [
-			"Caesars Palace",
-			"Caesars Palace, GER"
+			"Caesars Palace"
 		]
 	},
 	{
@@ -1563,8 +1544,7 @@
 	{
 		"code": "DMG-CE-USA-1",
 		"titles": [
-			"Caesars Palace",
-			"Caesars Palace, US"
+			"Caesars Palace"
 		]
 	},
 	{
@@ -1599,8 +1579,7 @@
 		"titles": [
 			"Casino FunPak",
 			"Casino Fun Pak",
-			"Casino, UK",
-			"Casino FunPak, US"
+			"Casino"
 		]
 	},
 	{
@@ -1632,7 +1611,7 @@
 		"titles": [
 			"Castlevania - The Adventure",
 			"Castlevania the Adventure",
-			"The Castlevania Adventure, GER"
+			"The Castlevania Adventure"
 		]
 	},
 	{
@@ -1653,7 +1632,7 @@
 		"titles": [
 			"Castlevania - The Adventure",
 			"Castlevania the Adventure",
-			"The Castlevania Adventure, US"
+			"The Castlevania Adventure"
 		]
 	},
 	{
@@ -1668,14 +1647,13 @@
 		"titles": [
 			"Castlevania II - Belmont's Revenge",
 			"Castlevania II Belmont's Revenge",
-			"Castlevania II Belmont’s Revenge, US"
+			"Castlevania II Belmont’s Revenge"
 		]
 	},
 	{
 		"code": "DMG-ADNP-EUR",
 		"titles": [
-			"Castlevania Legends",
-			"Castlevania Legends, UK/GER/FR/ESP/NED"
+			"Castlevania Legends"
 		]
 	},
 	{
@@ -1872,7 +1850,7 @@
 		"code": "DMG-AC3E-EUR",
 		"titles": [
 			"Choplifter III",
-			"Choplifter 3, UK/GER/FR/NED/ESP/IT/SV/SUO"
+			"Choplifter 3"
 		]
 	},
 	{
@@ -1892,8 +1870,7 @@
 	{
 		"code": "DMG-QC-UKV",
 		"titles": [
-			"Chuck Rock",
-			"Chuck Rock, UK"
+			"Chuck Rock"
 		]
 	},
 	{
@@ -1924,16 +1901,14 @@
 	{
 		"code": "DMG-OP-USA",
 		"titles": [
-			"Cool Ball",
-			"Cool Ball, US"
+			"Cool Ball"
 		]
 	},
 	{
 		"code": "DMG-ACDP-EUU",
 		"titles": [
 			"Cool Hand",
-			"Cool Hand EUU",
-			"Cool Hand, UK"
+			"Cool Hand EUU"
 		]
 	},
 	{
@@ -1963,8 +1938,7 @@
 	{
 		"code": "DMG-WL-USA",
 		"titles": [
-			"Cool World",
-			"Cool World, US"
+			"Cool World"
 		]
 	},
 	{
@@ -2129,8 +2103,7 @@
 		"code": "DMG-DC-NOE",
 		"titles": [
 			"Darkwing Duck",
-			"Darkwing Duck (Disney's)",
-			"Darkwing Duck, GER"
+			"Darkwing Duck (Disney's)"
 		]
 	},
 	{
@@ -2151,7 +2124,7 @@
 		"titles": [
 			"David Crane's The Rescue of Princess Blobette",
 			"Rescue of Princess Blobette (David Crane's the)",
-			"The Rescue of Princess Blobette, GER"
+			"The Rescue of Princess Blobette"
 		]
 	},
 	{
@@ -2216,8 +2189,7 @@
 	{
 		"code": "DMG-FU-USA",
 		"titles": [
-			"Dexterity",
-			"Dexterity, US"
+			"Dexterity"
 		]
 	},
 	{
@@ -2229,8 +2201,7 @@
 	{
 		"code": "DMG-DY-NOE",
 		"titles": [
-			"Dig Dug",
-			"Dig Dug, GER"
+			"Dig Dug"
 		]
 	},
 	{
@@ -2287,8 +2258,7 @@
 		"code": "DMG-QD-NOE",
 		"titles": [
 			"Donkey Kong",
-			"Donkey Kong (Nintendo Classics version)",
-			"Donkey Kong, GER"
+			"Donkey Kong (Nintendo Classics version)"
 		]
 	},
 	{
@@ -2336,8 +2306,7 @@
 	{
 		"code": "DMG-YT-NOE",
 		"titles": [
-			"Donkey Kong Land",
-			"Donkey Kong Land, GER"
+			"Donkey Kong Land"
 		]
 	},
 	{
@@ -2474,7 +2443,7 @@
 		"titles": [
 			"Double Dragon 3 - The Arcade Game",
 			"Double Dragon 3 the Arcade Game",
-			"Double Dragon 3 The Arcade Game, UK/GER"
+			"Double Dragon 3 The Arcade Game"
 		]
 	},
 	{
@@ -2486,8 +2455,7 @@
 	{
 		"code": "DMG-D2-NOE",
 		"titles": [
-			"Double Dragon II",
-			"Double Dragon II, GER"
+			"Double Dragon II"
 		]
 	},
 	{
@@ -2556,8 +2524,7 @@
 	{
 		"code": "DMG-VU-NOE",
 		"titles": [
-			"Dr. Mario",
-			"Dr. Mario, GER"
+			"Dr. Mario"
 		]
 	},
 	{
@@ -2694,7 +2661,7 @@
 		"titles": [
 			"DuckTales",
 			"Duck Tales (Disney's)",
-			"Duck Tales, GER"
+			"Duck Tales"
 		]
 	},
 	{
@@ -2729,7 +2696,7 @@
 		"titles": [
 			"DuckTales",
 			"Duck Tales (Disney's)",
-			"Duck Tales, US"
+			"Duck Tales"
 		]
 	},
 	{
@@ -2818,22 +2785,19 @@
 	{
 		"code": "DMG-YK-USA",
 		"titles": [
-			"Elite Soccer",
-			"Elite Soccer, US"
+			"Elite Soccer"
 		]
 	},
 	{
 		"code": "DMG-FS-USA",
 		"titles": [
-			"Extra Bases",
-			"Extra Bases, US"
+			"Extra Bases"
 		]
 	},
 	{
 		"code": "DMG-F1-NOE",
 		"titles": [
-			"F-1 Race",
-			"F-1 Race, GER"
+			"F-1 Race"
 		]
 	},
 	{
@@ -2957,8 +2921,7 @@
 	{
 		"code": "DMG-XP-NOE",
 		"titles": [
-			"Ferrari Grand Prix Challenge",
-			"Ferrari Grand Prix Challenge, UK/GER"
+			"Ferrari Grand Prix Challenge"
 		]
 	},
 	{
@@ -2996,8 +2959,7 @@
 	{
 		"code": "DMG-AFSP-EUR",
 		"titles": [
-			"FIFA International Soccer",
-			"FIFA International Soccer, UK/GER/FR"
+			"FIFA International Soccer"
 		]
 	},
 	{
@@ -3016,7 +2978,7 @@
 		"code": "DMG-A7SP-EUR",
 		"titles": [
 			"FIFA Soccer 97",
-			"FIFA 97, UK/ESP/FR/GER"
+			"FIFA 97"
 		]
 	},
 	{
@@ -3024,7 +2986,7 @@
 		"titles": [
 			"Fighting Simulator 2 in 1 - Flying Warriors",
 			"Fighting Simulator 2 in 1 Flying Warriors",
-			"Fighting Simulator, GER"
+			"Fighting Simulator"
 		]
 	},
 	{
@@ -3055,8 +3017,7 @@
 	{
 		"code": "DMG-S2-USA",
 		"titles": [
-			"Final Fantasy Legend II",
-			"Final Fantasy Legend II, US"
+			"Final Fantasy Legend II"
 		]
 	},
 	{
@@ -3070,7 +3031,7 @@
 		"titles": [
 			"Final Fantasy Legend, The",
 			"Final Fantasy Legend (the)",
-			"The Final Fantasy Legend, US"
+			"The Final Fantasy Legend"
 		]
 	},
 	{
@@ -3083,8 +3044,7 @@
 	{
 		"code": "DMG-F8-NOE",
 		"titles": [
-			"Fire Fighter",
-			"Fire Fighter, GER"
+			"Fire Fighter"
 		]
 	},
 	{
@@ -3117,7 +3077,7 @@
 		"titles": [
 			"Flintstones, The",
 			"Flintstones (the)",
-			"The Flintstones, UK/GER/FR/NED/ESP/IT/SV/FIN"
+			"The Flintstones"
 		]
 	},
 	{
@@ -3169,8 +3129,7 @@
 	{
 		"code": "DMG-IY-USA",
 		"titles": [
-			"Fortified Zone",
-			"Fortified Zone, US"
+			"Fortified Zone"
 		]
 	},
 	{
@@ -3194,8 +3153,7 @@
 	{
 		"code": "DMG-IY-NOE",
 		"titles": [
-			"Fortified Zone",
-			"Fortified Zone, GER"
+			"Fortified Zone"
 		]
 	},
 	{
@@ -3210,7 +3168,7 @@
 		"titles": [
 			"Franky, Joe & Dirk - On the Tiles",
 			"On the Tiles (Franky, Joe & Dirk)",
-			"On the Tiles, GER"
+			"On the Tiles"
 		]
 	},
 	{
@@ -3305,7 +3263,7 @@
 		"titles": [
 			"Game Boy Gallery - 5 Games in 1",
 			"Game Boy Gallery mit 5 Spielen",
-			"Game Boy Gallery, GER"
+			"Game Boy Gallery"
 		]
 	},
 	{
@@ -3358,7 +3316,7 @@
 		"titles": [
 			"Game of Harmony, The",
 			"Harmony",
-			"The Game of Harmony, US"
+			"The Game of Harmony"
 		]
 	},
 	{
@@ -3422,14 +3380,13 @@
 		"code": "DMG-RA-NOE",
 		"titles": [
 			"Gargoyle's Quest",
-			"Gargoyle’s Quest, GER"
+			"Gargoyle’s Quest"
 		]
 	},
 	{
 		"code": "DMG-G2-NOE",
 		"titles": [
-			"Gauntlet II",
-			"Gauntlet II, GER"
+			"Gauntlet II"
 		]
 	},
 	{
@@ -3537,8 +3494,7 @@
 	{
 		"code": "DMG-GB-NOE",
 		"titles": [
-			"Ghostbusters II",
-			"Ghostbusters II, GER"
+			"Ghostbusters II"
 		]
 	},
 	{
@@ -3559,8 +3515,7 @@
 		"code": "DMG-WF-NOE-1",
 		"titles": [
 			"Gluecksrad",
-			"Glücksrad",
-			"Glücksrad, GER"
+			"Glücksrad"
 		]
 	},
 	{
@@ -3568,7 +3523,7 @@
 		"titles": [
 			"Gluecksrad",
 			"Glucksrad",
-			"Glücksrad, GER"
+			"Glücksrad"
 		]
 	},
 	{
@@ -3618,8 +3573,7 @@
 	{
 		"code": "DMG-GZ-NOE-1",
 		"titles": [
-			"Godzilla",
-			"Godzilla, GER"
+			"Godzilla"
 		]
 	},
 	{
@@ -3680,8 +3634,7 @@
 	{
 		"code": "DMG-GO-NOE",
 		"titles": [
-			"Golf",
-			"Golf, GER"
+			"Golf"
 		]
 	},
 	{
@@ -3946,8 +3899,7 @@
 		"code": "DMG-PR-USA",
 		"titles": [
 			"HAL Wrestling",
-			"Hal Wrestling",
-			"Hal Wrestling, US"
+			"Hal Wrestling"
 		]
 	},
 	{
@@ -4062,15 +4014,13 @@
 	{
 		"code": "DMG-HM-USA",
 		"titles": [
-			"Home Alone",
-			"Home Alone, US"
+			"Home Alone"
 		]
 	},
 	{
 		"code": "DMG-HM-UKV",
 		"titles": [
-			"Home Alone",
-			"Home Alone, UK"
+			"Home Alone"
 		]
 	},
 	{
@@ -4090,7 +4040,7 @@
 		"titles": [
 			"Home Alone 2 - Lost in New York",
 			"Home Alone 2 Lost in New York",
-			"Home Alone 2, US"
+			"Home Alone 2"
 		]
 	},
 	{
@@ -4135,8 +4085,7 @@
 	{
 		"code": "DMG-HS-USA",
 		"titles": [
-			"Hook",
-			"Hook, US"
+			"Hook"
 		]
 	},
 	{
@@ -4161,15 +4110,13 @@
 	{
 		"code": "DMG-AGOP-NOE",
 		"titles": [
-			"Hugo",
-			"Hugo, GER"
+			"Hugo"
 		]
 	},
 	{
 		"code": "DMG-AO2P-NOE",
 		"titles": [
-			"Hugo 2",
-			"Hugo 2, GER"
+			"Hugo 2"
 		]
 	},
 	{
@@ -4215,8 +4162,7 @@
 		"code": "DMG-DW-NOE",
 		"titles": [
 			"Hyper Dunk",
-			"Hyperdunk",
-			"Hyperdunk, GER"
+			"Hyperdunk"
 		]
 	},
 	{
@@ -4307,7 +4253,7 @@
 		"titles": [
 			"InfoGenius Productivity Pak - Frommer's Travel Guide",
 			"InfoGenius Frommer's Travel Guide",
-			"InfoGenius Productivity Pak Frommers Travel Guide, US"
+			"InfoGenius Productivity Pak Frommers Travel Guide"
 		]
 	},
 	{
@@ -4333,8 +4279,7 @@
 	{
 		"code": "DMG-AIGP-EUR",
 		"titles": [
-			"International Superstar Soccer",
-			"International Superstar Soccer, GER/FR/ESP/NED"
+			"International Superstar Soccer"
 		]
 	},
 	{
@@ -4569,8 +4514,7 @@
 		"code": "DMG-AJDP-EUR",
 		"titles": [
 			"Judge Dredd",
-			"Judge Dredd (printed in Europe)",
-			"Judge Dredd, UK/GER/FR/ESP/IT/NED"
+			"Judge Dredd (printed in Europe)"
 		]
 	},
 	{
@@ -4584,7 +4528,7 @@
 		"titles": [
 			"Jungle Book, The",
 			"Dschungelbuch (Disney das)",
-			"Das Dschungelbuch, GER"
+			"Das Dschungelbuch"
 		]
 	},
 	{
@@ -4849,8 +4793,7 @@
 	{
 		"code": "DMG-PW-NOE",
 		"titles": [
-			"King of the Zoo",
-			"King of the Zoo, GER"
+			"King of the Zoo"
 		]
 	},
 	{
@@ -4935,7 +4878,7 @@
 		"code": "DMG-KY-NOE",
 		"titles": [
 			"Kirby's Dream Land",
-			"Kirby’s Dream Land, GER"
+			"Kirby’s Dream Land"
 		]
 	},
 	{
@@ -5002,7 +4945,7 @@
 		"code": "DMG-K9-USA",
 		"titles": [
 			"Kirby's Pinball Land",
-			"Kirby’s Pinball Land, US"
+			"Kirby’s Pinball Land"
 		]
 	},
 	{
@@ -5094,7 +5037,7 @@
 		"code": "DMG-FK-USA",
 		"titles": [
 			"Krusty's Fun House",
-			"Krusty’s Fun House, US"
+			"Krusty’s Fun House"
 		]
 	},
 	{
@@ -5108,7 +5051,7 @@
 		"code": "DMG-SX-NOE",
 		"titles": [
 			"Kung-Fu Master",
-			"Kung Fu Master, GER"
+			"Kung Fu Master"
 		]
 	},
 	{
@@ -5142,8 +5085,7 @@
 		"code": "DMG-AP-NOE",
 		"titles": [
 			"Kwirk - He's A-maze-ing!",
-			"Kwirk",
-			"Kwirk, GER"
+			"Kwirk"
 		]
 	},
 	{
@@ -5187,7 +5129,7 @@
 		"code": "DMG-L5-UKV",
 		"titles": [
 			"Lawnmower Man, The",
-			"The Lawnmower Man, UK/GER/FR/NED/ESP/IT/SV/SU"
+			"The Lawnmower Man"
 		]
 	},
 	{
@@ -5270,7 +5212,7 @@
 		"titles": [
 			"Legend of Zelda, The - Link's Awakening",
 			"Legend of Zelda Link's Awakening (the)",
-			"The Legend of Zelda – Link’s Awakening, US"
+			"The Legend of Zelda – Link’s Awakening"
 		]
 	},
 	{
@@ -5282,15 +5224,13 @@
 	{
 		"code": "DMG-L8-NOE",
 		"titles": [
-			"Lemmings",
-			"Lemmings, GER"
+			"Lemmings"
 		]
 	},
 	{
 		"code": "DMG-L8-UKV",
 		"titles": [
-			"Lemmings",
-			"Lemmings, UK"
+			"Lemmings"
 		]
 	},
 	{
@@ -5322,8 +5262,7 @@
 	{
 		"code": "DMG-LZ-NOE",
 		"titles": [
-			"Lingo",
-			"Lingo, GER"
+			"Lingo"
 		]
 	},
 	{
@@ -5344,14 +5283,14 @@
 		"titles": [
 			"Lion King, The",
 			"Konig der Lowen (Disney)",
-			"Der König der Löwen, GER"
+			"Der König der Löwen"
 		]
 	},
 	{
 		"code": "DMG-TM-NOE",
 		"titles": [
 			"Litti's Summer Sports",
-			"Litti’s Summer Sports, GER"
+			"Litti’s Summer Sports"
 		]
 	},
 	{
@@ -5380,7 +5319,7 @@
 		"titles": [
 			"Little Mermaid, The",
 			"Little Mermaid Arielle die Meerjungfrau (Disney’s the)",
-			"The little Mermaid, GER"
+			"The little Mermaid"
 		]
 	},
 	{
@@ -5426,8 +5365,7 @@
 	{
 		"code": "DMG-LN-NOE",
 		"titles": [
-			"Looney Tunes",
-			"Looney Tunes, GER"
+			"Looney Tunes"
 		]
 	},
 	{
@@ -5473,14 +5411,13 @@
 		"code": "DMG-ALWP-EUR",
 		"titles": [
 			"Lost World, The - Jurassic Park",
-			"Jurassic Park The lost World, UK/GER/IT/NED"
+			"Jurassic Park The lost World"
 		]
 	},
 	{
 		"code": "DMG-ALLP-NOE",
 		"titles": [
-			"Lucky Luke",
-			"Lucky Luke, GER"
+			"Lucky Luke"
 		]
 	},
 	{
@@ -5540,8 +5477,7 @@
 	{
 		"code": "DMG-KQ-NOE",
 		"titles": [
-			"Magnetic Soccer",
-			"Magnetic Soccer, GER"
+			"Magnetic Soccer"
 		]
 	},
 	{
@@ -5604,8 +5540,7 @@
 	{
 		"code": "DMG-MB-NOE",
 		"titles": [
-			"Marble Madness",
-			"Marble Madness, GER"
+			"Marble Madness"
 		]
 	},
 	{
@@ -5636,7 +5571,7 @@
 		"code": "DMG-APCP-NOE",
 		"titles": [
 			"Mario's Picross",
-			"Mario’s Picross, GER"
+			"Mario’s Picross"
 		]
 	},
 	{
@@ -5655,7 +5590,7 @@
 		"code": "DMG-OJ-USA",
 		"titles": [
 			"Maru's Mission",
-			"Maru’s Mission, US"
+			"Maru’s Mission"
 		]
 	},
 	{
@@ -5682,8 +5617,7 @@
 	{
 		"code": "DMG-AJSD-NOE",
 		"titles": [
-			"Matthias Sammer Soccer",
-			"Matthias Sammer Soccer, GER"
+			"Matthias Sammer Soccer"
 		]
 	},
 	{
@@ -5697,8 +5631,7 @@
 		"code": "DMG-ADMP-NOE",
 		"titles": [
 			"Maus, Die",
-			"Die Maus",
-			"Die Maus, GER"
+			"Die Maus"
 		]
 	},
 	{
@@ -5710,8 +5643,7 @@
 	{
 		"code": "DMG-CU-UKV",
 		"titles": [
-			"McDonaldland",
-			"McDonaldland, UK"
+			"McDonaldland"
 		]
 	},
 	{
@@ -5802,15 +5734,13 @@
 	{
 		"code": "DMG-W2-USA-1",
 		"titles": [
-			"Mega Man II",
-			"Mega Man II, US"
+			"Mega Man II"
 		]
 	},
 	{
 		"code": "DMG-W3-NOE",
 		"titles": [
-			"Mega Man III",
-			"Mega Man III, GER"
+			"Mega Man III"
 		]
 	},
 	{
@@ -5836,8 +5766,7 @@
 		"code": "DMG-R4-USA",
 		"titles": [
 			"Mega Man IV",
-			"Mega Man IV ",
-			"Mega Man IV, US"
+			"Mega Man IV "
 		]
 	},
 	{
@@ -5861,8 +5790,7 @@
 	{
 		"code": "DMG-MZ-USA",
 		"titles": [
-			"Megalit",
-			"Megalit, US"
+			"Megalit"
 		]
 	},
 	{
@@ -5935,7 +5863,7 @@
 		"titles": [
 			"Metroid II - Return of Samus",
 			"Metroid II Return of Samus",
-			"Metroid II, US"
+			"Metroid II"
 		]
 	},
 	{
@@ -5999,8 +5927,7 @@
 	{
 		"code": "DMG-M2-NOE",
 		"titles": [
-			"Mickey Mouse",
-			"Mickey Mouse, GER"
+			"Mickey Mouse"
 		]
 	},
 	{
@@ -6022,7 +5949,7 @@
 		"titles": [
 			"Mickey Mouse - Magic Wands!",
 			"Mickey Mouse Magic Wands (zauberstabe)",
-			"Mickey Mouse V Zauberstäbe, GER"
+			"Mickey Mouse V Zauberstäbe"
 		]
 	},
 	{
@@ -6076,7 +6003,7 @@
 		"code": "DMG-MC-NOE",
 		"titles": [
 			"Mickey's Dangerous Chase",
-			"Mickey’s Dangerous Chase, GER"
+			"Mickey’s Dangerous Chase"
 		]
 	},
 	{
@@ -6106,8 +6033,7 @@
 	{
 		"code": "DMG-H3-EUR",
 		"titles": [
-			"Micro Machines",
-			"Micro Machines, UK/GER/FR/NED/ESP/IT/SV"
+			"Micro Machines"
 		]
 	},
 	{
@@ -6141,7 +6067,7 @@
 		"code": "DMG-A2RP-UKV",
 		"titles": [
 			"Mighty Morphin Power Rangers - The Movie",
-			"Power Rangers The Movie, UK"
+			"Power Rangers The Movie"
 		]
 	},
 	{
@@ -6160,8 +6086,7 @@
 		"code": "DMG-MV-USA",
 		"titles": [
 			"Miner 2049er Starring Bounty Bob",
-			"Miner 2049er",
-			"Miner 2049er, US"
+			"Miner 2049er"
 		]
 	},
 	{
@@ -6300,8 +6225,7 @@
 	{
 		"code": "DMG-ALYP-EUR",
 		"titles": [
-			"Monopoly",
-			"Monopoly, UK/FR/GER"
+			"Monopoly"
 		]
 	},
 	{
@@ -6314,8 +6238,7 @@
 	{
 		"code": "DMG-LY-USA",
 		"titles": [
-			"Monopoly",
-			"Monopoly, US"
+			"Monopoly"
 		]
 	},
 	{
@@ -6381,8 +6304,7 @@
 		"code": "DMG-ATWP-EUR",
 		"titles": [
 			"Monster Truck Wars",
-			"Monster Truck wars",
-			"Monster Truck Wars, UK/GER/FR/ESP/IT/NED"
+			"Monster Truck wars"
 		]
 	},
 	{
@@ -6449,8 +6371,7 @@
 	{
 		"code": "DMG-MX-NOE",
 		"titles": [
-			"Motocross Maniacs",
-			"Motocross Maniacs, GER"
+			"Motocross Maniacs"
 		]
 	},
 	{
@@ -6469,8 +6390,7 @@
 	{
 		"code": "DMG-MX-USA",
 		"titles": [
-			"Motocross Maniacs",
-			"Motocross Maniacs, US"
+			"Motocross Maniacs"
 		]
 	},
 	{
@@ -6482,8 +6402,7 @@
 	{
 		"code": "DMG-MH-USA",
 		"titles": [
-			"Mouse Trap Hotel",
-			"Mouse Trap Hotel, US"
+			"Mouse Trap Hotel"
 		]
 	},
 	{
@@ -6558,8 +6477,7 @@
 	{
 		"code": "DMG-MY-USA",
 		"titles": [
-			"Mysterium",
-			"Mysterium, US"
+			"Mysterium"
 		]
 	},
 	{
@@ -6596,7 +6514,7 @@
 		"code": "DMG-AGDP-EUR",
 		"titles": [
 			"Mystical Ninja Starring Goemon",
-			"Mystical Ninja starring Goemon, UK/GER/FR/ESP/NED/IT"
+			"Mystical Ninja starring Goemon"
 		]
 	},
 	{
@@ -6714,7 +6632,7 @@
 		"code": "DMG-A8NP-EUR",
 		"titles": [
 			"NBA Jam",
-			"NBA JAM, UK/GER/FR/ESP/IT/NED"
+			"NBA JAM"
 		]
 	},
 	{
@@ -6727,8 +6645,7 @@
 	{
 		"code": "DMG-A6BP-EUR",
 		"titles": [
-			"NBA Live 96",
-			"NBA Live 96, UK/FR/GER"
+			"NBA Live 96"
 		]
 	},
 	{
@@ -6881,7 +6798,7 @@
 		"code": "DMG-Q6-NOE",
 		"titles": [
 			"NFL Quarterback Club",
-			"Quarterback NFL Club, UK/GER/FR/NED"
+			"Quarterback NFL Club"
 		]
 	},
 	{
@@ -7030,8 +6947,7 @@
 	{
 		"code": "DMG-NC-NOE",
 		"titles": [
-			"Nintendo World Cup",
-			"Nintendo World Cup, GER"
+			"Nintendo World Cup"
 		]
 	},
 	{
@@ -7087,8 +7003,7 @@
 	{
 		"code": "DMG-AO9P-EUR",
 		"titles": [
-			"Olympic Summer Games",
-			"Olympic Summer Games, UK/FR/GER"
+			"Olympic Summer Games"
 		]
 	},
 	{
@@ -7156,7 +7071,7 @@
 		"titles": [
 			"Otto's Ottifanten - Baby Bruno's Alptraum",
 			"Ottifanten \"Baby Brunos Alptraum\" (Otto's)",
-			"Ottifanten Baby Brunos Alptraum, GER"
+			"Ottifanten Baby Brunos Alptraum"
 		]
 	},
 	{
@@ -7206,15 +7121,13 @@
 	{
 		"code": "DMG-PC-USA",
 		"titles": [
-			"Pac-Man",
-			"Pac-Man, US"
+			"Pac-Man"
 		]
 	},
 	{
 		"code": "DMG-NO-EUR",
 		"titles": [
-			"Pac-Panic",
-			"Pac-Panic, UK/DU/FR/GER"
+			"Pac-Panic"
 		]
 	},
 	{
@@ -7285,7 +7198,7 @@
 		"titles": [
 			"Pagemaster, The",
 			"Pagemaster (the)",
-			"The Pagemaster, UK/FR/GER/ESP/IT/NED"
+			"The Pagemaster"
 		]
 	},
 	{
@@ -7352,8 +7265,7 @@
 	{
 		"code": "DMG-PV-NOE",
 		"titles": [
-			"Parodius",
-			"Parodius, GER"
+			"Parodius"
 		]
 	},
 	{
@@ -7412,8 +7324,7 @@
 	{
 		"code": "DMG-A3GP-EUR",
 		"titles": [
-			"PGA Tour 96",
-			"PGA Tour 96, UK/FR/GER"
+			"PGA Tour 96"
 		]
 	},
 	{
@@ -7452,8 +7363,7 @@
 		"code": "DMG-PB-NOE",
 		"titles": [
 			"Pinball - Revenge of the 'Gator",
-			"Pinball Revenge of the Gator",
-			"Pinball Revenge of the Gator, GER"
+			"Pinball Revenge of the Gator"
 		]
 	},
 	{
@@ -7479,15 +7389,13 @@
 	{
 		"code": "DMG-APDP-EUR",
 		"titles": [
-			"Pinball Deluxe",
-			"Pinball Deluxe, UK/FR/GER"
+			"Pinball Deluxe"
 		]
 	},
 	{
 		"code": "DMG-D8-NOE",
 		"titles": [
-			"Pinball Dreams",
-			"Pinball Dreams, GER"
+			"Pinball Dreams"
 		]
 	},
 	{
@@ -7536,8 +7444,7 @@
 	{
 		"code": "DMG-QF-NOE",
 		"titles": [
-			"Pit-Fighter",
-			"Pit-Fighter, GER"
+			"Pit-Fighter"
 		]
 	},
 	{
@@ -7550,24 +7457,21 @@
 	{
 		"code": "DMG-FL-USA",
 		"titles": [
-			"Play Action Football",
-			"Play Action Football, US"
+			"Play Action Football"
 		]
 	},
 	{
 		"code": "DMG-AHQP-FRG",
 		"titles": [
 			"Pocahontas",
-			"Pocahontas (Disney's)",
-			"Pocahontas, GER/FR/NED"
+			"Pocahontas (Disney's)"
 		]
 	},
 	{
 		"code": "DMG-AHQE-USA",
 		"titles": [
 			"Pocahontas",
-			"Pocahontas (Disney's)",
-			"Pocahontas, US"
+			"Pocahontas (Disney's)"
 		]
 	},
 	{
@@ -7855,7 +7759,7 @@
 		"titles": [
 			"Pop'n TwinBee",
 			"Pop & TwinBee",
-			"Pop’n Twin Bee, GER"
+			"Pop’n Twin Bee"
 		]
 	},
 	{
@@ -7893,8 +7797,7 @@
 	{
 		"code": "DMG-P9-NOE",
 		"titles": [
-			"Populous",
-			"Populous, GER"
+			"Populous"
 		]
 	},
 	{
@@ -7937,8 +7840,7 @@
 	{
 		"code": "DMG-UH-EUR",
 		"titles": [
-			"Prehistorik Man",
-			"Prehistorik Man, UK/GER/FR/IT/ESP/NED"
+			"Prehistorik Man"
 		]
 	},
 	{
@@ -8006,8 +7908,7 @@
 	{
 		"code": "DMG-ACSP-EUR",
 		"titles": [
-			"Probotector 2",
-			"Probotector 2, UK/GER/FR/NED/ESP/IT"
+			"Probotector 2"
 		]
 	},
 	{
@@ -8028,7 +7929,7 @@
 		"titles": [
 			"Punisher, The - The Ultimate Payback",
 			"Punisher (the)",
-			"The Punisher, US"
+			"The Punisher"
 		]
 	},
 	{
@@ -8124,8 +8025,7 @@
 		"code": "DMG-QX-USA",
 		"titles": [
 			"QIX",
-			"Qix",
-			"Qix, US"
+			"Qix"
 		]
 	},
 	{
@@ -8158,8 +8058,7 @@
 		"code": "DMG-QR-USA",
 		"titles": [
 			"Quarth",
-			"Quarth (German version)",
-			"Quarth, US"
+			"Quarth (German version)"
 		]
 	},
 	{
@@ -8179,8 +8078,7 @@
 	{
 		"code": "DMG-RE-NOE",
 		"titles": [
-			"R-Type",
-			"R-Type, GER"
+			"R-Type"
 		]
 	},
 	{
@@ -8248,8 +8146,7 @@
 	{
 		"code": "DMG-OB-USA",
 		"titles": [
-			"Raging Fighter",
-			"Raging Fighter, US"
+			"Raging Fighter"
 		]
 	},
 	{
@@ -8298,7 +8195,7 @@
 		"titles": [
 			"Ren & Stimpy Show, The - Space Cadet Adventures",
 			"Ren & Stimpy Show Space Cadet Adventures (the)",
-			"The Ren & Stimpy Show Space Cadet Adventures, US"
+			"The Ren & Stimpy Show Space Cadet Adventures"
 		]
 	},
 	{
@@ -8322,8 +8219,7 @@
 	{
 		"code": "DMG-H5-UKV",
 		"titles": [
-			"Road Rash",
-			"Road Rash, UK"
+			"Road Rash"
 		]
 	},
 	{
@@ -8343,8 +8239,7 @@
 		"code": "DMG-RH-NOE",
 		"titles": [
 			"Robin Hood - Prince of Thieves",
-			"Robin Hood Prince of Thieves",
-			"Robin Hood Prince of Thieves, GER"
+			"Robin Hood Prince of Thieves"
 		]
 	},
 	{
@@ -8365,7 +8260,7 @@
 		"code": "DMG-CP-USA",
 		"titles": [
 			"RoboCop",
-			"Robocop, US"
+			"Robocop"
 		]
 	},
 	{
@@ -8398,7 +8293,7 @@
 		"titles": [
 			"RoboCop Versus The Terminator",
 			"RoboCop versus the Terminator",
-			"Robocop vs. The Terminator, GER"
+			"Robocop vs. The Terminator"
 		]
 	},
 	{
@@ -8446,7 +8341,7 @@
 		"code": "DMG-VE-USA",
 		"titles": [
 			"Rolan's Curse",
-			"Rolan’S Curse, US"
+			"Rolan’S Curse"
 		]
 	},
 	{
@@ -8525,8 +8420,7 @@
 		"code": "DMG-AB8D-NOE",
 		"titles": [
 			"Schiffe Versenken",
-			"Schiffe versenken",
-			"Schiffe versenken, GER"
+			"Schiffe versenken"
 		]
 	},
 	{
@@ -8635,8 +8529,7 @@
 		"code": "DMG-VZ-NOE",
 		"titles": [
 			"Sensible Soccer - European Champions",
-			"Sensible Soccer",
-			"Sensible Soccer, GER"
+			"Sensible Soccer"
 		]
 	},
 	{
@@ -8648,8 +8541,7 @@
 	{
 		"code": "DMG-KM-USA",
 		"titles": [
-			"Serpent",
-			"Serpent, US"
+			"Serpent"
 		]
 	},
 	{
@@ -8743,8 +8635,7 @@
 	{
 		"code": "DMG-SW-NOE",
 		"titles": [
-			"Side Pocket",
-			"Side Pocket, GER"
+			"Side Pocket"
 		]
 	},
 	{
@@ -8865,7 +8756,7 @@
 		"titles": [
 			"Smurfs Travel the World, The",
 			"Schlümpfe Reisen um die Welt (die)",
-			"Die Schlümpfe reisen um die Welt, GER"
+			"Die Schlümpfe reisen um die Welt"
 		]
 	},
 	{
@@ -8902,7 +8793,7 @@
 		"titles": [
 			"Smurfs, The",
 			"Schlümpfe (die)",
-			"Die Schlümpfe, GER"
+			"Die Schlümpfe"
 		]
 	},
 	{
@@ -8947,7 +8838,7 @@
 		"code": "DMG-SN-NOE",
 		"titles": [
 			"Snoopy's Magic Show",
-			"Snoopy’s Magic Show, GER"
+			"Snoopy’s Magic Show"
 		]
 	},
 	{
@@ -9036,8 +8927,7 @@
 		"code": "DMG-SS-NOE",
 		"titles": [
 			"SolarStriker",
-			"Solar Striker",
-			"Solar Striker, GER"
+			"Solar Striker"
 		]
 	},
 	{
@@ -9092,8 +8982,7 @@
 		"code": "DMG-UX-NOE",
 		"titles": [
 			"Solitaire FunPak",
-			"Solitaire Fun Pak",
-			"Solitaire FunPak, GER"
+			"Solitaire Fun Pak"
 		]
 	},
 	{
@@ -9106,7 +8995,7 @@
 		"code": "DMG-SC-NOE",
 		"titles": [
 			"Solomon's Club",
-			"Solomon’s Club, GER"
+			"Solomon’s Club"
 		]
 	},
 	{
@@ -9157,8 +9046,7 @@
 	{
 		"code": "DMG-SP-NOE",
 		"titles": [
-			"Space Invaders",
-			"Space Invaders, GER"
+			"Space Invaders"
 		]
 	},
 	{
@@ -9197,8 +9085,7 @@
 		"code": "DMG-E2-NOE",
 		"titles": [
 			"Speedball 2 - Brutal Deluxe",
-			"Speedball 2",
-			"Speedball 2, GER"
+			"Speedball 2"
 		]
 	},
 	{
@@ -9231,14 +9118,13 @@
 		"titles": [
 			"Spider-Man - X-Men - Arcade's Revenge",
 			"Spider-Man X-Men",
-			"Spider-Man / X-Men, UK/GER/FR/NED"
+			"Spider-Man / X-Men"
 		]
 	},
 	{
 		"code": "DMG-ZS-NOE",
 		"titles": [
-			"Spider-Man 2",
-			"Spider-Man 2, UK/GER"
+			"Spider-Man 2"
 		]
 	},
 	{
@@ -9260,7 +9146,7 @@
 		"titles": [
 			"Spirit of F-1, The",
 			"Spirit of F1",
-			"The Spirit of F-1, GER"
+			"The Spirit of F-1"
 		]
 	},
 	{
@@ -9300,16 +9186,14 @@
 		"code": "DMG-S3-NOE",
 		"titles": [
 			"Spot - The Video Game",
-			"Spot",
-			"Spot, GER"
+			"Spot"
 		]
 	},
 	{
 		"code": "DMG-S3-USA",
 		"titles": [
 			"Spot - The Video Game",
-			"Spot",
-			"Spot, USA"
+			"Spot"
 		]
 	},
 	{
@@ -9323,7 +9207,7 @@
 		"titles": [
 			"Spy vs Spy - Operation Boobytrap",
 			"Spy vs Spy",
-			"Spy vs. Spy Operation Booby Trap, GER/UK/FR"
+			"Spy vs. Spy Operation Booby Trap"
 		]
 	},
 	{
@@ -9331,7 +9215,7 @@
 		"titles": [
 			"Square Deal - The Game of Two-Dimensional Poker",
 			"Square deal",
-			"Square Deal, US"
+			"Square Deal"
 		]
 	},
 	{
@@ -9385,8 +9269,7 @@
 		"code": "DMG-ASTP-EUR",
 		"titles": [
 			"Star Trek Generations - Beyond the Nexus",
-			"Star Trek Generations Beyond the Nexus",
-			"Star Trek Generations Beyond the Nexus, UK/FR/GER"
+			"Star Trek Generations Beyond the Nexus"
 		]
 	},
 	{
@@ -9410,8 +9293,7 @@
 	{
 		"code": "DMG-WS-USA-1",
 		"titles": [
-			"Star Wars",
-			"Star Wars, US"
+			"Star Wars"
 		]
 	},
 	{
@@ -9438,8 +9320,7 @@
 	{
 		"code": "DMG-AGTP-EUR",
 		"titles": [
-			"Stargate",
-			"Stargate, UK/GER/FR/ESP/IT/NED"
+			"Stargate"
 		]
 	},
 	{
@@ -9460,7 +9341,7 @@
 		"titles": [
 			"Stop That Roach!",
 			"Stop That Roach",
-			"Stop that Roach!, US"
+			"Stop that Roach!"
 		]
 	},
 	{
@@ -9472,8 +9353,7 @@
 	{
 		"code": "DMG-ASFP-NOE",
 		"titles": [
-			"Street Fighter II",
-			"Street Fighter II, GER"
+			"Street Fighter II"
 		]
 	},
 	{
@@ -9498,8 +9378,7 @@
 	{
 		"code": "DMG-ASRP-EUR",
 		"titles": [
-			"Street Racer",
-			"Street Racer, UK/FR/GER/ESP/IT/NED"
+			"Street Racer"
 		]
 	},
 	{
@@ -9518,8 +9397,7 @@
 	{
 		"code": "DMG-FB-NOE",
 		"titles": [
-			"Sunsoft Grand Prix",
-			"Sunsoft Grand Prix, GER"
+			"Sunsoft Grand Prix"
 		]
 	},
 	{
@@ -9533,7 +9411,7 @@
 		"code": "DMG-N6-EUR",
 		"titles": [
 			"Super Battletank",
-			"Super Battle Tank, UK/FR/GER"
+			"Super Battle Tank"
 		]
 	},
 	{
@@ -9681,8 +9559,7 @@
 	{
 		"code": "DMG-ML-NOE",
 		"titles": [
-			"Super Mario Land",
-			"Super Mario Land, GER"
+			"Super Mario Land"
 		]
 	},
 	{
@@ -9713,8 +9590,7 @@
 	{
 		"code": "DMG-ML-USA-1",
 		"titles": [
-			"Super Mario Land",
-			"Super Mario Land, US"
+			"Super Mario Land"
 		]
 	},
 	{
@@ -9759,7 +9635,7 @@
 		"titles": [
 			"Super Mario Land 2 - 6 Golden Coins",
 			"Super Mario Land 2: 6 Golden Coins ",
-			"Super Mario Land 2 – 6 Golden Coins, US"
+			"Super Mario Land 2 – 6 Golden Coins"
 		]
 	},
 	{
@@ -9781,7 +9657,7 @@
 			"Super Mario Land 2 - 6 Golden Coins",
 			"Super Mario Land 2: 6 Golden Coins ",
 			"Super Mario Land 2: 6 Golden Coins (Nintendo Classics version)",
-			"Super Mario Land 2 – 6 Golden Coins, GER"
+			"Super Mario Land 2 – 6 Golden Coins"
 		]
 	},
 	{
@@ -9809,7 +9685,7 @@
 		"titles": [
 			"Super Mario Land 2 - 6 Golden Coins",
 			"Super Mario Land 2: 6 Golden Coins",
-			"Super Mario Land 2 – 6 Golden Coins, US"
+			"Super Mario Land 2 – 6 Golden Coins"
 		]
 	},
 	{
@@ -9862,8 +9738,7 @@
 		"code": "DMG-TR-NOE",
 		"titles": [
 			"Super R.C. Pro-Am",
-			"Tetris",
-			"Tetris, GER"
+			"Tetris"
 		]
 	},
 	{
@@ -9876,7 +9751,7 @@
 		"code": "DMG-RC-NOE",
 		"titles": [
 			"Super R.C. Pro-Am",
-			"Super R.C. Pro Am, GER"
+			"Super R.C. Pro Am"
 		]
 	},
 	{
@@ -10063,8 +9938,7 @@
 	{
 		"code": "DMG-ATAP-NOE",
 		"titles": [
-			"Tamagotchi",
-			"Tamagotchi, GER"
+			"Tamagotchi"
 		]
 	},
 	{
@@ -10084,8 +9958,7 @@
 		"code": "DMG-ZK-EUR",
 		"titles": [
 			"Tarzan - Lord of the Jungle",
-			"Tarzan Lord of the Jungle",
-			"Tarzan Lord of the Jungle, UK/FR/GER"
+			"Tarzan Lord of the Jungle"
 		]
 	},
 	{
@@ -10099,15 +9972,14 @@
 		"code": "DMG-ZM-UKV",
 		"titles": [
 			"Taz-Mania",
-			"Taz Mania, UK"
+			"Taz Mania"
 		]
 	},
 	{
 		"code": "DMG-ZM-EUR",
 		"titles": [
 			"Taz-Mania",
-			"Taz Mania",
-			"Taz Mania, UK/GER"
+			"Taz Mania"
 		]
 	},
 	{
@@ -10127,8 +9999,7 @@
 		"code": "DMG-NT-FAH",
 		"titles": [
 			"Teenage Mutant Hero Turtles - Fall of the Foot Clan",
-			"Teenage Mutant Hero Turtles Fall of the Foot Clan",
-			"Teenage Mutant Hero Turtles Fall of the Foot Clan, FR/NED"
+			"Teenage Mutant Hero Turtles Fall of the Foot Clan"
 		]
 	},
 	{
@@ -10142,8 +10013,7 @@
 		"code": "DMG-TT-NOE",
 		"titles": [
 			"Teenage Mutant Hero Turtles II - Back from the Sewers",
-			"Teenage Mutant Hero Turtles II Back from the Sewers",
-			"Teenage Mutant Hero Turtles II Back from the Sewers, GER"
+			"Teenage Mutant Hero Turtles II Back from the Sewers"
 		]
 	},
 	{
@@ -10178,8 +10048,7 @@
 		"code": "DMG-TT-USA",
 		"titles": [
 			"Teenage Mutant Ninja Turtles II - Back from the Sewers",
-			"Teenage Mutant Ninja Turtles II Back from the Sewers",
-			"Teenage Mutant Ninja Turtles II Back from the Sewers, US"
+			"Teenage Mutant Ninja Turtles II Back from the Sewers"
 		]
 	},
 	{
@@ -10260,7 +10129,7 @@
 		"titles": [
 			"Terminator 2 - Judgment Day",
 			"T2 Terminator 2 Judgment Day",
-			"Terminator 2 Judgment Day, GER"
+			"Terminator 2 Judgment Day"
 		]
 	},
 	{
@@ -10293,8 +10162,7 @@
 	{
 		"code": "DMG-ER-USA",
 		"titles": [
-			"Tesserae",
-			"Tesserae, US"
+			"Tesserae"
 		]
 	},
 	{
@@ -10427,8 +10295,7 @@
 	{
 		"code": "DMG-ASBE-USA",
 		"titles": [
-			"Tetris Blast",
-			"Tetris Blast, US"
+			"Tetris Blast"
 		]
 	},
 	{
@@ -10502,7 +10369,7 @@
 		"titles": [
 			"Tiny Toon Adventures - Babs' Big Break",
 			"Tiny Toon Adventures Babs' Big Break",
-			"Tiny Toon Adventures Babs‘ Big Break, GER"
+			"Tiny Toon Adventures Babs‘ Big Break"
 		]
 	},
 	{
@@ -10544,7 +10411,7 @@
 		"titles": [
 			"Tiny Toon Adventures 2 - Montana's Movie Madness",
 			"Tiny Toon Adventures 2 Montana's Movie Madness",
-			"Tiny Toon Adventures Montana’s Movie Madness, GER"
+			"Tiny Toon Adventures Montana’s Movie Madness"
 		]
 	},
 	{
@@ -10582,8 +10449,7 @@
 	{
 		"code": "DMG-JY-NOE",
 		"titles": [
-			"Tom & Jerry",
-			"Tom & Jerry, GER"
+			"Tom & Jerry"
 		]
 	},
 	{
@@ -10742,15 +10608,13 @@
 	{
 		"code": "DMG-ATLE-USA",
 		"titles": [
-			"True Lies",
-			"True Lies, US"
+			"True Lies"
 		]
 	},
 	{
 		"code": "DMG-ATLP-EUR",
 		"titles": [
-			"True Lies",
-			"True Lies, UK/GER/FR/ESP/IT/NED"
+			"True Lies"
 		]
 	},
 	{
@@ -10868,8 +10732,7 @@
 		"code": "DMG-UT-USA",
 		"titles": [
 			"Ultima - Runes of Virtue",
-			"Ultima Runes of Virtue",
-			"Ultima Runes of Virtue, US"
+			"Ultima Runes of Virtue"
 		]
 	},
 	{
@@ -10929,8 +10792,7 @@
 	{
 		"code": "DMG-AUSP-EUR",
 		"titles": [
-			"Urban Strike",
-			"Urban Strike, UK/FR/GER"
+			"Urban Strike"
 		]
 	},
 	{
@@ -10944,8 +10806,7 @@
 		"code": "DMG-AVLP-NOE",
 		"titles": [
 			"V-Rally - Championship Edition",
-			"V-Rally Championship Edition",
-			"V-Rally Championship Edition, GER"
+			"V-Rally Championship Edition"
 		]
 	},
 	{
@@ -10999,7 +10860,7 @@
 		"code": "DMG-EE-NOE",
 		"titles": [
 			"Wario Blast Featuring Bomberman!",
-			"Wario Blast, GER"
+			"Wario Blast"
 		]
 	},
 	{
@@ -11047,7 +10908,7 @@
 			"Wario Land - Super Mario Land 3",
 			"Wario Land: Super Mario Land 3",
 			"Wario Land: Super Mario Land 3 (Nintendo Classics version)",
-			"Wario Land – Super Mario Land 3, GER"
+			"Wario Land – Super Mario Land 3"
 		]
 	},
 	{
@@ -11137,8 +10998,7 @@
 	{
 		"code": "DMG-WF-USA",
 		"titles": [
-			"Wheel of Fortune",
-			"Wheel of Fortune, US"
+			"Wheel of Fortune"
 		]
 	},
 	{
@@ -11223,7 +11083,7 @@
 		"titles": [
 			"Wizards & Warriors X - The Fortress of Fear",
 			"Fortress of Fear (Wizards & Warriors X)",
-			"Wizards & Warriors X Fortress of Fear, GER"
+			"Wizards & Warriors X Fortress of Fear"
 		]
 	},
 	{
@@ -11258,7 +11118,7 @@
 		"titles": [
 			"World Beach Volley - 1992 GB Cup",
 			"World Beach Volley",
-			"World Beach Volley 1992 GB Cup, GER"
+			"World Beach Volley 1992 GB Cup"
 		]
 	},
 	{
@@ -11278,8 +11138,7 @@
 	{
 		"code": "DMG-A8WP-EUR",
 		"titles": [
-			"World Cup 98",
-			"World Cup 98, UK/GER/FR/NED"
+			"World Cup 98"
 		]
 	},
 	{
@@ -11334,22 +11193,19 @@
 	{
 		"code": "DMG-WP-NOE",
 		"titles": [
-			"WWF King of the Ring",
-			"WWF King of the Ring, UK/GER/FR/NED"
+			"WWF King of the Ring"
 		]
 	},
 	{
 		"code": "DMG-WP-NOE-1",
 		"titles": [
-			"WWF King of the Ring",
-			"WWF King of the Ring, UK/GER/FR/NED"
+			"WWF King of the Ring"
 		]
 	},
 	{
 		"code": "DMG-AWFP-EUR",
 		"titles": [
-			"WWF Raw",
-			"WWF Raw, UK/GER/FR/ESP/NED"
+			"WWF Raw"
 		]
 	},
 	{
@@ -11386,15 +11242,13 @@
 	{
 		"code": "DMG-WX-NOE",
 		"titles": [
-			"WWF Superstars 2",
-			"WWF Superstars 2, UK/GER"
+			"WWF Superstars 2"
 		]
 	},
 	{
 		"code": "DMG-AWWP-EUR",
 		"titles": [
-			"WWF War Zone",
-			"WWF War Zone, UK/GER/FR/IT"
+			"WWF War Zone"
 		]
 	},
 	{
@@ -11438,14 +11292,14 @@
 		"code": "DMG-YG-EUR",
 		"titles": [
 			"Yogi Bear's Gold Rush",
-			"Yogi Bear’s Gold Rush, UK/FR/ESP/IT"
+			"Yogi Bear’s Gold Rush"
 		]
 	},
 	{
 		"code": "DMG-YG-USA",
 		"titles": [
 			"Yogi Bear's Gold Rush",
-			"Yogi Bear’s Gold Rush, US"
+			"Yogi Bear’s Gold Rush"
 		]
 	},
 	{
@@ -11497,7 +11351,7 @@
 		"code": "DMG-CI-USA",
 		"titles": [
 			"Yoshi's Cookie",
-			"Yoshi’s Cookie, US"
+			"Yoshi’s Cookie"
 		]
 	},
 	{
@@ -11574,8 +11428,7 @@
 		"code": "DMG-ZN-NOE",
 		"titles": [
 			"Zen - Intergalactic Ninja",
-			"Zen Intergalactic Ninja",
-			"Zen Intergalactic Ninja, GER"
+			"Zen Intergalactic Ninja"
 		]
 	},
 	{
@@ -11608,8 +11461,7 @@
 	{
 		"code": "DMG-AZPP-EUR",
 		"titles": [
-			"Zoop",
-			"Zoop, UK/GER/FR/IT/ESP"
+			"Zoop"
 		]
 	},
 	{
@@ -11801,8 +11653,7 @@
 	{
 		"code": "DMG-AZTP-EUR",
 		"titles": [
-			"All Star Tennis 2000",
-			"All Star Tennis 2000, UK/GER/ESP/IT/NED"
+			"All Star Tennis 2000"
 		]
 	},
 	{
@@ -12678,7 +12529,7 @@
 		"code": "DMG-APXP-EUR",
 		"titles": [
 			"Bug's Life, A",
-			"a bug’s life, UK/GER"
+			"a bug’s life"
 		]
 	},
 	{
@@ -14360,7 +14211,7 @@
 		"code": "DMG-AEXP-EUR",
 		"titles": [
 			"Gex - Enter the Gecko",
-			"Gex Enter the Gecko, FR/GER/NED"
+			"Gex Enter the Gecko"
 		]
 	},
 	{
@@ -14462,8 +14313,7 @@
 	{
 		"code": "DMG-AAFD-NOE",
 		"titles": [
-			"Golden Goal",
-			"Golden Goal, GER"
+			"Golden Goal"
 		]
 	},
 	{
@@ -14944,7 +14794,7 @@
 		"code": "DMG-AHOP-NOE",
 		"titles": [
 			"Hugo 2 1-2",
-			"Hugo 2 1/2, GER"
+			"Hugo 2 1/2"
 		]
 	},
 	{
@@ -17104,8 +16954,7 @@
 	{
 		"code": "DMG-ABZP-EUU",
 		"titles": [
-			"NFL Blitz",
-			"NFL Blitz, GER/FR/NED"
+			"NFL Blitz"
 		]
 	},
 	{
@@ -17219,8 +17068,7 @@
 	{
 		"code": "DMG-AOWP-EUU",
 		"titles": [
-			"Oddworld Adventures 2",
-			"Oddworld Adventures 2, FR/GER"
+			"Oddworld Adventures 2"
 		]
 	},
 	{
@@ -18404,7 +18252,7 @@
 		"code": "DMG-AVTP-EUR",
 		"titles": [
 			"Reservoir Rat",
-			"Reservoir Rats, UK/FR/GER"
+			"Reservoir Rats"
 		]
 	},
 	{
@@ -18596,8 +18444,7 @@
 	{
 		"code": "DMG-AORP-EUR",
 		"titles": [
-			"Ronaldo V-Football",
-			"Ronaldo V-Football, UK/GER"
+			"Ronaldo V-Football"
 		]
 	},
 	{
@@ -18627,8 +18474,7 @@
 	{
 		"code": "DMG-ARXP-EUR",
 		"titles": [
-			"Rox",
-			"Rox, UK/FR/GER/IT/ESP/NED"
+			"Rox"
 		]
 	},
 	{
@@ -18994,8 +18840,7 @@
 	{
 		"code": "DMG-AHPP-EUU",
 		"titles": [
-			"Shanghai Pocket",
-			"Shanghai Pocket, GER/IT"
+			"Shanghai Pocket"
 		]
 	},
 	{
@@ -19674,7 +19519,7 @@
 		"code": "DMG-AYRP-NOE",
 		"titles": [
 			"Sylvester & Tweety - Breakfast on the Run",
-			"Sylvester & Tweety „Vogel zum Frühstück“, GER"
+			"Sylvester & Tweety „Vogel zum Frühstück“"
 		]
 	},
 	{
@@ -19692,8 +19537,7 @@
 	{
 		"code": "DMG-ALUP-NOE",
 		"titles": [
-			"Tabaluga",
-			"Tabaluga, GER"
+			"Tabaluga"
 		]
 	},
 	{
@@ -19813,8 +19657,7 @@
 	{
 		"code": "DMG-AW6P-EUR",
 		"titles": [
-			"Test Drive 6",
-			"Test Drive 6, FR/GER/ESP/IT/UK"
+			"Test Drive 6"
 		]
 	},
 	{
@@ -19898,8 +19741,7 @@
 	{
 		"code": "DMG-AYGP-EUR",
 		"titles": [
-			"Tiger Woods PGA Tour 2000",
-			"Tiger Woods PGA Tour 2000, UK/GER/FR/IT/ESP"
+			"Tiger Woods PGA Tour 2000"
 		]
 	},
 	{
@@ -35794,7 +35636,7 @@
 		"code": "DMG-C8-ESP",
 		"titles": [
 			"Incredible Crash Dummies, The",
-			"The incredible Crash Dummies, ESP"
+			"The incredible Crash Dummies"
 		]
 	},
 	{
@@ -36696,7 +36538,7 @@
 		"code": "DMG-AHQP-EUR",
 		"titles": [
 			"Pocahontas (Disney's)",
-			"Pocahontas, UK/ESP/IT"
+			"Pocahontas"
 		]
 	},
 	{
@@ -37522,8 +37364,7 @@
 	{
 		"code": "DMG-AJGP-FAH-2",
 		"titles": [
-			"Jungle Strike",
-			"Jungle Strike, FR/NED"
+			"Jungle Strike"
 		]
 	},
 	{
@@ -39136,8 +38977,7 @@
 	{
 		"code": "DMG-G2-FRG",
 		"titles": [
-			"Gauntlet II",
-			"Gauntlet II, GER"
+			"Gauntlet II"
 		]
 	},
 	{
@@ -39204,7 +39044,7 @@
 		"code": "DMG-KA-FRG-1",
 		"titles": [
 			"Kid Icarus Von Mythen und Monstern",
-			"Kid Icarus, GER"
+			"Kid Icarus"
 		]
 	},
 	{
@@ -39270,8 +39110,7 @@
 	{
 		"code": "DMG-L7-FRG-2",
 		"titles": [
-			"Lamborghini American Challenge",
-			"Lamborghini American Challenge, GER/FR"
+			"Lamborghini American Challenge"
 		]
 	},
 	{
@@ -39332,7 +39171,7 @@
 		"code": "DMG-CU-FRG",
 		"titles": [
 			"Mc Donaldland",
-			"McDonaldland, GER"
+			"McDonaldland"
 		]
 	},
 	{
@@ -39903,8 +39742,7 @@
 	{
 		"code": "DMG-WX-FRG",
 		"titles": [
-			"WWF Superstars 2",
-			"WWF Superstars 2, GER"
+			"WWF Superstars 2"
 		]
 	},
 	{
@@ -45499,7 +45337,7 @@
 		"code": "DMG-F4-NOE-1",
 		"titles": [
 			"4 in 1 - Fun Pak",
-			"4-in-1 Funpak, GER"
+			"4-in-1 Funpak"
 		]
 	},
 	{
@@ -45518,7 +45356,7 @@
 		"code": "DMG-A8-NOE",
 		"titles": [
 			"Addams Family Pugsley's Scavenger Hunt (the)",
-			"Pugsley’s Scavenger Hunt, UK"
+			"Pugsley’s Scavenger Hunt"
 		]
 	},
 	{
@@ -45542,8 +45380,7 @@
 	{
 		"code": "DMG-LO-NOE",
 		"titles": [
-			"Adventures of Lolo",
-			"Adventures of Lolo, GER"
+			"Adventures of Lolo"
 		]
 	},
 	{
@@ -45573,8 +45410,7 @@
 	{
 		"code": "DMG-AW-NOE",
 		"titles": [
-			"Alleyway",
-			"Alleyway, GER"
+			"Alleyway"
 		]
 	},
 	{
@@ -45611,7 +45447,7 @@
 		"code": "DMG-AXOP-NOE",
 		"titles": [
 			"Astérix & Obélix",
-			"Asterix & Obelix, GER"
+			"Asterix & Obelix"
 		]
 	},
 	{
@@ -45672,14 +45508,14 @@
 		"code": "DMG-B5-NOE-1",
 		"titles": [
 			"Batman Return of the Joker",
-			"Batman – Return of the Joker, GER"
+			"Batman – Return of the Joker"
 		]
 	},
 	{
 		"code": "DMG-BA-NOE",
 		"titles": [
 			"Batman the Video Game",
-			"Batman The Video Game, GER"
+			"Batman The Video Game"
 		]
 	},
 	{
@@ -45751,8 +45587,7 @@
 	{
 		"code": "DMG-BD-NOE-1",
 		"titles": [
-			"Boulder Dash",
-			"Boulder Dash, GER"
+			"Boulder Dash"
 		]
 	},
 	{
@@ -45783,22 +45618,19 @@
 		"code": "DMG-GM-NOE",
 		"titles": [
 			"Burgertime Deluxe",
-			"BurgerTime Deluxe",
-			"Burgertime Deluxe, GER"
+			"BurgerTime Deluxe"
 		]
 	},
 	{
 		"code": "DMG-CJ-NOE",
 		"titles": [
-			"Castelian",
-			"Castelian, GER"
+			"Castelian"
 		]
 	},
 	{
 		"code": "DMG-QH-NOE",
 		"titles": [
-			"Castle Quest",
-			"Castle Quest, GER"
+			"Castle Quest"
 		]
 	},
 	{
@@ -45811,14 +45643,14 @@
 		"code": "DMG-EM-NOE-1",
 		"titles": [
 			"Chessmaster (the)",
-			"The Chessmaster, GER"
+			"The Chessmaster"
 		]
 	},
 	{
 		"code": "DMG-V4-NOE",
 		"titles": [
 			"Choplifter II",
-			"Choplifter 2, GER"
+			"Choplifter 2"
 		]
 	},
 	{
@@ -45836,8 +45668,7 @@
 	{
 		"code": "DMG-YS-NOE-2",
 		"titles": [
-			"Daffy Duck",
-			"Daffy Duck, GER"
+			"Daffy Duck"
 		]
 	},
 	{
@@ -45861,8 +45692,7 @@
 	{
 		"code": "DMG-YD-NOE",
 		"titles": [
-			"Dennis",
-			"Dennis, GER"
+			"Dennis"
 		]
 	},
 	{
@@ -45941,7 +45771,7 @@
 		"code": "DMG-D4-NOE",
 		"titles": [
 			"Dracula (Bram Stoker's)",
-			"Bram Stoker’s Dracula, GER"
+			"Bram Stoker’s Dracula"
 		]
 	},
 	{
@@ -45960,7 +45790,7 @@
 		"code": "DMG-J7-NNOE",
 		"titles": [
 			"Dschungelbuch (Disney das) NNOE",
-			"Das Dschungelbuch, GER"
+			"Das Dschungelbuch"
 		]
 	},
 	{
@@ -46002,15 +45832,13 @@
 	{
 		"code": "DMG-F5-NOE",
 		"titles": [
-			"F1 Pole Position",
-			"F1 Pole Position, GER"
+			"F1 Pole Position"
 		]
 	},
 	{
 		"code": "DMG-F5-NOE-1",
 		"titles": [
-			"F1 Pole Position",
-			"F1 Pole Position, GER"
+			"F1 Pole Position"
 		]
 	},
 	{
@@ -46029,7 +45857,7 @@
 		"code": "DMG-F6-NOE",
 		"titles": [
 			"Fidgetts (the)",
-			"The Fidgetts, GER"
+			"The Fidgetts"
 		]
 	},
 	{
@@ -46060,7 +45888,7 @@
 		"code": "DMG-AGAE-NNOE",
 		"titles": [
 			"Game & Watch Gallery NNOE",
-			"Game & Watch Gallery, GER"
+			"Game & Watch Gallery"
 		]
 	},
 	{
@@ -46085,7 +45913,7 @@
 		"code": "DMG-JK-NOE",
 		"titles": [
 			"George Foreman's KO Boxing",
-			"George Foreman’s KO Boxing, UK/GER"
+			"George Foreman’s KO Boxing"
 		]
 	},
 	{
@@ -46146,7 +45974,7 @@
 		"code": "DMG-AHCP-NNOE",
 		"titles": [
 			"Hercules (Disney's) NNOE",
-			"Hercules, GER"
+			"Hercules"
 		]
 	},
 	{
@@ -46159,7 +45987,7 @@
 		"code": "DMG-AH-NOE",
 		"titles": [
 			"Home Alone 2 Lost in New York",
-			"Home Alone, GER"
+			"Home Alone"
 		]
 	},
 	{
@@ -46184,7 +46012,7 @@
 		"code": "DMG-HF-NOE",
 		"titles": [
 			"Hunt for Red October (the)",
-			"The Hunt for Red October, GER"
+			"The Hunt for Red October"
 		]
 	},
 	{
@@ -46197,7 +46025,7 @@
 		"code": "DMG-C8-NOE",
 		"titles": [
 			"Incredible Crash Dummies (the)",
-			"The incredible Crash Dummies, UK/GER"
+			"The incredible Crash Dummies"
 		]
 	},
 	{
@@ -46245,36 +46073,33 @@
 	{
 		"code": "DMG-AJGP-NOE",
 		"titles": [
-			"Jungle Strike",
-			"Jungle Strike, GER"
+			"Jungle Strike"
 		]
 	},
 	{
 		"code": "DMG-DF-NOE",
 		"titles": [
-			"Kid Dracula",
-			"Kid Dracula, GER"
+			"Kid Dracula"
 		]
 	},
 	{
 		"code": "DMG-DF-NOE-1",
 		"titles": [
-			"Kid Dracula",
-			"Kid Dracula, GER"
+			"Kid Dracula"
 		]
 	},
 	{
 		"code": "DMG-KA-NOE-1",
 		"titles": [
 			"Kid Icarus Von Mythen und Monstern",
-			"Kid Icarus, GER"
+			"Kid Icarus"
 		]
 	},
 	{
 		"code": "DMG-AKXP-NOE",
 		"titles": [
 			"Kirby's Block Ball",
-			"Kirby’s Block Ball, GER"
+			"Kirby’s Block Ball"
 		]
 	},
 	{
@@ -46304,15 +46129,14 @@
 	{
 		"code": "DMG-KG-NOE",
 		"titles": [
-			"Konami Golf",
-			"Konami Golf, GER"
+			"Konami Golf"
 		]
 	},
 	{
 		"code": "DMG-ALNP-NNOE",
 		"titles": [
 			"Konig der Lowen (Disney) NNOE",
-			"Der König der Löwen, GER"
+			"Der König der Löwen"
 		]
 	},
 	{
@@ -46342,8 +46166,7 @@
 	{
 		"code": "DMG-L8-NOE-1",
 		"titles": [
-			"Lemmings",
-			"Lemmings, GER"
+			"Lemmings"
 		]
 	},
 	{
@@ -46356,7 +46179,7 @@
 		"code": "DMG-LD-NNOE",
 		"titles": [
 			"Little Mermaid Arielle die Meerjungfrau (Disney’s the) NNOE",
-			"Arielle die Meerjungfrau, GER"
+			"Arielle die Meerjungfrau"
 		]
 	},
 	{
@@ -46386,8 +46209,7 @@
 	{
 		"code": "DMG-YO-NOE",
 		"titles": [
-			"Mario & Yoshi",
-			"Mario & Yoshi, GER"
+			"Mario & Yoshi"
 		]
 	},
 	{
@@ -46412,7 +46234,7 @@
 		"code": "DMG-RW-NOE-1",
 		"titles": [
 			"Mega Man Dr. Wily’s Rache",
-			"Mega Man, GER"
+			"Mega Man"
 		]
 	},
 	{
@@ -46448,8 +46270,7 @@
 	{
 		"code": "DMG-C9-NOE",
 		"titles": [
-			"Mortal Kombat",
-			"Mortal Kombat, UK/GER/FR/NED"
+			"Mortal Kombat"
 		]
 	},
 	{
@@ -46467,8 +46288,7 @@
 	{
 		"code": "DMG-MX-NOE-2",
 		"titles": [
-			"Motocross Maniacs",
-			"Motocross Maniacs, GER"
+			"Motocross Maniacs"
 		]
 	},
 	{
@@ -46498,15 +46318,13 @@
 	{
 		"code": "DMG-M4-NOE-1",
 		"titles": [
-			"Mr. Do!",
-			"Mr. Do!, GER"
+			"Mr. Do!"
 		]
 	},
 	{
 		"code": "DMG-N4-NOE",
 		"titles": [
-			"Ms. Pac-Man",
-			"Ms. Pac-Man, GER"
+			"Ms. Pac-Man"
 		]
 	},
 	{
@@ -46524,8 +46342,7 @@
 	{
 		"code": "DMG-NV-NOE",
 		"titles": [
-			"Navy Seals",
-			"Navy Seals, GER"
+			"Navy Seals"
 		]
 	},
 	{
@@ -46556,7 +46373,7 @@
 		"code": "DMG-NE-NOE",
 		"titles": [
 			"Nemesis II the Return of the Hero",
-			"Nemesis II, GER"
+			"Nemesis II"
 		]
 	},
 	{
@@ -46568,8 +46385,7 @@
 	{
 		"code": "DMG-WC-NOE-1",
 		"titles": [
-			"Nigel Mansell’s World Championship",
-			"Nigel Mansell’s World Championship, GER"
+			"Nigel Mansell’s World Championship"
 		]
 	},
 	{
@@ -46599,15 +46415,14 @@
 	{
 		"code": "DMG-OT-NOE",
 		"titles": [
-			"Othello",
-			"Othello, GER"
+			"Othello"
 		]
 	},
 	{
 		"code": "DMG-APTP-NOE",
 		"titles": [
 			"Pac-In-Time",
-			"Pac-in-Time, GER"
+			"Pac-in-Time"
 		]
 	},
 	{
@@ -46619,8 +46434,7 @@
 	{
 		"code": "DMG-PX-NOE-1",
 		"titles": [
-			"Palamedes",
-			"Palamedes, GER"
+			"Palamedes"
 		]
 	},
 	{
@@ -46638,8 +46452,7 @@
 	{
 		"code": "DMG-MP-NOE",
 		"titles": [
-			"Paperboy",
-			"Paperboy, GER"
+			"Paperboy"
 		]
 	},
 	{
@@ -46651,8 +46464,7 @@
 	{
 		"code": "DMG-Y2-NOE",
 		"titles": [
-			"Paperboy 2",
-			"Paperboy 2, GER"
+			"Paperboy 2"
 		]
 	},
 	{
@@ -46742,8 +46554,7 @@
 	{
 		"code": "DMG-NP-NOE",
 		"titles": [
-			"Prince of Persia",
-			"Prince of Persia, GER"
+			"Prince of Persia"
 		]
 	},
 	{
@@ -46755,8 +46566,7 @@
 	{
 		"code": "DMG-QX-NOE",
 		"titles": [
-			"Qix",
-			"Qix, GER"
+			"Qix"
 		]
 	},
 	{
@@ -46780,8 +46590,7 @@
 	{
 		"code": "DMG-OB-NOE-1",
 		"titles": [
-			"Raging Fighter",
-			"Raging Fighter, GER"
+			"Raging Fighter"
 		]
 	},
 	{
@@ -46812,7 +46621,7 @@
 		"code": "DMG-AUFP-NOE-1",
 		"titles": [
 			"Schlümpfe Reisen um die Welt (die)",
-			"Die Schlümpfe reisen um die Welt, GER"
+			"Die Schlümpfe reisen um die Welt"
 		]
 	},
 	{
@@ -46902,8 +46711,7 @@
 	{
 		"code": "DMG-RK-NOE",
 		"titles": [
-			"Star Trek 25th Anniversary",
-			"Star Trek 25th Anniversary, GER"
+			"Star Trek 25th Anniversary"
 		]
 	},
 	{
@@ -46915,8 +46723,7 @@
 	{
 		"code": "DMG-WS-NOE",
 		"titles": [
-			"Star Wars",
-			"Star Wars, GER"
+			"Star Wars"
 		]
 	},
 	{
@@ -46929,7 +46736,7 @@
 		"code": "DMG-EB-NOE-1",
 		"titles": [
 			"Star Wars das Imperium Schlägt Zurück",
-			"Star Wars – Das Imperium schlägt zurück, GER"
+			"Star Wars – Das Imperium schlägt zurück"
 		]
 	},
 	{
@@ -46965,8 +46772,7 @@
 	{
 		"code": "DMG-HN-NOE-1",
 		"titles": [
-			"Super Hunchback",
-			"Super Hunchback, GER"
+			"Super Hunchback"
 		]
 	},
 	{
@@ -46978,8 +46784,7 @@
 	{
 		"code": "DMG-ML-NOE-1",
 		"titles": [
-			"Super Mario Land",
-			"Super Mario Land, GER"
+			"Super Mario Land"
 		]
 	},
 	{
@@ -47063,8 +46868,7 @@
 	{
 		"code": "DMG-TN-NOE-2",
 		"titles": [
-			"Tennis",
-			"Tennis, GER"
+			"Tennis"
 		]
 	},
 	{
@@ -47076,29 +46880,26 @@
 	{
 		"code": "DMG-EH-NOE",
 		"titles": [
-			"Tetris 2",
-			"Tetris 2, GER"
+			"Tetris 2"
 		]
 	},
 	{
 		"code": "DMG-AYLP-NOE",
 		"titles": [
-			"Tetris Attack",
-			"Tetris Attack, GER"
+			"Tetris Attack"
 		]
 	},
 	{
 		"code": "DMG-ASBP-NOE",
 		"titles": [
-			"Tetris Blast",
-			"Tetris Blast, GER"
+			"Tetris Blast"
 		]
 	},
 	{
 		"code": "DMG-ATRP-NNOE",
 		"titles": [
 			"Tetris Plus NNOE",
-			"Tetris Plus, GER"
+			"Tetris Plus"
 		]
 	},
 	{
@@ -47111,7 +46912,7 @@
 		"code": "DMG-TX-NOE-1",
 		"titles": [
 			"Tiny Toon Adventures Babs' Big Break",
-			"Tiny Toon Adventures Babs‘ Big Break, GER"
+			"Tiny Toon Adventures Babs‘ Big Break"
 		]
 	},
 	{
@@ -47136,14 +46937,13 @@
 		"code": "DMG-J8-NOE",
 		"titles": [
 			"Tom and Jerry 2 der Film",
-			"Tom and Jerry 2 Der Film, GER"
+			"Tom and Jerry 2 Der Film"
 		]
 	},
 	{
 		"code": "DMG-GN-NOE-1",
 		"titles": [
-			"Top Gun Guts & Glory",
-			"Top Gun Guts & Glory, GER"
+			"Top Gun Guts & Glory"
 		]
 	},
 	{
@@ -47174,7 +46974,7 @@
 		"code": "DMG-AW2P-NNOE",
 		"titles": [
 			"Wario Land II NNOE",
-			"Wario Land II, GER"
+			"Wario Land II"
 		]
 	},
 	{
@@ -47193,7 +46993,7 @@
 		"code": "DMG-WA-NNOE",
 		"titles": [
 			"Wave Race NNOE",
-			"Wave Race, GER"
+			"Wave Race"
 		]
 	},
 	{
@@ -47206,14 +47006,14 @@
 		"code": "DMG-RR-NNOE",
 		"titles": [
 			"Who Framed Roger Rabbit NNOE",
-			"Who framed Roger Rabbit, GER"
+			"Who framed Roger Rabbit"
 		]
 	},
 	{
 		"code": "DMG-W9-NOE",
 		"titles": [
 			"World Cup USA 94",
-			"WorldCup USA 94, GER"
+			"WorldCup USA 94"
 		]
 	},
 	{
@@ -47231,8 +47031,7 @@
 	{
 		"code": "DMG-LW-NOE-1",
 		"titles": [
-			"WWF Superstars",
-			"WWF Superstars, GER"
+			"WWF Superstars"
 		]
 	},
 	{
@@ -47263,7 +47062,7 @@
 		"code": "DMG-CI-NOE",
 		"titles": [
 			"Yoshi's Cookie",
-			"Yoshi’s Cookie, GER"
+			"Yoshi’s Cookie"
 		]
 	},
 	{
@@ -47276,7 +47075,7 @@
 		"code": "DMG-ZG-NOE-1",
 		"titles": [
 			"Zool",
-			"Zool Ninja of the „Nth“ Dimension, GER"
+			"Zool Ninja of the „Nth“ Dimension"
 		]
 	},
 	{
@@ -48228,7 +48027,7 @@
 		"code": "DMG-F9-USA",
 		"titles": [
 			"4-in-1 Fun Pak Volume II",
-			"4-in-1 Funpak Volume II, US"
+			"4-in-1 Funpak Volume II"
 		]
 	},
 	{
@@ -48344,7 +48143,7 @@
 		"titles": [
 			"Batman the Video Game",
 			"Batman - The Video Game",
-			"Batman The Video Game, US"
+			"Batman The Video Game"
 		]
 	},
 	{
@@ -48356,8 +48155,7 @@
 	{
 		"code": "DMG-NB-USA",
 		"titles": [
-			"Battleship",
-			"Battleship, US"
+			"Battleship"
 		]
 	},
 	{
@@ -48382,8 +48180,7 @@
 	{
 		"code": "DMG-B4-USA",
 		"titles": [
-			"Beetlejuice",
-			"Beetlejuice, US"
+			"Beetlejuice"
 		]
 	},
 	{
@@ -48455,15 +48252,13 @@
 	{
 		"code": "DMG-BW-USA",
 		"titles": [
-			"Brainbender",
-			"Brainbender, US"
+			"Brainbender"
 		]
 	},
 	{
 		"code": "DMG-ABXE-USA",
 		"titles": [
-			"BreakThru!",
-			"BreakThru!, US"
+			"BreakThru!"
 		]
 	},
 	{
@@ -48525,7 +48320,7 @@
 		"code": "DMG-ACFE-USA",
 		"titles": [
 			"Casino Fun Pak",
-			"Casino FunPak, US"
+			"Casino FunPak"
 		]
 	},
 	{
@@ -48621,8 +48416,7 @@
 	{
 		"code": "DMG-WR-USA",
 		"titles": [
-			"Cyraid",
-			"Cyraid, US/FR"
+			"Cyraid"
 		]
 	},
 	{
@@ -48772,8 +48566,7 @@
 	{
 		"code": "DMG-AFSE-USA",
 		"titles": [
-			"FIFA International Soccer",
-			"FIFA International Soccer, US"
+			"FIFA International Soccer"
 		]
 	},
 	{
@@ -48803,8 +48596,7 @@
 	{
 		"code": "DMG-OS-USA",
 		"titles": [
-			"Final Fantasy Legend III",
-			"Final Fantasy Legend III, US"
+			"Final Fantasy Legend III"
 		]
 	},
 	{
@@ -48900,8 +48692,7 @@
 	{
 		"code": "DMG-HT-USA",
 		"titles": [
-			"Hatris",
-			"Hatris, US"
+			"Hatris"
 		]
 	},
 	{
@@ -48919,8 +48710,7 @@
 	{
 		"code": "DMG-HY-USA",
 		"titles": [
-			"High Stakes Gambling",
-			"High Stakes Gambling, US"
+			"High Stakes Gambling"
 		]
 	},
 	{
@@ -48933,14 +48723,14 @@
 		"code": "DMG-AH-USA-1",
 		"titles": [
 			"Home Alone 2 Lost in New York",
-			"Home Alone 2, US"
+			"Home Alone 2"
 		]
 	},
 	{
 		"code": "DMG-HU-USA",
 		"titles": [
 			"Humans (the)",
-			"The Humans, US"
+			"The Humans"
 		]
 	},
 	{
@@ -48953,14 +48743,13 @@
 		"code": "DMG-HF-USA-1",
 		"titles": [
 			"Hunt for Red October (the)",
-			"The Hunt for Red October, US"
+			"The Hunt for Red October"
 		]
 	},
 	{
 		"code": "DMG-HL-USA",
 		"titles": [
-			"Hyper Lode Runner",
-			"Hyper Lode Runner, US"
+			"Hyper Lode Runner"
 		]
 	},
 	{
@@ -49034,7 +48823,7 @@
 		"code": "DMG-J7-USA",
 		"titles": [
 			"Jungle Book (Disney’s the)",
-			"The Jungle Book, US"
+			"The Jungle Book"
 		]
 	},
 	{
@@ -49138,7 +48927,7 @@
 		"code": "DMG-ALNE-USA",
 		"titles": [
 			"Lion King (Disney's the)",
-			"The Lion King, US"
+			"The Lion King"
 		]
 	},
 	{
@@ -49327,7 +49116,7 @@
 		"code": "DMG-DR-USA",
 		"titles": [
 			"Nail 'n Scale",
-			"Nail’n Scale, US"
+			"Nail’n Scale"
 		]
 	},
 	{
@@ -49340,7 +49129,7 @@
 		"code": "DMG-A8NE-USA",
 		"titles": [
 			"NBA Jam",
-			"NBA JAM, US"
+			"NBA JAM"
 		]
 	},
 	{
@@ -49376,8 +49165,7 @@
 	{
 		"code": "DMG-AQBE-USA",
 		"titles": [
-			"NFL Quarterback Club 96",
-			"NFL Quarterback Club 96, US"
+			"NFL Quarterback Club 96"
 		]
 	},
 	{
@@ -49401,8 +49189,7 @@
 	{
 		"code": "DMG-CL-USA",
 		"titles": [
-			"Ninja Boy",
-			"Ninja Boy, US"
+			"Ninja Boy"
 		]
 	},
 	{
@@ -49505,8 +49292,7 @@
 	{
 		"code": "DMG-ACGE-USA",
 		"titles": [
-			"Pinocchio",
-			"Pinocchio, US"
+			"Pinocchio"
 		]
 	},
 	{
@@ -49542,8 +49328,7 @@
 	{
 		"code": "DMG-NP-USA",
 		"titles": [
-			"Prince of Persia",
-			"Prince of Persia, US"
+			"Prince of Persia"
 		]
 	},
 	{
@@ -49556,7 +49341,7 @@
 		"code": "DMG-QT-USA",
 		"titles": [
 			"Q*Bert",
-			"Q*bert, US"
+			"Q*bert"
 		]
 	},
 	{
@@ -49714,7 +49499,7 @@
 		"code": "DMG-UX-USA",
 		"titles": [
 			"Solitaire Fun Pak",
-			"Solitaire FunPak, US"
+			"Solitaire FunPak"
 		]
 	},
 	{
@@ -49787,7 +49572,7 @@
 		"code": "DMG-KS-USA",
 		"titles": [
 			"Star Saver (the Adventures of)",
-			"The Adventures of Star Saver, US"
+			"The Adventures of Star Saver"
 		]
 	},
 	{
@@ -49830,14 +49615,13 @@
 		"code": "DMG-Q2-USA",
 		"titles": [
 			"Super Chase HQ",
-			"Super Chase H.Q., US"
+			"Super Chase H.Q."
 		]
 	},
 	{
 		"code": "DMG-HN-USA",
 		"titles": [
-			"Super Hunchback",
-			"Super Hunchback, US"
+			"Super Hunchback"
 		]
 	},
 	{
@@ -49891,8 +49675,7 @@
 	{
 		"code": "DMG-WG-USA",
 		"titles": [
-			"Swamp Thing",
-			"Swamp Thing, US"
+			"Swamp Thing"
 		]
 	},
 	{
@@ -49905,7 +49688,7 @@
 		"code": "DMG-TG-USA",
 		"titles": [
 			"Tail 'Gator",
-			"Tail Gator, US"
+			"Tail Gator"
 		]
 	},
 	{
@@ -49959,8 +49742,7 @@
 	{
 		"code": "DMG-ER-USA-1",
 		"titles": [
-			"Tesserae",
-			"Tesserae, US"
+			"Tesserae"
 		]
 	},
 	{
@@ -49996,8 +49778,7 @@
 	{
 		"code": "DMG-N8-USA",
 		"titles": [
-			"Total Carnage",
-			"Total Carnage, US"
+			"Total Carnage"
 		]
 	},
 	{
@@ -50021,15 +49802,13 @@
 	{
 		"code": "DMG-TM-USA",
 		"titles": [
-			"Track Meet",
-			"Track Meet, US"
+			"Track Meet"
 		]
 	},
 	{
 		"code": "DMG-TP-USA",
 		"titles": [
-			"Trax",
-			"Trax, US"
+			"Trax"
 		]
 	},
 	{
@@ -50156,14 +49935,13 @@
 		"code": "DMG-AWSE-USA",
 		"titles": [
 			"Wild Snake",
-			"WildSnake, US"
+			"WildSnake"
 		]
 	},
 	{
 		"code": "DMG-YC-USA",
 		"titles": [
-			"Winter Olympic Games",
-			"Winter Olympic Games, US"
+			"Winter Olympic Games"
 		]
 	},
 	{
@@ -51127,8 +50905,7 @@
 	{
 		"code": "DMG-D8-UKV",
 		"titles": [
-			"Pinball Dreams",
-			"Pinball Dreams, UK"
+			"Pinball Dreams"
 		]
 	},
 	{
@@ -51231,319 +51008,319 @@
 	{
 		"code": "DMG-ALAP-NEU5",
 		"titles": [
-			"Aladdin, UK/FR/NED/GER/ESP"
+			"Aladdin"
 		]
 	},
 	{
 		"code": "DMG-ACPE-USA-1",
 		"titles": [
-			"Arcade Classics 2 Centipede & Millipede, US"
+			"Arcade Classics 2 Centipede & Millipede"
 		]
 	},
 	{
 		"code": "DMG-AARP-NOE",
 		"titles": [
-			"Asteroids, GER"
+			"Asteroids"
 		]
 	},
 	{
 		"code": "DMG-AARE-USA-1",
 		"titles": [
-			"Asteroids, US"
+			"Asteroids"
 		]
 	},
 	{
 		"code": "DMG-BS-USA-1",
 		"titles": [
-			"Baseball, US"
+			"Baseball"
 		]
 	},
 	{
 		"code": "DMG-AVUP-NEU6",
 		"titles": [
-			"Beauty and the Beast – A Board Game Adventure, UK/GER/FR/NED/ESP/IT"
+			"Beauty and the Beast – A Board Game Adventure"
 		]
 	},
 	{
 		"code": "DMG-AQVP-EUU",
 		"titles": [
-			"Bomberman Quest, FR/GER/NED"
+			"Bomberman Quest"
 		]
 	},
 	{
 		"code": "DMG-AB6P-NEU5",
 		"titles": [
-			"Bugs Bunny Crazy Castle 3, UK/GER/FR/NED/ESP"
+			"Bugs Bunny Crazy Castle 3"
 		]
 	},
 	{
 		"code": "DMG-CE-USA-2",
 		"titles": [
-			"Caesars Palace, US"
+			"Caesars Palace"
 		]
 	},
 	{
 		"code": "DMG-ACRP-NEU6",
 		"titles": [
-			"Conker’s Pocket Tales, UK/GER/FR/NED/ESP/IT"
+			"Conker’s Pocket Tales"
 		]
 	},
 	{
 		"code": "DMG-AMVP-NOE",
 		"titles": [
-			"Die Biene Maja & ihre Freunde, GER"
+			"Die Biene Maja & ihre Freunde"
 		]
 	},
 	{
 		"code": "DMG-ADDP-NOE-1",
 		"titles": [
-			"Donkey Kong Land 2, GER"
+			"Donkey Kong Land 2"
 		]
 	},
 	{
 		"code": "DMG-FN-UKV",
 		"titles": [
-			"Dr. Franken, UK"
+			"Dr. Franken"
 		]
 	},
 	{
 		"code": "DMG-DP-UKV",
 		"titles": [
-			"Dropzone, UK"
+			"Dropzone"
 		]
 	},
 	{
 		"code": "DMG-AEBP-EUU",
 		"titles": [
-			"Eartworm Jim – Menace 2 the Galaxy, FR/GER/NED"
+			"Eartworm Jim – Menace 2 the Galaxy"
 		]
 	},
 	{
 		"code": "DMG-F1-NOE-1",
 		"titles": [
-			"F-1 Race, GER"
+			"F-1 Race"
 		]
 	},
 	{
 		"code": "DMG-AFOP-NOE",
 		"titles": [
-			"FIFA 2000, GER"
+			"FIFA 2000"
 		]
 	},
 	{
 		"code": "DMG-AGGA-UKV-3",
 		"titles": [
-			"Game Boy Gallery, UK"
+			"Game Boy Gallery"
 		]
 	},
 	{
 		"code": "DMG-AGLP-NEU5",
 		"titles": [
-			"Game & Watch Gallery 2, UK/GER/FR/NED/ESP"
+			"Game & Watch Gallery 2"
 		]
 	},
 	{
 		"code": "DMG-L4-UKV",
 		"titles": [
-			"Garfield Labyrinth, UK"
+			"Garfield Labyrinth"
 		]
 	},
 	{
 		"code": "DMG-G8-UKV",
 		"titles": [
-			"Gear Works, UK"
+			"Gear Works"
 		]
 	},
 	{
 		"code": "DMG-GO-UKV-2",
 		"titles": [
-			"Golf, UK"
+			"Golf"
 		]
 	},
 	{
 		"code": "DMG-GO-UKV-4",
 		"titles": [
-			"Golf, UK"
+			"Golf"
 		]
 	},
 	{
 		"code": "DMG-KY-UKV-2",
 		"titles": [
-			"Kirby’s Dream Land, UK"
+			"Kirby’s Dream Land"
 		]
 	},
 	{
 		"code": "DMG-LN-NOE-3",
 		"titles": [
-			"Looney Tunes, GER"
+			"Looney Tunes"
 		]
 	},
 	{
 		"code": "DMG-ALTP-NOE",
 		"titles": [
-			"Looney Tunes, GER"
+			"Looney Tunes"
 		]
 	},
 	{
 		"code": "DMG-AR4P-EUU",
 		"titles": [
-			"Matchbox Construction Zone, IT/FR/GER"
+			"Matchbox Construction Zone"
 		]
 	},
 	{
 		"code": "DMG-A8NP-EUR-1",
 		"titles": [
-			"NBA JAM, UK/GER/FR/ESP/IT/NED"
+			"NBA JAM"
 		]
 	},
 	{
 		"code": "DMG-AACP-NOE",
 		"titles": [
-			"Pac-Man Special Colour Edition, GER"
+			"Pac-Man Special Colour Edition"
 		]
 	},
 	{
 		"code": "DMG-P-ACGP-NOE",
 		"titles": [
-			"Pinocchio, GER"
+			"Pinocchio"
 		]
 	},
 	{
 		"code": "DMG-AFLP-EUU",
 		"titles": [
-			"Pitfall – Beyond the Jungle, FR/GER/NED"
+			"Pitfall – Beyond the Jungle"
 		]
 	},
 	{
 		"code": "DMG-VPHP-NEU6",
 		"titles": [
-			"Pokémon Pinball, UK/GER/FR/NED/ESP/IT"
+			"Pokémon Pinball"
 		]
 	},
 	{
 		"code": "DMG-AXQP-FHUG",
 		"titles": [
-			"Pokémon Trading Card Game, UK/GER/FR/NED"
+			"Pokémon Trading Card Game"
 		]
 	},
 	{
 		"code": "DMG-P-ACNP-NEU5",
 		"titles": [
-			"Quest for Camelot, UK/GER/FR/NED/ESP"
+			"Quest for Camelot"
 		]
 	},
 	{
 		"code": "DMG-AVMP-NOE",
 		"titles": [
-			"Rugrats – Die Zeitreise, GER"
+			"Rugrats – Die Zeitreise"
 		]
 	},
 	{
 		"code": "DMG-ASCE-EUR",
 		"titles": [
-			"Sea Quest DSV, UK/FR/GER"
+			"Sea Quest DSV"
 		]
 	},
 	{
 		"code": "DMG-ASWP-NEU5",
 		"titles": [
-			"Shadowgate Classic, UK/GER/FR/NED/ESP"
+			"Shadowgate Classic"
 		]
 	},
 	{
 		"code": "DMG-AVXP-EURO",
 		"titles": [
-			"Shamus, UK"
+			"Shamus"
 		]
 	},
 	{
 		"code": "G/DMG-YK-NOE-1",
 		"titles": [
-			"Soccer, GER"
+			"Soccer"
 		]
 	},
 	{
 		"code": "DMG-SS-USA-1",
 		"titles": [
-			"Solar Striker, US"
+			"Solar Striker"
 		]
 	},
 	{
 		"code": "DMG-LQ-UKV",
 		"titles": [
-			"Spider-Man 3, UK/GER/FR/NED"
+			"Spider-Man 3"
 		]
 	},
 	{
 		"code": "DMG-AYDP-NOE",
 		"titles": [
-			"Star Wars – Yoda Stories, GER"
+			"Star Wars – Yoda Stories"
 		]
 	},
 	{
 		"code": "DMG-KF-NOE",
 		"titles": [
-			"Super Kick Off, GER"
+			"Super Kick Off"
 		]
 	},
 	{
 		"code": "DMG-MQ-NOE-3",
 		"titles": [
-			"Super Mario Land 2 – 6 Golden Coins, GER"
+			"Super Mario Land 2 – 6 Golden Coins"
 		]
 	},
 	{
 		"code": "DMG-NT-NOE-1",
 		"titles": [
-			"Teenage Mutant Hero Turtles Fall of the Foot Clan, GER"
+			"Teenage Mutant Hero Turtles Fall of the Foot Clan"
 		]
 	},
 	{
 		"code": "DMG-TT-NOE-2",
 		"titles": [
-			"Teenage Mutant Hero Turtles II Back from the Sewers, GER"
+			"Teenage Mutant Hero Turtles II Back from the Sewers"
 		]
 	},
 	{
 		"code": "DMG-TR-NOE-1",
 		"titles": [
-			"Tetris, GER"
+			"Tetris"
 		]
 	},
 	{
 		"code": "DMG-TR-UKV-4",
 		"titles": [
-			"Tetris, UK"
+			"Tetris"
 		]
 	},
 	{
 		"code": "DMG-EH-FRG-1",
 		"titles": [
-			"Tetris 2, GER/FR"
+			"Tetris 2"
 		]
 	},
 	{
 		"code": "DMG-LD-USA-2",
 		"titles": [
-			"The little Mermaid, US"
+			"The little Mermaid"
 		]
 	},
 	{
 		"code": "DMG-A2TP-NOE",
 		"titles": [
-			"Turok 2 – Seeds of Evil, GER"
+			"Turok 2 – Seeds of Evil"
 		]
 	},
 	{
 		"code": "DMG-WJ-UKV-1",
 		"titles": [
-			"Wario Land – Super Mario Land 3, UK"
+			"Wario Land – Super Mario Land 3"
 		]
 	},
 	{
 		"code": "DMG-W9-UKV",
 		"titles": [
-			"WorldCup USA 94, UK"
+			"WorldCup USA 94"
 		]
 	},
 	{
