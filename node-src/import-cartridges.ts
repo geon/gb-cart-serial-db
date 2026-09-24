@@ -7,22 +7,22 @@ import { importGbxDumper } from "./importers/import-gbxDumper.js";
 import { importSprintinglegs } from "./importers/import-sprintinglegs.js";
 import { groupBy } from "./group-by.js";
 import { uniqueBy } from "./unique-by.js";
+import { mapRecord } from "./map-record.js";
 
 function main() {
+	const importers = {
+		importNoIntro,
+		importGbdb,
+		importGbhwdb,
+		importDe,
+		importGbxDumper,
+		importSprintinglegs,
+	};
+
+	const cartsByImporter = mapRecord(importers, (x) => x());
+
 	const cartridges = Object.entries(
-		groupBy(
-			[
-				//
-				...importNoIntro(),
-				...importGbdb(),
-				...importGbhwdb(),
-				...importNoIntro(),
-				...importDe(),
-				...importGbxDumper(),
-				...importSprintinglegs(),
-			],
-			(x) => x.code,
-		),
+		groupBy(Object.values(cartsByImporter).flat(), (x) => x.code),
 	).map(([code, group]) => ({
 		code,
 		titles: uniqueBy(
@@ -53,6 +53,56 @@ function main() {
 			<table>
 		</html>`,
 	);
+
+	const serialsBySource = mapRecord(
+		cartsByImporter,
+		(carts) => new Set(carts.map((cart) => cart.code)),
+	);
+
+	const numSerialsBySource = mapRecord(serialsBySource, (x) => x.size);
+
+	const numUniqueSerialsBySource = mapRecord(
+		serialsBySource,
+		(serials, sourceName) =>
+			difference(
+				serials,
+				union(Object.values({ ...serialsBySource, [sourceName]: new Set() })),
+			).size,
+	);
+
+	const numUniqueSerials = union(Object.values(serialsBySource)).size;
+
+	console.log("numCartsByImporter", numSerialsBySource);
+	console.log("numUniqueSerialsBySource", numUniqueSerialsBySource);
+	console.log("numUniqueSerials", numUniqueSerials);
+}
+
+function union<T>(sets: readonly ReadonlySet<T>[]): Set<T> {
+	const _union = new Set<T>();
+	for (const set of sets) {
+		for (const elem of set) {
+			_union.add(elem);
+		}
+	}
+	return _union;
+}
+
+// function intersection(setA, setB) {
+//   const _intersection = new Set();
+//   for (const elem of setB) {
+//     if (setA.has(elem)) {
+//       _intersection.add(elem);
+//     }
+//   }
+//   return _intersection;
+// }
+
+function difference<T>(setA: ReadonlySet<T>, setB: ReadonlySet<T>): Set<T> {
+	const _difference = new Set(setA);
+	for (const elem of setB) {
+		_difference.delete(elem);
+	}
+	return _difference;
 }
 
 main();

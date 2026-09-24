@@ -1,6 +1,5 @@
 import { readFileSync } from "fs";
-import type { Cartridge } from "../src/Cartridge.js";
-import _cartridges from "../public/cartridges.json";
+import cartridges from "../public/cartridges.json";
 
 function main() {
 	const myGamesPath = "assets/my-games.txt";
@@ -10,7 +9,6 @@ function main() {
 			.filter((x) => x),
 	);
 
-	const cartridges = _cartridges as readonly Cartridge[];
 	const cartridgeCodes = new Set(cartridges.map((x) => x.code));
 
 	const verified = cartridges.filter((x) => myGames.has(x.code));
