@@ -1,10 +1,7 @@
 import { readFileSync } from "fs";
 import { parse, type TNode } from "txml";
 import type { Cartridge } from "../../src/Cartridge.js";
-
-function isDefined<T>(x: T | undefined | null): x is T {
-	return x !== undefined && x !== null;
-}
+import { isDefined } from "../../src/is-defined.js";
 
 export function importNoIntro(): readonly Cartridge[] {
 	const inputPaths = ["dmg", "cgb", "agb"].map(
