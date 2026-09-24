@@ -24699,7 +24699,8 @@
 	{
 		"code": "AGB-BOMJ-JPN",
 		"titles": [
-			"Bomberman Jetters - Game Collection"
+			"Bomberman Jetters - Game Collection",
+			"BOMBERMANJGC"
 		]
 	},
 	{
@@ -26859,7 +26860,8 @@
 	{
 		"code": "AGB-BFZJ-JPN",
 		"titles": [
-			"F-Zero - Falcon Densetsu"
+			"F-Zero - Falcon Densetsu",
+			"F-ZERO2"
 		]
 	},
 	{
@@ -29839,7 +29841,8 @@
 	{
 		"code": "AGB-A88J-JPN",
 		"titles": [
-			"Mario &amp; Luigi RPG"
+			"Mario &amp; Luigi RPG",
+			"MARIO&LUIGIJ"
 		]
 	},
 	{
@@ -30079,7 +30082,8 @@
 	{
 		"code": "AGB-BMRJ-JPN",
 		"titles": [
-			"Matantei Loki Ragnarok - Gensou no Labyrinth"
+			"Matantei Loki Ragnarok - Gensou no Labyrinth",
+			"MATANTEILOKI"
 		]
 	},
 	{
@@ -30455,7 +30459,8 @@
 	{
 		"code": "AGB-BMAJ-JPN",
 		"titles": [
-			"Mermaid Melody - Pichi Pichi Pitch"
+			"Mermaid Melody - Pichi Pichi Pitch",
+			"PICHIPICHI00"
 		]
 	},
 	{
@@ -30630,7 +30635,8 @@
 	{
 		"code": "AGB-BSHJ-JPN",
 		"titles": [
-			"Minna no Soft Series - Shanghai"
+			"Minna no Soft Series - Shanghai",
+			"MSS SHANGHAI"
 		]
 	},
 	{
@@ -33229,7 +33235,8 @@
 	{
 		"code": "AGB-A9KJ-JPN",
 		"titles": [
-			"Slime Morimori Dragon Quest - Shougeki no Shippo Dan"
+			"Slime Morimori Dragon Quest - Shougeki no Shippo Dan",
+			"SURAIMUMORIM"
 		]
 	},
 	{
@@ -35113,7 +35120,8 @@
 	{
 		"code": "AGB-BMPJ-JPN",
 		"titles": [
-			"Wagamama Fairy Mirumo de Pon! - Taisen Mahoudama"
+			"Wagamama Fairy Mirumo de Pon! - Taisen Mahoudama",
+			"MIRUMODEPON2"
 		]
 	},
 	{
@@ -54652,7 +54660,7 @@
 		]
 	},
 	{
-		"code": "AGB-A85J-JAP",
+		"code": "AGB-A85J-JPN",
 		"titles": [
 			"SANRIO PURO"
 		]
@@ -54661,12 +54669,6 @@
 		"code": "AGB-A87J-JPN",
 		"titles": [
 			"HANAYA"
-		]
-	},
-	{
-		"code": "AGB-A88J-JAP",
-		"titles": [
-			"MARIO&LUIGIJ"
 		]
 	},
 	{
@@ -54757,12 +54759,6 @@
 		"code": "AGB-A9GP-EUR",
 		"titles": [
 			"STADIUMGAMES"
-		]
-	},
-	{
-		"code": "AGB-A9KJ-JAP",
-		"titles": [
-			"SURAIMUMORIM"
 		]
 	},
 	{
@@ -59424,12 +59420,6 @@
 		]
 	},
 	{
-		"code": "AGB-BFZJ-JAP",
-		"titles": [
-			"F-ZERO2"
-		]
-	},
-	{
 		"code": "AGB-BG5E-USA",
 		"titles": [
 			"CABELA'S BIG"
@@ -59670,7 +59660,7 @@
 		]
 	},
 	{
-		"code": "AGB-BHPJ-JAP",
+		"code": "AGB-BHPJ-JPN",
 		"titles": [
 			"QUIDDITCH WC"
 		]
@@ -60012,7 +60002,7 @@
 		]
 	},
 	{
-		"code": "AGB-BKGJ-JAP",
+		"code": "AGB-BKGJ-JPN",
 		"titles": [
 			"PET GALLERY"
 		]
@@ -60270,7 +60260,7 @@
 		]
 	},
 	{
-		"code": "AGB-BM3J-JAP",
+		"code": "AGB-BM3J-JPN",
 		"titles": [
 			"M&D MAGICAL3"
 		]
@@ -60303,12 +60293,6 @@
 		"code": "AGB-BM7X-EUU",
 		"titles": [
 			"PENGUINS"
-		]
-	},
-	{
-		"code": "AGB-BMAJ-JAP",
-		"titles": [
-			"PICHIPICHI00"
 		]
 	},
 	{
@@ -60366,7 +60350,7 @@
 		]
 	},
 	{
-		"code": "AGB-BMJJ-JAP",
+		"code": "AGB-BMJJ-JPN",
 		"titles": [
 			"MIN_MAHJONGG"
 		]
@@ -60396,21 +60380,9 @@
 		]
 	},
 	{
-		"code": "AGB-BMPJ-JAP",
-		"titles": [
-			"MIRUMODEPON2"
-		]
-	},
-	{
 		"code": "AGB-BMQE-USA",
 		"titles": [
 			"M&D MAGICAL3"
-		]
-	},
-	{
-		"code": "AGB-BMRJ-JAP",
-		"titles": [
-			"MATANTEILOKI"
 		]
 	},
 	{
@@ -60438,9 +60410,10 @@
 		]
 	},
 	{
-		"code": "AGB-BMZJ-JAP",
+		"code": "AGB-BMZJ-JPN",
 		"titles": [
-			"ZOOO"
+			"ZOOO",
+			"みんなのソフトシリーズ ZOOO"
 		]
 	},
 	{
@@ -60609,12 +60582,6 @@
 		"code": "AGB-BOFD-NOE",
 		"titles": [
 			"OTTIFANTEN P"
-		]
-	},
-	{
-		"code": "AGB-BOMJ-JAP",
-		"titles": [
-			"BOMBERMANJGC"
 		]
 	},
 	{
@@ -61137,12 +61104,6 @@
 		"code": "AGB-BSFJ-JPN",
 		"titles": [
 			"SYLVANIA6"
-		]
-	},
-	{
-		"code": "AGB-BSHJ-JAP",
-		"titles": [
-			"MSS SHANGHAI"
 		]
 	},
 	{
@@ -62328,7 +62289,7 @@
 		]
 	},
 	{
-		"code": "AGP-A2PJ-JAP",
+		"code": "AGP-A2PJ-JPN",
 		"titles": [
 			"PLUSTER RACE"
 		]
@@ -62340,19 +62301,19 @@
 		]
 	},
 	{
-		"code": "AGP-A8TJ-JAP",
+		"code": "AGP-A8TJ-JPN",
 		"titles": [
 			"189ROM"
 		]
 	},
 	{
-		"code": "AGP-A8ZJ-JAP",
+		"code": "AGP-A8ZJ-JPN",
 		"titles": [
 			"DEBITIRUPUZL"
 		]
 	},
 	{
-		"code": "AGP-AF3J-JAP",
+		"code": "AGP-AF3J-JPN",
 		"titles": [
 			"ZERO ONE"
 		]
@@ -62412,7 +62373,7 @@
 		]
 	},
 	{
-		"code": "AGP-BKIJ-JAP",
+		"code": "AGP-BKIJ-JPN",
 		"titles": [
 			"KAWAIIKOGATA"
 		]
@@ -98787,6 +98748,48 @@
 		"code": "DMG-BQ2J",
 		"titles": [
 			"□（しかく）いアタマを○（まる）くする　漢字の達人"
+		]
+	},
+	{
+		"code": "DMG-LBA",
+		"titles": [
+			"Lemmings レミングス"
+		]
+	},
+	{
+		"code": "AGB-ABOP-EUR",
+		"titles": [
+			"David Beckham Soccer"
+		]
+	},
+	{
+		"code": "DMG-H3-UKV",
+		"titles": [
+			"Micro Machines"
+		]
+	},
+	{
+		"code": "DMG-AKUP-SCN",
+		"titles": [
+			"Klustar"
+		]
+	},
+	{
+		"code": "DMG-AWLP-EUR-1",
+		"titles": [
+			"Wario Land II"
+		]
+	},
+	{
+		"code": "CGB-BXCP-EUR",
+		"titles": [
+			"Xtreme Wheels"
+		]
+	},
+	{
+		"code": "CGB-AW8A-EUR-3",
+		"titles": [
+			"Wario Land 3"
 		]
 	}
 ]

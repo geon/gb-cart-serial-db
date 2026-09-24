@@ -8,6 +8,7 @@ import { importSprintinglegs } from "./importers/import-sprintinglegs.js";
 import { groupBy } from "./group-by.js";
 import { uniqueBy } from "./unique-by.js";
 import { mapRecord } from "./map-record.js";
+import { importGeon } from "./importers/import-geon.js";
 
 function main() {
 	const importers = {
@@ -17,6 +18,7 @@ function main() {
 		importDe,
 		importGbxDumper,
 		importSprintinglegs,
+		importGeon,
 	};
 
 	const cartsByImporter = mapRecord(importers, (x) => x());
