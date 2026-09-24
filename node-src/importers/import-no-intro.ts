@@ -23,7 +23,7 @@ export function importNoIntro(): readonly Cartridge[] {
 					(node): node is TNode =>
 						typeof node === "object" && node.tagName === "game",
 				)
-				.map((game): Cartridge | undefined => {
+				.flatMap((game): Cartridge[] => {
 					const serials = game.children
 						.filter(
 							(node): node is TNode =>
@@ -39,11 +39,15 @@ export function importNoIntro(): readonly Cartridge[] {
 						)
 						.filter(isDefined);
 
-					// if (game.attributes.name?.[0] === "G") {
-					// 	console.log(game);
+					// if (
+					// 	game.attributes.name === "Battleship (USA, Europe) (GB Compatible)"
+					// ) {
+					// 	console.log("game", game);
+					// 	console.log("code", code);
+					// 	console.log("archive", archive);
 					// }
 
-					const code = serials[0];
+					// const code = serials[0];
 
 					const archive = game.children.find(
 						(node): node is TNode =>
@@ -55,17 +59,15 @@ export function importNoIntro(): readonly Cartridge[] {
 
 					// name region languages
 					const title = archive.attributes.name;
+					if (!title) {
+						throw new Error("Missing title.");
+					}
 
-					return (
-						(code &&
-							title && {
-								code,
-								title,
-							}) ||
-						undefined
-					);
-				})
-				.filter(isDefined) ?? [];
+					return serials.map((code) => ({
+						code,
+						title,
+					}));
+				}) ?? [];
 
 		return cartridges;
 	});

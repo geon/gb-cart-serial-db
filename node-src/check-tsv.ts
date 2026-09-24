@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import type { Cartridge } from "../src/Cartridge.js";
-import _cartridges from "../public/cartridges.json";
+import cartridges from "../public/cartridges.json";
 
 function main() {
 	const tsvPath = "assets/cartridges.tsv";
@@ -16,7 +16,6 @@ function main() {
 		});
 	const _tsvGames = new Set(tsvGames.map((x) => x.code));
 
-	const cartridges = _cartridges as readonly Cartridge[];
 	const cartridgeCodes = new Set(cartridges.map((x) => x.code));
 
 	const verified = cartridges.filter((x) => _tsvGames.has(x.code));
