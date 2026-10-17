@@ -15,7 +15,8 @@
     "import:github.com-mstroh76-GBxDumper": "tsx src/importers/github.com-mstroh76-GBxDumper/import.ts",
     "import:github.com-geon": "tsx src/importers/github.com-geon/import.ts",
     "report:label-serials": "tsx src/reports/label-serials.ts",
-    "report:corrections": "tsx src/reports/corrections.ts"
+    "report:corrections": "tsx src/reports/corrections.ts",
+    "import:libretro-thumbnails": "tsx src/importers/libretro-thumbnails/import.ts"
   },
   "prettier": {
     "useTabs": true
