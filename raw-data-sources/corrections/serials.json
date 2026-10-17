@@ -746,5 +746,19 @@
 			"https://www.game-boy-database.com/game-ASJJ-4673-JPN.html"
 		],
 		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1333",
+		"title": "X-Men - Wolverine's Rage (USA)",
+		"field": "romChipSerials",
+		"wrong": "CGB-BW0E-0",
+		"correct": "CGB-BWOE-0",
+		"reason": "Zero instead of O. The cartridge serial is CGB-BWOE-USA; sprintinglegs has CGB-BWOE.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1333",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2946"
+		],
+		"reported": null
 	}
 ]

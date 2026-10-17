@@ -486068,7 +486068,7 @@
 		]
 	},
 	{
-		"id": "CGB-BWOP",
+		"id": "CGB-BWOE",
 		"title": "X-Men - Wolverine's Rage",
 		"titles": [
 			{
@@ -486152,7 +486152,6 @@
 			}
 		],
 		"romChipSerials": [
-			"CGB-BW0E-0",
 			"CGB-BWOE-0",
 			"CGB-BWOP-0"
 		],
