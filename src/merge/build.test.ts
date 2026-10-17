@@ -134,10 +134,12 @@ describe("buildGames", () => {
 			"Tetris (World) (Rev 1)",
 		]);
 		expect(game!.versions[1]).toMatchObject({
-			colorSupport: "none",
+			system: "dmg",
 			crc32s: ["46df91ad"],
 			titleScreenshotUrl: "https://example.com/title.png",
 		});
+		expect(game!.versions[1]).not.toHaveProperty("gameBoyColorEnhanced");
+		expect(game!.versions[1]).not.toHaveProperty("superGameBoyEnhanced");
 		expect(game!.links.at(-1)).toEqual({
 			source: "pricecharting.com",
 			url: "https://www.pricecharting.com/search-products?type=prices&q=Tetris",
@@ -310,4 +312,53 @@ test("marks unlicensed and pirate games", () => {
 	expect(buildGames(pirate, [], gameOf)[0]).toMatchObject({
 		licensing: "pirate",
 	});
+});
+
+test("sets the system of Color cartridges by whether they also run on the Game Boy", () => {
+	const color: Sources = {
+		...sources,
+		noIntro: [
+			{
+				...sources.noIntro[1]!,
+				url: "https://example.com/dual",
+				noIntroName: "Dual (USA) (SGB Enhanced) (GB Compatible)",
+				title: "Dual",
+				dat: "cgb",
+				specialTags: ["SGB Enhanced", "GB Compatible"],
+				cartridgeSerials: ["DMG-AAAE-USA"],
+				romChipSerials: [],
+				files: [{ crc32: "00000001", size: 32768 }],
+			},
+			{
+				...sources.noIntro[1]!,
+				url: "https://example.com/only",
+				noIntroName: "Only (USA)",
+				title: "Only",
+				dat: "cgb",
+				cartridgeSerials: ["CGB-BBBE-USA"],
+				romChipSerials: [],
+				files: [{ crc32: "00000002", size: 32768 }],
+			},
+		],
+		gameBoyDatabaseCom: [],
+		sprintinglegs: [],
+		gbhwdb: [],
+		libretroThumbnails: [],
+	};
+	const { gameOf } = groupGames(
+		sourceLinks(color, []),
+		() => undefined,
+		new Set(),
+	);
+	const versions = buildGames(color, [], gameOf).flatMap(
+		(game) => game.versions,
+	);
+	expect(versions.find(({ url }) => url.endsWith("dual"))).toMatchObject({
+		system: "dmg",
+		gameBoyColorEnhanced: true,
+		superGameBoyEnhanced: true,
+	});
+	const only = versions.find(({ url }) => url.endsWith("only"))!;
+	expect(only.system).toBe("cgb");
+	expect(only).not.toHaveProperty("gameBoyColorEnhanced");
 });

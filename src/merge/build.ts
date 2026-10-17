@@ -6,10 +6,10 @@ import type { GbhwdbDate } from "../importers/gbhwdb.gekkio.fi/parse.ts";
 import { members } from "./union-find.ts";
 import {
 	dmgpageLanguage,
-	nonLatinScript,
 	noIntroLanguage,
 	regionLanguage,
 	sprintinglegsLanguage,
+	nonLatinScript,
 	titleLanguage,
 } from "./languages.ts";
 import {
@@ -56,12 +56,13 @@ export type Version = {
 	noIntroName: string;
 	/** DAT-o-MATIC record page. */
 	url: string;
-	dat: NoIntroDat;
+	/** The cartridge's system, as in Nintendo's serials: "dmg" fits all Game Boys, "cgb" only the Game Boy Color and Advance, "agb" only the Advance. */
+	system: "dmg" | "cgb" | "agb";
+	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. */
+	gameBoyColorEnhanced?: true;
+	superGameBoyEnhanced?: true;
 	regions: string[];
 	languages: string[];
-	/** "none" for Game Boy ROMs, "dual" for Game Boy Color ROMs that also run on the Game Boy, "only" for Game Boy Color only. Undefined for Game Boy Advance. */
-	colorSupport?: "none" | "dual" | "only";
-	superGameBoyEnhanced: boolean;
 	crc32s: string[];
 	cartridgeSerials: string[];
 	romChipSerials: string[];
@@ -136,7 +137,12 @@ export function buildGames(
 						titleRegions.includes(region) ? titleRegions.indexOf(region) : 5,
 					),
 				),
-			version: noIntroVersion(entry),
+			version: noIntroVersion(
+				entry,
+				libretro.get(
+					`${libretroRepositories[entry.dat]}/${libretroName(entry.noIntroName)}`,
+				),
+			),
 			licensing: entry.licensing,
 			cartridgeSerials:
 				entry.licensing === "licensed"
@@ -315,23 +321,9 @@ export function buildGames(
 				title: titles[0]!.title,
 				...(licensing && { licensing }),
 				titles,
-				versions: gameRecords
-					.flatMap(({ version }) => (version ? [version] : []))
-					.map((version) => {
-						const images = libretro.get(
-							`${libretroRepositories[version.dat]}/${libretroName(version.noIntroName)}`,
-						);
-						return {
-							...version,
-							...(images?.boxArtUrl && { boxArtUrl: images.boxArtUrl }),
-							...(images?.titleScreenshotUrl && {
-								titleScreenshotUrl: images.titleScreenshotUrl,
-							}),
-							...(images?.gameplayScreenshotUrl && {
-								gameplayScreenshotUrl: images.gameplayScreenshotUrl,
-							}),
-						};
-					}),
+				versions: gameRecords.flatMap(({ version }) =>
+					version ? [version] : [],
+				),
 				cartridgeSerials: serials.map((serial) => ({
 					serial,
 					sources: [
@@ -373,27 +365,34 @@ export function buildGames(
 		.sort((a, b) => a.title.localeCompare(b.title) || a.id.localeCompare(b.id));
 }
 
-function noIntroVersion(entry: Sources["noIntro"][number]): Version {
+function noIntroVersion(
+	entry: Sources["noIntro"][number],
+	images: Sources["libretroThumbnails"][number] | undefined,
+): Version {
+	// No-Intro's Game Boy Color list also has the Game Boy cartridges with Color enhancements, the black cartridges.
+	const gameBoyColorEnhanced =
+		entry.dat === "cgb" && entry.specialTags.includes("GB Compatible");
+	const superGameBoyEnhanced = entry.specialTags.some((tag) =>
+		tag.includes("SGB Enhanced"),
+	);
 	return {
 		noIntroName: entry.noIntroName,
 		url: entry.url,
-		dat: entry.dat,
+		system: gameBoyColorEnhanced ? "dmg" : entry.dat,
+		...(gameBoyColorEnhanced && { gameBoyColorEnhanced }),
+		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
 		regions: entry.regions,
 		languages: entry.languages,
-		...(entry.dat !== "agb" && {
-			colorSupport:
-				entry.dat === "dmg"
-					? "none"
-					: entry.specialTags.includes("GB Compatible")
-						? "dual"
-						: "only",
-		}),
-		superGameBoyEnhanced: entry.specialTags.some((tag) =>
-			tag.includes("SGB Enhanced"),
-		),
 		crc32s: entry.files.map(({ crc32 }) => crc32),
 		cartridgeSerials: entry.cartridgeSerials,
 		romChipSerials: entry.romChipSerials,
+		...(images?.boxArtUrl && { boxArtUrl: images.boxArtUrl }),
+		...(images?.titleScreenshotUrl && {
+			titleScreenshotUrl: images.titleScreenshotUrl,
+		}),
+		...(images?.gameplayScreenshotUrl && {
+			gameplayScreenshotUrl: images.gameplayScreenshotUrl,
+		}),
 	};
 }
 
