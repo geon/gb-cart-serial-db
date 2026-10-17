@@ -131,10 +131,11 @@ describe("buildGames", () => {
 		});
 		expect(game).not.toHaveProperty("licensing");
 		expect(game!.system).toBe("dmg");
-		expect(game!.versions.map(({ noIntroName }) => noIntroName)).toEqual([
-			"Tetris (Japan) (En)",
-			"Tetris (World) (Rev 1)",
+		expect(game!.versions.map(({ url }) => url)).toEqual([
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1382",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1383",
 		]);
+		expect(game!.versions[0]).not.toHaveProperty("noIntroName");
 		expect(game!.versions[0]).not.toHaveProperty("revision");
 		expect(game!.versions[1]).toMatchObject({
 			revision: "Rev 1",

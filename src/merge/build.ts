@@ -57,7 +57,6 @@ export type Title = {
 export type GameSystem = "dmg" | "cgb" | "agb";
 
 export type Version = {
-	noIntroName: string;
 	/** DAT-o-MATIC record page. */
 	url: string;
 	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. */
@@ -420,7 +419,6 @@ function noIntroVersion(
 		tag.includes("SGB Enhanced"),
 	);
 	return {
-		noIntroName: entry.noIntroName,
 		url: entry.url,
 		...(gameBoyColorEnhanced && { gameBoyColorEnhanced }),
 		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
