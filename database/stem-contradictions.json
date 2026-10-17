@@ -1,0 +1,158 @@
+[
+	{
+		"stem": "CGB-BME",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0738",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2475",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (Europe) (En,Fr,De,Es,It)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0736",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2951",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Microsoft - The Best of Entertainment Pack (USA)"
+			]
+		]
+	},
+	{
+		"stem": "CGB-AZW",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0739",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2555",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Microsoft - The 6 in 1 Puzzle Collection Entertainment Pack (USA)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0975",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2476",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Puzzled (Europe) (En,Fr,De)"
+			]
+		]
+	},
+	{
+		"stem": "CGB-BSU",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1153",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2820",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Super Robot Pinball (Japan)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1273",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2984",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Ultimate Surfing (Europe)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1274",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=2982",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Color/Ultimate Surfing (USA)"
+			]
+		]
+	},
+	{
+		"stem": "AGB-AQD",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1181",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=4726",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1279",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=4796",
+				"record:github.com-mstroh76-GBxDumper:980",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1914",
+				"record:github.com-mstroh76-GBxDumper:981",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Disney Princesas (Spain)"
+			]
+		]
+	},
+	{
+		"stem": "AGB-AA9",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1110",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=4639",
+				"record:github.com-mstroh76-GBxDumper:240",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters (Japan)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1491",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5083",
+				"record:github.com-mstroh76-GBxDumper:239",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters - Sempai Legends (USA)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1711",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5348",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/AGB-AA9P-0/granmastro-1.html",
+				"record:github.com-mstroh76-GBxDumper:241",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It)"
+			]
+		]
+	},
+	{
+		"stem": "AGB-BDU",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2157",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5857",
+				"record:github.com-mstroh76-GBxDumper:1757",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters - Shadow of the Code (Europe) (En,Fr,De,Es,It)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2166",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5856",
+				"record:github.com-mstroh76-GBxDumper:1755",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters - Shadow of the Code (USA)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1818",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2857",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5480",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5481",
+				"record:github.com-mstroh76-GBxDumper:1756",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters 3 (Japan)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Duel Masters 3 (Japan) (Rev 1)"
+			]
+		]
+	},
+	{
+		"stem": "AGB-BGN",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1462",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5078",
+				"record:github.com-mstroh76-GBxDumper:1884"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1592",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5183",
+				"record:github.com-mstroh76-GBxDumper:1883"
+			]
+		]
+	},
+	{
+		"stem": "AGB-B35",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2879",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2248",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5977",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5978",
+				"record:github.com-mstroh76-GBxDumper:1431",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da) (Rev 1)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1839",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=5373",
+				"record:github.com-mstroh76-GBxDumper:1430",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy_Advance/Strawberry Shortcake - Summertime Adventure (USA)"
+			]
+		]
+	}
+]

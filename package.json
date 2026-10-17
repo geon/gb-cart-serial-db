@@ -17,7 +17,8 @@
     "report:label-serials": "tsx src/reports/label-serials.ts",
     "report:corrections": "tsx src/reports/corrections.ts",
     "import:libretro-thumbnails": "tsx src/importers/libretro-thumbnails/import.ts",
-    "report:header-conflicts": "tsx src/reports/header-conflicts.ts"
+    "report:header-conflicts": "tsx src/reports/header-conflicts.ts",
+    "merge": "tsx src/merge/merge.ts"
   },
   "prettier": {
     "useTabs": true
