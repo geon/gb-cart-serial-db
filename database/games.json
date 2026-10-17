@@ -479,10 +479,7 @@
 			{
 				"title": "102 Dalmatians - Puppies to the Rescue",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -1067,9 +1064,7 @@
 		"titles": [
 			{
 				"title": "2 Game Pack! - Matchbox Missions - Emergency Response & Air, Land and Sea Rescue",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -1193,9 +1188,7 @@
 		"titles": [
 			{
 				"title": "2 Game Pack! - Uno & Skip-Bo",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -1773,8 +1766,7 @@
 			{
 				"title": "2 Games in 1 - Disney Princess + Lizzie McGuire",
 				"languages": [
-					"en",
-					"es"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -1885,9 +1877,7 @@
 		"titles": [
 			{
 				"title": "2 Games in 1 - Dr. Mario + Puzzle League",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -2408,7 +2398,6 @@
 			{
 				"title": "2 Games in 1 - Finding Nemo + The Incredibles",
 				"languages": [
-					"de",
 					"en"
 				],
 				"sources": [
@@ -2795,10 +2784,7 @@
 			},
 			{
 				"title": "Disney & Pixar Pack : Finding Nemo & Monsters Inc.",
-				"languages": [
-					"de",
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -4511,9 +4497,7 @@
 			},
 			{
 				"title": "Spongebob : Bfbb and Nicktoons : Fff Dual Pack",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -5334,9 +5318,7 @@
 			},
 			{
 				"title": "Guntlet Compilation",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -5917,9 +5899,7 @@
 		"titles": [
 			{
 				"title": "2 in 1 Game Pack - Shrek 2 & Shark Tale",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -6140,9 +6120,7 @@
 		"titles": [
 			{
 				"title": "2 in 1 Game Pack - Spider-Man & Spider-Man 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -7385,9 +7363,7 @@
 		"titles": [
 			{
 				"title": "2006 FIFA World Cup - Germany 2006",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -8046,9 +8022,7 @@
 			},
 			{
 				"title": "Majesco's 3-in-1 Rec Room Challenge",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -9050,9 +9024,7 @@
 			},
 			{
 				"title": "4 Pack : Nickelodeon",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -9922,9 +9894,7 @@
 		"titles": [
 			{
 				"title": "4 in 1 Fun Pak: Vol.Ⅱ",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -13463,7 +13433,6 @@
 			{
 				"title": "Takahashi Master's Adventure Island 3",
 				"languages": [
-					"en",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -13863,8 +13832,7 @@
 			{
 				"title": "Adventures of Jimmy Neutron Boy Genius, The - Attack of the Twonkies",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -14989,7 +14957,6 @@
 			{
 				"title": "After Burst",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -17582,7 +17549,6 @@
 				"title": "Alien Olympics",
 				"languages": [
 					"en",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -18036,9 +18002,7 @@
 		"titles": [
 			{
 				"title": "All Grown Up Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -20876,9 +20840,7 @@
 		"titles": [
 			{
 				"title": "Amf Bowling",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -26232,7 +26194,6 @@
 				"title": "Asterix",
 				"languages": [
 					"de",
-					"en",
 					"es",
 					"it"
 				],
@@ -26658,9 +26619,7 @@
 			{
 				"title": "Asterix & Obelix",
 				"languages": [
-					"de",
-					"en",
-					"es"
+					"de"
 				],
 				"sources": [
 					"no-intro.org",
@@ -27650,7 +27609,6 @@
 			{
 				"title": "Astro Rabby",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -29193,9 +29151,7 @@
 		"titles": [
 			{
 				"title": "Avatar - The Legend of Aang",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -29318,9 +29274,7 @@
 		"titles": [
 			{
 				"title": "Avatar - The Legend of Aang - The Burning Earth",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -32976,9 +32930,7 @@
 			},
 			{
 				"title": "Cyraid",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -34279,9 +34231,7 @@
 			{
 				"title": "Banjo-Kazooie - Grunty's Revenge",
 				"languages": [
-					"en",
-					"es",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -35910,9 +35860,7 @@
 		"titles": [
 			{
 				"title": "Barbie Horse Adventures",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -37272,9 +37220,7 @@
 			},
 			{
 				"title": "Bases Loaded for Game Boy",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -38132,9 +38078,7 @@
 		"titles": [
 			{
 				"title": "Batman - the Animated Series",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -39003,9 +38947,7 @@
 		"titles": [
 			{
 				"title": "Batman of the Future - Return of the Joker",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -39179,7 +39121,6 @@
 			{
 				"title": "Batman Return of the Joker",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -39939,7 +39880,6 @@
 			{
 				"title": "Battle City",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -40389,7 +40329,6 @@
 				"title": "Battle of Olympus, The",
 				"languages": [
 					"de",
-					"en",
 					"it"
 				],
 				"sources": [
@@ -40505,7 +40444,6 @@
 			{
 				"title": "Battle Pingpong",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -41896,18 +41834,14 @@
 		"titles": [
 			{
 				"title": "Battletoads & Double Dragon",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
 			},
 			{
 				"title": "Battletoads Double Dragon",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -42372,7 +42306,6 @@
 			{
 				"title": "Beach'n Ball",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -43088,7 +43021,6 @@
 				"title": "Beavis and Butt-head",
 				"languages": [
 					"en",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -43519,9 +43451,7 @@
 		"titles": [
 			{
 				"title": "Beetlejuice",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -44004,7 +43934,6 @@
 			{
 				"title": "ＢＡＹＢＬＡＤＥ ＦＩＧＨＴＩＮＧ ＴＯＵＲＮＡＭＥＮＴ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -47600,9 +47529,7 @@
 			},
 			{
 				"title": "Great Greed",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -48026,7 +47953,6 @@
 			{
 				"title": "ＢＬＡＣＫ　ＢＬＡＣＫ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -48097,7 +48023,6 @@
 			{
 				"title": "ＢＬＡＣＫ／ＭＡＴＲＩＸ　０",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -48976,7 +48901,6 @@
 			{
 				"title": "Bomber King - Scenario 2",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -49006,9 +48930,7 @@
 			},
 			{
 				"title": "BLASTER MASTER Jr.",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -49528,7 +49450,6 @@
 			{
 				"title": "Blodia",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -50138,9 +50059,7 @@
 		"titles": [
 			{
 				"title": "Board Game Classics - Backgammon & Chess & Draughts",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -51009,9 +50928,7 @@
 		"titles": [
 			{
 				"title": "Boggle Plus",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -53170,9 +53087,7 @@
 			},
 			{
 				"title": "ＢＯＭＢＥＲ　ＭＡＮ　ＭＡＸ　２　（",
-				"languages": [
-					"ja-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -53340,9 +53255,7 @@
 			},
 			{
 				"title": "ＢＯＭＢＥＲ　ＭＡＮ　ＭＡＸ　２　（",
-				"languages": [
-					"ja-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -53721,7 +53634,6 @@
 			{
 				"title": "Bomberman Selection",
 				"languages": [
-					"en",
 					"ko-Latn"
 				],
 				"sources": [
@@ -55910,7 +55822,6 @@
 			{
 				"title": "Migrain",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -58863,7 +58774,6 @@
 			{
 				"title": "Bubble Bobble Junior",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -59573,9 +59483,7 @@
 			{
 				"title": "Buffy the Vampire Slayer - Wrath of the Darkhul King",
 				"languages": [
-					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -59889,7 +59797,6 @@
 			{
 				"title": "Ｂｕｇｓ Ｂｕｎｎｙ Ｃｒａｚｙ Ｃａｓｔｌｅｓ ３",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -61839,7 +61746,6 @@
 			{
 				"title": "Burning Paper",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -62482,9 +62388,7 @@
 			{
 				"title": "Buzz Lightyear of Star Command",
 				"languages": [
-					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -62971,9 +62875,7 @@
 			},
 			{
 				"title": "Square Deal",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -63935,9 +63837,7 @@
 		"titles": [
 			{
 				"title": "Cannon Fodder",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -64993,7 +64893,6 @@
 			{
 				"title": "Card Game",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -66049,7 +65948,6 @@
 				"languages": [
 					"de",
 					"en",
-					"it",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -66692,9 +66590,7 @@
 		"titles": [
 			{
 				"title": "Cartoon Network Collection Limited Edition",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -66726,18 +66622,14 @@
 		"titles": [
 			{
 				"title": "Cartoon Network Collection Platinum Edition",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
 			},
 			{
 				"title": "Cartoon Network Platinum Edition (French)",
-				"languages": [
-					"fr"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -66781,18 +66673,14 @@
 		"titles": [
 			{
 				"title": "Cartoon Network Collection Premium Edition",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
 			},
 			{
 				"title": "Cartoon Network Premium (French)",
-				"languages": [
-					"fr"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -66836,18 +66724,14 @@
 		"titles": [
 			{
 				"title": "Cartoon Network Collection Special Edition",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
 			},
 			{
 				"title": "Cartoon Network Coll Special Edition",
-				"languages": [
-					"fr"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -66897,9 +66781,7 @@
 		"titles": [
 			{
 				"title": "Cartoon Network Collection Vol.2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -66937,9 +66819,7 @@
 		"titles": [
 			{
 				"title": "Cartoon Network Compilation Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -67341,9 +67221,7 @@
 			},
 			{
 				"title": "Casper the Friendly Ghost",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -69703,9 +69581,7 @@
 		"titles": [
 			{
 				"title": "Cat in the Hat, The",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -70023,7 +69899,6 @@
 			{
 				"title": "Pitman",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -71706,9 +71581,7 @@
 		"titles": [
 			{
 				"title": "Championship Pool",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -77534,9 +77407,7 @@
 			},
 			{
 				"title": "Bomber Man",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -79679,9 +79550,7 @@
 		"titles": [
 			{
 				"title": "Colin McRae Rally 2.0",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -81173,9 +81042,7 @@
 		"titles": [
 			{
 				"title": "Cool Hand",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -81759,7 +81626,6 @@
 			{
 				"title": "Cosmo Tank",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -82013,9 +81879,7 @@
 		"titles": [
 			{
 				"title": "Crash & Spyro Super Pack Volume 3",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -85892,9 +85756,7 @@
 			},
 			{
 				"title": "Matchbox Crosstown Heroes",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -88206,9 +88068,7 @@
 			},
 			{
 				"title": "Daffy Duck: the Marvin Missions",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -90212,7 +90072,6 @@
 			{
 				"title": "ＤＡＮＣＥ ＤＡＮＣＥ ＲＥＶＯＬＵＴＩＯＮ ＧＢ ３",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -90581,7 +90440,6 @@
 			{
 				"title": "Danny Phantom - Urban Jungle",
 				"languages": [
-					"de",
 					"en"
 				],
 				"sources": [
@@ -91094,9 +90952,7 @@
 		"titles": [
 			{
 				"title": "Darkman",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -92858,9 +92714,7 @@
 		"titles": [
 			{
 				"title": "Days of Thunder",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -92989,7 +92843,6 @@
 			{
 				"title": "Dead Heat Scramble",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -93185,9 +93038,7 @@
 			},
 			{
 				"title": "AirForce Delta Storm",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -93816,9 +93667,7 @@
 		"titles": [
 			{
 				"title": "Defender - For All Mankind",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -96416,7 +96265,6 @@
 			{
 				"title": "Funny Field",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -96874,9 +96722,7 @@
 		"titles": [
 			{
 				"title": "Dick Tracy",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -97258,9 +97104,7 @@
 		"titles": [
 			{
 				"title": "Digimon - Battle Spirit 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -99224,9 +99068,7 @@
 		"titles": [
 			{
 				"title": "Disney Channel Collection Vol.2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -99258,9 +99100,7 @@
 		"titles": [
 			{
 				"title": "Disney Channel Collection Volume 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -99347,11 +99187,7 @@
 			{
 				"title": "Disney Princess",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -99949,9 +99785,7 @@
 		"titles": [
 			{
 				"title": "Disney Sports - Football (Soccer)",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -101046,9 +100880,7 @@
 		"titles": [
 			{
 				"title": "Dk King of Swing Demo",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -106545,9 +106377,7 @@
 		"titles": [
 			{
 				"title": "Dora the Explorer Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -110477,8 +110307,7 @@
 				"title": "Doug's Big Game",
 				"languages": [
 					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -113020,7 +112849,6 @@
 				"title": "Dragon Ball Z - Legendary Super Warriors",
 				"languages": [
 					"en",
-					"fr",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -113079,9 +112907,7 @@
 			},
 			{
 				"title": "Dragonball Z : Legendare Superkampfer",
-				"languages": [
-					"de"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -113483,9 +113309,7 @@
 			},
 			{
 				"title": "Dragonball Z Mugongtuguk",
-				"languages": [
-					"ko-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -115165,7 +114989,6 @@
 			{
 				"title": "Dragon Slayer I",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -115268,7 +115091,6 @@
 			{
 				"title": "Dragon Tail",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -115278,9 +115100,7 @@
 			},
 			{
 				"title": "Nail'n Scale",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -115894,7 +115714,6 @@
 			{
 				"title": "Dragon Warrior Monsters",
 				"languages": [
-					"de",
 					"en"
 				],
 				"sources": [
@@ -116942,9 +116761,7 @@
 		"titles": [
 			{
 				"title": "Dragonball GT Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -121061,7 +120878,6 @@
 			{
 				"title": "Bomber Boy",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -121652,9 +121468,7 @@
 		"titles": [
 			{
 				"title": "e-Reader",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -122762,9 +122576,7 @@
 		"titles": [
 			{
 				"title": "Ecks vs. Sever II - Ballistic",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -124950,7 +124762,6 @@
 			{
 				"title": "ＧＯＬＦ ＭＡＳＴＥＲ ＪＡＰＡＮ ＧＯＬＦ ＴＯＵＲ ＧＡＭＥ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -128168,7 +127979,6 @@
 			{
 				"title": "F-1 Spirit",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -128180,9 +127990,7 @@
 			},
 			{
 				"title": "World Circuit Series",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -128611,9 +128419,7 @@
 		"titles": [
 			{
 				"title": "F-15 Strike Eagle",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -129038,7 +128844,6 @@
 			{
 				"title": "Ｆ－ＺＥＲＯ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -129199,9 +129004,7 @@
 			{
 				"title": "F.A. Premier League Stars 2001, The",
 				"languages": [
-					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -130266,9 +130069,7 @@
 		"titles": [
 			{
 				"title": "Fairly Odd Parents Volume 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -130300,9 +130101,7 @@
 		"titles": [
 			{
 				"title": "Fairly Odd Parents Volume 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -130580,7 +130379,6 @@
 			{
 				"title": "Fairly OddParents!, The - Shadow Showdown",
 				"languages": [
-					"de",
 					"en"
 				],
 				"sources": [
@@ -133340,10 +133138,7 @@
 			},
 			{
 				"title": "Fantastic Four : the Game",
-				"languages": [
-					"en",
-					"it"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -134494,7 +134289,6 @@
 			{
 				"title": "Ferrari Grand Prix Challenge",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -135562,9 +135356,7 @@
 		"titles": [
 			{
 				"title": "FIFA Soccer 06",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -135659,9 +135451,7 @@
 		"titles": [
 			{
 				"title": "FIFA Soccer 07",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -138416,7 +138206,6 @@
 			{
 				"title": "Finding Nemo",
 				"languages": [
-					"de",
 					"en"
 				],
 				"sources": [
@@ -140176,7 +139965,6 @@
 			{
 				"title": "Flappy Special",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -141441,7 +141229,6 @@
 			{
 				"title": "Soccer",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -141587,9 +141374,7 @@
 		"titles": [
 			{
 				"title": "Force 21",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -143095,9 +142880,7 @@
 		"titles": [
 			{
 				"title": "Franky, Joe & Dirk - On the Tiles",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -144797,8 +144580,7 @@
 				"title": "From TV Animation One Piece - Nanatsu-jima no Daihihou",
 				"languages": [
 					"ja-Latn",
-					"ja-x-translated",
-					"ko-Latn"
+					"ja-x-translated"
 				],
 				"sources": [
 					"no-intro.org",
@@ -149290,9 +149072,7 @@
 			},
 			{
 				"title": "CGB Demo",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -149546,9 +149326,7 @@
 			},
 			{
 				"title": "Gameboy Gallaery",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -152405,9 +152183,7 @@
 		"titles": [
 			{
 				"title": "Garfield and His Nine Lives",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -157686,9 +157462,7 @@
 		"titles": [
 			{
 				"title": "Gex 3 - Deep Cover Gecko",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -159269,7 +159043,6 @@
 			{
 				"title": "Go! Go! Tank",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -161458,8 +161231,7 @@
 			{
 				"title": "Golden Sun - The Lost Age",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -161488,8 +161260,7 @@
 			{
 				"title": "Golden Sun - L'Age Perdu",
 				"languages": [
-					"fr",
-					"it"
+					"fr"
 				],
 				"sources": [
 					"no-intro.org",
@@ -169015,7 +168786,6 @@
 			{
 				"title": "ＧＵＩＬＴＹ　ＧＥＡＲ　ＡＤＶＡＮＣＥ　ＥＤＩＴＩＯＮ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -169330,9 +169100,7 @@
 		"titles": [
 			{
 				"title": "Gunstar Future Heroes",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -177257,7 +177025,6 @@
 			{
 				"title": "Hatris",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -177415,7 +177182,6 @@
 			{
 				"title": "Head On",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -177426,9 +177192,7 @@
 			},
 			{
 				"title": "Power Racer",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -180882,9 +180646,7 @@
 			},
 			{
 				"title": "ＨＩＧＨ　ＨＥＡＴ",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -181016,9 +180778,7 @@
 		"titles": [
 			{
 				"title": "High Stakes",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -182218,9 +181978,7 @@
 			},
 			{
 				"title": "Stop That Roach!",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -182300,7 +182058,6 @@
 			{
 				"title": "Fist of the North Star, a terrific match",
 				"languages": [
-					"en",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -188947,9 +188704,7 @@
 		"titles": [
 			{
 				"title": "Ice Nine",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -189189,9 +188944,7 @@
 			},
 			{
 				"title": "International Karate Plus",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -190488,9 +190241,7 @@
 		"titles": [
 			{
 				"title": "Indiana Jones and the Infernal Machine",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -190821,9 +190572,7 @@
 			},
 			{
 				"title": "Little Indian",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -191445,9 +191194,7 @@
 			},
 			{
 				"title": "InfoGenius PERSONAL ORGANIZER",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -196523,9 +196270,7 @@
 		"titles": [
 			{
 				"title": "James Pond - Codename Robocod",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -196830,8 +196575,7 @@
 			{
 				"title": "Janosch - Das grosse Panama-Spiel",
 				"languages": [
-					"de",
-					"en"
+					"de"
 				],
 				"sources": [
 					"no-intro.org",
@@ -197971,9 +197715,7 @@
 			},
 			{
 				"title": "JEOPARDY! Teen Tournament Edition",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -198050,9 +197792,7 @@
 		"titles": [
 			{
 				"title": "Jeopardy! Sports",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -199756,9 +199496,7 @@
 		"titles": [
 			{
 				"title": "Jimmy Neutron Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -202133,7 +201871,6 @@
 				"title": "Jungle Book, The",
 				"languages": [
 					"en",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -203529,9 +203266,7 @@
 		"titles": [
 			{
 				"title": "Jurassic Park III - Dino Attack",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -210791,9 +210526,7 @@
 			},
 			{
 				"title": "Majesco Kids Cards",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -211335,9 +211068,7 @@
 		"titles": [
 			{
 				"title": "Kids Next Door Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -213022,7 +212753,6 @@
 			{
 				"title": "ＴＨＥ ＫＩＮＧ ＯＦ ＦＩＧＨＴＥＲＳ ＥＸ２ ～",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -213183,7 +212913,6 @@
 			{
 				"title": "ＴＨＥ ＫＩＮＧ ＯＦ ＦＩＧＨＴＥＲＳ ＥＸ ～ＮＥＯ ＢＬＯＯＤ～",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -213601,7 +213330,6 @@
 			{
 				"title": "Penguin-kun Wars VS.",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -217799,9 +217527,7 @@
 			},
 			{
 				"title": "ＫＩＳＳ",
-				"languages": [
-					"ja-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -218423,7 +218149,6 @@
 			{
 				"title": "Klax",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -218530,9 +218255,7 @@
 		"titles": [
 			{
 				"title": "Klax",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -219074,9 +218797,7 @@
 		"titles": [
 			{
 				"title": "Klustar",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -221555,9 +221276,7 @@
 			},
 			{
 				"title": "Track & Field",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -221862,7 +221581,6 @@
 			{
 				"title": "Konamic Golf",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -222750,9 +222468,7 @@
 		"titles": [
 			{
 				"title": "Kong - The Animated Series",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -223280,7 +222996,6 @@
 			{
 				"title": "Koro Dice",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -226270,9 +225985,7 @@
 			},
 			{
 				"title": "Castelian",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -227263,9 +226976,7 @@
 		"titles": [
 			{
 				"title": "Lara Croft Tomb Raider - The Prophecy",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -227662,9 +227373,7 @@
 		"titles": [
 			{
 				"title": "Last Action Hero",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -227790,9 +227499,7 @@
 			},
 			{
 				"title": "Laura's Happy Adventure",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -228522,9 +228229,7 @@
 		"titles": [
 			{
 				"title": "Legend of Prince Valiant, The",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -234779,9 +234484,7 @@
 		"titles": [
 			{
 				"title": "Lilo & Stitch 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -235616,9 +235319,7 @@
 			{
 				"title": "Lion King, The - Simba's Mighty Adventure",
 				"languages": [
-					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -240809,9 +240510,7 @@
 		"titles": [
 			{
 				"title": "Lord of the Rings, The - The Two Towers",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -242222,7 +241921,6 @@
 			{
 				"title": "Lucle",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -242772,7 +242470,6 @@
 			{
 				"title": "Lunar Lander",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -243860,8 +243557,7 @@
 			{
 				"title": "Madagascar - Operation Penguin",
 				"languages": [
-					"en",
-					"es"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -247659,9 +247355,7 @@
 			},
 			{
 				"title": "3 in 1 Sports Pack",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -248896,7 +248590,6 @@
 			{
 				"title": "Motocross Maniacs Advance",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -249904,9 +249597,7 @@
 		"titles": [
 			{
 				"title": "Mario & Luigi : Superstar Saga Display Version",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -253518,7 +253209,6 @@
 			{
 				"title": "Master Karateka",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -254909,7 +254599,6 @@
 			{
 				"title": "Rubble Saver II",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -255033,9 +254722,7 @@
 		"titles": [
 			{
 				"title": "Max Payne Advance",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -255664,9 +255351,7 @@
 			},
 			{
 				"title": "Mcdonaldland Starring the M.C.Kids",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -259294,7 +258979,6 @@
 			{
 				"title": "Rockman World",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -261154,9 +260838,7 @@
 			},
 			{
 				"title": "Megaman Extreme 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -266918,8 +266600,7 @@
 				"languages": [
 					"en",
 					"ja-Latn",
-					"ja-x-translated",
-					"zh-Latn"
+					"ja-x-translated"
 				],
 				"sources": [
 					"no-intro.org",
@@ -267165,8 +266846,7 @@
 				"languages": [
 					"en",
 					"ja-Latn",
-					"ja-x-translated",
-					"zh-Latn"
+					"ja-x-translated"
 				],
 				"sources": [
 					"no-intro.org",
@@ -268042,7 +267722,6 @@
 			{
 				"title": "Mickey Mouse",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -268131,7 +267810,6 @@
 				"languages": [
 					"en",
 					"ja",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -268715,7 +268393,6 @@
 					"de",
 					"en",
 					"es",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -269113,9 +268790,7 @@
 		"titles": [
 			{
 				"title": "Mickey's Racing Adventure",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -271982,7 +271657,6 @@
 			{
 				"title": "Minesweeper",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -272750,7 +272424,6 @@
 			{
 				"title": "Mini-Putt",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -281377,7 +281050,6 @@
 			{
 				"title": "Monster Truck",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -282504,9 +282176,7 @@
 		"titles": [
 			{
 				"title": "Montezuma's Return!",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"game-boy-database.com",
@@ -283192,9 +282862,7 @@
 			},
 			{
 				"title": "Mananitos",
-				"languages": [
-					"es"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -285324,7 +284992,6 @@
 			{
 				"title": "MotoGP",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -285709,9 +285376,7 @@
 		"titles": [
 			{
 				"title": "Mr. Chin's Gourmet Paradise",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -288179,9 +287844,7 @@
 		"titles": [
 			{
 				"title": "Mummy, The",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -292947,9 +292610,7 @@
 			},
 			{
 				"title": "ＮＡＲＵＴＯ",
-				"languages": [
-					"ja-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -293077,9 +292738,7 @@
 			},
 			{
 				"title": "ＮＡＲＵＴＯ",
-				"languages": [
-					"ja-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -294035,9 +293694,7 @@
 		"titles": [
 			{
 				"title": "Navy Seals",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -298149,7 +297806,6 @@
 			{
 				"title": "Nettou Samurai Spirits",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -300052,7 +299708,6 @@
 				"title": "NFL Quarterback Club II",
 				"languages": [
 					"en",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -300877,9 +300532,7 @@
 		"titles": [
 			{
 				"title": "Nicktoons Collection Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -300911,9 +300564,7 @@
 		"titles": [
 			{
 				"title": "Nicktoons Compilation Vol.2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -301115,9 +300766,7 @@
 		"titles": [
 			{
 				"title": "Nicktoons Volume 3",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -304050,7 +303699,6 @@
 			{
 				"title": "Nobunaga's Ambition ・ Game Boy Edition",
 				"languages": [
-					"en",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -309881,9 +309529,7 @@
 		"titles": [
 			{
 				"title": "Out of Gas",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -309916,12 +309562,7 @@
 			{
 				"title": "Over the Hedge",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr",
-					"it",
-					"nl"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -311887,9 +311528,7 @@
 		"titles": [
 			{
 				"title": "Pac-Man World & Ms. Pac-Man - Maze Madness",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -314936,9 +314575,7 @@
 		"titles": [
 			{
 				"title": "Panel Action Bingo",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -315543,9 +315180,7 @@
 		"titles": [
 			{
 				"title": "Paperboy",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -315726,9 +315361,7 @@
 		"titles": [
 			{
 				"title": "Paperboy 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -321320,7 +320953,6 @@
 			{
 				"title": "ＴＨＥ　ＰＩＮＢＡＬＬ　ＯＦ　ＴＨＥ　ＤＥＡＤ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -323385,8 +323017,7 @@
 			{
 				"title": "Pitfall - The Lost Expedition",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -323946,9 +323577,7 @@
 		"titles": [
 			{
 				"title": "Planet of the Apes",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -324380,7 +324009,6 @@
 			{
 				"title": "ＰＬＡＹ－ＹＡＮ　ＭＩＣＲＯ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -330159,8 +329787,7 @@
 			{
 				"title": "Pokemon - Blue Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -330834,10 +330461,7 @@
 			{
 				"title": "Pokemon - Crystal Version",
 				"languages": [
-					"en",
-					"es",
-					"fr",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -331352,8 +330976,7 @@
 			{
 				"title": "Pokemon - Emerald Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -331780,8 +331403,7 @@
 			{
 				"title": "Pokemon - FireRed Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -332281,11 +331903,7 @@
 			{
 				"title": "Pokemon - Gold Version",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -332919,8 +332537,7 @@
 			{
 				"title": "Pokemon - LeafGreen Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -332951,8 +332568,7 @@
 			{
 				"title": "Pokemon - Edicion Verde Hoja",
 				"languages": [
-					"es",
-					"it"
+					"es"
 				],
 				"sources": [
 					"no-intro.org",
@@ -333632,8 +333248,7 @@
 			{
 				"title": "Pokemon - Red Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -334300,8 +333915,7 @@
 			{
 				"title": "Pokemon - Ruby Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -334959,8 +334573,7 @@
 			{
 				"title": "Pokemon - Sapphire Version",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -335747,11 +335360,7 @@
 			{
 				"title": "Pokemon - Silver Version",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -336256,11 +335865,7 @@
 			{
 				"title": "Pokemon - Yellow Version - Special Pikachu Edition",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -337997,9 +337602,7 @@
 		"titles": [
 			{
 				"title": "Pokemon Mystery Dungeon Demo Red Rescue Team",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -339275,9 +338878,7 @@
 		"titles": [
 			{
 				"title": "Pokemon Video Volume 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -339309,9 +338910,7 @@
 		"titles": [
 			{
 				"title": "Pokemon Video Volume 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -339343,9 +338942,7 @@
 		"titles": [
 			{
 				"title": "Pokemon Video Volume 3 (I Choose You)",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -339377,9 +338974,7 @@
 		"titles": [
 			{
 				"title": "Pokemon Video Volume 4 (Beach Black-Out Blastoise)",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -341475,7 +341070,6 @@
 			{
 				"title": "Popeye",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -342395,7 +341989,6 @@
 			{
 				"title": "Power Mission",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -344149,8 +343742,7 @@
 				"title": "Power Rangers - Time Force",
 				"languages": [
 					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -344552,8 +344144,7 @@
 			{
 				"title": "Powerpuff Girls, The - Bad Mojo Jojo",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -344879,8 +344470,7 @@
 			{
 				"title": "Powerpuff Girls, The - Battle Him",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -345368,8 +344958,7 @@
 			{
 				"title": "Powerpuff Girls, The - Paint the Townsville Green",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -346295,7 +345884,6 @@
 			{
 				"title": "Pri Pri - Primitive Princess!",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -346691,9 +346279,7 @@
 		"titles": [
 			{
 				"title": "Prince of Persia",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -347507,9 +347093,7 @@
 		"titles": [
 			{
 				"title": "Pro Beach Soccer",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -349340,9 +348924,7 @@
 		"titles": [
 			{
 				"title": "Prophecy:the Viking Child",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -349387,9 +348969,7 @@
 		"titles": [
 			{
 				"title": "Proud Family Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -349909,9 +349489,7 @@
 			},
 			{
 				"title": "Pumuckl",
-				"languages": [
-					"de"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -352080,7 +351658,6 @@
 			{
 				"title": "Puzznic",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -352262,9 +351839,7 @@
 		"titles": [
 			{
 				"title": "Pyramids of Ra",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -353409,9 +352984,7 @@
 		"titles": [
 			{
 				"title": "Quad Desert Fury",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs",
 					"gbhwdb.gekkio.fi"
@@ -354646,7 +354219,6 @@
 			{
 				"title": "R-Type DX",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -355552,9 +355124,7 @@
 			},
 			{
 				"title": "Tyco R/C Racin Ratz",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -357196,7 +356766,6 @@
 			{
 				"title": "Rampart",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -358067,9 +357636,7 @@
 		"titles": [
 			{
 				"title": "Rayman",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -360007,9 +359574,7 @@
 		"titles": [
 			{
 				"title": "Reign of Fire",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -361175,7 +360740,6 @@
 			{
 				"title": "ＢＩＯＨＡＺＡＲＤ　ＧＡＩＤＥＮ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -362267,7 +361831,6 @@
 			{
 				"title": "Ring Rage",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -363150,9 +362713,7 @@
 		"titles": [
 			{
 				"title": "Road Rash",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -363336,7 +362897,6 @@
 			{
 				"title": "Roadster",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -364397,7 +363957,6 @@
 			{
 				"title": "RoboCop 2",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -365678,9 +365237,7 @@
 		"titles": [
 			{
 				"title": "Robotech - The Macross Saga",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -368675,9 +368232,7 @@
 		"titles": [
 			{
 				"title": "Roswell Conspiracies - Aliens, Myths & Legends",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -369165,7 +368720,6 @@
 			{
 				"title": "Rubble Saver",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -369302,9 +368856,7 @@
 			},
 			{
 				"title": "Ragrats Castle Casper",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -369813,9 +369365,7 @@
 			{
 				"title": "Rugrats - Totally Angelica",
 				"languages": [
-					"de",
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -370008,8 +369558,7 @@
 			{
 				"title": "Rugrats in Paris - The Movie",
 				"languages": [
-					"en",
-					"fr"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -370516,9 +370065,7 @@
 			},
 			{
 				"title": "Final Fantasy Legend Ⅱ",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -370679,9 +370226,7 @@
 			},
 			{
 				"title": "Final Fantasy Legend Ⅲ",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -371535,7 +371080,6 @@
 			{
 				"title": "Sagaia",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -374808,7 +374352,6 @@
 			{
 				"title": "Saru Puncher",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -375004,12 +374547,7 @@
 			},
 			{
 				"title": "Scooby Doo the Motion Picture",
-				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -378170,9 +377708,7 @@
 			},
 			{
 				"title": "ＳＥＧＡ　ＲＡＬＬＹ",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -378745,9 +378281,7 @@
 			},
 			{
 				"title": "Sword of Hope 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -379061,7 +378595,6 @@
 			{
 				"title": "Sengoku Ninja-Kun",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -379345,9 +378878,7 @@
 		"titles": [
 			{
 				"title": "Sensible Soccer",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -380387,9 +379918,7 @@
 			},
 			{
 				"title": "ＲＡＫＵ－ＲＡＫＵ ＭＩＳＨＩＮ",
-				"languages": [
-					"ja-Latn"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -382168,7 +381697,6 @@
 			{
 				"title": "Shanghai",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -383405,9 +382933,7 @@
 		"titles": [
 			{
 				"title": "Shark Tale",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -388278,9 +387804,7 @@
 		"titles": [
 			{
 				"title": "Shrek",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -389043,9 +388567,7 @@
 		"titles": [
 			{
 				"title": "Shrek / Shark Tale 2 Movies in 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -389213,9 +388735,7 @@
 		"titles": [
 			{
 				"title": "Shrek 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -391704,7 +391224,6 @@
 			{
 				"title": "SIMPLE2960 Friend series Vol.1 THE table game collection",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -391775,7 +391294,6 @@
 			{
 				"title": "SIMPLE2960 Friend series Vol.2 THE block scrap",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -393906,9 +393424,7 @@
 		"titles": [
 			{
 				"title": "Skate or Die Bad'n Rad",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -393946,9 +393462,7 @@
 		"titles": [
 			{
 				"title": "Skate or Die: Tour De Thrash",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -396057,9 +395571,7 @@
 		"titles": [
 			{
 				"title": "Sneaky Snakes",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -397063,7 +396575,6 @@
 			{
 				"title": "Snow Bros. Jr.",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -397566,7 +397077,6 @@
 			{
 				"title": "World Cup Striker",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -397966,7 +397476,6 @@
 			{
 				"title": "Soccer Boy",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -398837,7 +398346,6 @@
 			{
 				"title": "Solitaire",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -398848,9 +398356,7 @@
 			},
 			{
 				"title": "Lazlos' Leap",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -400721,9 +400227,7 @@
 		"titles": [
 			{
 				"title": "Sonic X : a Super Sonic Hero Volume 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -401218,9 +400722,7 @@
 		"titles": [
 			{
 				"title": "Sound of Thunder, A",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -401589,7 +401091,6 @@
 			{
 				"title": "Space Invaders EX",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -401844,9 +401345,7 @@
 			},
 			{
 				"title": "Space Invaders 2 in 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -402128,7 +401627,6 @@
 			{
 				"title": "Space Invaders X",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -403098,9 +402596,7 @@
 		"titles": [
 			{
 				"title": "Speed Ball 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -404985,9 +404481,7 @@
 			},
 			{
 				"title": "Spiderman the Movie 3",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -406208,9 +405702,7 @@
 			},
 			{
 				"title": "Spritz",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -406298,9 +405790,7 @@
 		"titles": [
 			{
 				"title": "SpongeBob and Friends - Attack of the Toybots",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -407053,9 +406543,7 @@
 		"titles": [
 			{
 				"title": "Spongebob Squarepants #3",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -407087,9 +406575,7 @@
 		"titles": [
 			{
 				"title": "SpongeBob SquarePants and Friends - Battle for Volcano Island",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -407195,9 +406681,7 @@
 		"titles": [
 			{
 				"title": "SpongeBob SquarePants and Friends in Freeze Frame Frenzy",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -407302,9 +406786,7 @@
 		"titles": [
 			{
 				"title": "SpongeBob SquarePants and Friends Unite!",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -407557,9 +407039,7 @@
 		"titles": [
 			{
 				"title": "Spongebob Squarepants Volume 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -407597,9 +407077,7 @@
 		"titles": [
 			{
 				"title": "Spongebob Squarepants Volume 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -407766,7 +407244,6 @@
 			{
 				"title": "Sports Collection",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -407929,9 +407406,7 @@
 		"titles": [
 			{
 				"title": "Sports Illustrated Football/Baseball",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -408194,9 +407669,7 @@
 		"titles": [
 			{
 				"title": "Sports Illustrated for Kids: the Ultimate Triple Dare",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -410471,9 +409944,7 @@
 		"titles": [
 			{
 				"title": "SSX Tricky",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -410847,9 +410318,7 @@
 		"titles": [
 			{
 				"title": "Star Trek",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -413892,9 +413361,7 @@
 		"titles": [
 			{
 				"title": "Stranded Kids",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -414396,9 +413863,7 @@
 		"titles": [
 			{
 				"title": "Strawberry Shortcake: Volume 1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -416822,7 +416287,6 @@
 			{
 				"title": "Sumou Fighter - Toukaidou Basho",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -419265,9 +418729,7 @@
 		"titles": [
 			{
 				"title": "Super Chase H.Q.",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -419681,9 +419143,7 @@
 			},
 			{
 				"title": "Ninja Boy 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -420998,9 +420458,7 @@
 			},
 			{
 				"title": "F-18 Hornet",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -421324,7 +420782,6 @@
 			{
 				"title": "Super Hunchback",
 				"languages": [
-					"en",
 					"ja-Latn",
 					"ja-x-translated"
 				],
@@ -421529,9 +420986,7 @@
 		"titles": [
 			{
 				"title": "Super James Pond",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -421606,7 +421061,6 @@
 				"title": "Super Kick Off",
 				"languages": [
 					"de",
-					"en",
 					"es",
 					"it"
 				],
@@ -422064,9 +421518,7 @@
 		"titles": [
 			{
 				"title": "Super Mario Advance (Display Version)",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -426696,9 +426148,7 @@
 		"titles": [
 			{
 				"title": "Super Robot Monkey Team Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -427734,9 +427184,7 @@
 		"titles": [
 			{
 				"title": "Super Scrabble",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -428029,7 +427477,6 @@
 			{
 				"title": "Super Street Basketball",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -428229,7 +427676,6 @@
 			{
 				"title": "ＳＵＰＥＲ　ＳＴＲＥＥＴ　ＦＩＧＨＴＥＲ　２　Ｘ　ＲＥＶＩＶＡＬ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -431208,9 +430654,7 @@
 			},
 			{
 				"title": "Looney Tunes - Twouble!",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -432693,7 +432137,6 @@
 			{
 				"title": "ＣＨＡＳＥ Ｈ.Ｑ.",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -435887,7 +435330,6 @@
 			{
 				"title": "Tasmania Monogatari",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -436103,9 +435545,7 @@
 		"titles": [
 			{
 				"title": "Tasmanian Devil - Munching Madness",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -436771,9 +436211,7 @@
 		"titles": [
 			{
 				"title": "Tazmania",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -437173,9 +436611,7 @@
 		"titles": [
 			{
 				"title": "Teen Titans 2",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -437240,7 +436676,6 @@
 					"de",
 					"en",
 					"es",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -438589,18 +438024,14 @@
 		"titles": [
 			{
 				"title": "Teenage Mutant Ninja Turtles Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
 			},
 			{
 				"title": "Teenage Mutant Ninja Turtles Volume 1 (French)",
-				"languages": [
-					"fr"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444194,9 +443625,7 @@
 		"titles": [
 			{
 				"title": "The Addams Family in Pagsley's Scavenger Hunt",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444228,9 +443657,7 @@
 		"titles": [
 			{
 				"title": "The Blues Brothers",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444262,9 +443689,7 @@
 		"titles": [
 			{
 				"title": "The Flintstones",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444296,9 +443721,7 @@
 		"titles": [
 			{
 				"title": "The Game of Harmony",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444330,9 +443753,7 @@
 		"titles": [
 			{
 				"title": "The Legend of Zelda : the Minish Cap (Trial Version)",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444412,9 +443833,7 @@
 			},
 			{
 				"title": "The 3 Stoogles",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444482,9 +443901,7 @@
 			},
 			{
 				"title": "Connect 4 Compilation",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -444646,9 +444063,7 @@
 			},
 			{
 				"title": "Scrabble Jr. Compilation",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -446191,7 +445606,6 @@
 					"en",
 					"es",
 					"it",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -446497,9 +445911,7 @@
 		"titles": [
 			{
 				"title": "Tiny Toon Adventures - Buster Saves the Day",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -450948,9 +450360,7 @@
 		"titles": [
 			{
 				"title": "Tom Clancy's Rainbow Six",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -454038,7 +453448,6 @@
 			{
 				"title": "ＴＯＰ　ＧＥＡＲ　ＲＡＬＬＹ ＳＰ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -455188,7 +454597,6 @@
 			{
 				"title": "Torpedo Range",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -455379,9 +454787,7 @@
 		"titles": [
 			{
 				"title": "Total Carnage",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -456434,7 +455840,6 @@
 			{
 				"title": "ＴＨＥ　ＴＯＷＥＲ　ＳＰ",
 				"languages": [
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -456695,9 +456100,7 @@
 		"titles": [
 			{
 				"title": "Toxic Crusaders",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -458368,7 +457771,6 @@
 				"title": "Trick Boarder",
 				"languages": [
 					"en",
-					"ja-Latn",
 					"ja-x-translated"
 				],
 				"sources": [
@@ -461207,9 +460609,7 @@
 		"titles": [
 			{
 				"title": "Turok - Rage Wars",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs"
@@ -461306,8 +460706,7 @@
 			{
 				"title": "Turok 2 - Seeds of Evil",
 				"languages": [
-					"de",
-					"en"
+					"de"
 				],
 				"sources": [
 					"no-intro.org",
@@ -461926,9 +461325,7 @@
 		"titles": [
 			{
 				"title": "Tweenies - Doodles' Bones",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -464702,7 +464099,6 @@
 			{
 				"title": "Ultima - Ushinawareta Runes II",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -466909,9 +466305,7 @@
 		"titles": [
 			{
 				"title": "Universal Soldier",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -468408,7 +467802,6 @@
 			{
 				"title": "V-Rally 3",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -468745,7 +468138,6 @@
 			{
 				"title": "Vattle Giuce",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -468908,9 +468300,7 @@
 		"titles": [
 			{
 				"title": "Veediots",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -469321,9 +468711,7 @@
 			},
 			{
 				"title": "Rolan's Curse",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -470069,9 +469457,7 @@
 			},
 			{
 				"title": "The Lawnmower Man",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -470325,9 +469711,7 @@
 		"titles": [
 			{
 				"title": "Vr Sports Powerboat Racing",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -471274,9 +470658,7 @@
 			},
 			{
 				"title": "Shaun Murray's Pro Wakeboarder",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -473743,9 +473125,7 @@
 			},
 			{
 				"title": "Wario Ware, Inc.",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -474747,9 +474127,7 @@
 		"titles": [
 			{
 				"title": "Wayne's World",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -476647,12 +476025,7 @@
 			{
 				"title": "Who Wants to Be a Millionaire",
 				"languages": [
-					"de",
-					"en",
-					"es",
-					"fr",
-					"it",
-					"nl"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -481208,9 +480581,7 @@
 		"titles": [
 			{
 				"title": "Wordtris",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -481242,9 +480613,7 @@
 		"titles": [
 			{
 				"title": "Wordzap",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -481708,7 +481077,6 @@
 			{
 				"title": "World Bowling",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -482726,7 +482094,6 @@
 			{
 				"title": "World Ice Hockey",
 				"languages": [
-					"en",
 					"ja-Latn"
 				],
 				"sources": [
@@ -490924,10 +490291,7 @@
 			{
 				"title": "Yu-Gi-Oh! - Dark Duel Stories",
 				"languages": [
-					"de",
-					"en",
-					"fr",
-					"it"
+					"en"
 				],
 				"sources": [
 					"no-intro.org",
@@ -494321,18 +493685,14 @@
 		"titles": [
 			{
 				"title": "Yu-Gi-Oh! Vol.1",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
 			},
 			{
 				"title": "Yu-Gi-Oh Volume 1",
-				"languages": [
-					"fr"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]
@@ -494909,9 +494269,7 @@
 		"titles": [
 			{
 				"title": "Zapper",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"no-intro.org",
 					"sprintinglegs",
@@ -498550,9 +497908,7 @@
 		"titles": [
 			{
 				"title": "Zool",
-				"languages": [
-					"en"
-				],
+				"languages": [],
 				"sources": [
 					"sprintinglegs"
 				]

@@ -250,3 +250,36 @@ test("tags sprintinglegs titles and translations with their language", () => {
 		},
 	]);
 });
+
+test("doesn't tag sprintinglegs titles in Latin letters by the game's language", () => {
+	const german: Sources = {
+		...sources,
+		noIntro: [],
+		gameBoyDatabaseCom: [],
+		gbhwdb: [],
+		libretroThumbnails: [],
+		sprintinglegs: [
+			{
+				id: 2481,
+				url: "https://www.sprintinglegs.com/gbdb/gamedata?id=2481",
+				list: "cgb",
+				serial: "CGB-B99D",
+				title: "102 DALMATIANS : PUPPIES TO THE RESCUE",
+				language: "German",
+			},
+		],
+	};
+	const { gameOf } = groupGames(
+		sourceLinks(german, []),
+		() => undefined,
+		new Set(),
+	);
+	const [game] = buildGames(german, [], gameOf);
+	expect(game!.titles).toEqual([
+		{
+			title: "102 Dalmatians : Puppies to the Rescue",
+			languages: [],
+			sources: ["sprintinglegs"],
+		},
+	]);
+});

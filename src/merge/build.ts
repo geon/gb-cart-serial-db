@@ -6,6 +6,7 @@ import type { GbhwdbDate } from "../importers/gbhwdb.gekkio.fi/parse.ts";
 import { members } from "./union-find.ts";
 import {
 	dmgpageLanguage,
+	nonLatinScript,
 	noIntroLanguage,
 	regionLanguage,
 	sprintinglegsLanguage,
@@ -166,13 +167,26 @@ export function buildGames(
 			url: entry.url,
 			label: entry.serial,
 			titles: [
-				titleIn(entry.title, sprintinglegsLanguage(entry.language)),
+				// sprintinglegs' language is the language of the game's text. Its titles are often in English for
+				// every region, e.g. "102 DALMATIANS" for the German, French and Spanish releases, so titles in Latin
+				// letters aren't tagged by it. It does tell kanji-only titles, e.g. "役満", apart from Chinese ones.
+				titleIn(
+					entry.title,
+					nonLatinScript.test(entry.title)
+						? sprintinglegsLanguage(entry.language)
+						: undefined,
+				),
 				...(entry.translatedTitle === undefined
 					? []
 					: [
 							{
 								title: entry.translatedTitle,
-								language: translated(sprintinglegsLanguage(entry.language)),
+								language: translated(
+									titleLanguage(entry.title, undefined)?.replace(
+										/-Latn$/,
+										"",
+									) ?? sprintinglegsLanguage(entry.language),
+								),
 							},
 						]),
 			],

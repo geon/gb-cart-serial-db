@@ -8,7 +8,7 @@
 // "Pocket Monsters - Aka" but "ja" for "ポケットモンスター 赤". Translations made by a source, not official titles, get
 // the private use tag "x-translated", e.g. "ja-x-translated" for sprintinglegs' "Pocket camera" for "ポケットカメラ".
 
-const nonLatinScript =
+export const nonLatinScript =
 	/[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}]/u;
 
 // The language of a title in Japanese (kana) or Korean (Hangul) script, else the given language. Adds "-Latn" to
