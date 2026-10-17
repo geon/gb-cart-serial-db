@@ -1,4 +1,5 @@
 import { isStemKey, type Link } from "./links.ts";
+import { titleKey } from "./title-key.ts";
 import { connectedSets, members } from "./union-find.ts";
 
 // A stem whose groups are in different No-Intro families, and so weren't merged.
@@ -156,4 +157,90 @@ function titleWords(title: string): string[] {
 		.toLowerCase()
 		.split(/[^\p{L}\p{N}]+/u)
 		.filter((word) => word.length > 1 && !minorWords.has(word));
+}
+
+// A merge of a game known only from ROMs with a game known only from label serials, by their titles.
+export type TitleMerge = {
+	/** The normalized titles they share. See title-key.ts. */
+	titleKeys: string[];
+	/** The record keys of each game. */
+	groups: [string[], string[]];
+};
+
+// Merges games that nothing but the title links: No-Intro ROMs without serials, e.g. the Aa Harimanada ROM, and releases
+// only known from their labels, e.g. DMG-A7J. A ROM-only game is merged with a label-only game when they are of the same
+// system, share a title, and neither shares a title with another such game. Unlicensed and pirate ROMs aren't merged.
+export function mergeByTitle(
+	gameOf: ReadonlyMap<string, string>,
+	// The system and licensing of a No-Intro record key.
+	romOf: (
+		recordKey: string,
+	) => { system: string; licensed: boolean } | undefined,
+	titlesOf: (recordKey: string) => readonly string[],
+): { gameOf: Map<string, string>; merges: TitleMerge[] } {
+	const games = [...members(gameOf)].map(([game, gameKeys]) => {
+		const records = gameKeys.filter((key) => key.startsWith("record:"));
+		const roms = records.flatMap((key) => romOf(key) ?? []);
+		const labelSystems = gameKeys.flatMap((key) =>
+			key.startsWith("label:") ? [labelSystem(key.slice("label:".length))] : [],
+		);
+		const kind =
+			roms.length &&
+			!labelSystems.length &&
+			roms.every(({ licensed }) => licensed)
+				? "rom"
+				: !roms.length && labelSystems.length
+					? "label"
+					: undefined;
+		const systems = new Set(
+			kind === "rom" ? roms.map(({ system }) => system) : labelSystems,
+		);
+		return {
+			game,
+			records,
+			kind,
+			system: systems.size === 1 ? [...systems][0] : undefined,
+			titleKeys: new Set(records.flatMap(titlesOf).map(titleKey)),
+		};
+	});
+	const candidates = games.filter(
+		({ kind, system }) => kind !== undefined && system !== undefined,
+	);
+	const matchesOf = (game: (typeof candidates)[number]) =>
+		candidates.filter(
+			(other) =>
+				other.kind !== game.kind &&
+				other.system === game.system &&
+				[...game.titleKeys].some((key) => other.titleKeys.has(key)),
+		);
+	const pairs = candidates
+		.filter(({ kind }) => kind === "rom")
+		.flatMap((rom) => {
+			const [label, ...others] = matchesOf(rom);
+			return label && !others.length && matchesOf(label).length === 1
+				? [{ rom, label }]
+				: [];
+		});
+
+	return {
+		gameOf: connectedSets([
+			...[...gameOf].map(([key, game]) => [key, game] as const),
+			...pairs.map(({ rom, label }) => [rom.game, label.game] as const),
+		]),
+		merges: pairs.map(({ rom, label }) => ({
+			titleKeys: [...rom.titleKeys].filter((key) => label.titleKeys.has(key)),
+			groups: [rom.records, label.records],
+		})),
+	};
+}
+
+// The system of a label serial, e.g. "dmg" for DMG-A7J-JPN and DMG-133 CHN. Undefined for other publishers' codes.
+function labelSystem(serial: string): string | undefined {
+	const systems: Record<string, string> = {
+		DMG: "dmg",
+		GBD: "dmg",
+		CGB: "cgb",
+		AGB: "agb",
+	};
+	return systems[serial.split("-")[0]!];
 }

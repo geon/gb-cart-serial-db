@@ -475,7 +475,7 @@ function buildRelease(
 }
 
 // No-Intro's Game Boy Color list also has the Game Boy cartridges with Color enhancements, the black cartridges.
-function noIntroSystem(entry: Sources["noIntro"][number]): GameSystem {
+export function noIntroSystem(entry: Sources["noIntro"][number]): GameSystem {
 	return entry.dat === "cgb" && entry.specialTags.includes("GB Compatible")
 		? "dmg"
 		: entry.dat;

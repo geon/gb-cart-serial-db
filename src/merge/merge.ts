@@ -4,14 +4,15 @@ import {
 	loadSeparateCodes,
 	loadSerialCorrections,
 } from "../corrections.ts";
-import { buildReleases } from "./build.ts";
-import { groupGames } from "./games.ts";
+import { buildReleases, noIntroSystem } from "./build.ts";
+import { groupGames, mergeByTitle } from "./games.ts";
 import { keys, recordTitles, sourceLinks, type Sources } from "./links.ts";
 import { addWikipedia } from "./wikipedia.ts";
 
 // Merges data-sources/*.json into database/releases.json, and lists the stems that weren't followed in
 // database/stem-contradictions.json (No-Intro's families disagree), and the stems merging groups without No-Intro entries
-// whose titles share no word, to review, in database/stem-unverified.json, and the rows of Wikipedia's lists matching
+// whose titles share no word, to review, in database/stem-unverified.json, the games merged by title, to review, in
+// database/title-merges.json, and the rows of Wikipedia's lists matching
 // several unrelated games in database/wikipedia-ambiguous.json.
 
 function load<T>(source: string): T {
@@ -37,11 +38,26 @@ const familyOfRecord = new Map(
 	]),
 );
 const titles = recordTitles(sources);
-const { gameOf, contradictions, unverified } = groupGames(
+const grouped = groupGames(
 	sourceLinks(sources, corrections),
 	(key) => familyOfRecord.get(key),
 	new Set(loadSameGameStems().map(({ stem }) => stem)),
 	new Set(loadSeparateCodes().map(({ code }) => code)),
+	(key) => titles.get(key) ?? [],
+);
+const { contradictions, unverified } = grouped;
+const roms = new Map(
+	sources.noIntro.map((entry) => [
+		keys.record("no-intro.org", entry.url),
+		{
+			system: noIntroSystem(entry),
+			licensed: entry.licensing === "licensed" && entry.edition !== "Kiosk",
+		},
+	]),
+);
+const { gameOf, merges } = mergeByTitle(
+	grouped.gameOf,
+	(key) => roms.get(key),
 	(key) => titles.get(key) ?? [],
 );
 const { releases, ambiguous } = addWikipedia(
@@ -59,6 +75,10 @@ writeFileSync(
 	JSON.stringify(contradictions, null, "\t") + "\n",
 );
 writeFileSync(
+	"database/title-merges.json",
+	JSON.stringify(merges, null, "\t") + "\n",
+);
+writeFileSync(
 	"database/wikipedia-ambiguous.json",
 	JSON.stringify(ambiguous, null, "\t") + "\n",
 );
@@ -67,5 +87,5 @@ writeFileSync(
 	JSON.stringify(unverified, null, "\t") + "\n",
 );
 console.log(
-	`Wrote ${releases.length} releases of ${new Set(releases.map(({ gameId }) => gameId)).size} games to database/releases.json, ${contradictions.length} stems not followed to database/stem-contradictions.json, ${unverified.length} to review in database/stem-unverified.json, ${ambiguous.length} Wikipedia rows matching several games in database/wikipedia-ambiguous.json`,
+	`Wrote ${releases.length} releases of ${new Set(releases.map(({ gameId }) => gameId)).size} games to database/releases.json, ${contradictions.length} stems not followed to database/stem-contradictions.json, ${unverified.length} to review in database/stem-unverified.json, ${merges.length} games merged by title in database/title-merges.json, ${ambiguous.length} Wikipedia rows matching several games in database/wikipedia-ambiguous.json`,
 );

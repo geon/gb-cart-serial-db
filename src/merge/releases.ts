@@ -127,8 +127,12 @@ export function assignReleases(
 		if (codes.length) {
 			return codes.map(keyOfCode);
 		}
-		const candidates = byRegion(record.rom.regions);
-		return candidates.length === 1 ? candidates : [record.rom.key];
+		// The release of each of its regions, e.g. DMG-HTA and DMG-HT for Hatris (Japan, USA), unless a region has several.
+		const perRegion = record.rom.regions.map((region) => byRegion([region]));
+		const keys = [...new Set(perRegion.flat())];
+		return keys.length && perRegion.every((keys) => keys.length <= 1)
+			? keys
+			: [record.rom.key];
 	});
 
 	const recordReleases = records.map((record, index): string[] => {

@@ -1,6 +1,7 @@
 import type { WikipediaEntry } from "../importers/en.wikipedia.org/parse.ts";
 import { parseLabelSerial } from "../serials.ts";
 import type { GameSystem, Release } from "./build.ts";
+import { titleKey } from "./title-key.ts";
 
 // Adds release years from Wikipedia's lists of games to the releases. Wikipedia's rows have no serials, so they are
 // matched to games by title and system after the games are grouped, and don't affect the grouping. Rows matching
@@ -95,37 +96,6 @@ export function releaseRegions(release: Release): Region[] {
 		regions.flatMap((region) => noIntroRegions[region] ?? []),
 	);
 	return [...new Set(fromSerials.length ? fromSerials : fromRoms)];
-}
-
-const romanNumerals: Record<string, string> = {
-	ii: "2",
-	iii: "3",
-	iv: "4",
-	v: "5",
-	vi: "6",
-	vii: "7",
-	viii: "8",
-	ix: "9",
-	x: "10",
-};
-
-// A key for comparing titles across sources, ignoring case, accents, punctuation, "the", Roman numerals and the
-// spelling of long Japanese vowels, e.g. "Takahashi Meijin no Bōken Jima II", "Takahashi Meijin no Bouken Jima 2" and
-// "Takahashi Meijin no Boken Jima II" are the same.
-export function titleKey(title: string): string {
-	return title
-		.normalize("NFKD")
-		.toLowerCase()
-		.replace(/[̀-ͯ]/g, "")
-		.replace(/&/g, " and ")
-		.replace(/[^a-z0-9]+/g, " ")
-		.trim()
-		.split(" ")
-		.map((word) => romanNumerals[word] ?? word)
-		.filter((word) => word !== "the")
-		.join("")
-		.replace(/ou/g, "o")
-		.replace(/uu/g, "u");
 }
 
 // The systems of the games in each list. The Game Boy Color list also has the black cartridges, which fit all

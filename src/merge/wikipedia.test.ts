@@ -6,8 +6,8 @@ import {
 	matchWikipedia,
 	releaseRegions,
 	releaseYear,
-	titleKey,
 } from "./wikipedia.ts";
+import { titleKey } from "./title-key.ts";
 
 function release(
 	id: string,

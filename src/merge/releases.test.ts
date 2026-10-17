@@ -72,4 +72,21 @@ describe("assignReleases", () => {
 			["DMG-AF"],
 		]);
 	});
+
+	test("puts codeless ROMs in the release of each of their regions", () => {
+		const { recordReleases } = assignReleases(
+			[
+				{ cartridgeSerials: ["DMG-HTA-JPN"] },
+				{ cartridgeSerials: ["DMG-HT-USA"] },
+				{ rom: { key: "dmg-6", regions: ["Japan", "USA"] } },
+				// Regions without a release are skipped.
+				{ rom: { key: "dmg-7", regions: ["USA", "Korea"] } },
+			],
+			"fallback",
+		);
+		expect(recordReleases.slice(2)).toEqual([
+			["DMG-HTA", "DMG-HT"],
+			["DMG-HT"],
+		]);
+	});
 });
