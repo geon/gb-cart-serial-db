@@ -18,7 +18,8 @@
     "report:corrections": "tsx src/reports/corrections.ts",
     "import:libretro-thumbnails": "tsx src/importers/libretro-thumbnails/import.ts",
     "report:header-conflicts": "tsx src/reports/header-conflicts.ts",
-    "merge": "tsx src/merge/merge.ts"
+    "merge": "tsx src/merge/merge.ts",
+    "import:en.wikipedia.org": "tsx src/importers/en.wikipedia.org/import.ts"
   },
   "prettier": {
     "useTabs": true
