@@ -12,7 +12,8 @@
     "import:no-intro.org": "tsx src/importers/no-intro.org/import.ts",
     "import:dmgpage.com": "tsx src/importers/dmgpage.com/import.ts",
     "import:gbhwdb.gekkio.fi": "tsx src/importers/gbhwdb.gekkio.fi/import.ts",
-    "import:github.com-mstroh76-GBxDumper": "tsx src/importers/github.com-mstroh76-GBxDumper/import.ts"
+    "import:github.com-mstroh76-GBxDumper": "tsx src/importers/github.com-mstroh76-GBxDumper/import.ts",
+    "import:github.com-geon": "tsx src/importers/github.com-geon/import.ts"
   },
   "prettier": {
     "useTabs": true
