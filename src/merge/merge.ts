@@ -7,10 +7,12 @@ import {
 import { buildReleases } from "./build.ts";
 import { groupGames } from "./games.ts";
 import { keys, recordTitles, sourceLinks, type Sources } from "./links.ts";
+import { addWikipedia } from "./wikipedia.ts";
 
 // Merges data-sources/*.json into database/releases.json, and lists the stems that weren't followed in
 // database/stem-contradictions.json (No-Intro's families disagree), and the stems merging groups without No-Intro entries
-// whose titles share no word, to review, in database/stem-unverified.json.
+// whose titles share no word, to review, in database/stem-unverified.json, and the rows of Wikipedia's lists matching
+// several unrelated games in database/wikipedia-ambiguous.json.
 
 function load<T>(source: string): T {
 	return JSON.parse(readFileSync(`data-sources/${source}.json`, "utf-8")) as T;
@@ -42,7 +44,10 @@ const { gameOf, contradictions, unverified } = groupGames(
 	new Set(loadSeparateCodes().map(({ code }) => code)),
 	(key) => titles.get(key) ?? [],
 );
-const releases = buildReleases(sources, corrections, gameOf);
+const { releases, ambiguous } = addWikipedia(
+	buildReleases(sources, corrections, gameOf),
+	load("en.wikipedia.org"),
+);
 
 mkdirSync("database", { recursive: true });
 writeFileSync(
@@ -54,9 +59,13 @@ writeFileSync(
 	JSON.stringify(contradictions, null, "\t") + "\n",
 );
 writeFileSync(
+	"database/wikipedia-ambiguous.json",
+	JSON.stringify(ambiguous, null, "\t") + "\n",
+);
+writeFileSync(
 	"database/stem-unverified.json",
 	JSON.stringify(unverified, null, "\t") + "\n",
 );
 console.log(
-	`Wrote ${releases.length} releases of ${new Set(releases.map(({ gameId }) => gameId)).size} games to database/releases.json, ${contradictions.length} stems not followed to database/stem-contradictions.json, ${unverified.length} to review in database/stem-unverified.json`,
+	`Wrote ${releases.length} releases of ${new Set(releases.map(({ gameId }) => gameId)).size} games to database/releases.json, ${contradictions.length} stems not followed to database/stem-contradictions.json, ${unverified.length} to review in database/stem-unverified.json, ${ambiguous.length} Wikipedia rows matching several games in database/wikipedia-ambiguous.json`,
 );

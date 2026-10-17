@@ -51,6 +51,8 @@ export type Release = {
 	cartridgePhotoUrls: string[];
 	/** The earliest manufacturing date printed on a documented cartridge's board or ROM chip, from gbhwdb.gekkio.fi. The release is on or after it. */
 	earliestManufacturingDate?: GbhwdbDate;
+	/** From Wikipedia's lists of games: the year the release came out in its regions, or else the game's first year, e.g. 1989 for the Japanese Tetris and 1990 for the European. See wikipedia.ts. */
+	releaseYear?: number;
 	/** The source records of the release. The label tells records from the same source apart, e.g. their serial. */
 	links: { source: string; url: string; label: string }[];
 };
