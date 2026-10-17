@@ -1,0 +1,431 @@
+[
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1637",
+		"title": "Boxxle (USA)",
+		"wrong": "DMG-S0-USA",
+		"correct": "DMG-SO-USA",
+		"reason": "Zero instead of O. ROM chip DMG-SOE-0; game-boy-database.com and dmgpage.com have DMG-SO-USA.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1637",
+			"https://www.game-boy-database.com/game-SO-317-USA.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-SOE-1/tobiasvl-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=30"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0329",
+		"title": "Dr. Mario (World)",
+		"wrong": "DMG-UV-UKV",
+		"correct": "DMG-VU-UKV",
+		"reason": "Swapped letters. ROM chip DMG-VUA-0; all other serials are DMG-VU.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0329",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-VUA-1/davidslv-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-VUA-1/tobiasvl-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-VUA-0/gekkio-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-VUA-0/kurodo-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=140"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0469",
+		"title": "Golf (World)",
+		"wrong": "DMG-G0-USA",
+		"correct": "DMG-GO-USA",
+		"reason": "Zero instead of O. ROM chip DMG-GOA-0 (gbhwdb); all other serials are DMG-GO.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0469",
+			"https://www.game-boy-database.com/game-GO-826-USA.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-GOA-0/beckybecky125-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=26"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0758",
+		"title": "Mega Man II (USA)",
+		"wrong": "DMG-XX-USA",
+		"correct": null,
+		"reason": "Placeholder. ROM chip DMG-W2E-0; the cartridge serials are DMG-W2-USA and DMG-W2-USA-1.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0758",
+			"https://www.game-boy-database.com/game-W2-1201-USA.html",
+			"https://www.game-boy-database.com/game-W2-2775-USA-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-W2E-0/beckybecky125-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=484"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0757",
+		"title": "Mega Man II (Europe)",
+		"wrong": "DMG-RW-NOE",
+		"correct": null,
+		"reason": "Belongs to Mega Man: Dr. Wily's Rache (game-boy-database.com). ROM chip DMG-W2X-0; the German Mega Man II is DMG-W2-NOE.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0757",
+			"https://www.game-boy-database.com/game-RW-1218-NOE.html",
+			"https://www.game-boy-database.com/game-W2-1199-NOE.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-W2X-0/3615retro-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-W2X-0/tobiasvl-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=632"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1326",
+		"title": "Super R.C. Pro-Am (USA, Europe)",
+		"wrong": "DMG-TR-NOE",
+		"correct": null,
+		"reason": "Belongs to Tetris. ROM chip DMG-RCE-0 (gbhwdb); the German release is DMG-RC-NOE.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1326",
+			"https://www.game-boy-database.com/game-RC-1942-NOE.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-RCE-0/beckybecky125-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-RCE-0/davidslv-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=340",
+			"https://www.game-boy-database.com/game-TR-2046-NOE.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-TRA-1/max-m-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-TRA-1/missingno-force-1.html"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1021",
+		"title": "Pocket Monsters - Pikachu (Japan) (SGB Enhanced)",
+		"wrong": "DMG-AP5J-JPN",
+		"correct": "DMG-APSJ-JPN",
+		"reason": "DMG-AP5J-JPN is Pocket Shogi (game-boy-database.com). ROM chips DMG-APSJ-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1021",
+			"https://www.game-boy-database.com/game-AP5J-4867-JPN.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=1593",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-APSJ-0/hdr-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-APSJ-0/hdr-2.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=1586",
+			"https://www.game-boy-database.com/game-APSJ-3628-JPN.html"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1139",
+		"title": "Super Black Bass Pocket 3 (Japan) (SGB Enhanced) (GB Compatible)",
+		"wrong": "DMG-ABTQ-JPN",
+		"correct": "DMG-ABQJ-JPN",
+		"reason": "ROM chip DMG-ABQJ-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1139",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=1643"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1136",
+		"title": "Banjo-Kazooie - Grunty's Revenge (USA, Europe)",
+		"wrong": "AGB-BZKE-USA",
+		"correct": "AGB-BKZE-USA",
+		"reason": "Swapped letters. ROM header game code BKZE, ROM chip AGB-BKZE-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1136",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4707"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1136",
+		"title": "Banjo-Kazooie - Grunty's Revenge (USA, Europe)",
+		"wrong": "AGB-BZKP-UKV",
+		"correct": "AGB-BKZP-UKV",
+		"reason": "Swapped letters. ROM header game code BKZE.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1136",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4758"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1136",
+		"title": "Banjo-Kazooie - Grunty's Revenge (USA, Europe)",
+		"wrong": "AGB-AKZE-USA",
+		"correct": "AGB-BKZE-USA",
+		"reason": "ROM header game code BKZE, ROM chip AGB-BKZE-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1136",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4707"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0238",
+		"title": "Battle Network - Rockman EXE 2 (Japan)",
+		"wrong": "AGB-AEZJ-JPN",
+		"correct": "AGB-AE2J-JPN",
+		"reason": "Z instead of 2. ROM header game code AE2J.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0238",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=3599"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2783",
+		"title": "Battle Network - Rockman EXE 3 (Japan) (Rev 1)",
+		"wrong": "AGB-A5BJ-JPN",
+		"correct": "AGB-A6BJ-JPN",
+		"reason": "ROM header game code A6BJ.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2783",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4309",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4301"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1612",
+		"title": "Crash Bandicoot Bakusou! Nitro Cart (Japan)",
+		"wrong": "AGB-SCNJ-JPN",
+		"correct": "AGB-BCNJ-JPN",
+		"reason": "ROM header game code BCNJ.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1612",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5198"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2013",
+		"title": "Fantastic 4 (USA)",
+		"wrong": "AGB-BFE-USA",
+		"correct": "AGB-BF4E-USA",
+		"reason": "Missing character. ROM header game code BF4E, ROM chip AGB-BF4E-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2013",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5665"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1567",
+		"title": "Hagane no Renkinjutsushi - Omoide no Sonata (Japan)",
+		"wrong": "AGB-BHZJ-JPN",
+		"correct": "AGB-BH2J-JPN",
+		"reason": "Z instead of 2. ROM header game code BH2J.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1567",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5202"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0287",
+		"title": "Harry Potter to Kenja no Ishi (Japan)",
+		"wrong": "AGB-AHBJ-JPN",
+		"correct": "AGB-AHRJ-JPN",
+		"reason": "AGB-AHBJ-JPN belongs to Hamster Monogatari 2 GBA. ROM header game code AHRJ.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0287",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0150",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=3483",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=3691"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2793",
+		"title": "Kim Possible (Europe) (En,Fr,De,Es) (Rev 1)",
+		"wrong": "AGB-AYEP-NOE",
+		"correct": "AGB-AEYP-NOE",
+		"reason": "Swapped letters. ROM header game code AEYP, ROM chip AEYP-1.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2793",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4782"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1176",
+		"title": "Lion King 1 1-2, The (USA)",
+		"wrong": "AGB-ALKE-USA",
+		"correct": "AGB-BLKE-USA",
+		"reason": "ROM header game code BLKE, ROM chip AGB-BLKE-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1176",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4708"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1819",
+		"title": "Little Patissier - Cake no Oshiro (Japan)",
+		"wrong": "AGB-BLW-JPN",
+		"correct": "AGB-BLIJ-JPN",
+		"reason": "Incomplete. ROM header game code BLIJ.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1819",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5503"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1389",
+		"title": "One Piece - Going Baseball - Kaizoku Yakyuu (Japan)",
+		"wrong": "AGB-BO8J-JPN",
+		"correct": "AGB-B08J-JPN",
+		"reason": "O instead of zero. ROM header game code B08J.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1389",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4999"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1286",
+		"title": "Onimusha Tactics (Europe)",
+		"wrong": "AGB-A60P-UKV",
+		"correct": "AGB-A6OP-UKV",
+		"reason": "Zero instead of O. ROM header game code A6OP.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1286",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4844"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1668",
+		"title": "Pokemon - LeafGreen Version (USA, Europe) (Rev 1)",
+		"wrong": "AGB-BRGP-EUR",
+		"correct": "AGB-BPGP-EUR",
+		"reason": "ROM header game code BPGE; BPR is FireRed.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1668",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5172",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5547"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0882",
+		"title": "Pokemon - Sapphire Version (USA, Europe)",
+		"wrong": "AGB-AXVE-USA",
+		"correct": null,
+		"reason": "Belongs to Pokemon Ruby. ROM header game code AXPE; AGB-AXPE-USA is already listed.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0882",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0891",
+			"https://gbhwdb.gekkio.fi/cartridges/AGB-AXPE-0/fexcollects-1.html",
+			"https://gbhwdb.gekkio.fi/cartridges/AGB-AXPE-1/fexcollects-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4423",
+			"https://gbhwdb.gekkio.fi/cartridges/AGB-AXVE-0/fexcollects-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=4426"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2321",
+		"title": "Tales of Phantasia (Europe) (En,Fr,De,Es,It)",
+		"wrong": "AGB-AB8P-EUR",
+		"correct": "AGB-AN8P-EUR",
+		"reason": "ROM header game code AN8P.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2321",
+			"https://gbhwdb.gekkio.fi/cartridges/AGB-AN8P-0/missingno-force-1.html",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=6055"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0020",
+		"title": "Yu-Gi-Oh! - Dungeon Dice Monsters (Japan)",
+		"wrong": "AGB-AWDJ-JPN",
+		"correct": "AGB-AYDJ-JPN",
+		"reason": "ROM header game code AYDJ, ROM chip AGB-AYDJ-0.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0020",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=3267"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0470",
+		"title": "Hello Kitty no Sweet Adventure - Daniel-kun ni Aitai (Japan) (SGB Enhanced) (GB Compatible)",
+		"wrong": "CGB-BKTJ-JPN",
+		"correct": null,
+		"reason": "Photos of the cartridge show DMG-BKTJ-JPN on a Game Boy style (not transparent Color) cartridge (image search by geon); sprintinglegs lists DMG-BKTJ. DMG-BKTJ-JPN is already listed.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0470",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2097"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0962",
+		"title": "Pro Mahjong Tsuwamono GB 2 (Japan)",
+		"wrong": "DMG-AQDJ-JPN",
+		"correct": null,
+		"reason": "Belongs to Pro Mahjong Tsuwamono GB (No-Intro, sprintinglegs). Photos show DMG-AQDJ is a black cartridge, and GB 2 a transparent CGB-BMWJ cartridge with a \"2\" (image search by geon).",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0962",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0961",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2357",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=1844"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0838",
+		"title": "Ohasuta Dance Dance Revolution GB (Japan)",
+		"wrong": "CGB-BDGJ-JPN",
+		"correct": null,
+		"reason": "Belongs to Dance Dance Revolution GB (No-Intro, sprintinglegs). Both labels exist (image search by geon), but they are different ROMs.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0838",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0228",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2494"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2173",
+		"title": "Gunstar Super Heroes (USA)",
+		"wrong": "AGB-BHFE-USA",
+		"correct": null,
+		"reason": "No trace of AGB-BHFE found; photos show AGB-BHGE (image search by geon). ROM header game code BHGE. AGB-BHGE-USA is already listed.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2173",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=5812"
+		],
+		"reported": null
+	}
+]

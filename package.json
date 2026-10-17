@@ -13,7 +13,9 @@
     "import:dmgpage.com": "tsx src/importers/dmgpage.com/import.ts",
     "import:gbhwdb.gekkio.fi": "tsx src/importers/gbhwdb.gekkio.fi/import.ts",
     "import:github.com-mstroh76-GBxDumper": "tsx src/importers/github.com-mstroh76-GBxDumper/import.ts",
-    "import:github.com-geon": "tsx src/importers/github.com-geon/import.ts"
+    "import:github.com-geon": "tsx src/importers/github.com-geon/import.ts",
+    "report:label-serials": "tsx src/reports/label-serials.ts",
+    "report:corrections": "tsx src/reports/corrections.ts"
   },
   "prettier": {
     "useTabs": true
