@@ -6,7 +6,8 @@
   "scripts": {
     "typecheck": "tsc",
     "lint": "eslint .",
-    "test": "vitest"
+    "test": "vitest",
+    "import:sprintinglegs": "tsx src/importers/sprintinglegs/import.ts"
   },
   "prettier": {
     "useTabs": true
