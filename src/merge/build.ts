@@ -1,10 +1,9 @@
 import type { Correction } from "../corrections.ts";
 import { correctSerials } from "../corrections.ts";
 import { parseLabelSerial, parseLabelSerials } from "../serials.ts";
-import type { NoIntroDat } from "../importers/no-intro.org/parse.ts";
-import type { GbhwdbDate } from "../importers/gbhwdb.gekkio.fi/parse.ts";
 import { connectedSets, members } from "./union-find.ts";
 import { assignReleases } from "./releases.ts";
+import { matchLibretro } from "./libretro.ts";
 import {
 	dmgpageLanguage,
 	languageTags,
@@ -16,7 +15,6 @@ import {
 } from "./languages.ts";
 import {
 	keys,
-	libretroName,
 	romChipCode,
 	sprintinglegsRomChip,
 	type Sources,
@@ -24,64 +22,80 @@ import {
 
 // A release: a cartridge as a collector tells them apart, one per product code on the label, e.g. "DMG-TRA" (Japan) and
 // "DMG-TR" (the rest of the world) for Tetris. Its country and reprint serials, e.g. DMG-TR-USA and DMG-TR-NOE-1, are
-// variants of it. See releases.ts.
+// variants of it. See releases.ts. Only what the web app uses is kept; the sources are linked.
 export type Release = {
 	/** The product code, e.g. "DMG-TR", or for releases without one, the ROM, e.g. "dmg-1383", or a ROM chip code. */
 	id: string;
 	/** Releases of the same game, in other regions and languages, have the same gameId: the game's most common product code, e.g. "DMG-TR". */
 	gameId: string;
-	/** Releases of related games, e.g. reskins like Mickey Mouse and Bugs Bunny Crazy Castle, have the same familyId: the smallest gameId of the family. From No-Intro's parent/clone groups. */
-	familyId: string;
 	title: string;
-	/** From No-Intro: "unlicensed", e.g. Sachen, or "pirate", e.g. bootlegs. Omitted for licensed releases, and for releases not in No-Intro, which the other sources list as official. */
-	licensing?: "unlicensed" | "pirate";
+	/** Every title in the sources, with its languages, if any source says. See languages.ts. */
+	titles: Title[];
 	/** The cartridge's system, as in Nintendo's serials: "dmg" fits all Game Boys, "cgb" only the Game Boy Color and Advance, "agb" only the Advance. From No-Intro, or else the serials, or else the sprintinglegs list. */
 	system?: GameSystem;
-	/** Every title in the sources, with its languages, if any source says, and the sources using it. See languages.ts. */
-	titles: Title[];
-	/** Serials printed on cartridge labels, e.g. "DMG-TR-USA-1". */
-	cartridgeSerials: { serial: string; sources: string[] }[];
-	/** The ROMs in No-Intro, e.g. both revisions of the Japanese Tetris. */
-	roms: Rom[];
-	/** Codes printed on ROM chips, e.g. "DMG-TRA-1". */
-	romChipSerials: string[];
-	/** Front of the box, from game-boy-database.com. */
-	boxImageUrls: string[];
-	/** Photos of the front of documented cartridges, from gbhwdb.gekkio.fi. */
-	cartridgePhotoUrls: string[];
-	/** The earliest manufacturing date printed on a documented cartridge's board or ROM chip, from gbhwdb.gekkio.fi. The release is on or after it. */
-	earliestManufacturingDate?: GbhwdbDate;
+	/** From No-Intro: "unlicensed", e.g. Sachen, or "pirate", e.g. bootlegs. Omitted for licensed releases, and for releases not in No-Intro, which the other sources list as official. */
+	licensing?: "unlicensed" | "pirate";
 	/** From Wikipedia's lists of games: the year the release came out in its regions, or else the game's first year, e.g. 1989 for the Japanese Tetris and 1990 for the European. See wikipedia.ts. */
 	releaseYear?: number;
+	/** Serials printed on cartridge labels, e.g. "DMG-TR-USA-1". */
+	cartridgeSerials: string[];
+	/** Languages of the game's text, from No-Intro, e.g. ["en"], ["ja"], ["en", "fr", "de"]. */
+	languages: string[];
+	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. From No-Intro. */
+	gameBoyColorEnhanced?: true;
+	/** From No-Intro. */
+	superGameBoyEnhanced?: true;
+	/** Best first: photos of documented cartridges (gbhwdb.gekkio.fi), box scans (game-boy-database.com), then box art, title screens and gameplay screenshots (libretro-thumbnails; the box art may be made by fans). */
+	images: { kind: ImageKind; url: string }[];
 	/** The source records of the release. The label tells records from the same source apart, e.g. their serial. */
 	links: { source: string; url: string; label: string }[];
 };
+
+export type ImageKind =
+	"cartridgePhoto" | "box" | "boxArt" | "titleScreen" | "gameplay";
+
+// A release while merging, with what the later steps need: its game's No-Intro family and its ROMs' regions.
+export type ReleaseDraft = Release & {
+	/** Releases of related games, e.g. reskins like Mickey Mouse and Bugs Bunny Crazy Castle, have the same familyId: the smallest gameId of the family. From No-Intro's parent/clone groups. */
+	familyId: string;
+	/** No-Intro's regions of the release's ROMs, e.g. ["World"] for Tetris Rev 1. */
+	romRegions: string[];
+};
+
+// The release without the merge's own fields.
+export function publishedRelease(draft: ReleaseDraft): Release {
+	return {
+		id: draft.id,
+		gameId: draft.gameId,
+		title: draft.title,
+		titles: draft.titles,
+		...(draft.system && { system: draft.system }),
+		...(draft.licensing && { licensing: draft.licensing }),
+		...(draft.releaseYear !== undefined && { releaseYear: draft.releaseYear }),
+		cartridgeSerials: draft.cartridgeSerials,
+		languages: draft.languages,
+		...(draft.gameBoyColorEnhanced && { gameBoyColorEnhanced: true }),
+		...(draft.superGameBoyEnhanced && { superGameBoyEnhanced: true }),
+		images: draft.images,
+		links: draft.links,
+	};
+}
 
 export type Title = {
 	title: string;
 	/** e.g. ["en"], ["ja"], ["ja-Latn"], ["ja-x-translated"]. Empty if no source says. */
 	languages: string[];
-	sources: string[];
 };
 
 export type GameSystem = "dmg" | "cgb" | "agb";
 
-export type Rom = {
-	/** DAT-o-MATIC record page. */
-	url: string;
-	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. */
+// What a release takes from a No-Intro entry and its libretro-thumbnails images.
+type Rom = {
 	gameBoyColorEnhanced?: true;
 	superGameBoyEnhanced?: true;
-	/** From No-Intro, e.g. "Rev 1", "v1.1". Omitted for the first release. */
-	revision?: string;
 	regions: string[];
 	languages: string[];
-	crc32s: string[];
-	cartridgeSerials: string[];
-	romChipSerials: string[];
-	boxArtUrl?: string;
-	titleScreenshotUrl?: string;
-	gameplayScreenshotUrl?: string;
+	images: Release["images"];
 };
 
 // What is known about a source record, tagged with its game.
@@ -108,7 +122,6 @@ type SourceRecord = {
 	romChipSerials?: string[];
 	boxImageUrl?: string;
 	cartridgePhotoUrl?: string;
-	dates?: GbhwdbDate[];
 };
 
 // The No-Intro region an entry is preferred for as the game's title, best first.
@@ -118,21 +131,14 @@ export function buildReleases(
 	sources: Sources,
 	corrections: readonly Correction[],
 	gameOf: ReadonlyMap<string, string>,
-): Release[] {
+): ReleaseDraft[] {
 	const gameOfRecord = (source: string, record: string) =>
 		gameOf.get(keys.record(source, record));
 
-	const libretro = new Map(
-		sources.libretroThumbnails.map((entry) => [
-			`${entry.repository}/${entry.name}`,
-			entry,
-		]),
+	const { imagesOf } = matchLibretro(
+		sources.noIntro,
+		sources.libretroThumbnails,
 	);
-	const libretroRepositories: Record<NoIntroDat, string> = {
-		dmg: "Nintendo_-_Game_Boy",
-		cgb: "Nintendo_-_Game_Boy_Color",
-		agb: "Nintendo_-_Game_Boy_Advance",
-	};
 
 	// Corrected and normalized, with other publishers' codes as written, e.g. Sachen's "4B-002", and without rejected values.
 	const labelSerials = (
@@ -165,14 +171,7 @@ export function buildReleases(
 						titleRegions.includes(region) ? titleRegions.indexOf(region) : 5,
 					),
 				),
-			rom: noIntroRom(
-				entry,
-				labelSerials("no-intro.org", entry.url, entry.cartridgeSerials),
-				romChipSerials("no-intro.org", entry.url, entry.romChipSerials),
-				libretro.get(
-					`${libretroRepositories[entry.dat]}/${libretroName(entry.noIntroName)}`,
-				),
-			),
+			rom: noIntroRom(entry, imagesOf(entry.url)),
 			romKey: {
 				key: `${entry.dat}-${new URL(entry.url).searchParams.get("n")}`,
 				regions: entry.regions,
@@ -268,9 +267,6 @@ export function buildReleases(
 				: [],
 			romChipSerials: [entry.romChipSerial],
 			cartridgePhotoUrl: gbhwdbPhotoUrl(entry.url),
-			dates: [entry.boardDate, entry.romChipDate].filter(
-				(date) => date !== undefined,
-			),
 		})),
 		...sources.geon.map((entry, index) => ({
 			game: gameOfRecord("github.com-geon", String(index)),
@@ -391,7 +387,7 @@ function buildRelease(
 	familyId: string,
 	releaseRecords: readonly SourceRecord[],
 	serialRelease: (serial: string) => string | undefined,
-): Release {
+): ReleaseDraft {
 	const byPreference = [...releaseRecords].sort(
 		(a, b) => a.titlePreference - b.titlePreference,
 	);
@@ -401,13 +397,15 @@ function buildRelease(
 		),
 	);
 	// A ROM in several releases, e.g. Tetris Rev 1 under DMG-TR and DMG-TRA, only brings the serials of this release.
-	const serialsOf = (record: SourceRecord) =>
-		(record.cartridgeSerials ?? []).filter(
-			(serial) => !record.rom || serialRelease(serial) === id,
-		);
-	const serials = [...new Set(releaseRecords.flatMap(serialsOf))].sort();
-	const dates = releaseRecords.flatMap((record) => record.dates ?? []);
-	const earliest = dates.sort(compareDates)[0];
+	const serials = [
+		...new Set(
+			releaseRecords.flatMap((record) =>
+				(record.cartridgeSerials ?? []).filter(
+					(serial) => !record.rom || serialRelease(serial) === id,
+				),
+			),
+		),
+	].sort();
 	const licensings = new Set(releaseRecords.map(({ licensing }) => licensing));
 	const licensing = licensings.has("pirate")
 		? "pirate"
@@ -425,52 +423,43 @@ function buildRelease(
 				.flatMap((serial) => serialSystems[serial.slice(0, 3)] ?? []),
 		) ??
 		mostCommon(releaseRecords.flatMap((record) => record.listedSystem ?? []));
+	const roms = releaseRecords.flatMap(({ rom }) => (rom ? [rom] : []));
+	const gameBoyColorEnhanced = roms.some((rom) => rom.gameBoyColorEnhanced);
+	const superGameBoyEnhanced = roms.some((rom) => rom.superGameBoyEnhanced);
+	const images: Release["images"] = [
+		...releaseRecords.flatMap(({ cartridgePhotoUrl }) =>
+			cartridgePhotoUrl
+				? [{ kind: "cartridgePhoto" as const, url: cartridgePhotoUrl }]
+				: [],
+		),
+		...releaseRecords.flatMap(({ boxImageUrl }) =>
+			boxImageUrl ? [{ kind: "box" as const, url: boxImageUrl }] : [],
+		),
+		...(["boxArt", "titleScreen", "gameplay"] as const).flatMap((kind) =>
+			roms.flatMap((rom) => rom.images.filter((image) => image.kind === kind)),
+		),
+	];
 
 	return {
 		id,
 		gameId,
 		familyId,
 		title: titles[0]!.title,
-		...(licensing && { licensing }),
+		titles: titles.map(({ title, languages }) => ({ title, languages })),
 		...(system && { system }),
-		titles,
-		cartridgeSerials: serials.map((serial) => ({
-			serial,
-			sources: [
-				...new Set(
-					releaseRecords
-						.filter((record) => serialsOf(record).includes(serial))
-						.map(({ source }) => source),
-				),
-			],
-		})),
-		roms: releaseRecords.flatMap(({ rom }) => (rom ? [rom] : [])),
-		romChipSerials: [
-			...new Set(
-				releaseRecords.flatMap((record) => record.romChipSerials ?? []),
-			),
-		].sort(),
-		boxImageUrls: [
-			...new Set(
-				releaseRecords.flatMap(({ boxImageUrl }) =>
-					boxImageUrl ? [boxImageUrl] : [],
-				),
-			),
-		],
-		cartridgePhotoUrls: releaseRecords.flatMap(({ cartridgePhotoUrl }) =>
-			cartridgePhotoUrl ? [cartridgePhotoUrl] : [],
+		...(licensing && { licensing }),
+		cartridgeSerials: serials,
+		languages: [...new Set(roms.flatMap(({ languages }) => languages))],
+		...(gameBoyColorEnhanced && { gameBoyColorEnhanced }),
+		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
+		images: images.filter(
+			(image, index) =>
+				images.findIndex(({ url }) => url === image.url) === index,
 		),
-		...(earliest && { earliestManufacturingDate: earliest }),
-		links: [
-			...releaseRecords.flatMap(({ source, url, label }) =>
-				url ? [{ source, url, label }] : [],
-			),
-			{
-				source: "pricecharting.com",
-				url: `https://www.pricecharting.com/search-products?type=prices&q=${encodeURIComponent(titles[0]!.title)}`,
-				label: "Search",
-			},
-		],
+		links: releaseRecords.flatMap(({ source, url, label }) =>
+			url ? [{ source, url, label }] : [],
+		),
+		romRegions: [...new Set(roms.flatMap(({ regions }) => regions))],
 	};
 }
 
@@ -499,8 +488,6 @@ function mostCommon<T>(values: readonly T[]): T | undefined {
 
 function noIntroRom(
 	entry: Sources["noIntro"][number],
-	cartridgeSerials: string[],
-	romChipSerials: string[],
 	images: Sources["libretroThumbnails"][number] | undefined,
 ): Rom {
 	const gameBoyColorEnhanced =
@@ -509,22 +496,21 @@ function noIntroRom(
 		tag.includes("SGB Enhanced"),
 	);
 	return {
-		url: entry.url,
 		...(gameBoyColorEnhanced && { gameBoyColorEnhanced }),
 		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
-		...(entry.versions.length && { revision: entry.versions.join(" ") }),
 		regions: entry.regions,
 		languages: [...new Set(entry.languages.flatMap(languageTags))],
-		crc32s: entry.files.map(({ crc32 }) => crc32),
-		cartridgeSerials,
-		romChipSerials,
-		...(images?.boxArtUrl && { boxArtUrl: images.boxArtUrl }),
-		...(images?.titleScreenshotUrl && {
-			titleScreenshotUrl: images.titleScreenshotUrl,
-		}),
-		...(images?.gameplayScreenshotUrl && {
-			gameplayScreenshotUrl: images.gameplayScreenshotUrl,
-		}),
+		images: [
+			...(images?.boxArtUrl
+				? [{ kind: "boxArt" as const, url: images.boxArtUrl }]
+				: []),
+			...(images?.titleScreenshotUrl
+				? [{ kind: "titleScreen" as const, url: images.titleScreenshotUrl }]
+				: []),
+			...(images?.gameplayScreenshotUrl
+				? [{ kind: "gameplay" as const, url: images.gameplayScreenshotUrl }]
+				: []),
+		],
 	};
 }
 
@@ -551,13 +537,6 @@ export function gbhwdbPhotoUrl(cartridgeUrl: string): string {
 	return cartridgeUrl
 		.replace("/cartridges/", "/static/")
 		.replace(/\.html$/, "_01_front.jpg");
-}
-
-// Approximate: weeks are converted to months.
-function compareDates(a: GbhwdbDate, b: GbhwdbDate): number {
-	const month = (date: GbhwdbDate) =>
-		date.month ?? (date.week === undefined ? 1 : Math.ceil(date.week / 4.35));
-	return a.year - b.year || month(a) - month(b);
 }
 
 const lowercaseWords = new Set(

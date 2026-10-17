@@ -296,6 +296,18 @@
 	{
 		"list": "cgb",
 		"titles": [
+			"Elevator Action EX",
+			"Elevator Action",
+			"Dexter's Laboratory: Robot Rampage"
+		],
+		"gameIds": [
+			"CGB-BEXP",
+			"CGB-BROP"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
 			"Game & Watch Gallery 2",
 			"Game Boy Gallery 3"
 		],

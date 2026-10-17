@@ -1,6 +1,6 @@
 import type { WikipediaEntry } from "../importers/en.wikipedia.org/parse.ts";
 import { parseLabelSerial } from "../serials.ts";
-import type { GameSystem, Release } from "./build.ts";
+import type { GameSystem, ReleaseDraft } from "./build.ts";
 import { titleKey } from "./title-key.ts";
 
 // Adds release years from Wikipedia's lists of games to the releases. Wikipedia's rows have no serials, so they are
@@ -78,8 +78,8 @@ const noIntroRegions: Record<string, readonly Region[]> = {
 
 // The regions a release was sold in, from its serials and product code, or else its ROMs: a ROM can be in several
 // regions' releases, e.g. the "World" ROM of Tetris is in both DMG-TRA (Japan) and DMG-TR. Empty if nothing says.
-export function releaseRegions(release: Release): Region[] {
-	const fromSerials = release.cartridgeSerials.flatMap(({ serial }) => {
+export function releaseRegions(release: ReleaseDraft): Region[] {
+	const fromSerials = release.cartridgeSerials.flatMap((serial) => {
 		const parsed = parseLabelSerial(serial);
 		if (parsed.kind !== "nintendo") {
 			return [];
@@ -94,8 +94,8 @@ export function releaseRegions(release: Release): Region[] {
 				: letterRegions[productCode.at(-1)!];
 		return [byRegion ?? byLetter ?? []].flat();
 	});
-	const fromRoms = release.roms.flatMap(({ regions }) =>
-		regions.flatMap((region) => noIntroRegions[region] ?? []),
+	const fromRoms = release.romRegions.flatMap(
+		(region) => noIntroRegions[region] ?? [],
 	);
 	return [...new Set(fromSerials.length ? fromSerials : fromRoms)];
 }
@@ -108,12 +108,6 @@ const listSystems: Record<WikipediaEntry["list"], readonly GameSystem[]> = {
 	agb: ["agb"],
 };
 
-const listUrls: Record<WikipediaEntry["list"], string> = {
-	dmg: "https://en.wikipedia.org/wiki/List_of_Game_Boy_games",
-	cgb: "https://en.wikipedia.org/wiki/List_of_Game_Boy_Color_games",
-	agb: "https://en.wikipedia.org/wiki/List_of_Game_Boy_Advance_games",
-};
-
 type GameSummary = {
 	system: GameSystem | undefined;
 	familyIds: Set<string>;
@@ -124,7 +118,7 @@ type GameSummary = {
 };
 
 function summarizeGames(
-	releases: readonly Release[],
+	releases: readonly ReleaseDraft[],
 ): Map<string, GameSummary> {
 	const byGame = Map.groupBy(releases, ({ gameId }) => gameId);
 	return new Map(
@@ -141,9 +135,8 @@ function summarizeGames(
 				),
 				licensed: gameReleases.some(({ licensing }) => !licensing),
 				color: gameReleases.some(
-					({ system, roms }) =>
-						system === "cgb" ||
-						roms.some(({ gameBoyColorEnhanced }) => gameBoyColorEnhanced),
+					({ system, gameBoyColorEnhanced }) =>
+						system === "cgb" || gameBoyColorEnhanced,
 				),
 				chineseOnly: gameReleases.every(({ id }) => id.endsWith(" CHN")),
 			},
@@ -161,7 +154,7 @@ function prefer<T>(candidates: T[], predicate: (candidate: T) => boolean): T[] {
 // with releases outside China, and games whose Color support fits the list. Empty if none, or several unrelated games
 // remain.
 export function matchWikipedia(
-	releases: readonly Release[],
+	releases: readonly ReleaseDraft[],
 	entries: readonly WikipediaEntry[],
 ): {
 	gameIds: string[][];
@@ -216,7 +209,7 @@ export function matchWikipedia(
 // The earliest year in the release's regions, or else the earliest year of the game, e.g. for a release without known
 // regions.
 export function releaseYear(
-	release: Release,
+	release: ReleaseDraft,
 	entries: readonly WikipediaEntry[],
 ): number | undefined {
 	const regions = releaseRegions(release);
@@ -254,10 +247,10 @@ export function releaseYear(
 }
 
 export function addWikipedia(
-	releases: readonly Release[],
+	releases: readonly ReleaseDraft[],
 	entries: readonly WikipediaEntry[],
 ): {
-	releases: Release[];
+	releases: ReleaseDraft[];
 	ambiguous: { list: string; titles: string[]; gameIds: string[] }[];
 } {
 	const { gameIds, ambiguous } = matchWikipedia(releases, entries);
@@ -272,35 +265,20 @@ export function addWikipedia(
 			const gameEntries = (entriesOfGame.get(release.gameId) ?? []).map(
 				({ entry }) => entry,
 			);
-			const wikipediaLinks = gameEntries.flatMap((entry) => [
-				{
-					source: "en.wikipedia.org",
-					url: listUrls[entry.list],
-					label: "List",
-				},
-				...(entry.articleUrl
-					? [
-							{
-								source: "en.wikipedia.org",
-								url: entry.articleUrl,
-								label: "Article",
-							},
-						]
-					: []),
-			]);
-			// Before the search links, e.g. pricecharting.com.
-			const isSearch = ({ label }: { label: string }) => label === "Search";
+			const articleUrls = [
+				...new Set(gameEntries.flatMap(({ articleUrl }) => articleUrl ?? [])),
+			];
 			const year = releaseYear(release, gameEntries);
 			return {
 				...release,
 				...(year !== undefined && { releaseYear: year }),
 				links: [
-					...release.links.filter((link) => !isSearch(link)),
-					...wikipediaLinks.filter(
-						(link, index) =>
-							wikipediaLinks.findIndex(({ url }) => url === link.url) === index,
-					),
-					...release.links.filter(isSearch),
+					...release.links,
+					...articleUrls.map((url) => ({
+						source: "en.wikipedia.org",
+						url,
+						label: "Article",
+					})),
 				],
 			};
 		}),

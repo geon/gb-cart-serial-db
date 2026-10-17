@@ -1,6 +1,6 @@
 import { describe, expect, test } from "vitest";
 import type { WikipediaEntry } from "../importers/en.wikipedia.org/parse.ts";
-import type { Release, Rom } from "./build.ts";
+import type { ReleaseDraft } from "./build.ts";
 import {
 	addWikipedia,
 	matchWikipedia,
@@ -11,8 +11,8 @@ import { titleKey } from "./title-key.ts";
 
 function release(
 	id: string,
-	fields: Partial<Release> & { serials?: string[] } = {},
-): Release {
+	fields: Partial<ReleaseDraft> & { serials?: string[] } = {},
+): ReleaseDraft {
 	const { serials = [], ...rest } = fields;
 	return {
 		id,
@@ -21,36 +21,19 @@ function release(
 		title: id,
 		system: "dmg",
 		titles: [],
-		cartridgeSerials: serials.map((serial) => ({ serial, sources: [] })),
-		roms: [],
-		romChipSerials: [],
-		boxImageUrls: [],
-		cartridgePhotoUrls: [],
-		links: [
-			{
-				source: "pricecharting.com",
-				url: "https://example.com",
-				label: "Search",
-			},
-		],
-		...rest,
-	};
-}
-
-function rom(regions: string[], fields: Partial<Rom> = {}): Rom {
-	return {
-		url: "https://example.com/rom",
-		regions,
+		cartridgeSerials: serials,
 		languages: [],
-		crc32s: [],
-		cartridgeSerials: [],
-		romChipSerials: [],
-		...fields,
+		images: [],
+		links: [],
+		romRegions: [],
+		...rest,
 	};
 }
 
 const tetris: WikipediaEntry = {
 	list: "dmg",
+	developers: [],
+	publishers: [],
 	titles: [{ title: "Tetris", regions: [] }],
 	articleUrl: "https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)",
 	releaseDates: [
@@ -81,10 +64,10 @@ test("releaseRegions", () => {
 	// The product code's region letter, when the serial has no region.
 	expect(
 		releaseRegions(
-			release("DMG-TRA", { serials: ["DMG-TRA"], roms: [rom(["World"])] }),
+			release("DMG-TRA", { serials: ["DMG-TRA"], romRegions: ["World"] }),
 		),
 	).toEqual(["Japan"]);
-	expect(releaseRegions(release("dmg-1", { roms: [rom(["World"])] }))).toEqual([
+	expect(releaseRegions(release("dmg-1", { romRegions: ["World"] }))).toEqual([
 		"Japan",
 		"North America",
 		"Europe",
@@ -132,17 +115,18 @@ describe("matchWikipedia", () => {
 					{
 						title: "Takahashi Meijin no Bouken Jima II",
 						languages: [],
-						sources: [],
 					},
 				],
 			}),
 			release("AGB-T3", {
 				system: "agb",
-				titles: [{ title: "Adventure Island", languages: [], sources: [] }],
+				titles: [{ title: "Adventure Island", languages: [] }],
 			}),
 		];
 		const entry: WikipediaEntry = {
 			list: "dmg",
+			developers: [],
+			publishers: [],
 			titles: [
 				{ title: "Adventure Island", regions: [] },
 				{ title: "Takahashi Meijin no Boken Jima II", regions: ["JP"] },
@@ -157,12 +141,14 @@ describe("matchWikipedia", () => {
 			release("DMG-AN", { title: "Asteroids" }),
 			release("DMG-AARE", {
 				title: "Asteroids",
-				roms: [rom(["USA"], { gameBoyColorEnhanced: true })],
+				gameBoyColorEnhanced: true,
 			}),
 			release("dmg-2", { title: "Asteroids", licensing: "pirate" }),
 		];
 		const entry = (list: WikipediaEntry["list"]): WikipediaEntry => ({
 			list,
+			developers: [],
+			publishers: [],
 			titles: [{ title: "Asteroids", regions: [] }],
 			releaseDates: [],
 		});
@@ -180,6 +166,8 @@ describe("matchWikipedia", () => {
 		];
 		const entry = (title: string): WikipediaEntry => ({
 			list: "dmg",
+			developers: [],
+			publishers: [],
 			titles: [{ title, regions: [] }],
 			releaseDates: [],
 		});
@@ -194,7 +182,7 @@ describe("matchWikipedia", () => {
 	});
 });
 
-test("addWikipedia adds the year and links before the search links", () => {
+test("addWikipedia adds the year and the article link", () => {
 	const { releases } = addWikipedia(
 		[release("DMG-TRA", { title: "Tetris", serials: ["DMG-TRA"] })],
 		[tetris],
@@ -204,18 +192,8 @@ test("addWikipedia adds the year and links before the search links", () => {
 		links: [
 			{
 				source: "en.wikipedia.org",
-				url: "https://en.wikipedia.org/wiki/List_of_Game_Boy_games",
-				label: "List",
-			},
-			{
-				source: "en.wikipedia.org",
 				url: "https://en.wikipedia.org/wiki/Tetris_(Game_Boy_video_game)",
 				label: "Article",
-			},
-			{
-				source: "pricecharting.com",
-				url: "https://example.com",
-				label: "Search",
 			},
 		],
 	});

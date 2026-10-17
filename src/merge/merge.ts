@@ -4,15 +4,17 @@ import {
 	loadSeparateCodes,
 	loadSerialCorrections,
 } from "../corrections.ts";
-import { buildReleases, noIntroSystem } from "./build.ts";
+import { buildReleases, noIntroSystem, publishedRelease } from "./build.ts";
 import { groupGames, mergeByTitle } from "./games.ts";
 import { keys, recordTitles, sourceLinks, type Sources } from "./links.ts";
 import { addWikipedia } from "./wikipedia.ts";
+import { matchLibretro } from "./libretro.ts";
 
 // Merges data-sources/*.json into database/releases.json, and lists the stems that weren't followed in
 // database/stem-contradictions.json (No-Intro's families disagree), and the stems merging groups without No-Intro entries
 // whose titles share no word, to review, in database/stem-unverified.json, the games merged by title, to review, in
-// database/title-merges.json, and the rows of Wikipedia's lists matching
+// database/title-merges.json, the libretro-thumbnails images matched by title instead of exact name in
+// database/libretro-name-matches.json, and the rows of Wikipedia's lists matching
 // several unrelated games in database/wikipedia-ambiguous.json.
 
 function load<T>(source: string): T {
@@ -68,11 +70,19 @@ const { releases, ambiguous } = addWikipedia(
 mkdirSync("database", { recursive: true });
 writeFileSync(
 	"database/releases.json",
-	JSON.stringify(releases, null, "\t") + "\n",
+	JSON.stringify(releases.map(publishedRelease), null, "\t") + "\n",
 );
 writeFileSync(
 	"database/stem-contradictions.json",
 	JSON.stringify(contradictions, null, "\t") + "\n",
+);
+const { fuzzyMatches } = matchLibretro(
+	sources.noIntro,
+	sources.libretroThumbnails,
+);
+writeFileSync(
+	"database/libretro-name-matches.json",
+	JSON.stringify(fuzzyMatches, null, "\t") + "\n",
 );
 writeFileSync(
 	"database/title-merges.json",
@@ -87,5 +97,5 @@ writeFileSync(
 	JSON.stringify(unverified, null, "\t") + "\n",
 );
 console.log(
-	`Wrote ${releases.length} releases of ${new Set(releases.map(({ gameId }) => gameId)).size} games to database/releases.json, ${contradictions.length} stems not followed to database/stem-contradictions.json, ${unverified.length} to review in database/stem-unverified.json, ${merges.length} games merged by title in database/title-merges.json, ${ambiguous.length} Wikipedia rows matching several games in database/wikipedia-ambiguous.json`,
+	`Wrote ${releases.length} releases of ${new Set(releases.map(({ gameId }) => gameId)).size} games to database/releases.json, ${contradictions.length} stems not followed to database/stem-contradictions.json, ${unverified.length} to review in database/stem-unverified.json, ${merges.length} games merged by title in database/title-merges.json, ${fuzzyMatches.length} libretro-thumbnails images matched by title in database/libretro-name-matches.json, ${ambiguous.length} Wikipedia rows matching several games in database/wikipedia-ambiguous.json`,
 );

@@ -1,0 +1,242 @@
+[
+	{
+		"repository": "Nintendo_-_Game_Boy",
+		"libretroName": "Fushigi na Blobby - Princess Blob o Sukue! (Japan)",
+		"noIntroName": "Fushigina Blobby - Princess Blob o Sukue! (Japan)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy",
+		"libretroName": "Super Bombliss (Japan) (SGB Enhanced)",
+		"noIntroName": "Super Bombliss (Japan) (En) (SGB Enhanced)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy",
+		"libretroName": "Tetris Flash (Japan) (SGB Enhanced)",
+		"noIntroName": "Tetris Flash (Japan) (En) (SGB Enhanced)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Austin Powers - Welcome to my Underground Lair! (Europe) (En,Fr,De,Es,It)",
+		"noIntroName": "Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Austin Powers - Welcome to my Underground Lair! (USA)",
+		"noIntroName": "Austin Powers - Welcome to My Underground Lair! (USA)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Driver - You are the Wheelman (USA) (En,Fr,De,Es,It)",
+		"noIntroName": "Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "GB Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP)",
+		"noIntroName": "GB-Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Golf Daisuki! (Japan) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "Golf Daisuki! (Japan) (En) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Hole In One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Midway presents Arcade Hits - Joust _ Defender (USA, Europe) (GB Compatible)",
+		"noIntroName": "Midway Presents Arcade Hits - Joust & Defender (USA, Europe) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Midway presents Arcade Hits - Moon Patrol _ Spy Hunter (USA, Europe) (GB Compatible)",
+		"noIntroName": "Midway Presents Arcade Hits - Moon Patrol & Spy Hunter (USA, Europe) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "MTV Sports - Skateboarding featuring Andy MacDonald (USA, Europe)",
+		"noIntroName": "MTV Sports - Skateboarding Featuring Andy MacDonald (USA, Europe)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "NBA 3 on 3 featuring Kobe Bryant (USA) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "NBA 3 on 3 Featuring Kobe Bryant (USA) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Pocket Bowling (Japan) (GB Compatible)",
+		"noIntroName": "Pocket Bowling (Japan) (En) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Pocket Color Block (Japan) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "Pocket Color Block (Japan) (En) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Powerpuff Girls, The - Panique A Townsville (France)",
+		"noIntroName": "Powerpuff Girls, The - Panique a Townsville (France)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Sakura Taisen GB - Geki Hana Gumi Nyuutai! (Japan)",
+		"noIntroName": "Sakura Taisen GB - Geki Hanagumi Nyuutai! (Japan)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Soreike! Anpanman - Fushigi na Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "Soreike! Anpanman - Fushigina Nikoniko Album (Japan) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
+		"noIntroName": "Super Breakout (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Super Breakout! (USA) (GB Compatible)",
+		"noIntroName": "Super Breakout (USA) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible)",
+		"noIntroName": "Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (SGB Enhanced) (GB Compatible)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Wizardry I - Proving Grounds of the Mad Overlord (Japan)",
+		"noIntroName": "Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Wizardry II - Llylgamyn no Isan (Japan)",
+		"noIntroName": "Wizardry II - Llylgamyn no Isan (Japan) (En,Ja)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Color",
+		"libretroName": "Wizardry III - Diamond no Kishi (Japan)",
+		"noIntroName": "Wizardry III - Diamond no Kishi (Japan) (En,Ja)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "AGS Aging Cartridge (World) (v7.1)",
+		"noIntroName": "AGS Aging Cartridge (World) (v7.1) (Test Program)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "AGS Aging Cartridge (World) (v7.0)",
+		"noIntroName": "AGS Aging Cartridge (World) (Rev 1) (v7.0) (Test Program)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Barbie as the Island Princess (USA)",
+		"noIntroName": "Barbie as The Island Princess (USA)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "GBA TV Tuner PAL (China) (v1.3) (Unl)",
+		"noIntroName": "GB-A TV Tuner PAL (China) (v1.3) (Unl)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "GBA TV Tuner PAL (China) (v2.0) (Unl)",
+		"noIntroName": "GB-A TV Tuner PAL (China) (v2.0) (Unl)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Kao the Kangaroo (USA) (En,Fr,De,Es,It,Nl)",
+		"noIntroName": "KAO the Kangaroo (USA) (En,Fr,De,Es,It,Nl)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Kao the Kangaroo (Europe) (En,Fr,De,Es,It,Nl)",
+		"noIntroName": "KAO the Kangaroo (Europe) (En,Fr,De,Es,It,Nl)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de. (Japan)",
+		"noIntroName": "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Kidou Senshi Gundam - Seed Destiny (Japan)",
+		"noIntroName": "Kidou Senshi Gundam SEED Destiny (Japan)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Mobile Suit Gundam Seed - Battle Assault (USA)",
+		"noIntroName": "Mobile Suit Gundam SEED - Battle Assault (USA)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Motoracer Advance (USA) (En,Fr,De,Es,It)",
+		"noIntroName": "Moto Racer Advance (USA) (En,Fr,De,Es,It)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Motoracer Advance (Europe) (En,Fr,De,Es,It)",
+		"noIntroName": "Moto Racer Advance (Europe) (En,Fr,De,Es,It)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "MX 2002 featuring Ricky Carmichael (USA, Europe)",
+		"noIntroName": "MX 2002 Featuring Ricky Carmichael (USA, Europe)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Pokemon - Doel Deoxys Distribution (Netherlands) (Kiosk)",
+		"noIntroName": "Pokemon - Doel Deoxys Distribution (Netherlands) (Ja) (Kiosk)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Arcade Gallery (USA)",
+		"noIntroName": "SEGA Arcade Gallery (USA)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Arcade Gallery (Europe) (En,Fr,De,Es,It)",
+		"noIntroName": "SEGA Arcade Gallery (Europe) (En,Fr,De,Es,It)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Rally Championship (Japan) (En)",
+		"noIntroName": "SEGA Rally Championship (Japan) (En)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Rally Championship (USA)",
+		"noIntroName": "SEGA Rally Championship (USA)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Rally Championship (Europe)",
+		"noIntroName": "SEGA Rally Championship (Europe)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Smash Pack (Europe)",
+		"noIntroName": "SEGA Smash Pack (Europe)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Sega Smash Pack (USA)",
+		"noIntroName": "SEGA Smash Pack (USA)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "SN Systems (Europe)",
+		"noIntroName": "SN Systems (Europe) (Test Program) (Unl)"
+	},
+	{
+		"repository": "Nintendo_-_Game_Boy_Advance",
+		"libretroName": "Wakeboarding Unleashed featuring Shaun Murray (USA)",
+		"noIntroName": "Wakeboarding Unleashed Featuring Shaun Murray (USA)"
+	}
+]

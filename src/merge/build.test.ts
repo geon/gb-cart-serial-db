@@ -4,6 +4,7 @@ import {
 	buildReleases,
 	gbhwdbPhotoUrl,
 	mergeTitles,
+	publishedRelease,
 	titleCase,
 } from "./build.ts";
 import { groupGames } from "./games.ts";
@@ -105,7 +106,7 @@ function build(sources: Sources) {
 }
 
 describe("buildReleases", () => {
-	test("makes a release per product code, with its ROMs and serials", () => {
+	test("makes a release per product code, with its serials, images and links", () => {
 		const releases = build(sources);
 		expect(releases.map(({ id }) => id).sort()).toEqual(["DMG-TR", "DMG-TRA"]);
 		const western = releases.find(({ id }) => id === "DMG-TR")!;
@@ -113,58 +114,45 @@ describe("buildReleases", () => {
 		expect(western.gameId).toBe(japanese.gameId);
 		expect(western.familyId).toBe(japanese.familyId);
 
-		expect(western).toMatchObject({
+		expect(publishedRelease(western)).toEqual({
+			id: "DMG-TR",
+			gameId: "DMG-TRA",
 			title: "Tetris",
+			titles: [{ title: "Tetris", languages: ["de", "en"] }],
 			system: "dmg",
-			cartridgeSerials: [
-				{
-					serial: "DMG-TR-NOE",
-					sources: ["game-boy-database.com", "gbhwdb.gekkio.fi"],
-				},
-				{ serial: "DMG-TR-USA", sources: ["no-intro.org"] },
-			],
-			romChipSerials: ["DMG-TRA-1"],
-			boxImageUrls: ["https://www.game-boy-database.com/vizu/2046.jpg"],
-			cartridgePhotoUrls: [
-				"https://gbhwdb.gekkio.fi/static/DMG-TRA-1/max-m-1_01_front.jpg",
-			],
-			earliestManufacturingDate: { year: 1989, week: 52 },
-		});
-		expect(western).not.toHaveProperty("licensing");
-		expect(western.roms.map(({ url }) => url)).toEqual([
-			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1383",
-		]);
-		expect(western.roms[0]).toMatchObject({
-			revision: "Rev 1",
+			// Only this release's serials of the ROM, not DMG-TRA.
+			cartridgeSerials: ["DMG-TR-NOE", "DMG-TR-USA"],
 			languages: ["en"],
-			crc32s: ["46df91ad"],
-			titleScreenshotUrl: "https://example.com/title.png",
+			images: [
+				{
+					kind: "cartridgePhoto",
+					url: "https://gbhwdb.gekkio.fi/static/DMG-TRA-1/max-m-1_01_front.jpg",
+				},
+				{
+					kind: "box",
+					url: "https://www.game-boy-database.com/vizu/2046.jpg",
+				},
+				{ kind: "titleScreen", url: "https://example.com/title.png" },
+			],
+			links: expect.arrayContaining([
+				{
+					source: "no-intro.org",
+					url: "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1383",
+					label: "Tetris (World) (Rev 1)",
+				},
+			]),
 		});
-		expect(western.roms[0]!.cartridgeSerials).toEqual([
-			"DMG-TR-USA",
-			"DMG-TRA",
-		]);
-		expect(western.roms[0]).not.toHaveProperty("gameBoyColorEnhanced");
-		expect(western.links.at(-1)).toEqual({
-			source: "pricecharting.com",
-			url: "https://www.pricecharting.com/search-products?type=prices&q=Tetris",
-			label: "Search",
-		});
+		expect(western.romRegions).toEqual(["World"]);
 
 		// Both ROM revisions were sold in Japan as DMG-TRA.
-		expect(japanese.roms.map(({ revision }) => revision)).toEqual([
-			undefined,
-			"Rev 1",
-		]);
-		expect(japanese.cartridgeSerials).toEqual([
-			{ serial: "DMG-TRA", sources: ["no-intro.org"] },
-		]);
+		expect(
+			japanese.links
+				.filter(({ source }) => source === "no-intro.org")
+				.map(({ label }) => label),
+		).toEqual(["Tetris (Japan) (En)", "Tetris (World) (Rev 1)"]);
+		expect(japanese.cartridgeSerials).toEqual(["DMG-TRA"]);
 		expect(japanese.titles).toEqual([
-			{
-				title: "Tetris",
-				languages: ["en", "ja-Latn"],
-				sources: ["no-intro.org"],
-			},
+			{ title: "Tetris", languages: ["en", "ja-Latn"] },
 		]);
 	});
 });
@@ -261,11 +249,10 @@ test("tags sprintinglegs titles and translations with their language", () => {
 	};
 	const [release] = build(japanese);
 	expect(release!.titles).toEqual([
-		{ title: "ポケットカメラ", languages: ["ja"], sources: ["sprintinglegs"] },
+		{ title: "ポケットカメラ", languages: ["ja"] },
 		{
 			title: "Pocket camera",
 			languages: ["ja-x-translated"],
-			sources: ["sprintinglegs"],
 		},
 	]);
 });
@@ -293,7 +280,6 @@ test("doesn't tag sprintinglegs titles in Latin letters by the game's language",
 		{
 			title: "102 Dalmatians : Puppies to the Rescue",
 			languages: [],
-			sources: ["sprintinglegs"],
 		},
 	]);
 });
@@ -355,12 +341,12 @@ test("sets the system of Color games by whether they also run on the Game Boy", 
 	const dual = releases.find(({ title }) => title === "Dual")!;
 	const only = releases.find(({ title }) => title === "Only")!;
 	expect(dual.system).toBe("dmg");
-	expect(dual.roms[0]).toMatchObject({
+	expect(dual).toMatchObject({
 		gameBoyColorEnhanced: true,
 		superGameBoyEnhanced: true,
 	});
 	expect(only.system).toBe("cgb");
-	expect(only.roms[0]).not.toHaveProperty("gameBoyColorEnhanced");
+	expect(only).not.toHaveProperty("gameBoyColorEnhanced");
 });
 
 test("takes the system from the serials when there is no No-Intro ROM", () => {
@@ -372,6 +358,6 @@ test("takes the system from the serials when there is no No-Intro ROM", () => {
 		libretroThumbnails: [],
 	};
 	const [release] = build(serialsOnly);
-	expect(release!.roms).toEqual([]);
+	expect(release!.romRegions).toEqual([]);
 	expect(release!.system).toBe("dmg");
 });
