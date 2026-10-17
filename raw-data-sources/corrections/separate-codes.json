@@ -1,0 +1,15 @@
+[
+	{
+		"code": "DMG-MQJ",
+		"titles": [
+			"Maerchen Club",
+			"メルヘン倶楽部"
+		],
+		"reason": "Maerchen Club, a Japanese game unrelated to Super Mario Land 2 (DMG-MQ), whose Japanese code is DMG-L6J. Codes are only reused this way between unrelated games in different regions.",
+		"evidence": [
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=644",
+			"https://www.game-boy-database.com/game-MQJ-3896-JPN.html",
+			"https://www.game-boy-database.com/game-L6J-3200-JPN.html"
+		]
+	}
+]
