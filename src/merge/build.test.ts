@@ -130,6 +130,7 @@ describe("buildGames", () => {
 			earliestManufacturingDate: { year: 1989, week: 52 },
 		});
 		expect(game).not.toHaveProperty("licensing");
+		expect(game!.system).toBe("dmg");
 		expect(game!.versions.map(({ noIntroName }) => noIntroName)).toEqual([
 			"Tetris (Japan) (En)",
 			"Tetris (World) (Rev 1)",
@@ -137,7 +138,6 @@ describe("buildGames", () => {
 		expect(game!.versions[0]).not.toHaveProperty("revision");
 		expect(game!.versions[1]).toMatchObject({
 			revision: "Rev 1",
-			system: "dmg",
 			crc32s: ["46df91ad"],
 			titleScreenshotUrl: "https://example.com/title.png",
 		});
@@ -317,7 +317,7 @@ test("marks unlicensed and pirate games", () => {
 	});
 });
 
-test("sets the system of Color cartridges by whether they also run on the Game Boy", () => {
+test("sets the system of Color games by whether they also run on the Game Boy", () => {
 	const color: Sources = {
 		...sources,
 		noIntro: [
@@ -353,15 +353,32 @@ test("sets the system of Color cartridges by whether they also run on the Game B
 		() => undefined,
 		new Set(),
 	);
-	const versions = buildGames(color, [], gameOf).flatMap(
-		(game) => game.versions,
-	);
-	expect(versions.find(({ url }) => url.endsWith("dual"))).toMatchObject({
-		system: "dmg",
+	const games = buildGames(color, [], gameOf);
+	const dual = games.find(({ title }) => title === "Dual")!;
+	const only = games.find(({ title }) => title === "Only")!;
+	expect(dual.system).toBe("dmg");
+	expect(dual.versions[0]).toMatchObject({
 		gameBoyColorEnhanced: true,
 		superGameBoyEnhanced: true,
 	});
-	const only = versions.find(({ url }) => url.endsWith("only"))!;
 	expect(only.system).toBe("cgb");
-	expect(only).not.toHaveProperty("gameBoyColorEnhanced");
+	expect(only.versions[0]).not.toHaveProperty("gameBoyColorEnhanced");
+});
+
+test("takes the system from the serials when there is no No-Intro version", () => {
+	const serialsOnly: Sources = {
+		...sources,
+		noIntro: [],
+		sprintinglegs: [],
+		gbhwdb: [],
+		libretroThumbnails: [],
+	};
+	const { gameOf } = groupGames(
+		sourceLinks(serialsOnly, []),
+		() => undefined,
+		new Set(),
+	);
+	const [game] = buildGames(serialsOnly, [], gameOf);
+	expect(game!.versions).toEqual([]);
+	expect(game!.system).toBe("dmg");
 });

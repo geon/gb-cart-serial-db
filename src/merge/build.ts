@@ -27,6 +27,8 @@ export type Game = {
 	title: string;
 	/** From No-Intro: "unlicensed", e.g. Sachen, or "pirate", e.g. bootlegs. Omitted for licensed games, and for games not in No-Intro, which the other sources list as official releases. */
 	licensing?: "unlicensed" | "pirate";
+	/** The cartridge's system, as in Nintendo's serials: "dmg" fits all Game Boys, "cgb" only the Game Boy Color and Advance, "agb" only the Advance. From No-Intro, or else the serials, or else the sprintinglegs list. */
+	system?: GameSystem;
 	/** Every title in the sources, with its languages, if any source says, and the sources using it. See languages.ts. */
 	titles: Title[];
 	/** One per ROM in No-Intro, e.g. the Japanese and the international Tetris. */
@@ -52,12 +54,12 @@ export type Title = {
 	sources: string[];
 };
 
+export type GameSystem = "dmg" | "cgb" | "agb";
+
 export type Version = {
 	noIntroName: string;
 	/** DAT-o-MATIC record page. */
 	url: string;
-	/** The cartridge's system, as in Nintendo's serials: "dmg" fits all Game Boys, "cgb" only the Game Boy Color and Advance, "agb" only the Advance. */
-	system: "dmg" | "cgb" | "agb";
 	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. */
 	gameBoyColorEnhanced?: true;
 	superGameBoyEnhanced?: true;
@@ -83,6 +85,9 @@ type SourceRecord = {
 	/** Lower is preferred for the game's title. */
 	titlePreference: number;
 	version?: Version;
+	system?: GameSystem;
+	/** The system of the list a source has the record in. */
+	listedSystem?: GameSystem;
 	licensing?: "licensed" | "unlicensed" | "pirate";
 	cartridgeSerials?: string[];
 	romChipSerials?: string[];
@@ -145,6 +150,7 @@ export function buildGames(
 					`${libretroRepositories[entry.dat]}/${libretroName(entry.noIntroName)}`,
 				),
 			),
+			system: noIntroSystem(entry),
 			licensing: entry.licensing,
 			cartridgeSerials:
 				entry.licensing === "licensed"
@@ -202,6 +208,8 @@ export function buildGames(
 						]),
 			],
 			titlePreference: 30,
+			// Only a last resort for the system: the Game Boy list also has the Game Boy Color enhanced cartridges.
+			listedSystem: entry.list,
 			romChipSerials: romChipCode(sprintinglegsRomChip(entry.serial))
 				? [sprintinglegsRomChip(entry.serial)]
 				: [],
@@ -301,6 +309,17 @@ export function buildGames(
 				: licensings.has("unlicensed")
 					? "unlicensed"
 					: undefined;
+			const system =
+				mostCommon(gameRecords.flatMap((record) => record.system ?? [])) ??
+				mostCommon(
+					gameRecords
+						.flatMap((record) => [
+							...(record.cartridgeSerials ?? []),
+							...(record.romChipSerials ?? []),
+						])
+						.flatMap((serial) => serialSystems[serial.slice(0, 3)] ?? []),
+				) ??
+				mostCommon(gameRecords.flatMap((record) => record.listedSystem ?? []));
 			const codeCounts = (codesByGame.get(game) ?? []).map((code) => ({
 				code,
 				count: [
@@ -322,6 +341,7 @@ export function buildGames(
 							byPreference.find(({ url }) => url)!.url!),
 				title: titles[0]!.title,
 				...(licensing && { licensing }),
+				...(system && { system }),
 				titles,
 				versions: gameRecords.flatMap(({ version }) =>
 					version ? [version] : [],
@@ -367,11 +387,33 @@ export function buildGames(
 		.sort((a, b) => a.title.localeCompare(b.title) || a.id.localeCompare(b.id));
 }
 
+// No-Intro's Game Boy Color list also has the Game Boy cartridges with Color enhancements, the black cartridges.
+function noIntroSystem(entry: Sources["noIntro"][number]): GameSystem {
+	return entry.dat === "cgb" && entry.specialTags.includes("GB Compatible")
+		? "dmg"
+		: entry.dat;
+}
+
+const serialSystems: Record<string, GameSystem> = {
+	DMG: "dmg",
+	// The Pocket Camera and Printer, e.g. GBD-PCAJ.
+	GBD: "dmg",
+	CGB: "cgb",
+	AGB: "agb",
+};
+
+function mostCommon<T>(values: readonly T[]): T | undefined {
+	const counts = new Map<T, number>();
+	for (const value of values) {
+		counts.set(value, (counts.get(value) ?? 0) + 1);
+	}
+	return [...counts].sort((a, b) => b[1] - a[1])[0]?.[0];
+}
+
 function noIntroVersion(
 	entry: Sources["noIntro"][number],
 	images: Sources["libretroThumbnails"][number] | undefined,
 ): Version {
-	// No-Intro's Game Boy Color list also has the Game Boy cartridges with Color enhancements, the black cartridges.
 	const gameBoyColorEnhanced =
 		entry.dat === "cgb" && entry.specialTags.includes("GB Compatible");
 	const superGameBoyEnhanced = entry.specialTags.some((tag) =>
@@ -380,7 +422,6 @@ function noIntroVersion(
 	return {
 		noIntroName: entry.noIntroName,
 		url: entry.url,
-		system: gameBoyColorEnhanced ? "dmg" : entry.dat,
 		...(gameBoyColorEnhanced && { gameBoyColorEnhanced }),
 		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
 		...(entry.versions.length && { revision: entry.versions.join(" ") }),
