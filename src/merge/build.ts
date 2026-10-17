@@ -1,9 +1,16 @@
 import type { Correction } from "../corrections.ts";
 import { correctSerials } from "../corrections.ts";
-import { parseLabelSerials } from "../serials.ts";
+import { parseLabelSerial, parseLabelSerials } from "../serials.ts";
 import type { NoIntroDat } from "../importers/no-intro.org/parse.ts";
 import type { GbhwdbDate } from "../importers/gbhwdb.gekkio.fi/parse.ts";
 import { members } from "./union-find.ts";
+import {
+	dmgpageLanguage,
+	noIntroLanguage,
+	regionLanguage,
+	sprintinglegsLanguage,
+	titleLanguage,
+} from "./languages.ts";
 import {
 	keys,
 	libretroName,
@@ -17,8 +24,8 @@ export type Game = {
 	/** The game's most common product code on cartridge labels and ROM chips, e.g. "DMG-TR", or else a ROM checksum, or else a source's URL. */
 	id: string;
 	title: string;
-	/** Every title in the sources, with the sources using it. */
-	titles: { title: string; sources: string[] }[];
+	/** Every title in the sources, with its languages, if any source says, and the sources using it. See languages.ts. */
+	titles: Title[];
 	/** One per ROM in No-Intro, e.g. the Japanese and the international Tetris. */
 	versions: Version[];
 	/** Serials printed on cartridge labels, e.g. "DMG-TR-USA-1". */
@@ -31,7 +38,15 @@ export type Game = {
 	cartridgePhotoUrls: string[];
 	/** The earliest manufacturing date printed on a documented cartridge's board or ROM chip, from gbhwdb.gekkio.fi. Releases are on or after it. */
 	earliestManufacturingDate?: GbhwdbDate;
-	links: { source: string; url: string; title: string }[];
+	/** The source records of the game. The label tells records from the same source apart, e.g. their serial. */
+	links: { source: string; url: string; label: string }[];
+};
+
+export type Title = {
+	title: string;
+	/** e.g. ["en"], ["ja"], ["ja-Latn"], ["ja-x-translated"]. Empty if no source says. */
+	languages: string[];
+	sources: string[];
 };
 
 export type Version = {
@@ -58,7 +73,8 @@ type SourceRecord = {
 	game: string | undefined;
 	source: string;
 	url?: string;
-	title: string;
+	label: string;
+	titles: { title: string; language?: string }[];
 	/** Lower is preferred for the game's title. */
 	titlePreference: number;
 	version?: Version;
@@ -106,7 +122,10 @@ export function buildGames(
 			game: gameOfRecord("no-intro.org", entry.url),
 			source: "no-intro.org",
 			url: entry.url,
-			title: entry.title,
+			label: entry.noIntroName,
+			titles: [
+				titleIn(entry.title, noIntroLanguage(entry.regions, entry.languages)),
+			],
 			titlePreference:
 				(entry.parentUrl === undefined ? 0 : 10) +
 				Math.min(
@@ -131,7 +150,10 @@ export function buildGames(
 			game: gameOfRecord("game-boy-database.com", entry.url),
 			source: "game-boy-database.com",
 			url: entry.url,
-			title: entry.title,
+			label: entry.serial,
+			titles: [
+				titleIn(entry.title, regionLanguage(serialRegion(entry.serial))),
+			],
 			titlePreference: 20,
 			cartridgeSerials: labelSerials("game-boy-database.com", entry.url, [
 				entry.serial,
@@ -142,7 +164,18 @@ export function buildGames(
 			game: gameOfRecord("sprintinglegs", entry.url),
 			source: "sprintinglegs",
 			url: entry.url,
-			title: entry.translatedTitle ?? entry.title,
+			label: entry.serial,
+			titles: [
+				titleIn(entry.title, sprintinglegsLanguage(entry.language)),
+				...(entry.translatedTitle === undefined
+					? []
+					: [
+							{
+								title: entry.translatedTitle,
+								language: translated(sprintinglegsLanguage(entry.language)),
+							},
+						]),
+			],
 			titlePreference: 30,
 			romChipSerials: romChipCode(sprintinglegsRomChip(entry.serial))
 				? [sprintinglegsRomChip(entry.serial)]
@@ -153,7 +186,8 @@ export function buildGames(
 			source: "dmgpage.com",
 			// The entries are lines in one blog post.
 			url: "https://dmgpage.com/2014/11/28/dmg-codes-spielanleitungenmodule/",
-			title: entry.title,
+			label: entry.code,
+			titles: [titleIn(entry.title, dmgpageLanguage(entry.regions))],
 			titlePreference: 40,
 			cartridgeSerials: labelSerials("dmgpage.com", String(index), [
 				entry.code,
@@ -163,7 +197,8 @@ export function buildGames(
 			game: gameOfRecord("gbhwdb.gekkio.fi", entry.url),
 			source: "gbhwdb.gekkio.fi",
 			url: entry.url,
-			title: entry.noIntroName.replace(/ \(.*$/, ""),
+			label: entry.cartridgeSerial ?? entry.romChipSerial,
+			titles: [{ title: entry.noIntroName.replace(/ \(.*$/, "") }],
 			titlePreference: 50,
 			cartridgeSerials: entry.cartridgeSerial
 				? labelSerials("gbhwdb.gekkio.fi", entry.url, [entry.cartridgeSerial])
@@ -177,7 +212,8 @@ export function buildGames(
 		...sources.geon.map((entry, index) => ({
 			game: gameOfRecord("github.com-geon", String(index)),
 			source: "github.com-geon",
-			title: entry.title,
+			label: entry.serial,
+			titles: [{ title: entry.title }],
 			titlePreference: 60,
 			cartridgeSerials: labelSerials("github.com-geon", String(index), [
 				entry.serial,
@@ -222,7 +258,11 @@ export function buildGames(
 			const byPreference = [...gameRecords].sort(
 				(a, b) => a.titlePreference - b.titlePreference,
 			);
-			const titles = mergeTitles(byPreference);
+			const titles = mergeTitles(
+				byPreference.flatMap(({ source, titles }) =>
+					titles.map((title) => ({ ...title, source })),
+				),
+			);
 			const serials = [
 				...new Set(
 					gameRecords.flatMap((record) => record.cartridgeSerials ?? []),
@@ -295,13 +335,13 @@ export function buildGames(
 				),
 				...(earliest && { earliestManufacturingDate: earliest }),
 				links: [
-					...gameRecords.flatMap(({ source, url, title }) =>
-						url ? [{ source, url, title }] : [],
+					...gameRecords.flatMap(({ source, url, label }) =>
+						url ? [{ source, url, label }] : [],
 					),
 					{
 						source: "pricecharting.com",
 						url: `https://www.pricecharting.com/search-products?type=prices&q=${encodeURIComponent(titles[0]!.title)}`,
-						title: "Search",
+						label: "Search",
 					},
 				],
 			};
@@ -332,6 +372,24 @@ function noIntroVersion(entry: Sources["noIntro"][number]): Version {
 		cartridgeSerials: entry.cartridgeSerials,
 		romChipSerials: entry.romChipSerials,
 	};
+}
+
+function titleIn(
+	title: string,
+	language: string | undefined,
+): { title: string; language?: string } {
+	const tag = titleLanguage(title, language);
+	return tag === undefined ? { title } : { title, language: tag };
+}
+
+// A translation made by the source, e.g. "ja-x-translated" for an English translation of a Japanese title.
+function translated(language: string | undefined): string {
+	return language === undefined ? "x-translated" : `${language}-x-translated`;
+}
+
+function serialRegion(serial: string): string | undefined {
+	const parsed = parseLabelSerial(serial);
+	return parsed.kind === "nintendo" ? parsed.region : undefined;
 }
 
 // e.g. https://gbhwdb.gekkio.fi/cartridges/DMG-TRA-1/max-m-1.html -> https://gbhwdb.gekkio.fi/static/DMG-TRA-1/max-m-1_01_front.jpg
@@ -384,8 +442,8 @@ export function titleCase(title: string): string {
 // kept, in title case, since they are often a title from another region, e.g. "Square Deal" for "Cadillac II".
 export function mergeTitles(
 	// Best first.
-	titles: readonly { title: string; source: string }[],
-): { title: string; sources: string[] }[] {
+	titles: readonly { title: string; language?: string; source: string }[],
+): Title[] {
 	const isAllCaps = (title: string) =>
 		title === title.toUpperCase() && /[A-Z]/.test(title);
 	const normalized = (title: string) =>
@@ -441,6 +499,13 @@ export function mergeTitles(
 		title: isAllCaps(candidate.title)
 			? titleCase(candidate.title)
 			: candidate.title,
+		languages: [
+			...new Set(
+				titles
+					.filter(({ title }) => keptFor(title) === candidate)
+					.flatMap(({ language }) => (language ? [language] : [])),
+			),
+		].sort(),
 		sources: [
 			...new Set(
 				titles

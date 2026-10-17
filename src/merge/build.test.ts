@@ -104,6 +104,7 @@ describe("buildGames", () => {
 			titles: [
 				{
 					title: "Tetris",
+					languages: ["de", "en", "ja-Latn"],
 					sources: [
 						"no-intro.org",
 						"game-boy-database.com",
@@ -139,7 +140,7 @@ describe("buildGames", () => {
 		expect(game!.links.at(-1)).toEqual({
 			source: "pricecharting.com",
 			url: "https://www.pricecharting.com/search-products?type=prices&q=Tetris",
-			title: "Search",
+			label: "Search",
 		});
 	});
 });
@@ -156,9 +157,14 @@ describe("mergeTitles", () => {
 	test("merges near-identical titles and drops close all caps titles", () => {
 		expect(
 			mergeTitles([
-				{ title: "007 - Everything or Nothing", source: "no-intro.org" },
+				{
+					title: "007 - Everything or Nothing",
+					language: "en",
+					source: "no-intro.org",
+				},
 				{
 					title: "JAMES BOND 007 : EVERYTHING OR NOTHING",
+					language: "en",
 					source: "sprintinglegs",
 				},
 				{ title: "007 Everything Or Nothing", source: "sprintinglegs" },
@@ -166,17 +172,19 @@ describe("mergeTitles", () => {
 		).toEqual([
 			{
 				title: "007 - Everything or Nothing",
+				languages: ["en"],
 				sources: ["no-intro.org", "sprintinglegs"],
 			},
 		]);
 		expect(
 			mergeTitles([
-				{ title: "ALLEY WAY", source: "sprintinglegs" },
-				{ title: "Alleyway", source: "game-boy-database.com" },
+				{ title: "ALLEY WAY", language: "en", source: "sprintinglegs" },
+				{ title: "Alleyway", language: "de", source: "game-boy-database.com" },
 			]),
 		).toEqual([
 			{
 				title: "Alleyway",
+				languages: ["de", "en"],
 				sources: ["sprintinglegs", "game-boy-database.com"],
 			},
 		]);
@@ -186,14 +194,14 @@ describe("mergeTitles", () => {
 		expect(
 			mergeTitles([
 				{ title: "Cadillac II", source: "no-intro.org" },
-				{ title: "SQUARE DEAL", source: "sprintinglegs" },
+				{ title: "SQUARE DEAL", language: "en", source: "sprintinglegs" },
 			]),
 		).toEqual([
-			{ title: "Cadillac II", sources: ["no-intro.org"] },
-			{ title: "Square Deal", sources: ["sprintinglegs"] },
+			{ title: "Cadillac II", languages: [], sources: ["no-intro.org"] },
+			{ title: "Square Deal", languages: ["en"], sources: ["sprintinglegs"] },
 		]);
 		expect(mergeTitles([{ title: "TETRIS", source: "sprintinglegs" }])).toEqual(
-			[{ title: "Tetris", sources: ["sprintinglegs"] }],
+			[{ title: "Tetris", languages: [], sources: ["sprintinglegs"] }],
 		);
 	});
 });
@@ -206,4 +214,39 @@ test("titleCase", () => {
 	expect(titleCase("IRIDION 3-D")).toBe("Iridion 3-D");
 	expect(titleCase("R-TYPE DX")).toBe("R-Type DX");
 	expect(titleCase("4 IN 1 FUN PAK: VOL.Ⅱ")).toBe("4 in 1 Fun Pak: Vol.Ⅱ");
+});
+
+test("tags sprintinglegs titles and translations with their language", () => {
+	const japanese: Sources = {
+		...sources,
+		noIntro: [],
+		gameBoyDatabaseCom: [],
+		gbhwdb: [],
+		libretroThumbnails: [],
+		sprintinglegs: [
+			{
+				id: 2,
+				url: "https://www.sprintinglegs.com/gbdb/gamedata?id=2",
+				list: "dmg",
+				serial: "GBD-PCAJ",
+				title: "ポケットカメラ",
+				translatedTitle: "Pocket camera",
+				language: "Japanese",
+			},
+		],
+	};
+	const { gameOf } = groupGames(
+		sourceLinks(japanese, []),
+		() => undefined,
+		new Set(),
+	);
+	const [game] = buildGames(japanese, [], gameOf);
+	expect(game!.titles).toEqual([
+		{ title: "ポケットカメラ", languages: ["ja"], sources: ["sprintinglegs"] },
+		{
+			title: "Pocket camera",
+			languages: ["ja-x-translated"],
+			sources: ["sprintinglegs"],
+		},
+	]);
 });
