@@ -8,9 +8,20 @@ export type WikipediaEntry = {
 	titles: { title: string; regions: string[] }[];
 	/** The article of the game, when the title is linked. Links to a section of another article are kept, e.g. "https://en.wikipedia.org/wiki/Tama_and_Friends#Video_games". */
 	articleUrl?: string;
+	/** With the regions they are credited for, e.g. [{ name: "Interplay", regions: ["NA", "EU"] }, { name: "Imagineer", regions: ["JP"] }]. Empty if the cell is. */
+	developers: Credit[];
+	publishers: Credit[];
 	/** As written in the row, e.g. { region: "JP", date: "1994-08-05" }. The date is as exact as the source: "1995-04" for "April 1995", "2002" for "2002". A few dates have no region. */
 	releaseDates: { region?: string; date: string }[];
+	/** The Game Boy Color list's "Dual Mode" column, whether the cartridge also runs on the original Game Boy, as written, e.g. "Yes", "No", "Yes (JP only)". */
+	dualMode?: string;
+	/** The Game Boy Color list's "Cartridge feature" column, e.g. "Rumble Pak", "Real-time clock". Omitted for "N/a". */
+	cartridgeFeature?: string;
+	/** The Game Boy Color and Advance lists' check marks for the regions it was released in, by column, e.g. { region: "EU/PAL", released: "yes" }. The Advance list has "unknown" for many Australian and Korean releases. */
+	regionsReleased?: { region: string; released: "yes" | "no" | "unknown" }[];
 };
+
+export type Credit = { name: string; regions: string[] };
 
 const months = [
 	"January",
@@ -45,13 +56,20 @@ export function parseDate(text: string): string {
 	].join("-");
 }
 
-// Text of a cell without footnote references and hidden sort keys, with line breaks as "\n".
+// Text of a cell without footnote references and hidden sort keys, with line breaks and paragraphs as "\n".
 function cellText(cell: Element): string {
 	const clone = cell.cloneNode(true) as Element;
 	clone
-		.querySelectorAll("sup.reference, .mw-ref, span[style*='display:none']")
+		.querySelectorAll(
+			"sup.reference, .mw-ref, span[style*='display:none'], style",
+		)
 		.forEach((element) => element.remove());
 	clone.querySelectorAll("br").forEach((br) => br.replaceWith("\n"));
+	clone.querySelectorAll("p").forEach((paragraph) => paragraph.before("\n"));
+	// Fractions, e.g. "1½" in "The Lion King 1½", as " 1⁄2".
+	clone
+		.querySelectorAll(".frac")
+		.forEach((fraction) => fraction.replaceWith(` ${fraction.textContent}`));
 	return (clone.textContent ?? "")
 		.replace(/[ \t\u00a0]+/g, " ")
 		.split("\n")
@@ -60,18 +78,22 @@ function cellText(cell: Element): string {
 		.join("\n");
 }
 
-// The title cell: a title per line, each optionally followed by its regions in superscript, e.g.
-// "• 007: Alles oder Nichts DE". Regions are separated by commas or slashes.
-function parseTitles(cell: Element): WikipediaEntry["titles"] {
-	const lines = cellText(cell).split("\n");
+// A cell with a name per line, each optionally followed by its regions in superscript, e.g. the title
+// "• 007: Alles oder Nichts DE", or the publisher "Viacom New Media NA/EU". Regions are separated by commas or slashes.
+function namesWithRegions(cell: Element): Credit[] {
+	const lines = cellText(cell)
+		.split("\n")
+		.filter((line) => line);
 	const regionLines = [
-		...cell.querySelectorAll(":scope > sup:not(.reference)"),
+		...cell.querySelectorAll("sup:not(.reference, .mw-ref)"),
 	].map((sup) => cellText(sup));
 	return lines.map((line) => {
 		const text = line.replace(/^•\s*/, "");
-		const regions = regionLines.find((regions) => text.endsWith(` ${regions}`));
+		// Usually after a space, e.g. "Ubi Soft PAL", but not always, e.g. "CapcomJP, NA".
+		const regions = regionLines.find((regions) => text.endsWith(regions));
 		return {
-			title: regions === undefined ? text : text.slice(0, -regions.length - 1),
+			name:
+				regions === undefined ? text : text.slice(0, -regions.length).trimEnd(),
 			regions:
 				regions === undefined
 					? []
@@ -118,6 +140,21 @@ function regionDates(cell: Element): WikipediaEntry["releaseDates"] {
 		: [];
 }
 
+// A check mark cell, e.g. a green check for "yes".
+function released(cell: Element): "yes" | "no" | "unknown" {
+	const classes = cell.className.split(" ");
+	if (classes.some((name) => name.startsWith("table-yes"))) {
+		return "yes";
+	}
+	if (classes.some((name) => name.startsWith("table-no"))) {
+		return "no";
+	}
+	if (classes.includes("table-Unknown")) {
+		return "unknown";
+	}
+	throw new Error(`Unexpected check mark: ${cell.outerHTML.slice(0, 200)}`);
+}
+
 // The largest table of the page is the list of games.
 function gameTable(document: Document): HTMLTableElement {
 	const [table] = [...document.querySelectorAll("table.wikitable")].sort(
@@ -129,36 +166,98 @@ function gameTable(document: Document): HTMLTableElement {
 	return table as HTMLTableElement;
 }
 
+// The columns of each list, as headed in the table.
+const columns: Record<WikipediaEntry["list"], readonly string[]> = {
+	dmg: [
+		"Title",
+		"Developer(s)",
+		"Publisher(s)",
+		"Japan",
+		"North America",
+		"PAL region",
+	],
+	cgb: [
+		"Title",
+		"Dual Mode",
+		"Cartridge feature",
+		"Developer",
+		"Publisher",
+		"First released",
+		"JP",
+		"NA",
+		"EU/PAL",
+	],
+	agb: [
+		"Title(s)",
+		"Developer(s)",
+		"Publisher(s)",
+		"Release date(s)",
+		"JP",
+		"NA",
+		"EU/PAL",
+		"AU",
+		"KOR",
+	],
+};
+
+// The columns with check marks for the regions released in.
+const regionColumns: Record<WikipediaEntry["list"], readonly string[]> = {
+	dmg: [],
+	cgb: ["JP", "NA", "EU/PAL"],
+	agb: ["JP", "NA", "EU/PAL", "AU", "KOR"],
+};
+
+const notApplicable = /^—?\s*N\/a$|^—$/i;
+
 export function parseWikipediaHtml(
 	list: WikipediaEntry["list"],
 	html: string,
 ): WikipediaEntry[] {
 	const document = new JSDOM(html).window.document;
+	const table = gameTable(document);
+	const isDataRow = (row: HTMLTableRowElement) =>
+		[...row.cells].some((cell) => cell.tagName === "TD");
 	// The header rows have no data cells. No data cell spans several rows.
-	const rows = [...gameTable(document).rows]
-		.map((row) => [...row.cells])
-		.filter((cells) => cells.some((cell) => cell.tagName === "TD"));
-	return rows.map((cells) => {
-		const [title] = cells;
-		if (!title) {
-			throw new Error("Missing title");
+	const headers = [...table.rows]
+		.filter((row) => !isDataRow(row))
+		.flatMap((row) => [...row.cells].map(cellText));
+	const missing = columns[list].filter((column) => !headers.includes(column));
+	if (missing.length) {
+		throw new Error(`Missing columns: ${missing.join(", ")}`);
+	}
+	return [...table.rows].filter(isDataRow).map((row) => {
+		const cells = [...row.cells];
+		if (cells.length !== columns[list].length) {
+			throw new Error(`Unexpected row: ${cells.map(cellText).join(" | ")}`);
 		}
+		const cell = (column: string) => cells[columns[list].indexOf(column)]!;
+		const title = cells[0]!;
 		const url = articleUrl(title);
-		const releaseDates =
-			list === "dmg"
-				? (["JP", "NA", "PAL"] as const).flatMap((region, index) => {
-						const cell = cells[3 + index];
-						if (!cell) {
-							throw new Error(`Missing ${region} date: ${cellText(title)}`);
-						}
-						return columnDate(region, cell);
-					})
-				: regionDates(cells[list === "cgb" ? 5 : 3]!);
+		const feature = list === "cgb" ? cellText(cell("Cartridge feature")) : "";
 		return {
 			list,
-			titles: parseTitles(title),
+			titles: namesWithRegions(title).map(({ name, regions }) => ({
+				title: name,
+				regions,
+			})),
 			...(url === undefined ? {} : { articleUrl: url }),
-			releaseDates,
+			developers: namesWithRegions(cells[list === "cgb" ? 3 : 1]!),
+			publishers: namesWithRegions(cells[list === "cgb" ? 4 : 2]!),
+			releaseDates:
+				list === "dmg"
+					? (["JP", "NA", "PAL"] as const).flatMap((region, index) =>
+							columnDate(region, cells[3 + index]!),
+						)
+					: regionDates(cells[list === "cgb" ? 5 : 3]!),
+			...(list === "cgb" && { dualMode: cellText(cell("Dual Mode")) }),
+			...(feature &&
+				!notApplicable.test(feature) && { cartridgeFeature: feature }),
+			...(regionColumns[list].length && {
+				regionsReleased: regionColumns[list].map((region) => ({
+					region,
+					released: released(cell(region)),
+				})),
+			}),
 		};
 	});
 }
