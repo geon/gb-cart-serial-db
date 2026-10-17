@@ -219,7 +219,7 @@ export function buildReleases(
 				titleIn(
 					entry.title,
 					nonLatinScript.test(entry.title)
-						? sprintinglegsLanguage(entry.language)
+						? sprintinglegsLanguage(entry.languageFreetext)
 						: undefined,
 				),
 				...(entry.translatedTitle === undefined
@@ -231,7 +231,7 @@ export function buildReleases(
 									titleLanguage(entry.title, undefined)?.replace(
 										/-Latn$/,
 										"",
-									) ?? sprintinglegsLanguage(entry.language),
+									) ?? sprintinglegsLanguage(entry.languageFreetext),
 								),
 							},
 						]),

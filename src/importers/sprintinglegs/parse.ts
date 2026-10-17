@@ -14,22 +14,13 @@ export type SprintinglegsEntry = {
 	/** English translation/romanization, given in parentheses below non-English titles. */
 	translatedTitle?: string;
 	/** Free text as on the site, e.g. "English", "Choice", "French/Dutch", "-", "". */
-	language: string;
+	languageFreetext: string;
 };
 
 export type SprintinglegsList = "dmg" | "cgb" | "agb";
 
-const detailUrlPattern =
-	/^https:\/\/www\.sprintinglegs\.com\/gbdb\/gamedata\?id=(\d+)$/;
-const serialPattern = /^[A-Z]{3}-[A-Z0-9]{3,4}(-\d)?$/;
-const translatedTitlePattern = /^\((.*)\)$/s;
-
-/**
- * Known damage in the saved pages: an unescaped `<` in a title was turned
- * into a bogus `<sakura …>` element by the browser that saved the page,
- * swallowing the language span. The original casing is lost; this restores
- * the text (with the site's typo `Edition<` corrected to `Edition>`).
- */
+// The translated game title has a "<". It looks like it was accidentally parsed
+// as html, and the following words became attributes.
 const repairs: readonly { broken: string; fixed: string }[] = [
 	{
 		broken:
@@ -62,6 +53,64 @@ export function parseSprintinglegsHtml(
 	});
 }
 
+const serialPattern = /^[A-Z]{3}-[A-Z0-9]{3,4}(-\d)?$/;
+export function parseSerial(serialText: string | undefined) {
+	const serial = serialText;
+	if (!(serial && serialPattern.test(serial))) {
+		throw new Error(`Invalid serial: ${serial}`);
+	}
+	return serial;
+}
+
+function isElementNamed(node: ChildNode, name: string): node is Element {
+	return node.nodeType === node.ELEMENT_NODE && node.nodeName === name;
+}
+
+export function getNameElementTextNodes(name: Element): {
+	readonly title: string;
+	readonly languageFreetext: string;
+	readonly translatedTitle: string | undefined;
+} {
+	const nameElementChildren = name.childNodes;
+
+	// Expected children: title, optionally <br> and "(translated title)", then the language span.
+	const [titleNode, br, translatedNode] = nameElementChildren;
+	const languageNode = nameElementChildren[nameElementChildren.length - 1];
+	if (!(
+		titleNode?.nodeName === "#text" &&
+		titleNode.textContent &&
+		languageNode &&
+		isElementNamed(languageNode, "SPAN") &&
+		languageNode.classList.contains("lang") &&
+		(br?.nodeName === "BR" || !translatedNode)
+	)) {
+		throw new Error("Unexpected name structure");
+	}
+
+	return {
+		title: titleNode.textContent,
+		languageFreetext: languageNode.textContent,
+		translatedTitle: translatedNode?.textContent ?? undefined,
+	};
+}
+
+const translatedTitlePattern = /^\((.*)\)$/s;
+export function parseTranslatedTitle(textContent: string): string | undefined {
+	const translatedTitle = textContent
+		?.trim()
+		.match(translatedTitlePattern)?.[1]
+		?.trim();
+
+	if (!translatedTitle) {
+		throw new Error("Unexpected translated title");
+	}
+
+	return translatedTitle;
+}
+
+const detailUrlPattern =
+	/^https:\/\/www\.sprintinglegs\.com\/gbdb\/gamedata\?id=(\d+)$/;
+
 function parseRow(row: Element, list: SprintinglegsList): SprintinglegsEntry {
 	const href = row.querySelector("div._gamemore a")?.getAttribute("href");
 	const id = href?.match(detailUrlPattern)?.[1];
@@ -69,44 +118,24 @@ function parseRow(row: Element, list: SprintinglegsList): SprintinglegsEntry {
 		throw new Error(`Unexpected detail link: ${href}`);
 	}
 
-	const serial = row.querySelector("div._gamedmg")?.textContent.trim();
-	if (!(serial && serialPattern.test(serial))) {
-		throw new Error(`Unexpected serial: ${serial}`);
-	}
+	const serial = parseSerial(
+		row.querySelector("div._gamedmg")?.textContent.trim(),
+	);
 
 	const name = row.querySelector("div._gamename");
 	if (!name) {
 		throw new Error("Missing name");
 	}
 
-	// Expected children: title, optionally <br> and "(translated title)", then the language span.
-	const [titleNode, ...rest] = name.childNodes;
-	const languageNode = rest.pop();
-	if (!(
-		titleNode?.nodeName === "#text" &&
-		languageNode?.nodeName === "SPAN" &&
-		(languageNode as Element).classList.contains("lang")
-	)) {
-		throw new Error("Unexpected name structure");
-	}
+	const textNodes = getNameElementTextNodes(name);
 
-	const title = titleNode.textContent?.trim();
-	if (!title) {
-		throw new Error("Missing title");
-	}
+	const title = textNodes.title?.trim();
 
-	let translatedTitle: string | undefined;
-	if (rest.length) {
-		const [br, translatedNode, ...more] = rest;
-		const translated = translatedNode?.textContent
-			?.trim()
-			.match(translatedTitlePattern)?.[1]
-			?.trim();
-		if (!(br?.nodeName === "BR" && translated && more.length === 0)) {
-			throw new Error("Unexpected translated title");
-		}
-		translatedTitle = translated;
-	}
+	const translatedTitle =
+		textNodes.translatedTitle &&
+		parseTranslatedTitle(textNodes.translatedTitle);
+
+	const languageFreetext = textNodes.languageFreetext.trim() ?? "";
 
 	return {
 		id: Number(id),
@@ -114,7 +143,7 @@ function parseRow(row: Element, list: SprintinglegsList): SprintinglegsEntry {
 		list,
 		serial,
 		title,
-		...(translatedTitle !== undefined && { translatedTitle }),
-		language: languageNode.textContent?.trim() ?? "",
+		translatedTitle,
+		languageFreetext,
 	};
 }
