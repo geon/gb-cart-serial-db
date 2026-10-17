@@ -25,6 +25,8 @@ export type Game = {
 	/** The game's most common product code on cartridge labels and ROM chips, e.g. "DMG-TR", or else a ROM checksum, or else a source's URL. */
 	id: string;
 	title: string;
+	/** From No-Intro: "unlicensed", e.g. Sachen, or "pirate", e.g. bootlegs. Omitted for licensed games, and for games not in No-Intro, which the other sources list as official releases. */
+	licensing?: "unlicensed" | "pirate";
 	/** Every title in the sources, with its languages, if any source says, and the sources using it. See languages.ts. */
 	titles: Title[];
 	/** One per ROM in No-Intro, e.g. the Japanese and the international Tetris. */
@@ -57,7 +59,6 @@ export type Version = {
 	dat: NoIntroDat;
 	regions: string[];
 	languages: string[];
-	licensing: "licensed" | "unlicensed" | "pirate";
 	/** "none" for Game Boy ROMs, "dual" for Game Boy Color ROMs that also run on the Game Boy, "only" for Game Boy Color only. Undefined for Game Boy Advance. */
 	colorSupport?: "none" | "dual" | "only";
 	superGameBoyEnhanced: boolean;
@@ -79,6 +80,7 @@ type SourceRecord = {
 	/** Lower is preferred for the game's title. */
 	titlePreference: number;
 	version?: Version;
+	licensing?: "licensed" | "unlicensed" | "pirate";
 	cartridgeSerials?: string[];
 	romChipSerials?: string[];
 	boxImageUrl?: string;
@@ -135,6 +137,7 @@ export function buildGames(
 					),
 				),
 			version: noIntroVersion(entry),
+			licensing: entry.licensing,
 			cartridgeSerials:
 				entry.licensing === "licensed"
 					? labelSerials("no-intro.org", entry.url, entry.cartridgeSerials)
@@ -284,6 +287,12 @@ export function buildGames(
 			].sort();
 			const dates = gameRecords.flatMap((record) => record.dates ?? []);
 			const earliest = dates.sort(compareDates)[0];
+			const licensings = new Set(gameRecords.map(({ licensing }) => licensing));
+			const licensing = licensings.has("pirate")
+				? "pirate"
+				: licensings.has("unlicensed")
+					? "unlicensed"
+					: undefined;
 			const codeCounts = (codesByGame.get(game) ?? []).map((code) => ({
 				code,
 				count: [
@@ -304,6 +313,7 @@ export function buildGames(
 						: // No code or ROM checksum, e.g. a No-Intro entry without a dump, or an e-Reader.
 							byPreference.find(({ url }) => url)!.url!),
 				title: titles[0]!.title,
+				...(licensing && { licensing }),
 				titles,
 				versions: gameRecords
 					.flatMap(({ version }) => (version ? [version] : []))
@@ -370,7 +380,6 @@ function noIntroVersion(entry: Sources["noIntro"][number]): Version {
 		dat: entry.dat,
 		regions: entry.regions,
 		languages: entry.languages,
-		licensing: entry.licensing,
 		...(entry.dat !== "agb" && {
 			colorSupport:
 				entry.dat === "dmg"

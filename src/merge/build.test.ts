@@ -128,6 +128,7 @@ describe("buildGames", () => {
 			],
 			earliestManufacturingDate: { year: 1989, week: 52 },
 		});
+		expect(game).not.toHaveProperty("licensing");
 		expect(game!.versions.map(({ noIntroName }) => noIntroName)).toEqual([
 			"Tetris (Japan) (En)",
 			"Tetris (World) (Rev 1)",
@@ -282,4 +283,31 @@ test("doesn't tag sprintinglegs titles in Latin letters by the game's language",
 			sources: ["sprintinglegs"],
 		},
 	]);
+});
+
+test("marks unlicensed and pirate games", () => {
+	const pirate: Sources = {
+		...sources,
+		noIntro: [
+			{
+				...sources.noIntro[1]!,
+				url: "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=9999",
+				noIntroName: "Tetris (World) (Pirate)",
+				licensing: "pirate",
+				files: [{ crc32: "00000000", size: 32768 }],
+			},
+		],
+		gameBoyDatabaseCom: [],
+		sprintinglegs: [],
+		gbhwdb: [],
+		libretroThumbnails: [],
+	};
+	const { gameOf } = groupGames(
+		sourceLinks(pirate, []),
+		() => undefined,
+		new Set(),
+	);
+	expect(buildGames(pirate, [], gameOf)[0]).toMatchObject({
+		licensing: "pirate",
+	});
 });
