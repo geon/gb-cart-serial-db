@@ -1,0 +1,4083 @@
+[
+	{
+		"code": "DMG-F4-NOE-1",
+		"title": "4-in-1 Funpak",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F9-USA",
+		"title": "4-in-1 Funpak Volume II",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-APXP-EUR",
+		"title": "a bug’s life",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-T3-NOE",
+		"title": "Adventure Island",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-T3-USA",
+		"title": "Adventure Island",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-LO-NOE",
+		"title": "Adventures of Lolo",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-ALAP-EUR",
+		"title": "Aladdin",
+		"regions": [
+			"UK",
+			"FR",
+			"GER",
+			"IT",
+			"ESP",
+			"NED",
+			"SV",
+			"SUO",
+			"DA"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALAP-NEU5",
+		"title": "Aladdin",
+		"regions": [
+			"UK",
+			"FR",
+			"NED",
+			"GER",
+			"ESP"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-C3-NOE",
+		"title": "Alfred Chicken",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L3-NOE",
+		"title": "Alien 3",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AW-NOE",
+		"title": "Alleyway",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AZTP-EUR",
+		"title": "All Star Tennis 2000",
+		"regions": [
+			"UK",
+			"GER",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PN-NOE",
+		"title": "Amazing Pinguin",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-AMCP-NOE",
+		"title": "Arcade Classics Asteroids & Missile Command",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-ACPE-USA-1",
+		"title": "Arcade Classics 2 Centipede & Millipede",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-ACPE-USA",
+		"title": "Arcade Classics 2 Centipede & Millipede",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-LD-NNOE",
+		"title": "Arielle die Meerjungfrau",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-XA-NOE",
+		"title": "Asterix",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AXOP-NOE",
+		"title": "Asterix & Obelix",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AARP-NOE",
+		"title": "Asteroids",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AARE-USA-1",
+		"title": "Asteroids",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AK-NOE",
+		"title": "Attack of the Killer Tomatoes",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BT-NOE",
+		"title": "Balloon Kid",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A6-SCN",
+		"title": "Bamse",
+		"regions": [
+			"SWE"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BS-USA-1",
+		"title": "Baseball",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TS-NOE",
+		"title": "Bart Simpson’s Escape from Camp Deadly",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BA-NOE",
+		"title": "Batman The Video Game",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BA-USA",
+		"title": "Batman The Video Game",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-XM-NOE",
+		"title": "Batman The animated Series",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-B5-NOE-1",
+		"title": "Batman – Return of the Joker",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-R7-NOE",
+		"title": "Battletoads in Ragnarok’s World",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NB-USA",
+		"title": "Battleship",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GK-NOE",
+		"title": "B.C. Kid",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AVUP-NEU6",
+		"title": "Beauty and the Beast – A Board Game Adventure",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AVIP-EUR",
+		"title": "Beavis & Butt-Head",
+		"regions": [
+			"UK",
+			"FR",
+			"GER",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-B4-USA",
+		"title": "Beetlejuice",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LB-USA",
+		"title": "Bill & Ted’s Excellent Game Boy Adventure",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-EL-USA",
+		"title": "Bill Elliot’s Nascar Fast Tracks",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UB-NOE",
+		"title": "Blades of Steel",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UB-USA",
+		"title": "Blades of Steel",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AB2P-EUR",
+		"title": "Bomberman GB",
+		"regions": [
+			"UK",
+			"FR",
+			"GER",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AQVP-EUU",
+		"title": "Bomberman Quest",
+		"regions": [
+			"FR",
+			"GER",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GK-USA",
+		"title": "Bonk’s Adventure",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AS-USA",
+		"title": "Boomer’s Adventure in Asmik World",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BD-NOE",
+		"title": "Boulder Dash",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BD-NOE-1",
+		"title": "Boulder Dash",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SO-USA",
+		"title": "Boxxle",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BW-USA",
+		"title": "Brainbender",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-D4-NOE",
+		"title": "Bram Stoker’s Dracula",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ABXE-USA",
+		"title": "BreakThru!",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-B2-NOE",
+		"title": "Bubble Bobble",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LX-NOE",
+		"title": "Bubble Bobble Part 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AB6P-NEU5",
+		"title": "Bugs Bunny Crazy Castle 3",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BU-NOE",
+		"title": "Burai Fighter Deluxe",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GM-NOE",
+		"title": "Burgertime Deluxe",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CE-NOE",
+		"title": "Caesars Palace",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CE-USA-1",
+		"title": "Caesars Palace",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CE-USA-2",
+		"title": "Caesars Palace",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACFP-GPS",
+		"title": "Casino",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACFP-GPS",
+		"title": "Casino FunPak",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACFE-USA",
+		"title": "Casino FunPak",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CJ-NOE",
+		"title": "Castelian",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QH-NOE",
+		"title": "Castle Quest",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CW-USA",
+		"title": "Castlevania II Belmont’s Revenge",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ADNP-EUR",
+		"title": "Castlevania Legends",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-V4-NOE",
+		"title": "Choplifter 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AC3E-EUR",
+		"title": "Choplifter 3",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT",
+			"SV",
+			"SUO"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QC-UKV",
+		"title": "Chuck Rock",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACRP-NEU6",
+		"title": "Conker’s Pocket Tales",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-OP-USA",
+		"title": "Cool Ball",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACDP-EUU",
+		"title": "Cool Hand",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WL-USA",
+		"title": "Cool World",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WR-USA",
+		"title": "Cyraid",
+		"regions": [
+			"US",
+			"FR"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-YS-NOE-2",
+		"title": "Daffy Duck",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DC-NOE",
+		"title": "Darkwing Duck",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-J7-NOE",
+		"title": "Das Dschungelbuch",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-J7-NNOE",
+		"title": "Das Dschungelbuch",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-YD-NOE",
+		"title": "Dennis",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALNP-NOE",
+		"title": "Der König der Löwen",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALNP-NNOE",
+		"title": "Der König der Löwen",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FU-USA",
+		"title": "Dexterity",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AMVP-NOE",
+		"title": "Die Biene Maja & ihre Freunde",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ADMP-NOE",
+		"title": "Die Maus",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UF-NOE-1",
+		"title": "Die Schlümpfe",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AUFP-NOE",
+		"title": "Die Schlümpfe reisen um die Welt",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AUFP-NOE-1",
+		"title": "Die Schlümpfe reisen um die Welt",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DY-NOE",
+		"title": "Dig Dug",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QD-NOE",
+		"title": "Donkey Kong",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-QD-NOE",
+		"title": "Donkey Kong",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-YT-NOE",
+		"title": "Donkey Kong Land",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ADDP-NOE-1",
+		"title": "Donkey Kong Land 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-D2-NOE",
+		"title": "Double Dragon II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DX-NOE",
+		"title": "Double Dragon 3 The Arcade Game",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FN-UKV",
+		"title": "Dr. Franken",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-VU-NOE",
+		"title": "Dr. Mario",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DP-UKV",
+		"title": "Dropzone",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DT-NOE",
+		"title": "Duck Tales",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DT-USA",
+		"title": "Duck Tales",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AEBP-EUU",
+		"title": "Eartworm Jim – Menace 2 the Galaxy",
+		"regions": [
+			"FR",
+			"GER",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-YK-USA",
+		"title": "Elite Soccer",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FS-USA",
+		"title": "Extra Bases",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F5-NOE",
+		"title": "F1 Pole Position",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F5-NOE-1",
+		"title": "F1 Pole Position",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F1-NOE",
+		"title": "F-1 Race",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F1-NOE-1",
+		"title": "F-1 Race",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-XP-NOE",
+		"title": "Ferrari Grand Prix Challenge",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A7SP-EUR",
+		"title": "FIFA 97",
+		"regions": [
+			"UK",
+			"ESP",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AFOP-NOE",
+		"title": "FIFA 2000",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AFSP-EUR",
+		"title": "FIFA International Soccer",
+		"regions": [
+			"UK",
+			"GER",
+			"FR"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AFSE-USA",
+		"title": "FIFA International Soccer",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HR-NOE",
+		"title": "Fighting Simulator",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-S2-USA",
+		"title": "Final Fantasy Legend II",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-OS-USA",
+		"title": "Final Fantasy Legend III",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F8-NOE",
+		"title": "Fire Fighter",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-IY-NOE",
+		"title": "Fortified Zone",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-IY-USA",
+		"title": "Fortified Zone",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-AGCP-NOE",
+		"title": "Galaga & Galaxian",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-AGGA-NOE",
+		"title": "Game Boy Gallery",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AGGA-UKV-3",
+		"title": "Game Boy Gallery",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AGAE-NNOE",
+		"title": "Game & Watch Gallery",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AGLP-NEU5",
+		"title": "Game & Watch Gallery 2",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L4-UKV",
+		"title": "Garfield Labyrinth",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RA-NOE",
+		"title": "Gargoyle’s Quest",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-G2-NOE",
+		"title": "Gauntlet II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-G2-FRG",
+		"title": "Gauntlet II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-G8-UKV",
+		"title": "Gear Works",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-JK-NOE",
+		"title": "George Foreman’s KO Boxing",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AEXP-EUR",
+		"title": "Gex Enter the Gecko",
+		"regions": [
+			"FR",
+			"GER",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GB-NOE",
+		"title": "Ghostbusters II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WF-NOE",
+		"title": "Glücksrad",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WF-NOE-1",
+		"title": "Glücksrad",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GZ-NOE-1",
+		"title": "Godzilla",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AAFD-NOE",
+		"title": "Golden Goal",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GO-NOE",
+		"title": "Golf",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GO-UKV-2",
+		"title": "Golf",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GO-UKV-4",
+		"title": "Golf",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PR-USA",
+		"title": "Hal Wrestling",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HT-USA",
+		"title": "Hatris",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AHCP-NNOE",
+		"title": "Hercules",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HY-USA",
+		"title": "High Stakes Gambling",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HM-UKV",
+		"title": "Home Alone",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HM-USA",
+		"title": "Home Alone",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AH-NOE",
+		"title": "Home Alone",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AH-USA",
+		"title": "Home Alone 2",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AH-USA-1",
+		"title": "Home Alone 2",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HS-USA",
+		"title": "Hook",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AGOP-NOE",
+		"title": "Hugo",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AO2P-NOE",
+		"title": "Hugo 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AHOP-NOE",
+		"title": "Hugo 2 1/2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DW-NOE",
+		"title": "Hyperdunk",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HL-USA",
+		"title": "Hyper Lode Runner",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GD-USA",
+		"title": "InfoGenius Productivity Pak Frommers Travel Guide",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AIGP-EUR",
+		"title": "International Superstar Soccer",
+		"regions": [
+			"GER",
+			"FR",
+			"ESP",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AJDP-EUR",
+		"title": "Judge Dredd",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AJGP-FAH-2",
+		"title": "Jungle Strike",
+		"regions": [
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AJGP-NOE",
+		"title": "Jungle Strike",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALWP-EUR",
+		"title": "Jurassic Park The lost World",
+		"regions": [
+			"UK",
+			"GER",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DF-NOE",
+		"title": "Kid Dracula",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DF-NOE-1",
+		"title": "Kid Dracula",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KA-NOE-1",
+		"title": "Kid Icarus",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KA-FRG-1",
+		"title": "Kid Icarus",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PW-NOE",
+		"title": "King of the Zoo",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AKXP-NOE",
+		"title": "Kirby’s Block Ball",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KY-NOE",
+		"title": "Kirby’s Dream Land",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KY-UKV-2",
+		"title": "Kirby’s Dream Land",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-K9-USA",
+		"title": "Kirby’s Pinball Land",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KG-NOE",
+		"title": "Konami Golf",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FK-USA",
+		"title": "Krusty’s Fun House",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SX-NOE",
+		"title": "Kung Fu Master",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AP-NOE",
+		"title": "Kwirk",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L7-FRG-2",
+		"title": "Lamborghini American Challenge",
+		"regions": [
+			"GER",
+			"FR"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L8-NOE",
+		"title": "Lemmings",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L8-UKV",
+		"title": "Lemmings",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L8-NOE-1",
+		"title": "Lemmings",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LZ-NOE",
+		"title": "Lingo",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TM-NOE",
+		"title": "Litti’s Summer Sports",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LN-NOE",
+		"title": "Looney Tunes",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LN-NOE-3",
+		"title": "Looney Tunes",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALTP-NOE",
+		"title": "Looney Tunes",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALLP-NOE",
+		"title": "Lucky Luke",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KQ-NOE",
+		"title": "Magnetic Soccer",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MB-NOE",
+		"title": "Marble Madness",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-APCP-NOE",
+		"title": "Mario’s Picross",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-APCP-NOE",
+		"title": "Mario’s Picross",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-YO-NOE",
+		"title": "Mario & Yoshi",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-OJ-USA",
+		"title": "Maru’s Mission",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AR4P-EUU",
+		"title": "Matchbox Construction Zone",
+		"regions": [
+			"IT",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AJSD-NOE",
+		"title": "Matthias Sammer Soccer",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CU-UKV",
+		"title": "McDonaldland",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CU-FRG",
+		"title": "McDonaldland",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MZ-USA",
+		"title": "Megalit",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RW-NOE-1",
+		"title": "Mega Man",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-W2-USA-1",
+		"title": "Mega Man II",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-W3-NOE",
+		"title": "Mega Man III",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-R4-USA",
+		"title": "Mega Man IV",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ME-USA",
+		"title": "Metroid II",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-M2-NOE",
+		"title": "Mickey Mouse",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-I5-NOE",
+		"title": "Mickey Mouse V Zauberstäbe",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MC-NOE",
+		"title": "Mickey’s Dangerous Chase",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-H3-EUR",
+		"title": "Micro Machines",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT",
+			"SV"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MV-USA",
+		"title": "Miner 2049er",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LY-USA",
+		"title": "Monopoly",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALYP-EUR",
+		"title": "Monopoly",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ATWP-EUR",
+		"title": "Monster Truck Wars",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-C9-NOE",
+		"title": "Mortal Kombat",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MX-NOE",
+		"title": "Motocross Maniacs",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MX-NOE-2",
+		"title": "Motocross Maniacs",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MX-USA",
+		"title": "Motocross Maniacs",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MH-USA",
+		"title": "Mouse Trap Hotel",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-M4-NOE-1",
+		"title": "Mr. Do!",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-N4-NOE",
+		"title": "Ms. Pac-Man",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MY-USA",
+		"title": "Mysterium",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AGDP-EUR",
+		"title": "Mystical Ninja starring Goemon",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"NED",
+			"IT"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-DR-USA",
+		"title": "Nail’n Scale",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NV-NOE",
+		"title": "Navy Seals",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A8NE-USA",
+		"title": "NBA JAM",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A8NP-EUR",
+		"title": "NBA JAM",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A8NP-EUR-1",
+		"title": "NBA JAM",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A6BP-EUR",
+		"title": "NBA Live 96",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NE-NOE",
+		"title": "Nemesis II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AQBE-USA",
+		"title": "NFL Quarterback Club 96",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ABZP-EUU",
+		"title": "NFL Blitz",
+		"regions": [
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WC-NOE-1",
+		"title": "Nigel Mansell’s World Championship",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CL-USA",
+		"title": "Ninja Boy",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NC-NOE",
+		"title": "Nintendo World Cup",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AOWP-EUU",
+		"title": "Oddworld Adventures 2",
+		"regions": [
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AO9P-EUR",
+		"title": "Olympic Summer Games",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-E5-NOE",
+		"title": "On the Tiles",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-OT-NOE",
+		"title": "Othello",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AOBP-NOE",
+		"title": "Ottifanten Baby Brunos Alptraum",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PC-USA",
+		"title": "Pac-Man",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AACP-NOE",
+		"title": "Pac-Man Special Colour Edition",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NO-EUR",
+		"title": "Pac-Panic",
+		"regions": [
+			"UK",
+			"DU",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-APTP-NOE",
+		"title": "Pac-in-Time",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PX-NOE-1",
+		"title": "Palamedes",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MP-NOE",
+		"title": "Paperboy",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-Y2-NOE",
+		"title": "Paperboy 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PV-NOE",
+		"title": "Parodius",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A3GP-EUR",
+		"title": "PGA Tour 96",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-D8-NOE",
+		"title": "Pinball Dreams",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-D8-UKV",
+		"title": "Pinball Dreams",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-APDP-EUR",
+		"title": "Pinball Deluxe",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-PB-NOE",
+		"title": "Pinball Revenge of the Gator",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-P-ACGP-NOE",
+		"title": "Pinocchio",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACGE-USA",
+		"title": "Pinocchio",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AFLP-EUU",
+		"title": "Pitfall – Beyond the Jungle",
+		"regions": [
+			"FR",
+			"GER",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QF-NOE",
+		"title": "Pit-Fighter",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FL-USA",
+		"title": "Play Action Football",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AHQP-EUR",
+		"title": "Pocahontas",
+		"regions": [
+			"UK",
+			"ESP",
+			"IT"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AHQP-FRG",
+		"title": "Pocahontas",
+		"regions": [
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AHQE-USA",
+		"title": "Pocahontas",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-VPHP-NEU6",
+		"title": "Pokémon Pinball",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AXQP-FHUG",
+		"title": "Pokémon Trading Card Game",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TD-NOE",
+		"title": "Pop’n Twin Bee",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-P9-NOE",
+		"title": "Populous",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A2RP-UKV",
+		"title": "Power Rangers The Movie",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UH-EUR",
+		"title": "Prehistorik Man",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"IT",
+			"ESP",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NP-NOE",
+		"title": "Prince of Persia",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NP-USA",
+		"title": "Prince of Persia",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ACSP-EUR",
+		"title": "Probotector 2",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A8-NOE",
+		"title": "Pugsley’s Scavenger Hunt",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QT-USA",
+		"title": "Q*bert",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QX-NOE",
+		"title": "Qix",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QX-USA",
+		"title": "Qix",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-Q6-NOE",
+		"title": "Quarterback NFL Club",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-QR-USA",
+		"title": "Quarth",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-P-ACNP-NEU5",
+		"title": "Quest for Camelot",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-OB-NOE-1",
+		"title": "Raging Fighter",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-OB-USA",
+		"title": "Raging Fighter",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AVTP-EUR",
+		"title": "Reservoir Rats",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-H5-UKV",
+		"title": "Road Rash",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RH-NOE",
+		"title": "Robin Hood Prince of Thieves",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-VR-NOE",
+		"title": "Robocop vs. The Terminator",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CP-USA",
+		"title": "Robocop",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-VE-USA",
+		"title": "Rolan’S Curse",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AORP-EUR",
+		"title": "Ronaldo V-Football",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ARXP-EUR",
+		"title": "Rox",
+		"regions": [
+			"UK",
+			"FR",
+			"GER",
+			"IT",
+			"ESP",
+			"NED"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RE-NOE",
+		"title": "R-Type",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AVMP-NOE",
+		"title": "Rugrats – Die Zeitreise",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AB8D-NOE",
+		"title": "Schiffe versenken",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ASCE-EUR",
+		"title": "Sea Quest DSV",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-VZ-NOE",
+		"title": "Sensible Soccer",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KM-USA",
+		"title": "Serpent",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ASWP-NEU5",
+		"title": "Shadowgate Classic",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AVXP-EURO",
+		"title": "Shamus",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AHPP-EUU",
+		"title": "Shanghai Pocket",
+		"regions": [
+			"GER",
+			"IT"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SW-NOE",
+		"title": "Side Pocket",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SN-NOE",
+		"title": "Snoopy’s Magic Show",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G/DMG-YK-NOE-1",
+		"title": "Soccer",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SS-NOE",
+		"title": "Solar Striker",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SS-USA-1",
+		"title": "Solar Striker",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UX-NOE",
+		"title": "Solitaire FunPak",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UX-USA",
+		"title": "Solitaire FunPak",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SC-NOE",
+		"title": "Solomon’s Club",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G-DMG-SP-NOE",
+		"title": "Space Invaders",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-E2-NOE",
+		"title": "Speedball 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZS-NOE",
+		"title": "Spider-Man 2",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LQ-UKV",
+		"title": "Spider-Man 3",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-XG-NOE",
+		"title": "Spider-Man / X-Men",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-S3-NOE",
+		"title": "Spot",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-S3-USA",
+		"title": "Spot",
+		"regions": [
+			"USA"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TO-EUR",
+		"title": "Spy vs. Spy Operation Booby Trap",
+		"regions": [
+			"GER",
+			"UK",
+			"FR"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CA-USA",
+		"title": "Square Deal",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AGTP-EUR",
+		"title": "Stargate",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RK-NOE",
+		"title": "Star Trek 25th Anniversary",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ASTP-EUR",
+		"title": "Star Trek Generations Beyond the Nexus",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WS-NOE",
+		"title": "Star Wars",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WS-USA-1",
+		"title": "Star Wars",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-EB-NOE-1",
+		"title": "Star Wars – Das Imperium schlägt zurück",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AYDP-NOE",
+		"title": "Star Wars – Yoda Stories",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HZ-USA",
+		"title": "Stop that Roach!",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ASFP-NOE",
+		"title": "Street Fighter II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-ASRP-EUR",
+		"title": "Street Racer",
+		"regions": [
+			"UK",
+			"FR",
+			"GER",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FB-NOE",
+		"title": "Sunsoft Grand Prix",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-N6-EUR",
+		"title": "Super Battle Tank",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-Q2-USA",
+		"title": "Super Chase H.Q.",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HN-USA",
+		"title": "Super Hunchback",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HN-NOE-1",
+		"title": "Super Hunchback",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KF-NOE",
+		"title": "Super Kick Off",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ML-NOE",
+		"title": "Super Mario Land",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ML-NOE-1",
+		"title": "Super Mario Land",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ML-USA-1",
+		"title": "Super Mario Land",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MQ-NOE",
+		"title": "Super Mario Land 2 – 6 Golden Coins",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MQ-NOE-3",
+		"title": "Super Mario Land 2 – 6 Golden Coins",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MQ-USA",
+		"title": "Super Mario Land 2 – 6 Golden Coins",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-MQ-USA-1",
+		"title": "Super Mario Land 2 – 6 Golden Coins",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RC-NOE",
+		"title": "Super R.C. Pro Am",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WG-USA",
+		"title": "Swamp Thing",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AYRP-NOE",
+		"title": "Sylvester & Tweety „Vogel zum Frühstück“",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALUP-NOE",
+		"title": "Tabaluga",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TG-USA",
+		"title": "Tail Gator",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ATAP-NOE",
+		"title": "Tamagotchi",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZK-EUR",
+		"title": "Tarzan Lord of the Jungle",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZM-UKV",
+		"title": "Taz Mania",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZM-EUR",
+		"title": "Taz Mania",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NT-NOE-1",
+		"title": "Teenage Mutant Hero Turtles Fall of the Foot Clan",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NT-FAH",
+		"title": "Teenage Mutant Hero Turtles Fall of the Foot Clan",
+		"regions": [
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TT-NOE",
+		"title": "Teenage Mutant Hero Turtles II Back from the Sewers",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TT-NOE-2",
+		"title": "Teenage Mutant Hero Turtles II Back from the Sewers",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TT-USA",
+		"title": "Teenage Mutant Ninja Turtles II Back from the Sewers",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TN-NOE-2",
+		"title": "Tennis",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ER-USA",
+		"title": "Tesserae",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ER-USA-1",
+		"title": "Tesserae",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TZ-NOE",
+		"title": "Terminator 2 Judgment Day",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AW6P-EUR",
+		"title": "Test Drive 6",
+		"regions": [
+			"FR",
+			"GER",
+			"ESP",
+			"IT",
+			"UK"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TR-NOE",
+		"title": "Tetris",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TR-NOE-1",
+		"title": "Tetris",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TR-UKV-4",
+		"title": "Tetris",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-EH-FRG-1",
+		"title": "Tetris 2",
+		"regions": [
+			"GER",
+			"FR"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "G/DMG-EH-NOE",
+		"title": "Tetris 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": true
+	},
+	{
+		"code": "DMG-AYLP-NOE",
+		"title": "Tetris Attack",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ASBP-NOE",
+		"title": "Tetris Blast",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ASBE-USA",
+		"title": "Tetris Blast",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ATRP-NNOE",
+		"title": "Tetris Plus",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-KS-USA",
+		"title": "The Adventures of Star Saver",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SM-NOE",
+		"title": "The amazing Spider-Man",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-BY-USA",
+		"title": "The Bugs Bunny Crazy Castle 2",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CV-NOE",
+		"title": "The Castlevania Adventure",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CV-USA",
+		"title": "The Castlevania Adventure",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-EM-NOE-1",
+		"title": "The Chessmaster",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-F6-NOE",
+		"title": "The Fidgetts",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-SA-USA",
+		"title": "The Final Fantasy Legend",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AFNP-EUR",
+		"title": "The Flintstones",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT",
+			"SV",
+			"FIN"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GH-USA",
+		"title": "The Game of Harmony",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HU-USA",
+		"title": "The Humans",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HF-NOE",
+		"title": "The Hunt for Red October",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-HF-USA-1",
+		"title": "The Hunt for Red October",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-C8-NOE",
+		"title": "The incredible Crash Dummies",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-C8-ESP",
+		"title": "The incredible Crash Dummies",
+		"regions": [
+			"ESP"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-J7-USA",
+		"title": "The Jungle Book",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-L5-UKV",
+		"title": "The Lawnmower Man",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED",
+			"ESP",
+			"IT",
+			"SV",
+			"SU"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZL-USA-1",
+		"title": "The Legend of Zelda – Link’s Awakening",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ALNE-USA",
+		"title": "The Lion King",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LD-USA-2",
+		"title": "The little Mermaid",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LD-NOE",
+		"title": "The little Mermaid",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-APMP-EUR",
+		"title": "The Pagemaster",
+		"regions": [
+			"UK",
+			"FR",
+			"GER",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-NS-USA",
+		"title": "The Punisher",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RX-USA",
+		"title": "The Ren & Stimpy Show Space Cadet Adventures",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RP-NOE",
+		"title": "The Rescue of Princess Blobette",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-FZ-NOE",
+		"title": "The Spirit of F-1",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AYGP-EUR",
+		"title": "Tiger Woods PGA Tour 2000",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"IT",
+			"ESP"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TX-NOE",
+		"title": "Tiny Toon Adventures Babs‘ Big Break",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TX-NOE-1",
+		"title": "Tiny Toon Adventures Babs‘ Big Break",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-T8-NOE",
+		"title": "Tiny Toon Adventures Montana’s Movie Madness",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-JY-NOE",
+		"title": "Tom & Jerry",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-J8-NOE",
+		"title": "Tom and Jerry 2 Der Film",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-GN-NOE-1",
+		"title": "Top Gun Guts & Glory",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-N8-USA",
+		"title": "Total Carnage",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TM-USA",
+		"title": "Track Meet",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-TP-USA",
+		"title": "Trax",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ATLP-EUR",
+		"title": "True Lies",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"IT",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ATLE-USA",
+		"title": "True Lies",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A2TP-NOE",
+		"title": "Turok 2 – Seeds of Evil",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": true,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-UT-USA",
+		"title": "Ultima Runes of Virtue",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AUSP-EUR",
+		"title": "Urban Strike",
+		"regions": [
+			"UK",
+			"FR",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AVLP-NOE",
+		"title": "V-Rally Championship Edition",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-EE-NOE",
+		"title": "Wario Blast",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WJ-NOE",
+		"title": "Wario Land – Super Mario Land 3",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WJ-UKV-1",
+		"title": "Wario Land – Super Mario Land 3",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AW2P-NNOE",
+		"title": "Wario Land II",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WA-NNOE",
+		"title": "Wave Race",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WF-USA",
+		"title": "Wheel of Fortune",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-RR-NNOE",
+		"title": "Who framed Roger Rabbit",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AWSE-USA",
+		"title": "WildSnake",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-YC-USA",
+		"title": "Winter Olympic Games",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WW-NOE",
+		"title": "Wizards & Warriors X Fortress of Fear",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WV-NOE",
+		"title": "World Beach Volley 1992 GB Cup",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-A8WP-EUR",
+		"title": "World Cup 98",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-W9-NOE",
+		"title": "WorldCup USA 94",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-W9-UKV",
+		"title": "WorldCup USA 94",
+		"regions": [
+			"UK"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WP-NOE",
+		"title": "WWF King of the Ring",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WP-NOE-1",
+		"title": "WWF King of the Ring",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AWFP-EUR",
+		"title": "WWF Raw",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"ESP",
+			"NED"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-LW-NOE-1",
+		"title": "WWF Superstars",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WX-NOE",
+		"title": "WWF Superstars 2",
+		"regions": [
+			"UK",
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-WX-FRG",
+		"title": "WWF Superstars 2",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AWWP-EUR",
+		"title": "WWF War Zone",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"IT"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-YG-EUR",
+		"title": "Yogi Bear’s Gold Rush",
+		"regions": [
+			"UK",
+			"FR",
+			"ESP",
+			"IT"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-YG-USA",
+		"title": "Yogi Bear’s Gold Rush",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CI-NOE",
+		"title": "Yoshi’s Cookie",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-CI-USA",
+		"title": "Yoshi’s Cookie",
+		"regions": [
+			"US"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZN-NOE",
+		"title": "Zen Intergalactic Ninja",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-ZG-NOE-1",
+		"title": "Zool Ninja of the „Nth“ Dimension",
+		"regions": [
+			"GER"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	},
+	{
+		"code": "DMG-AZPP-EUR",
+		"title": "Zoop",
+		"regions": [
+			"UK",
+			"GER",
+			"FR",
+			"IT",
+			"ESP"
+		],
+		"gameBoyColorCompatible": false,
+		"hasSuperGameBoyManual": false
+	}
+]

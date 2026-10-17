@@ -9,7 +9,8 @@
     "test": "vitest",
     "import:sprintinglegs": "tsx src/importers/sprintinglegs/import.ts",
     "import:game-boy-database.com": "tsx src/importers/game-boy-database.com/import.ts",
-    "import:no-intro.org": "tsx src/importers/no-intro.org/import.ts"
+    "import:no-intro.org": "tsx src/importers/no-intro.org/import.ts",
+    "import:dmgpage.com": "tsx src/importers/dmgpage.com/import.ts"
   },
   "prettier": {
     "useTabs": true
