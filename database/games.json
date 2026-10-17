@@ -10773,6 +10773,7 @@
 				"noIntroName": "Action Replay (Europe) (En,Fr,De,It) (v3.3) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x001",
 				"system": "agb",
+				"revision": "v3.3",
 				"regions": [
 					"Europe"
 				],
@@ -10881,6 +10882,7 @@
 				"noIntroName": "Action Replay GBX (Europe) (En,Fr,De,It) (v3.1) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x004",
 				"system": "agb",
+				"revision": "v3.1",
 				"regions": [
 					"Europe"
 				],
@@ -11972,6 +11974,7 @@
 				"noIntroName": "Advance GTA (Japan) (En) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2839",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -12341,6 +12344,7 @@
 				"noIntroName": "Advance Wars (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0290",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -14707,6 +14711,7 @@
 				"noIntroName": "AGB Aging Cartridge (World) (Test Program)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=3003",
 				"system": "agb",
+				"revision": "v1.0",
 				"regions": [
 					"World"
 				],
@@ -14725,6 +14730,7 @@
 				"noIntroName": "AGS Aging Cartridge (World) (v7.1) (Test Program)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x441",
 				"system": "agb",
+				"revision": "v7.1",
 				"regions": [
 					"World"
 				],
@@ -14741,6 +14747,7 @@
 				"noIntroName": "AGS Aging Cartridge (World) (Rev 3) (v9.0) (Test Program)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2970",
 				"system": "agb",
+				"revision": "Rev 3 v9.0",
 				"regions": [
 					"World"
 				],
@@ -14759,6 +14766,7 @@
 				"noIntroName": "AGS Aging Cartridge (World) (Rev 1) (v7.0) (Test Program)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x127",
 				"system": "agb",
+				"revision": "Rev 1 v7.0",
 				"regions": [
 					"World"
 				],
@@ -15095,6 +15103,7 @@
 				"noIntroName": "Aka-chan Doubutsuen (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2866",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -17607,6 +17616,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0025",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "AZTP",
 				"regions": [
 					"Europe"
 				],
@@ -19616,6 +19626,7 @@
 				"noIntroName": "America Oudan Ultra Quiz Part 2 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1631",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -21835,6 +21846,7 @@
 				"noIntroName": "Another World (World) (Fr) (v1.2) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2984",
 				"system": "agb",
+				"revision": "v1.2",
 				"regions": [
 					"World"
 				],
@@ -27674,6 +27686,7 @@
 				"noIntroName": "ATV - Quad Power Racing (Europe) (En,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2791",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -30141,6 +30154,7 @@
 				"noIntroName": "Baby T-Rex (World) (v1.1) (ModRetro Chromatic)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=2514",
 				"system": "dmg",
+				"revision": "v1.1",
 				"regions": [
 					"World"
 				],
@@ -30491,6 +30505,7 @@
 				"noIntroName": "Backup LIB Sample (Unknown) (v1.04) (Program)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x205",
 				"system": "agb",
+				"revision": "v1.04",
 				"regions": [
 					"Unknown"
 				],
@@ -30540,6 +30555,7 @@
 				"noIntroName": "Backup Mem. Quick-Copy (Unknown) (v1.04) (Program)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x206",
 				"system": "agb",
+				"revision": "v1.04",
 				"regions": [
 					"Unknown"
 				],
@@ -35345,6 +35361,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -38162,6 +38179,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0890",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -43173,6 +43191,7 @@
 				"noIntroName": "Bibi und Tina - Ferien auf dem Martinshof (Germany) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2878",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Germany"
 				],
@@ -45047,6 +45066,7 @@
 				"noIntroName": "Bionicle - Maze of Shadows (Europe) (En,De) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2799",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -49775,6 +49795,7 @@
 				"noIntroName": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2365",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -50008,6 +50029,7 @@
 				"noIntroName": "Boku wa Koukuu Kanseikan (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0021",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -50287,6 +50309,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0149",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -53717,6 +53740,7 @@
 				"noIntroName": "Boxxle (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0166",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -58433,6 +58457,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0186",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -61273,6 +61298,7 @@
 				"noIntroName": "Caesars Palace (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0201",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -63206,6 +63232,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0170",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -63230,6 +63257,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1378",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -63429,6 +63457,7 @@
 				"noIntroName": "Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2861",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -68285,6 +68314,7 @@
 				"noIntroName": "Nakayoshi Pet Advance Series 3 - Kawaii Koneko (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2343",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -71186,6 +71216,7 @@
 				"noIntroName": "Chessmaster, The (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0229",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -76161,6 +76192,7 @@
 				"noIntroName": "Famicom Mini 01 - Super Mario Bros. (Japan) (En) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1364",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -80133,6 +80165,7 @@
 				"noIntroName": "Crash Bandicoot Purple - Ripto's Rampage (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2813",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -82135,6 +82168,7 @@
 				"noIntroName": "Croc - 25th Anniversary Edition (World) (v1.2) (ModRetro Chromatic)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=2712",
 				"system": "cgb",
+				"revision": "v1.2",
 				"regions": [
 					"World"
 				],
@@ -82233,6 +82267,7 @@
 				"noIntroName": "Croc - 25th Anniversary Edition (World) (v1.1) (ModRetro Chromatic)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=2711",
 				"system": "cgb",
+				"revision": "v1.1",
 				"regions": [
 					"World"
 				],
@@ -88983,6 +89018,7 @@
 				"noIntroName": "Dave Mirra Freestyle BMX 2 (Europe) (En,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2790",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -92420,6 +92456,7 @@
 				"noIntroName": "Densetsu no Stafy 3 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2786",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -93170,6 +93207,7 @@
 				"noIntroName": "Dexter's Laboratory - Deesaster Strikes! (USA) (En,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2797",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -95344,6 +95382,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0295",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -98814,6 +98853,7 @@
 				"noIntroName": "Dogz 2 (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2846",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -99521,6 +99561,7 @@
 				"noIntroName": "Dokodemo Taikyoku - Yakuman Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2806",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -100260,6 +100301,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0300",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"World"
 				],
@@ -102442,6 +102484,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0305",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -104284,6 +104327,7 @@
 				"noIntroName": "Doraemon no Quiz Boy (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1380",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -106918,6 +106962,7 @@
 				"noIntroName": "Doubutsu-jima no Chobigurumi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2816",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -108042,6 +108087,7 @@
 				"noIntroName": "Dr. Mario (World) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0330",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"World"
 				],
@@ -111358,6 +111404,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -112520,6 +112567,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -116245,6 +116293,7 @@
 				"noIntroName": "Duel Masters 3 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2857",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -117063,6 +117112,7 @@
 				"noIntroName": "DX Bakenou Z (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0353",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -117737,6 +117787,7 @@
 				"noIntroName": "Shin Sangoku Musou Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2856",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -119231,6 +119282,7 @@
 				"noIntroName": "Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2611",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -122475,6 +122527,7 @@
 				"noIntroName": "EX Monopoly (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2881",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -122985,6 +123038,7 @@
 				"noIntroName": "Extreme Skate Adventure (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2823",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -123781,6 +123835,7 @@
 				"noIntroName": "F-1 Race (World) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0363",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"World"
 				],
@@ -126714,6 +126769,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -131010,6 +131066,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1572",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -132490,6 +132547,7 @@
 				"noIntroName": "Final Fantasy I, II Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1577",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -132706,6 +132764,7 @@
 				"noIntroName": "Final Fantasy IV Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2588",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -133135,6 +133194,7 @@
 				"noIntroName": "Makai Toushi Sa-Ga (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0730",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -133974,6 +134034,7 @@
 				"noIntroName": "Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=3067",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -138384,6 +138445,7 @@
 				"noIntroName": "Franklin the Turtle (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2798",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"Europe"
 				],
@@ -138413,6 +138475,7 @@
 				"noIntroName": "Franklin the Turtle (Europe) (En,Fr,De,It,Sv,No,Da,Fi) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2808",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -139324,6 +139387,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1367",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 2",
 				"regions": [
 					"USA"
 				],
@@ -139348,6 +139412,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1368",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -139543,6 +139608,7 @@
 				"noIntroName": "Frogger 2 (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1439",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -140466,6 +140532,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -140945,6 +141012,7 @@
 				"noIntroName": "Fruits Mura no Doubutsu-tachi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2858",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -140966,6 +141034,7 @@
 				"noIntroName": "Fruits Mura no Doubutsu-tachi (Japan) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2784",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -142860,6 +142929,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0374",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -142966,6 +143036,7 @@
 				"noIntroName": "Gakuen Alice - Dokidoki Fushigi Taiken (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2781",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -143391,6 +143462,7 @@
 				"noIntroName": "Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1466",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -143664,6 +143736,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0415",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -144458,6 +144531,7 @@
 				"noIntroName": "Game Boy Aging Cartridge (World) (En,Ja) (v1.1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1746",
 				"system": "dmg",
+				"revision": "v1.1",
 				"regions": [
 					"World"
 				],
@@ -146161,6 +146235,7 @@
 				"noIntroName": "Game Genie (USA) (v2.1) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0429",
 				"system": "dmg",
+				"revision": "v2.1",
 				"regions": [
 					"USA"
 				],
@@ -146776,6 +146851,7 @@
 				"noIntroName": "GameShark MX (USA) (v1.02) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1537",
 				"system": "cgb",
+				"revision": "v1.02",
 				"regions": [
 					"USA"
 				],
@@ -147597,6 +147673,7 @@
 				"noIntroName": "Garfield - The Search for Pooky (Europe) (En,Fr,De,Es,It) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2809",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"Europe"
 				],
@@ -147622,6 +147699,7 @@
 				"noIntroName": "Garfield - The Search for Pooky (Europe) (En,Fr,De,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2819",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -148142,6 +148220,7 @@
 				"noIntroName": "Gargoyle's Quest (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1630",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -149442,6 +149521,7 @@
 				"noIntroName": "GB-A TV Tuner PAL (China) (v2.0) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x037",
 				"system": "agb",
+				"revision": "v2.0",
 				"regions": [
 					"China"
 				],
@@ -149492,6 +149572,7 @@
 				"noIntroName": "GB-A TV Tuner PAL (China) (v1.3) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x036",
 				"system": "agb",
+				"revision": "v1.3",
 				"regions": [
 					"China"
 				],
@@ -149752,6 +149833,7 @@
 				"noIntroName": "GBA Movie Player - 2nd Version (World) (V2.00) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=3152",
 				"system": "agb",
+				"revision": "V2.00",
 				"regions": [
 					"World"
 				],
@@ -159136,6 +159218,7 @@
 				"noIntroName": "Goukaku Boy Series - Gakken - Yojijukugo 288 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0478",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -160629,6 +160712,7 @@
 				"noIntroName": "Goukaku Boy Series - Shikakui Atama o Maruku Suru - Suuji de Asobou Sansuu Hen (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0495",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -164783,6 +164867,7 @@
 				"noIntroName": "Gyakuten Saiban (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2111",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -167148,6 +167233,7 @@
 				"noIntroName": "Hamster Paradise 2 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0446",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -171331,6 +171417,7 @@
 				"noIntroName": "Bokujou Monogatari 3 GB - Boy Meets Girl (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1465",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -173370,6 +173457,7 @@
 				"noIntroName": "Hello! Idol Debut - Kids Idol Ikusei Game (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2859",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -174922,6 +175010,7 @@
 				"noIntroName": "Higanbana (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0826",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -175647,6 +175736,7 @@
 				"noIntroName": "Hikaru no Go (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2779",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -182078,6 +182168,7 @@
 				"noIntroName": "Hunter X Hunter - Minna Tomodachi Daisakusen!! (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2880",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -182632,6 +182723,7 @@
 				"noIntroName": "Hyper Lode Runner (World) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0552",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"World"
 				],
@@ -185108,6 +185200,7 @@
 				"noIntroName": "Infinity (World) (v1.1) (Incube8 Games)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=2661",
 				"system": "cgb",
+				"revision": "v1.1",
 				"regions": [
 					"World"
 				],
@@ -189311,6 +189404,7 @@
 				"noIntroName": "J.League Pocket (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2874",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -192386,6 +192480,7 @@
 				"noIntroName": "Jetsons, The - Robot Panic (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1674",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -194363,6 +194458,7 @@
 				"noIntroName": "Jissen ni Yakudatsu Tsumego (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0526",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -196924,6 +197020,7 @@
 				"noIntroName": "Jurassic Boy 2 (Taiwan) (En) (Rev 1) (Sachen) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0531",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Taiwan"
 				],
@@ -201335,6 +201432,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1672",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -202337,6 +202435,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1429",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -205723,6 +205822,7 @@
 				"noIntroName": "Kim Possible (Europe) (En,Fr,De,Es) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2793",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -206593,6 +206693,7 @@
 				"noIntroName": "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0816",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -206747,6 +206848,7 @@
 				"noIntroName": "King of Fighters EX, The - NeoBlood (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2606",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -207835,6 +207937,7 @@
 				"noIntroName": "Kinin Koumaroku Oni (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1633",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -208783,6 +208886,7 @@
 				"noIntroName": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1434",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -209340,6 +209444,7 @@
 				"noIntroName": "Hoshi no Kirby (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0539",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -211003,6 +211108,7 @@
 				"noIntroName": "Kisekae Series 2 - Oshare Nikki (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1379",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -215418,6 +215524,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0672",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -215549,6 +215656,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -216289,6 +216397,7 @@
 				"noIntroName": "Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=x209",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -222949,6 +223058,7 @@
 				"noIntroName": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0693",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -222975,6 +223085,7 @@
 				"noIntroName": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0694",
 				"system": "dmg",
+				"revision": "Rev 2",
 				"regions": [
 					"USA",
 					"Europe"
@@ -223490,6 +223601,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"France"
 				],
@@ -223538,6 +223650,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Germany"
 				],
@@ -223589,6 +223702,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -223613,6 +223727,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 2",
 				"regions": [
 					"USA",
 					"Europe"
@@ -223668,6 +223783,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -223693,6 +223809,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -226171,6 +226288,7 @@
 				"noIntroName": "Lemmings (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1578",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -227566,6 +227684,7 @@
 				"noIntroName": "Lilo & Stitch (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2796",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -228631,6 +228750,7 @@
 				"noIntroName": "Roi Lion, Le - La Formidable Aventure de Simba (France) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1448",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"France"
 				],
@@ -232344,6 +232464,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -232461,6 +232582,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -232567,6 +232689,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -232673,6 +232796,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -232832,6 +232956,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -232938,6 +233063,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -233088,6 +233214,7 @@
 				"noIntroName": "Lord of the Rings, The - The Fellowship of the Ring (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2848",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -234250,6 +234377,7 @@
 				"noIntroName": "Love Hina Pocket (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1436",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -235796,6 +235924,7 @@
 				"noIntroName": "M&M's - Break' Em (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2703",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -239105,6 +239234,7 @@
 				"noIntroName": "Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1473",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -239274,6 +239404,7 @@
 				"noIntroName": "Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0672",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -240157,6 +240288,7 @@
 				"noIntroName": "Mail Junkies World Port (United Kingdom) (v1.01) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1536",
 				"system": "cgb",
+				"revision": "v1.01",
 				"regions": [
 					"United Kingdom"
 				],
@@ -240496,6 +240628,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -240918,6 +241051,7 @@
 				"noIntroName": "Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2782",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -246420,6 +246554,7 @@
 				"noIntroName": "Matantei Loki Ragnarok - Gensou no Labyrinth (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2882",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -249218,6 +249353,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0748",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -249359,6 +249495,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0750",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -251051,6 +251188,7 @@
 				"noIntroName": "Medarot Ni Core - Kabuto (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2852",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -251355,6 +251493,7 @@
 				"noIntroName": "Battle Network - Rockman EXE 2 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2780",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -254211,6 +254350,7 @@
 				"noIntroName": "Battle Network - Rockman EXE 3 - Black (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0849",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -254403,6 +254543,7 @@
 				"noIntroName": "Battle Network - Rockman EXE 3 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2783",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -254613,6 +254754,7 @@
 				"noIntroName": "Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=3048",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -254829,6 +254971,7 @@
 				"noIntroName": "Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2084",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -258458,6 +258601,7 @@
 				"noIntroName": "Metal Max 2 Kai (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1980",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -260191,6 +260335,7 @@
 				"noIntroName": "Mickey Mouse V (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1622",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -264977,6 +265122,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1467",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -265359,6 +265505,7 @@
 				"noIntroName": "Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2800",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -265456,6 +265603,7 @@
 				"noIntroName": "Minna no Soft Series - Shanghai (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2863",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -265591,6 +265739,7 @@
 				"noIntroName": "Minna no Soft Series - Tetris Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2810",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -269984,6 +270133,7 @@
 				"noIntroName": "Momotarou Matsuri (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0023",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -270866,6 +271016,7 @@
 				"noIntroName": "Monster Gate (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2853",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -272849,6 +273000,7 @@
 				"noIntroName": "Monster Traveler (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0759",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -273782,6 +273934,7 @@
 				"noIntroName": "Monsters, Inc. (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1370",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -276414,6 +276567,7 @@
 				"noIntroName": "Motocross Maniacs (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1577",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -282846,6 +283000,7 @@
 				"noIntroName": "Nakayoshi Youchien - Sukoyaka Enji Ikusei Game (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2822",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -284143,6 +284298,7 @@
 				"noIntroName": "Naruto - Konoha Senki (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2829",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -284286,6 +284442,7 @@
 				"noIntroName": "Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2811",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -284555,6 +284712,7 @@
 				"noIntroName": "Naruto RPG - Uketsugareshi Hi no Ishi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2801",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -286796,6 +286954,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -288569,6 +288728,7 @@
 				"noIntroName": "Neoromance Game - Harukanaru Toki no Naka de (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2802",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -289246,6 +289406,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0885",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -290234,6 +290395,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0822",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -301549,6 +301711,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1673",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -307877,6 +308040,7 @@
 				"noIntroName": "Choro Q Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2888",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -308313,6 +308477,7 @@
 				"noIntroName": "Peter Pan - Return to Neverland (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2847",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -308379,6 +308544,7 @@
 				"noIntroName": "Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2833",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -308770,6 +308936,7 @@
 				"noIntroName": "Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2862",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -315701,6 +315868,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1012",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -317938,6 +318106,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1029",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -318868,6 +319037,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1615",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -319001,6 +319171,7 @@
 				"noIntroName": "Pocket Puyo Puyo-n (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1462",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -319024,6 +319195,7 @@
 				"noIntroName": "Pocket Puyo Puyo-n (Japan) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1461",
 				"system": "cgb",
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -321034,6 +321206,7 @@
 				"noIntroName": "Pokemon - Crystal Version (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0901",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -321948,6 +322121,7 @@
 				"noIntroName": "Pocket Monsters - FireRed (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2641",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -322031,6 +322205,7 @@
 				"noIntroName": "Pokemon - FireRed Version (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1672",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -322433,6 +322608,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -323032,6 +323208,7 @@
 				"noIntroName": "Pocket Monsters - LeafGreen (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2877",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -323142,6 +323319,7 @@
 				"noIntroName": "Pokemon - LeafGreen Version (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1668",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -323759,6 +323937,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1026",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -324374,6 +324553,7 @@
 				"noIntroName": "Pocket Monsters - Ruby (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2907",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -324441,6 +324621,7 @@
 				"noIntroName": "Pokemon - Edicion Rubi (Spain) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1741",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Spain"
 				],
@@ -324483,6 +324664,7 @@
 				"noIntroName": "Pokemon - Rubin-Edition (Germany) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1959",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Germany"
 				],
@@ -324502,6 +324684,7 @@
 				"noIntroName": "Pokemon - Ruby Version (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1223",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -324525,6 +324708,7 @@
 				"noIntroName": "Pokemon - Ruby Version (USA, Europe) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1981",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"USA",
 					"Europe"
@@ -324591,6 +324775,7 @@
 				"noIntroName": "Pokemon - Version Rubis (France) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1955",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"France"
 				],
@@ -324631,6 +324816,7 @@
 				"noIntroName": "Pokemon - Versione Rubino (Italy) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1892",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Italy"
 				],
@@ -325006,6 +325192,7 @@
 				"noIntroName": "Pocket Monsters - Sapphire (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2906",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -325073,6 +325260,7 @@
 				"noIntroName": "Pokemon - Edicion Zafiro (Spain) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1742",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Spain"
 				],
@@ -325115,6 +325303,7 @@
 				"noIntroName": "Pokemon - Saphir-Edition (Germany) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1960",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Germany"
 				],
@@ -325134,6 +325323,7 @@
 				"noIntroName": "Pokemon - Sapphire Version (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1218",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -325157,6 +325347,7 @@
 				"noIntroName": "Pokemon - Sapphire Version (USA, Europe) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1986",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"USA",
 					"Europe"
@@ -325227,6 +325418,7 @@
 				"noIntroName": "Pokemon - Version Saphir (France) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1954",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"France"
 				],
@@ -325267,6 +325459,7 @@
 				"noIntroName": "Pokemon - Versione Zaffiro (Italy) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1893",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Italy"
 				],
@@ -325786,6 +325979,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -326360,6 +326554,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1022",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -326382,6 +326577,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1023",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -326406,6 +326602,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1024",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 3",
 				"regions": [
 					"Japan"
 				],
@@ -328237,6 +328434,7 @@
 				"noIntroName": "Pokemon Pinball - Ruby & Sapphire (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2152",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -328808,6 +329006,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -328835,6 +329034,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -331514,6 +331714,7 @@
 				"noIntroName": "Popeye 2 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1636",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -332162,6 +332363,7 @@
 				"noIntroName": "Power Mission (Japan) (En) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1055",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -332424,6 +332626,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1058",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -332551,6 +332754,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -332839,6 +333043,7 @@
 				"noIntroName": "Power Pro Kun Pocket 3 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2807",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -332979,6 +333184,7 @@
 				"noIntroName": "Power Pro Kun Pocket 4 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2828",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -333076,6 +333282,7 @@
 				"noIntroName": "Power Pro Kun Pocket 5 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2838",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -334272,6 +334479,7 @@
 				"noIntroName": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0951",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -334295,6 +334503,7 @@
 				"noIntroName": "Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0952",
 				"system": "cgb",
+				"revision": "Rev 2",
 				"regions": [
 					"USA"
 				],
@@ -334318,6 +334527,7 @@
 				"noIntroName": "Powerpuff Girls, The - Bad Mojo Jojo (Europe) (BJJP)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1372",
 				"system": "cgb",
+				"revision": "BJJP",
 				"regions": [
 					"Europe"
 				],
@@ -334604,6 +334814,7 @@
 				"noIntroName": "Powerpuff Girls, The - Battle Him (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0954",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -335024,6 +335235,7 @@
 				"noIntroName": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1369",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -335048,6 +335260,7 @@
 				"noIntroName": "Powerpuff Girls, The - Paint the Townsville Green (Europe) (BPTP)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1387",
 				"system": "cgb",
+				"revision": "BPTP",
 				"regions": [
 					"Europe"
 				],
@@ -335282,6 +335495,7 @@
 				"noIntroName": "Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0956",
 				"system": "cgb",
+				"revision": "Rev 2",
 				"regions": [
 					"USA"
 				],
@@ -335648,6 +335862,7 @@
 				"noIntroName": "Premier Manager 2003-04 (Europe) (En,Fr,De,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2891",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -336636,6 +336851,7 @@
 				"noIntroName": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2849",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -339906,6 +340122,7 @@
 				"noIntroName": "Purikura Pocket - Fukanzen Joshikousei Manual (Japan) (Rev 1) (NP)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1646",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -340107,6 +340324,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1801",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -340590,6 +340808,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1081",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -350997,6 +351216,7 @@
 				"noIntroName": "Rhythm Tengoku (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2787",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -351770,6 +351990,7 @@
 				"noIntroName": "Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2884",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -353110,6 +353331,7 @@
 				"noIntroName": "RoboCop (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1137",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -356936,6 +357158,7 @@
 				"noIntroName": "Roger Clemens' MVP Baseball (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1634",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -359372,6 +359595,7 @@
 				"noIntroName": "Sa-Ga 2 - Hihou Densetsu (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1158",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -361301,6 +361525,7 @@
 				"noIntroName": "Samsara Naga 1x2 (Japan) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2818",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -361320,6 +361545,7 @@
 				"noIntroName": "Samsara Naga 1x2 (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2854",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -362885,6 +363111,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -363012,6 +363239,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -363155,6 +363383,7 @@
 				"noIntroName": "Sanrio Uranai Party (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1559",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -367804,6 +368033,7 @@
 				"noIntroName": "Sennen Kazoku (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2860",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -369468,6 +369698,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1073",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -371042,6 +371273,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -373083,6 +373315,7 @@
 				"noIntroName": "Shimura Ken no Baka Tonosama - Bakushou Tenka Touitsu Game (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2805",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -373895,6 +374128,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -374028,6 +374262,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -376372,6 +376607,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1208",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -377213,6 +377449,7 @@
 				"noIntroName": "Shrek - Swamp Kart Speedway (USA) (En,Fr,De,Es,It,Nl) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2850",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -379699,6 +379936,7 @@
 				"noIntroName": "SimCity 2000 (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2851",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -379720,6 +379958,7 @@
 				"noIntroName": "SimCity 2000 (Europe) (En,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2817",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -379969,6 +380208,7 @@
 				"noIntroName": "Simple 2960 Tomodachi Series Vol. 2 - The Block Kuzushi (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2804",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -380162,6 +380402,7 @@
 				"noIntroName": "Simple 2960 Tomodachi Series Vol. 4 - The Trump - Minna de Asoberu 12 Shurui no Trump Game (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2821",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -381299,6 +381540,7 @@
 				"noIntroName": "Sims, The - Bustin' Out (USA) (En,Fr,De,Es,It,Nl) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2837",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -383542,6 +383784,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1221",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -387571,6 +387814,7 @@
 				"noIntroName": "Sonic Advance (Japan) (En,Ja) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2344",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -396862,6 +397106,7 @@
 				"noIntroName": "Spy vs Spy (Japan) (Rev 1) (NP)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1441",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -397744,6 +397989,7 @@
 				"noIntroName": "Spyro Orange - The Cortex Conspiracy (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2815",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -399033,6 +399279,7 @@
 				"noIntroName": "Star Wars (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1283",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -401568,6 +401815,7 @@
 				"noIntroName": "Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2879",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -402319,6 +402567,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1289",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -403329,6 +403578,7 @@
 				"noIntroName": "Stuart Little 2 (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2958",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -404811,6 +405061,7 @@
 				"noIntroName": "Super Ayanami Discovery SlideShow (Japan) (v1.1) (Unl)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1792",
 				"system": "dmg",
+				"revision": "v1.1",
 				"regions": [
 					"Japan"
 				],
@@ -407343,6 +407594,7 @@
 				"noIntroName": "Super Dodge Ball Advance (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2864",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -409875,6 +410127,7 @@
 				"noIntroName": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2653",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -409894,6 +410147,7 @@
 				"noIntroName": "Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2785",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -409984,6 +410238,7 @@
 				"noIntroName": "Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1611",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -410009,6 +410264,7 @@
 				"noIntroName": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2136",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Australia"
@@ -410434,6 +410690,7 @@
 				"noIntroName": "Super Mario Bros. Deluxe (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1149",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -410462,6 +410719,7 @@
 				"noIntroName": "Super Mario Bros. Deluxe (Europe) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1150",
 				"system": "cgb",
+				"revision": "Rev 2",
 				"regions": [
 					"Europe"
 				],
@@ -410637,6 +410895,7 @@
 				"noIntroName": "Super Mario Bros. Deluxe (Japan) (Rev 1) (NP)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1435",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -410728,6 +410987,7 @@
 				"noIntroName": "Super Mario Land (World) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1316",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"World"
 				],
@@ -411524,6 +411784,7 @@
 				"noIntroName": "Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1318",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -411546,6 +411807,7 @@
 				"noIntroName": "Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1319",
 				"system": "dmg",
+				"revision": "Rev 2",
 				"regions": [
 					"USA",
 					"Europe"
@@ -412162,6 +412424,7 @@
 				"noIntroName": "Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1321",
 				"system": "dmg",
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -412185,6 +412448,7 @@
 				"noIntroName": "Super Mario Land 2 - 6-tsu no Kinka (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1611",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -413232,6 +413496,7 @@
 				"noIntroName": "Super Puzzle Fighter II (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2868",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -415345,6 +415610,7 @@
 				"noIntroName": "Super Street Fighter II Turbo - Revival (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2890",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -424742,6 +425008,7 @@
 				"noIntroName": "Teenage Mutant Hero Turtles III - Radical Rescue (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1675",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -428030,6 +428297,7 @@
 				"noIntroName": "Tetris (World) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1383",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"World"
 				],
@@ -428641,6 +428909,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1632",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -428994,6 +429263,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1387",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -429904,6 +430174,7 @@
 				"noIntroName": "Tetris Worlds (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2812",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -430120,6 +430391,7 @@
 				"noIntroName": "Texas Hold 'em Poker (Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2789",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -431166,6 +431438,7 @@
 				"noIntroName": "Three-in-One Pack - Risk + Battleship + Clue (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2814",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -436703,6 +436976,7 @@
 				"noIntroName": "Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1483",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -437040,6 +437314,7 @@
 				"noIntroName": "Tom and Jerry in - Mouse Attacks! (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1464",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -442357,6 +442632,7 @@
 				"noIntroName": "Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1243",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -443037,6 +443313,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1423",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -444396,6 +444673,7 @@
 				"noIntroName": "Treasure Planet (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2792",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Europe"
 				],
@@ -450905,6 +451183,7 @@
 				"noIntroName": "Ultimate Card Games (USA) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2865",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"USA"
 				],
@@ -450926,6 +451205,7 @@
 				"noIntroName": "Ultimate Card Games (USA) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2873",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA"
 				],
@@ -457490,6 +457770,7 @@
 				"noIntroName": "Wannyan Doubutsu Byouin - Doubutsu no Oishasan Ikusei Game (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2820",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -459847,6 +460128,7 @@
 				"noIntroName": "Watashi no Kitchen (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1297",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -464198,6 +464480,7 @@
 				"noIntroName": "Winning Post for Game Boy Advance (Japan) (Rev 2)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2803",
 				"system": "agb",
+				"revision": "Rev 2",
 				"regions": [
 					"Japan"
 				],
@@ -464238,6 +464521,7 @@
 				"noIntroName": "Winning Post for Game Boy Advance (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2855",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -464809,6 +465093,7 @@
 				"noIntroName": "Wizardry Empire (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1311",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -465580,6 +465865,7 @@
 				"noIntroName": "Wizardry Summoner (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2883",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -467934,6 +468220,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1642",
 				"system": "dmg",
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -470990,6 +471277,7 @@
 				"noIntroName": "X-Men - Mutant Academy (USA, Europe) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1415",
 				"system": "cgb",
+				"revision": "Rev 1",
 				"regions": [
 					"USA",
 					"Europe"
@@ -472700,6 +472988,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1924",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "v1.2.3E",
 				"regions": [
 					"Europe"
 				],
@@ -472751,6 +473040,7 @@
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1717",
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
+				"revision": "v1.2.2G",
 				"regions": [
 					"Germany"
 				],
@@ -473377,6 +473667,7 @@
 				"noIntroName": "Yakuman (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1528",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -478022,6 +478313,7 @@
 				"noIntroName": "Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2330",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -480287,6 +480579,7 @@
 				"noIntroName": "Zelda no Densetsu - Yume o Miru Shima (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1545",
 				"system": "dmg",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -482346,6 +482639,7 @@
 				"system": "dmg",
 				"gameBoyColorEnhanced": true,
 				"superGameBoyEnhanced": true,
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],
@@ -482826,6 +483120,7 @@
 				"noIntroName": "Zoids Saga (Japan) (Rev 1)",
 				"url": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2885",
 				"system": "agb",
+				"revision": "Rev 1",
 				"regions": [
 					"Japan"
 				],

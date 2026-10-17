@@ -41,6 +41,7 @@ const sources: Sources = {
 			url: "https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1383",
 			noIntroName: "Tetris (World) (Rev 1)",
 			title: "Tetris",
+			versions: ["Rev 1"],
 			cartridgeSerials: ["DMG-TR-USA", "DMG-TRA"],
 			romChipSerials: ["DMG-TRA-1"],
 			files: [{ crc32: "46df91ad", size: 32768 }],
@@ -133,7 +134,9 @@ describe("buildGames", () => {
 			"Tetris (Japan) (En)",
 			"Tetris (World) (Rev 1)",
 		]);
+		expect(game!.versions[0]).not.toHaveProperty("revision");
 		expect(game!.versions[1]).toMatchObject({
+			revision: "Rev 1",
 			system: "dmg",
 			crc32s: ["46df91ad"],
 			titleScreenshotUrl: "https://example.com/title.png",

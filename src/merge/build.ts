@@ -61,6 +61,8 @@ export type Version = {
 	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. */
 	gameBoyColorEnhanced?: true;
 	superGameBoyEnhanced?: true;
+	/** From No-Intro, e.g. "Rev 1", "v1.1". Omitted for the first release. */
+	revision?: string;
 	regions: string[];
 	languages: string[];
 	crc32s: string[];
@@ -381,6 +383,7 @@ function noIntroVersion(
 		system: gameBoyColorEnhanced ? "dmg" : entry.dat,
 		...(gameBoyColorEnhanced && { gameBoyColorEnhanced }),
 		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
+		...(entry.versions.length && { revision: entry.versions.join(" ") }),
 		regions: entry.regions,
 		languages: entry.languages,
 		crc32s: entry.files.map(({ crc32 }) => crc32),
