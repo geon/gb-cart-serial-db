@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs";
 import { parseLabelSerials } from "../serials.ts";
-import { correctSerials, loadLabelSerialCorrections } from "../corrections.ts";
+import { correctSerials, loadSerialCorrections } from "../corrections.ts";
 import type { NoIntroEntry } from "../importers/no-intro.org/parse.ts";
 import type { GameBoyDatabaseComEntry } from "../importers/game-boy-database.com/parse.ts";
 import type { DmgpageEntry } from "../importers/dmgpage.com/parse.ts";
@@ -51,10 +51,16 @@ const records: readonly {
 	})),
 ];
 
-const corrections = loadLabelSerialCorrections();
+const corrections = loadSerialCorrections();
 
 const values = records.flatMap(({ source, record, serials }) =>
-	correctSerials(corrections, source, record ?? "", serials).map((raw) => ({
+	correctSerials(
+		corrections,
+		source,
+		record ?? "",
+		"cartridgeSerials",
+		serials,
+	).map((raw) => ({
 		source,
 		raw,
 	})),
@@ -129,6 +135,7 @@ section(
 
 const unusedCorrections = corrections.filter(
 	(correction) =>
+		correction.field === "cartridgeSerials" &&
 		!records.some(
 			({ source, record, serials }) =>
 				source === correction.source &&
@@ -137,11 +144,13 @@ const unusedCorrections = corrections.filter(
 		),
 );
 section(
-	"Corrections (raw-data-sources/corrections/label-serials.json)",
-	corrections.map(
-		({ source, title, wrong, correct }) =>
-			`${source}: ${title}: ${wrong} -> ${correct ?? "(removed)"}`,
-	),
+	"Corrections (raw-data-sources/corrections/serials.json)",
+	corrections
+		.filter(({ field }) => field === "cartridgeSerials")
+		.map(
+			({ source, title, wrong, correct }) =>
+				`${source}: ${title}: ${wrong} -> ${correct ?? "(removed)"}`,
+		),
 );
 section(
 	"Unused corrections (no longer match their source)",

@@ -8,6 +8,8 @@ export type Correction = {
 	record: string;
 	/** For readability only. */
 	title: string;
+	/** Which list of serials in the record is corrected. */
+	field: SerialField;
 	wrong: string;
 	/** Null to remove the serial. */
 	correct: string | null;
@@ -18,9 +20,11 @@ export type Correction = {
 	reported: string | null;
 };
 
-export function loadLabelSerialCorrections(): Correction[] {
+export type SerialField = "cartridgeSerials" | "romChipSerials";
+
+export function loadSerialCorrections(): Correction[] {
 	return JSON.parse(
-		readFileSync("raw-data-sources/corrections/label-serials.json", "utf-8"),
+		readFileSync("raw-data-sources/corrections/serials.json", "utf-8"),
 	) as Correction[];
 }
 
@@ -28,11 +32,14 @@ export function correctSerials(
 	corrections: readonly Correction[],
 	source: string,
 	record: string,
+	field: SerialField,
 	serials: readonly string[],
 ): string[] {
 	const relevant = corrections.filter(
 		(correction) =>
-			correction.source === source && correction.record === record,
+			correction.source === source &&
+			correction.record === record &&
+			correction.field === field,
 	);
 	return [
 		...new Set(

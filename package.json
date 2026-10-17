@@ -16,7 +16,8 @@
     "import:github.com-geon": "tsx src/importers/github.com-geon/import.ts",
     "report:label-serials": "tsx src/reports/label-serials.ts",
     "report:corrections": "tsx src/reports/corrections.ts",
-    "import:libretro-thumbnails": "tsx src/importers/libretro-thumbnails/import.ts"
+    "import:libretro-thumbnails": "tsx src/importers/libretro-thumbnails/import.ts",
+    "report:header-conflicts": "tsx src/reports/header-conflicts.ts"
   },
   "prettier": {
     "useTabs": true
