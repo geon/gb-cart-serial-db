@@ -9,22 +9,24 @@ import { titleKey } from "./title-key.ts";
 // No-Intro family, e.g. Link's Awakening's DMG-ZL and DMG-ZC.
 //
 // The regions here only pick the year of each release, e.g. 1989 for the Japanese Tetris and 1990 for the European,
-// and aren't in the database. Wikipedia's "PAL" means Europe.
+// and aren't in the database.
 
 type Region = "Japan" | "North America" | "Europe" | "Australia" | "Korea";
 
-const wikipediaRegions: Record<string, Region> = {
-	JP: "Japan",
-	NA: "North America",
-	US: "North America",
-	PAL: "Europe",
-	EU: "Europe",
-	UK: "Europe",
-	DE: "Europe",
-	FR: "Europe",
-	AU: "Australia",
-	AUS: "Australia",
-	KOR: "Korea",
+// The lists' "PAL" and "EU" are "much of Europe and Australia" (Game Boy Color list) and "Territories including much of
+// Europe, Australia, New Zealand, and parts of Asia" (Game Boy Advance list). The Game Boy list doesn't say.
+const wikipediaRegions: Record<string, readonly Region[]> = {
+	JP: ["Japan"],
+	NA: ["North America"],
+	US: ["North America"],
+	PAL: ["Europe", "Australia"],
+	EU: ["Europe", "Australia"],
+	UK: ["Europe"],
+	DE: ["Europe"],
+	FR: ["Europe"],
+	AU: ["Australia"],
+	AUS: ["Australia"],
+	KOR: ["Korea"],
 };
 
 // Regions of label serials, e.g. "USA" for DMG-TR-USA. Chinese, Asian and Brazilian releases have no dates in the lists.
@@ -212,19 +214,38 @@ export function matchWikipedia(
 }
 
 // The earliest year in the release's regions, or else the earliest year of the game, e.g. for a release without known
-// regions, or an Australian release when Wikipedia only says "PAL".
+// regions.
 export function releaseYear(
 	release: Release,
 	entries: readonly WikipediaEntry[],
 ): number | undefined {
 	const regions = releaseRegions(release);
-	const dates = entries.flatMap(({ releaseDates }) => releaseDates);
-	const years = (dates: WikipediaEntry["releaseDates"]) =>
+	// The regions of each date. A row's own Australian date replaces its PAL date there.
+	const dates = entries.flatMap(({ releaseDates }) => {
+		const hasAustralia = releaseDates.some(
+			({ region }) => region === "AU" || region === "AUS",
+		);
+		return releaseDates.map(({ region, date }) => ({
+			date,
+			regions:
+				region === undefined
+					? undefined
+					: (wikipediaRegions[region] ?? []).filter(
+							(dateRegion) =>
+								!(
+									hasAustralia &&
+									dateRegion === "Australia" &&
+									(region === "PAL" || region === "EU")
+								),
+						),
+		}));
+	});
+	const years = (dates: readonly { date: string }[]) =>
 		dates.map(({ date }) => Number(date.slice(0, 4)));
 	const inRegions = dates.filter(
-		({ region }) =>
-			region === undefined ||
-			regions.includes(wikipediaRegions[region] ?? ("" as Region)),
+		({ regions: dateRegions }) =>
+			dateRegions === undefined ||
+			dateRegions.some((region) => regions.includes(region)),
 	);
 	const [year] = [...years(inRegions.length ? inRegions : dates)].sort(
 		(a, b) => a - b,

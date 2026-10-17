@@ -103,9 +103,18 @@ test("releaseYear takes the earliest year in the release's regions", () => {
 	).toBe(1989);
 	// Else the earliest year of the game.
 	expect(releaseYear(release("x"), [tetris])).toBe(1989);
+	// PAL includes Australia, unless the row has an Australian date of its own.
 	expect(
 		releaseYear(release("DMG-TR", { serials: ["DMG-TR-AUS"] }), [tetris]),
-	).toBe(1989);
+	).toBe(1990);
+	expect(
+		releaseYear(release("DMG-TR", { serials: ["DMG-TR-AUS"] }), [
+			{
+				...tetris,
+				releaseDates: [...tetris.releaseDates, { region: "AU", date: "1991" }],
+			},
+		]),
+	).toBe(1991);
 	expect(releaseYear(release("x"), [])).toBeUndefined();
 	// Dates without a region apply to every region.
 	expect(
