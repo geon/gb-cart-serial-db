@@ -1,0 +1,44 @@
+[
+	{
+		"stem": "DMG-SP",
+		"titles": [
+			"Space Invaders (Japan)",
+			"Space Invaders (Europe)",
+			"Space Invaders (USA)"
+		],
+		"reason": "The same arcade game, but barely: the 1990 Japanese release by Taito, and the 1994 European/US version, which also contains a full Super Nintendo version of the game for the Super Game Boy mode (geon). The 1994 labels have the old two-letter code DMG-SP; its ROM chips are DMG-SPE/SPX, the Japanese ROM chip DMG-SPA.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1246",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1245",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1247",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=68",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=107",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=1080"
+		]
+	},
+	{
+		"stem": "DMG-AW2",
+		"titles": [
+			"Wario Land II (USA, Europe)",
+			"Wario Land 2 (Japan)"
+		],
+		"reason": "The same game, with the title written differently on the Japanese labels (geon).",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1481",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1291"
+		]
+	},
+	{
+		"stem": "DMG-BRA",
+		"titles": [
+			"Raku x Raku - Mishin (Japan)",
+			"Sewing Machine Operation Software (Europe)"
+		],
+		"reason": "The same sewing machine software; prototype builds have both Japanese and European language sets.",
+		"evidence": [
+			"https://tcrf.net/Proto:Sewing_Machine_Operation_Software",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0990",
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1477"
+		]
+	}
+]

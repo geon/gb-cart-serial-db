@@ -2,8 +2,9 @@
 //
 // A Nintendo label serial is <platform>-<code>[-<region>][-<reprint>]:
 // - platform: DMG (Game Boy, also used by "black" Game Boy Color compatible cartridges), CGB, AGB, AGP, GBD (Pocket Camera etc.).
-// - code: the product code. Codes of 3 or more characters end with a region/language letter, e.g. "TRA", "APAE", "APAD".
-//   The oldest codes have 2 characters and no region letter, e.g. "TR".
+// - code: the product code. Codes of 3 or more characters end with a region/language letter, e.g. "TRA", "APAE", "APAD":
+//   J Japan, E USA, P Europe, D Germany, F France, I Italy, S Spain, H Netherlands, K Korea, U Australia,
+//   X/Y European multi-language editions, A international. The oldest codes have 2 characters and no region letter, e.g. "TR".
 // - region: where it was distributed, e.g. "USA", "NOE", "NEU6". Missing on early Japanese cartridges, e.g. "DMG-TRA".
 // - reprint: a number for later print runs, e.g. "-1".
 // Chinese releases (distributed by Mani) have a numeric code and are written "DMG-104 CHN".
@@ -13,7 +14,9 @@ export type LabelSerial =
 			kind: "nintendo";
 			/** Normalized, e.g. "DMG-TR-USA-1". */
 			serial: string;
-			/** The product code without region letter, region and reprint number. Serials with the same stem are the same game, e.g. "DMG-TR" for "DMG-TRA" and "DMG-TR-USA-1", "DMG-APA" for "DMG-APAE-USA" and "DMG-APAD-NOE". */
+			/** Platform and product code, without region and reprint number, e.g. "DMG-TR" for "DMG-TR-USA-1", "DMG-TRA", "DMG-APAE" for "DMG-APAE-USA". */
+			code: string;
+			/** The code without its region/language letter, e.g. "DMG-TR" for "DMG-TRA", "DMG-APA" for "DMG-APAE" and "DMG-APAD". The same as the code for 2 character codes. */
 			stem: string;
 			region?: string;
 			reprint?: number;
@@ -136,7 +139,13 @@ export function parseLabelSerial(raw: string): LabelSerial {
 
 	const chinese = serial.match(chinesePattern);
 	if (chinese) {
-		return { kind: "nintendo", serial, stem: serial, fixes: applied };
+		return {
+			kind: "nintendo",
+			serial,
+			code: serial,
+			stem: serial,
+			fixes: applied,
+		};
 	}
 
 	const [, platform, code, region, reprint] =
@@ -147,6 +156,7 @@ export function parseLabelSerial(raw: string): LabelSerial {
 	return {
 		kind: "nintendo",
 		serial,
+		code: `${platform}-${code}`,
 		stem: `${platform}-${codeStem(code)}`,
 		...(region ? { region } : {}),
 		...(reprint ? { reprint: Number(reprint) } : {}),

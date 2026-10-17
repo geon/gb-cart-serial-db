@@ -6,13 +6,20 @@ describe("parseLabelSerial", () => {
 		expect(parseLabelSerial("DMG-TR-USA-1")).toEqual({
 			kind: "nintendo",
 			serial: "DMG-TR-USA-1",
+			code: "DMG-TR",
 			stem: "DMG-TR",
 			region: "USA",
 			reprint: 1,
 			fixes: [],
 		});
-		expect(parseLabelSerial("DMG-TRA")).toMatchObject({ stem: "DMG-TR" });
-		expect(parseLabelSerial("DMG-APAE-USA")).toMatchObject({ stem: "DMG-APA" });
+		expect(parseLabelSerial("DMG-TRA")).toMatchObject({
+			code: "DMG-TRA",
+			stem: "DMG-TR",
+		});
+		expect(parseLabelSerial("DMG-APAE-USA")).toMatchObject({
+			code: "DMG-APAE",
+			stem: "DMG-APA",
+		});
 		expect(parseLabelSerial("DMG-APAD-NOE")).toMatchObject({ stem: "DMG-APA" });
 		expect(parseLabelSerial("DMG-ALAP-NEU5")).toMatchObject({
 			stem: "DMG-ALA",
@@ -21,6 +28,7 @@ describe("parseLabelSerial", () => {
 		expect(parseLabelSerial("DMG-104 CHN")).toEqual({
 			kind: "nintendo",
 			serial: "DMG-104 CHN",
+			code: "DMG-104 CHN",
 			stem: "DMG-104 CHN",
 			fixes: [],
 		});
