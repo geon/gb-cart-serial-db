@@ -1,6 +1,11 @@
 import { describe, expect, test } from "vitest";
 import type { NoIntroEntry } from "../importers/no-intro.org/parse.ts";
-import { buildGames, gbhwdbPhotoUrl, mergeTitles, titleCase } from "./build.ts";
+import {
+	buildReleases,
+	gbhwdbPhotoUrl,
+	mergeTitles,
+	titleCase,
+} from "./build.ts";
 import { groupGames } from "./games.ts";
 import { sourceLinks, type Sources } from "./links.ts";
 
@@ -90,70 +95,77 @@ const sources: Sources = {
 	],
 };
 
-describe("buildGames", () => {
-	test("merges the sources into a game", () => {
-		const { gameOf } = groupGames(
-			sourceLinks(sources, []),
-			() => undefined,
-			new Set(),
-		);
-		const [game, ...rest] = buildGames(sources, [], gameOf);
-		expect(rest).toEqual([]);
-		expect(game).toMatchObject({
-			id: "DMG-TRA",
+function build(sources: Sources) {
+	const { gameOf } = groupGames(
+		sourceLinks(sources, []),
+		() => undefined,
+		new Set(),
+	);
+	return buildReleases(sources, [], gameOf);
+}
+
+describe("buildReleases", () => {
+	test("makes a release per product code, with its ROMs and serials", () => {
+		const releases = build(sources);
+		expect(releases.map(({ id }) => id).sort()).toEqual(["DMG-TR", "DMG-TRA"]);
+		const western = releases.find(({ id }) => id === "DMG-TR")!;
+		const japanese = releases.find(({ id }) => id === "DMG-TRA")!;
+		expect(western.gameId).toBe(japanese.gameId);
+		expect(western.familyId).toBe(japanese.familyId);
+
+		expect(western).toMatchObject({
 			title: "Tetris",
-			titles: [
-				{
-					title: "Tetris",
-					languages: ["de", "en", "ja-Latn"],
-					sources: [
-						"no-intro.org",
-						"game-boy-database.com",
-						"sprintinglegs",
-						"gbhwdb.gekkio.fi",
-					],
-				},
-			],
+			system: "dmg",
 			cartridgeSerials: [
 				{
 					serial: "DMG-TR-NOE",
 					sources: ["game-boy-database.com", "gbhwdb.gekkio.fi"],
 				},
 				{ serial: "DMG-TR-USA", sources: ["no-intro.org"] },
-				{ serial: "DMG-TRA", sources: ["no-intro.org"] },
 			],
-			romChipSerials: ["DMG-TRA-0", "DMG-TRA-1"],
+			romChipSerials: ["DMG-TRA-1"],
 			boxImageUrls: ["https://www.game-boy-database.com/vizu/2046.jpg"],
 			cartridgePhotoUrls: [
 				"https://gbhwdb.gekkio.fi/static/DMG-TRA-1/max-m-1_01_front.jpg",
 			],
 			earliestManufacturingDate: { year: 1989, week: 52 },
 		});
-		expect(game).not.toHaveProperty("licensing");
-		expect(game!.system).toBe("dmg");
-		expect(game!.versions.map(({ url }) => url)).toEqual([
-			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1382",
+		expect(western).not.toHaveProperty("licensing");
+		expect(western.roms.map(({ url }) => url)).toEqual([
 			"https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1383",
 		]);
-		expect(game!.versions[0]).not.toHaveProperty("noIntroName");
-		expect(game!.versions[0]).not.toHaveProperty("revision");
-		expect(game!.versions[1]!.cartridgeSerials).toEqual([
-			"DMG-TR-USA",
-			"DMG-TRA",
-		]);
-		expect(game!.versions[1]!.languages).toEqual(["en"]);
-		expect(game!.versions[1]).toMatchObject({
+		expect(western.roms[0]).toMatchObject({
 			revision: "Rev 1",
+			languages: ["en"],
 			crc32s: ["46df91ad"],
 			titleScreenshotUrl: "https://example.com/title.png",
 		});
-		expect(game!.versions[1]).not.toHaveProperty("gameBoyColorEnhanced");
-		expect(game!.versions[1]).not.toHaveProperty("superGameBoyEnhanced");
-		expect(game!.links.at(-1)).toEqual({
+		expect(western.roms[0]!.cartridgeSerials).toEqual([
+			"DMG-TR-USA",
+			"DMG-TRA",
+		]);
+		expect(western.roms[0]).not.toHaveProperty("gameBoyColorEnhanced");
+		expect(western.links.at(-1)).toEqual({
 			source: "pricecharting.com",
 			url: "https://www.pricecharting.com/search-products?type=prices&q=Tetris",
 			label: "Search",
 		});
+
+		// Both ROM revisions were sold in Japan as DMG-TRA.
+		expect(japanese.roms.map(({ revision }) => revision)).toEqual([
+			undefined,
+			"Rev 1",
+		]);
+		expect(japanese.cartridgeSerials).toEqual([
+			{ serial: "DMG-TRA", sources: ["no-intro.org"] },
+		]);
+		expect(japanese.titles).toEqual([
+			{
+				title: "Tetris",
+				languages: ["en", "ja-Latn"],
+				sources: ["no-intro.org"],
+			},
+		]);
 	});
 });
 
@@ -247,13 +259,8 @@ test("tags sprintinglegs titles and translations with their language", () => {
 			},
 		],
 	};
-	const { gameOf } = groupGames(
-		sourceLinks(japanese, []),
-		() => undefined,
-		new Set(),
-	);
-	const [game] = buildGames(japanese, [], gameOf);
-	expect(game!.titles).toEqual([
+	const [release] = build(japanese);
+	expect(release!.titles).toEqual([
 		{ title: "ポケットカメラ", languages: ["ja"], sources: ["sprintinglegs"] },
 		{
 			title: "Pocket camera",
@@ -281,13 +288,8 @@ test("doesn't tag sprintinglegs titles in Latin letters by the game's language",
 			},
 		],
 	};
-	const { gameOf } = groupGames(
-		sourceLinks(german, []),
-		() => undefined,
-		new Set(),
-	);
-	const [game] = buildGames(german, [], gameOf);
-	expect(game!.titles).toEqual([
+	const [release] = build(german);
+	expect(release!.titles).toEqual([
 		{
 			title: "102 Dalmatians : Puppies to the Rescue",
 			languages: [],
@@ -296,7 +298,7 @@ test("doesn't tag sprintinglegs titles in Latin letters by the game's language",
 	]);
 });
 
-test("marks unlicensed and pirate games", () => {
+test("marks unlicensed and pirate releases", () => {
 	const pirate: Sources = {
 		...sources,
 		noIntro: [
@@ -313,12 +315,7 @@ test("marks unlicensed and pirate games", () => {
 		gbhwdb: [],
 		libretroThumbnails: [],
 	};
-	const { gameOf } = groupGames(
-		sourceLinks(pirate, []),
-		() => undefined,
-		new Set(),
-	);
-	expect(buildGames(pirate, [], gameOf)[0]).toMatchObject({
+	expect(build(pirate)[0]).toMatchObject({
 		licensing: "pirate",
 	});
 });
@@ -354,24 +351,19 @@ test("sets the system of Color games by whether they also run on the Game Boy", 
 		gbhwdb: [],
 		libretroThumbnails: [],
 	};
-	const { gameOf } = groupGames(
-		sourceLinks(color, []),
-		() => undefined,
-		new Set(),
-	);
-	const games = buildGames(color, [], gameOf);
-	const dual = games.find(({ title }) => title === "Dual")!;
-	const only = games.find(({ title }) => title === "Only")!;
+	const releases = build(color);
+	const dual = releases.find(({ title }) => title === "Dual")!;
+	const only = releases.find(({ title }) => title === "Only")!;
 	expect(dual.system).toBe("dmg");
-	expect(dual.versions[0]).toMatchObject({
+	expect(dual.roms[0]).toMatchObject({
 		gameBoyColorEnhanced: true,
 		superGameBoyEnhanced: true,
 	});
 	expect(only.system).toBe("cgb");
-	expect(only.versions[0]).not.toHaveProperty("gameBoyColorEnhanced");
+	expect(only.roms[0]).not.toHaveProperty("gameBoyColorEnhanced");
 });
 
-test("takes the system from the serials when there is no No-Intro version", () => {
+test("takes the system from the serials when there is no No-Intro ROM", () => {
 	const serialsOnly: Sources = {
 		...sources,
 		noIntro: [],
@@ -379,12 +371,7 @@ test("takes the system from the serials when there is no No-Intro version", () =
 		gbhwdb: [],
 		libretroThumbnails: [],
 	};
-	const { gameOf } = groupGames(
-		sourceLinks(serialsOnly, []),
-		() => undefined,
-		new Set(),
-	);
-	const [game] = buildGames(serialsOnly, [], gameOf);
-	expect(game!.versions).toEqual([]);
-	expect(game!.system).toBe("dmg");
+	const [release] = build(serialsOnly);
+	expect(release!.roms).toEqual([]);
+	expect(release!.system).toBe("dmg");
 });

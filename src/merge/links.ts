@@ -104,9 +104,8 @@ export function sourceLinks(
 		{ code, stem }: { code: string; stem: string },
 	): Link[] => [
 		link(source, record, keys.code(code), from),
-		...(stem === code
-			? []
-			: [link(source, record, keys.stem(stem), keys.code(code))]),
+		// Also when the code is its own stem, e.g. DMG-TR, so that it meets the codes with a region letter, e.g. DMG-TRA.
+		link(source, record, keys.stem(stem), keys.code(code)),
 	];
 
 	const labelSerialLinks = (
@@ -249,4 +248,39 @@ export function sourceLinks(
 			),
 		),
 	];
+}
+
+// The titles of each source record, by record key, for checking merges that No-Intro can't confirm.
+export function recordTitles(sources: Sources): Map<string, readonly string[]> {
+	return new Map<string, readonly string[]>([
+		...sources.noIntro.map(
+			({ url, title }) => [keys.record("no-intro.org", url), [title]] as const,
+		),
+		...sources.gameBoyDatabaseCom.map(
+			({ url, title }) =>
+				[keys.record("game-boy-database.com", url), [title]] as const,
+		),
+		...sources.sprintinglegs.map(
+			({ url, title, translatedTitle }) =>
+				[
+					keys.record("sprintinglegs", url),
+					[title, ...(translatedTitle ? [translatedTitle] : [])],
+				] as const,
+		),
+		...sources.dmgpage.map(
+			({ title }, index) =>
+				[keys.record("dmgpage.com", String(index)), [title]] as const,
+		),
+		...sources.gbhwdb.map(
+			({ url, noIntroName }) =>
+				[
+					keys.record("gbhwdb.gekkio.fi", url),
+					[noIntroName.replace(/ \(.*$/, "")],
+				] as const,
+		),
+		...sources.geon.map(
+			({ title }, index) =>
+				[keys.record("github.com-geon", String(index)), [title]] as const,
+		),
+	]);
 }

@@ -3,7 +3,8 @@ import { correctSerials } from "../corrections.ts";
 import { parseLabelSerial, parseLabelSerials } from "../serials.ts";
 import type { NoIntroDat } from "../importers/no-intro.org/parse.ts";
 import type { GbhwdbDate } from "../importers/gbhwdb.gekkio.fi/parse.ts";
-import { members } from "./union-find.ts";
+import { connectedSets, members } from "./union-find.ts";
+import { assignReleases } from "./releases.ts";
 import {
 	dmgpageLanguage,
 	languageTags,
@@ -21,30 +22,36 @@ import {
 	type Sources,
 } from "./links.ts";
 
-// A game: the same game across regions, languages, revisions and reprints.
-export type Game = {
-	/** The game's most common product code on cartridge labels and ROM chips, e.g. "DMG-TR", or else a ROM checksum, or else a source's URL. */
+// A release: a cartridge as a collector tells them apart, one per product code on the label, e.g. "DMG-TRA" (Japan) and
+// "DMG-TR" (the rest of the world) for Tetris. Its country and reprint serials, e.g. DMG-TR-USA and DMG-TR-NOE-1, are
+// variants of it. See releases.ts.
+export type Release = {
+	/** The product code, e.g. "DMG-TR", or for releases without one, the ROM, e.g. "dmg-1383", or a ROM chip code. */
 	id: string;
+	/** Releases of the same game, in other regions and languages, have the same gameId: the game's most common product code, e.g. "DMG-TR". */
+	gameId: string;
+	/** Releases of related games, e.g. reskins like Mickey Mouse and Bugs Bunny Crazy Castle, have the same familyId: the smallest gameId of the family. From No-Intro's parent/clone groups. */
+	familyId: string;
 	title: string;
-	/** From No-Intro: "unlicensed", e.g. Sachen, or "pirate", e.g. bootlegs. Omitted for licensed games, and for games not in No-Intro, which the other sources list as official releases. */
+	/** From No-Intro: "unlicensed", e.g. Sachen, or "pirate", e.g. bootlegs. Omitted for licensed releases, and for releases not in No-Intro, which the other sources list as official. */
 	licensing?: "unlicensed" | "pirate";
 	/** The cartridge's system, as in Nintendo's serials: "dmg" fits all Game Boys, "cgb" only the Game Boy Color and Advance, "agb" only the Advance. From No-Intro, or else the serials, or else the sprintinglegs list. */
 	system?: GameSystem;
 	/** Every title in the sources, with its languages, if any source says, and the sources using it. See languages.ts. */
 	titles: Title[];
-	/** One per ROM in No-Intro, e.g. the Japanese and the international Tetris. */
-	versions: Version[];
 	/** Serials printed on cartridge labels, e.g. "DMG-TR-USA-1". */
 	cartridgeSerials: { serial: string; sources: string[] }[];
+	/** The ROMs in No-Intro, e.g. both revisions of the Japanese Tetris. */
+	roms: Rom[];
 	/** Codes printed on ROM chips, e.g. "DMG-TRA-1". */
 	romChipSerials: string[];
 	/** Front of the box, from game-boy-database.com. */
 	boxImageUrls: string[];
 	/** Photos of the front of documented cartridges, from gbhwdb.gekkio.fi. */
 	cartridgePhotoUrls: string[];
-	/** The earliest manufacturing date printed on a documented cartridge's board or ROM chip, from gbhwdb.gekkio.fi. Releases are on or after it. */
+	/** The earliest manufacturing date printed on a documented cartridge's board or ROM chip, from gbhwdb.gekkio.fi. The release is on or after it. */
 	earliestManufacturingDate?: GbhwdbDate;
-	/** The source records of the game. The label tells records from the same source apart, e.g. their serial. */
+	/** The source records of the release. The label tells records from the same source apart, e.g. their serial. */
 	links: { source: string; url: string; label: string }[];
 };
 
@@ -57,7 +64,7 @@ export type Title = {
 
 export type GameSystem = "dmg" | "cgb" | "agb";
 
-export type Version = {
+export type Rom = {
 	/** DAT-o-MATIC record page. */
 	url: string;
 	/** A Game Boy cartridge with Game Boy Color enhancements, e.g. the black cartridges. */
@@ -84,7 +91,13 @@ type SourceRecord = {
 	titles: { title: string; language?: string }[];
 	/** Lower is preferred for the game's title. */
 	titlePreference: number;
-	version?: Version;
+	rom?: Rom;
+	/** For No-Intro records: a key of the ROM, e.g. "dmg-1383", and its regions. */
+	romKey?: { key: string; regions: readonly string[] };
+	/** For No-Intro records: the parent/clone group. */
+	family?: string;
+	/** Unlicensed, pirate and kiosk cartridges, whose serials can't be trusted to identify a release. */
+	untrusted?: true;
 	system?: GameSystem;
 	/** The system of the list a source has the record in. */
 	listedSystem?: GameSystem;
@@ -99,11 +112,11 @@ type SourceRecord = {
 // The No-Intro region an entry is preferred for as the game's title, best first.
 const titleRegions = ["World", "USA", "Europe", "Japan"];
 
-export function buildGames(
+export function buildReleases(
 	sources: Sources,
 	corrections: readonly Correction[],
 	gameOf: ReadonlyMap<string, string>,
-): Game[] {
+): Release[] {
 	const gameOfRecord = (source: string, record: string) =>
 		gameOf.get(keys.record(source, record));
 
@@ -150,7 +163,7 @@ export function buildGames(
 						titleRegions.includes(region) ? titleRegions.indexOf(region) : 5,
 					),
 				),
-			version: noIntroVersion(
+			rom: noIntroRom(
 				entry,
 				labelSerials("no-intro.org", entry.url, entry.cartridgeSerials),
 				romChipSerials("no-intro.org", entry.url, entry.romChipSerials),
@@ -158,6 +171,14 @@ export function buildGames(
 					`${libretroRepositories[entry.dat]}/${libretroName(entry.noIntroName)}`,
 				),
 			),
+			romKey: {
+				key: `${entry.dat}-${new URL(entry.url).searchParams.get("n")}`,
+				regions: entry.regions,
+			},
+			family: entry.parentUrl ?? entry.url,
+			...((entry.licensing !== "licensed" || entry.edition === "Kiosk") && {
+				untrusted: true,
+			}),
 			system: noIntroSystem(entry),
 			licensing: entry.licensing,
 			cartridgeSerials: labelSerials(
@@ -261,11 +282,6 @@ export function buildGames(
 		})),
 	];
 
-	const gameIds = [
-		...new Set(
-			records.map(({ game }) => game).filter((game) => game !== undefined),
-		),
-	];
 	const recordsByGame = members(
 		new Map(
 			records.flatMap((record, index) =>
@@ -290,108 +306,170 @@ export function buildGames(
 		),
 	);
 
-	return gameIds
-		.map((game): Game => {
-			const gameRecords = (recordsByGame.get(game) ?? []).map(
-				(index) => records[Number(index)]!,
-			);
-			const byPreference = [...gameRecords].sort(
-				(a, b) => a.titlePreference - b.titlePreference,
-			);
-			const titles = mergeTitles(
-				byPreference.flatMap(({ source, titles }) =>
-					titles.map((title) => ({ ...title, source })),
-				),
-			);
-			const serials = [
-				...new Set(
-					gameRecords.flatMap((record) => record.cartridgeSerials ?? []),
-				),
-			].sort();
-			const dates = gameRecords.flatMap((record) => record.dates ?? []);
-			const earliest = dates.sort(compareDates)[0];
-			const licensings = new Set(gameRecords.map(({ licensing }) => licensing));
-			const licensing = licensings.has("pirate")
-				? "pirate"
-				: licensings.has("unlicensed")
-					? "unlicensed"
-					: undefined;
-			const system =
-				mostCommon(gameRecords.flatMap((record) => record.system ?? [])) ??
-				mostCommon(
-					gameRecords
-						.flatMap((record) => [
-							...(record.cartridgeSerials ?? []),
-							...(record.romChipSerials ?? []),
-						])
-						.flatMap((serial) => serialSystems[serial.slice(0, 3)] ?? []),
-				) ??
-				mostCommon(gameRecords.flatMap((record) => record.listedSystem ?? []));
-			const codeCounts = (codesByGame.get(game) ?? []).map((code) => ({
+	const games = [...recordsByGame].map(([game, indices]) => {
+		const gameRecords = indices.map((index) => records[Number(index)]!);
+		return { game, gameRecords, id: gameId(game, gameRecords) };
+	});
+
+	// The game's most common product code on cartridge labels and ROM chips, or else a ROM checksum, or else a source's URL.
+	function gameId(game: string, gameRecords: readonly SourceRecord[]): string {
+		const serials = gameRecords.flatMap((record) => [
+			...(record.cartridgeSerials ?? []),
+			...(record.romChipSerials ?? []),
+		]);
+		const mostCommonCode = (codesByGame.get(game) ?? [])
+			.map((code) => ({
 				code,
-				count: [
-					...gameRecords.flatMap((record) => record.cartridgeSerials ?? []),
-					...gameRecords.flatMap((record) => record.romChipSerials ?? []),
-				].filter((serial) => serial === code || serial.startsWith(`${code}-`))
-					.length,
-			}));
-			const mostCommonCode = codeCounts.sort(
+				count: serials.filter(
+					(serial) => serial === code || serial.startsWith(`${code}-`),
+				).length,
+			}))
+			.sort(
 				(a, b) => b.count - a.count || a.code.localeCompare(b.code),
 			)[0]?.code;
+		return (
+			mostCommonCode ??
+			(crc32sByGame.has(game)
+				? `crc32:${crc32sByGame.get(game)!.sort()[0]}`
+				: // No code or ROM checksum, e.g. a No-Intro entry without a dump, or an e-Reader.
+					[...gameRecords]
+						.sort((a, b) => a.titlePreference - b.titlePreference)
+						.find(({ url }) => url)!.url!)
+		);
+	}
 
-			return {
-				id:
-					mostCommonCode ??
-					(crc32sByGame.has(game)
-						? `crc32:${crc32sByGame.get(game)!.sort()[0]}`
-						: // No code or ROM checksum, e.g. a No-Intro entry without a dump, or an e-Reader.
-							byPreference.find(({ url }) => url)!.url!),
-				title: titles[0]!.title,
-				...(licensing && { licensing }),
-				...(system && { system }),
-				titles,
-				versions: gameRecords.flatMap(({ version }) =>
-					version ? [version] : [],
+	// Games are related through No-Intro's parent/clone groups.
+	const familyOfGame = connectedSets(
+		games.flatMap(({ id, gameRecords }) => [
+			[`game:${id}`, `game:${id}`] as const,
+			...gameRecords.flatMap(({ family }) =>
+				family ? [[`game:${id}`, `family:${family}`] as const] : [],
+			),
+		]),
+	);
+	const familyMembers = members(familyOfGame);
+	const familyIdOf = (gameId: string) =>
+		(familyMembers.get(familyOfGame.get(`game:${gameId}`)!) ?? [])
+			.filter((key) => key.startsWith("game:"))
+			.map((key) => key.slice("game:".length))
+			.sort()[0]!;
+
+	return games
+		.flatMap(({ id: gameId, gameRecords }) => {
+			const { recordReleases, serialRelease } = assignReleases(
+				gameRecords.map(
+					({ cartridgeSerials, romChipSerials, romKey, untrusted }) => ({
+						cartridgeSerials,
+						romChipSerials,
+						...(romKey && { rom: romKey }),
+						...(untrusted && { untrusted }),
+					}),
 				),
-				cartridgeSerials: serials.map((serial) => ({
-					serial,
-					sources: [
-						...new Set(
-							gameRecords
-								.filter((record) => record.cartridgeSerials?.includes(serial))
-								.map(({ source }) => source),
-						),
-					],
-				})),
-				romChipSerials: [
-					...new Set(
-						gameRecords.flatMap((record) => record.romChipSerials ?? []),
+				gameId,
+			);
+			const releaseIds = [...new Set(recordReleases.flat())];
+			return releaseIds.map((releaseId) =>
+				buildRelease(
+					releaseId,
+					gameId,
+					familyIdOf(gameId),
+					gameRecords.filter((_, index) =>
+						recordReleases[index]!.includes(releaseId),
 					),
-				].sort(),
-				boxImageUrls: [
-					...new Set(
-						gameRecords.flatMap(({ boxImageUrl }) =>
-							boxImageUrl ? [boxImageUrl] : [],
-						),
-					),
-				],
-				cartridgePhotoUrls: gameRecords.flatMap(({ cartridgePhotoUrl }) =>
-					cartridgePhotoUrl ? [cartridgePhotoUrl] : [],
+					serialRelease,
 				),
-				...(earliest && { earliestManufacturingDate: earliest }),
-				links: [
-					...gameRecords.flatMap(({ source, url, label }) =>
-						url ? [{ source, url, label }] : [],
-					),
-					{
-						source: "pricecharting.com",
-						url: `https://www.pricecharting.com/search-products?type=prices&q=${encodeURIComponent(titles[0]!.title)}`,
-						label: "Search",
-					},
-				],
-			};
+			);
 		})
 		.sort((a, b) => a.title.localeCompare(b.title) || a.id.localeCompare(b.id));
+}
+
+function buildRelease(
+	id: string,
+	gameId: string,
+	familyId: string,
+	releaseRecords: readonly SourceRecord[],
+	serialRelease: (serial: string) => string | undefined,
+): Release {
+	const byPreference = [...releaseRecords].sort(
+		(a, b) => a.titlePreference - b.titlePreference,
+	);
+	const titles = mergeTitles(
+		byPreference.flatMap(({ source, titles }) =>
+			titles.map((title) => ({ ...title, source })),
+		),
+	);
+	// A ROM in several releases, e.g. Tetris Rev 1 under DMG-TR and DMG-TRA, only brings the serials of this release.
+	const serialsOf = (record: SourceRecord) =>
+		(record.cartridgeSerials ?? []).filter(
+			(serial) => !record.rom || serialRelease(serial) === id,
+		);
+	const serials = [...new Set(releaseRecords.flatMap(serialsOf))].sort();
+	const dates = releaseRecords.flatMap((record) => record.dates ?? []);
+	const earliest = dates.sort(compareDates)[0];
+	const licensings = new Set(releaseRecords.map(({ licensing }) => licensing));
+	const licensing = licensings.has("pirate")
+		? "pirate"
+		: licensings.has("unlicensed")
+			? "unlicensed"
+			: undefined;
+	const system =
+		mostCommon(releaseRecords.flatMap((record) => record.system ?? [])) ??
+		mostCommon(
+			releaseRecords
+				.flatMap((record) => [
+					...(record.cartridgeSerials ?? []),
+					...(record.romChipSerials ?? []),
+				])
+				.flatMap((serial) => serialSystems[serial.slice(0, 3)] ?? []),
+		) ??
+		mostCommon(releaseRecords.flatMap((record) => record.listedSystem ?? []));
+
+	return {
+		id,
+		gameId,
+		familyId,
+		title: titles[0]!.title,
+		...(licensing && { licensing }),
+		...(system && { system }),
+		titles,
+		cartridgeSerials: serials.map((serial) => ({
+			serial,
+			sources: [
+				...new Set(
+					releaseRecords
+						.filter((record) => serialsOf(record).includes(serial))
+						.map(({ source }) => source),
+				),
+			],
+		})),
+		roms: releaseRecords.flatMap(({ rom }) => (rom ? [rom] : [])),
+		romChipSerials: [
+			...new Set(
+				releaseRecords.flatMap((record) => record.romChipSerials ?? []),
+			),
+		].sort(),
+		boxImageUrls: [
+			...new Set(
+				releaseRecords.flatMap(({ boxImageUrl }) =>
+					boxImageUrl ? [boxImageUrl] : [],
+				),
+			),
+		],
+		cartridgePhotoUrls: releaseRecords.flatMap(({ cartridgePhotoUrl }) =>
+			cartridgePhotoUrl ? [cartridgePhotoUrl] : [],
+		),
+		...(earliest && { earliestManufacturingDate: earliest }),
+		links: [
+			...releaseRecords.flatMap(({ source, url, label }) =>
+				url ? [{ source, url, label }] : [],
+			),
+			{
+				source: "pricecharting.com",
+				url: `https://www.pricecharting.com/search-products?type=prices&q=${encodeURIComponent(titles[0]!.title)}`,
+				label: "Search",
+			},
+		],
+	};
 }
 
 // No-Intro's Game Boy Color list also has the Game Boy cartridges with Color enhancements, the black cartridges.
@@ -417,12 +495,12 @@ function mostCommon<T>(values: readonly T[]): T | undefined {
 	return [...counts].sort((a, b) => b[1] - a[1])[0]?.[0];
 }
 
-function noIntroVersion(
+function noIntroRom(
 	entry: Sources["noIntro"][number],
 	cartridgeSerials: string[],
 	romChipSerials: string[],
 	images: Sources["libretroThumbnails"][number] | undefined,
-): Version {
+): Rom {
 	const gameBoyColorEnhanced =
 		entry.dat === "cgb" && entry.specialTags.includes("GB Compatible");
 	const superGameBoyEnhanced = entry.specialTags.some((tag) =>

@@ -1,0 +1,587 @@
+[
+	{
+		"stem": "DMG-P8",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0075",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-P8-163-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-P8-164-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=678",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=701",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Avenging Spirit (USA, Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-P8J-3162-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=667"
+			]
+		]
+	},
+	{
+		"stem": "DMG-GK",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0077",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0158",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-GK-246-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-GK-247-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-GK-248-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-GK-249-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-GK-3035-USA-1.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=713",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=714",
+				"record:dmgpage.com:32",
+				"record:dmgpage.com:42",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-GKE-0/ikk5-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-GKX-0/mattcurrie-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/B.C. Kid (Europe)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Bonk's Adventure (USA)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-GKJ-3521-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=686"
+			]
+		]
+	},
+	{
+		"stem": "DMG-RJ",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0078",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-RJ-250-EUR.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-RJ-251-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-RJ-3034-USA-1.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1188",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-RJX-0/mattcurrie-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/B.C. Kid 2 (Europe) (SGB Enhanced)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-RJJ-3522-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1057"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1077"
+			]
+		]
+	},
+	{
+		"stem": "DMG-WR",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0084",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-WRA-3713-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=69",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Bakuretsu Senshi Warrior (Japan) (En)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-WR-466-USA.html",
+				"record:dmgpage.com:72"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=272"
+			]
+		]
+	},
+	{
+		"stem": "DMG-LE",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0126",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0127",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LE-257-ESP.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LE-258-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LE-259-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LE-261-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=663",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=708",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Best of the Best - Championship Karate (Europe)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Best of the Best - Championship Karate (USA)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LEA-3633-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=743"
+			]
+		]
+	},
+	{
+		"stem": "DMG-LB",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0129",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LB-262-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LB-263-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LB-2918-AUS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LB-3304-NOE.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=362",
+				"record:dmgpage.com:36",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Bill _ Ted's Excellent Game Boy Adventure - A Bogus Journey! (USA, Europe)"
+			],
+			[
+				"record:github.com-geon:0"
+			]
+		]
+	},
+	{
+		"stem": "DMG-AYW",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0148",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0149",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-AYWJ-3742-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1496",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1497",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-0/gekkio-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-0/hdr-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-0/hdr-2.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-0/hdr-3.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-0/hdr-4.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-1/hdr-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-1/hdr-2.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-1/hdr-3.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-1/hdr-4.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-AYWJ-1/smelly-ghost-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Bokujou Monogatari GB (Japan) (Rev 1) (SGB Enhanced)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Bokujou Monogatari GB (Japan) (SGB Enhanced)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-AYWE-843-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1575"
+			]
+		]
+	},
+	{
+		"stem": "DMG-BW",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0173",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-BW-322-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-BW-323-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1128",
+				"record:dmgpage.com:47",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Brain Bender (Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-BWA-3746-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=393"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=378"
+			]
+		]
+	},
+	{
+		"stem": "DMG-CJ",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0210",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJ-385-AUS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJ-386-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJ-387-ITA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJ-388-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJ-390-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJ-2350-ESP.html",
+				"record:dmgpage.com:61",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Castelian (Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CJJ-3753-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=607"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=251"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=514"
+			]
+		]
+	},
+	{
+		"stem": "DMG-ADN",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0216",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ADNP-407-EUR.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ADNP-408-EUR-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ADNE-409-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1509",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1511",
+				"record:dmgpage.com:64",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-ADNP-0/3615retro-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Castlevania Legends (USA, Europe) (SGB Enhanced)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ADNJ-3173-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1470"
+			]
+		]
+	},
+	{
+		"stem": "DMG-YK",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0359",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1229",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-657-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-1756-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-1758-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-2435-ESP-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-2436-ESP-2.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-2892-FAH-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-3261-ESP-3.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-3430-AUS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-3699-USA-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-4312-FRG-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-4522-ITA-3.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-4542-ITA-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-4591-NOE-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-4962-ITA-2.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-5160-ESP-3.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YK-5297-FRG-2.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1030",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1058",
+				"record:dmgpage.com:99",
+				"record:dmgpage.com:288",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-YKY-0/granmastro-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-YKY-0/issotm-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-YKY-0/issotm-2.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-YKY-0/tobiasvl-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Elite Soccer (USA) (SGB Enhanced)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Soccer (Europe, Australia) (En,Fr,De) (SGB Enhanced)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-YKA-3343-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1004"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=999"
+			]
+		]
+	},
+	{
+		"stem": "DMG-IY",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0403",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-744-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-745-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-746-SCN.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-748-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-2369-ESP.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-2672-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IY-3638-AUS.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=389",
+				"record:dmgpage.com:114",
+				"record:dmgpage.com:115",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Fortified Zone (USA, Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-IYJ-3649-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=252"
+			]
+		]
+	},
+	{
+		"stem": "DMG-L5",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0685",
+				"record:dmgpage.com:370",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Lawnmower Man, The (Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-L5J-4119-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=943"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1033"
+			]
+		]
+	},
+	{
+		"stem": "DMG-ZT",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1360",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-1988-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-1991-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-2462-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-2570-FAH-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-2697-HOL.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-2898-NOE-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-3454-USA-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ZT-4536-ITA.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Looney Tunes 2 - Tasmanian Devil in Island Chase (USA, Europe)"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1041"
+			]
+		]
+	},
+	{
+		"stem": "DMG-OJ",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0738",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-OJ-1177-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=274",
+				"record:dmgpage.com:185",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Maru's Mission (USA)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-OJJ-3450-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=149"
+			]
+		]
+	},
+	{
+		"stem": "DMG-KV",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0745",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KV-1180-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KV-1181-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KV-2498-FRG.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=658",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Max (Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KVA-4023-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=487"
+			]
+		]
+	},
+	{
+		"stem": "DMG-W2",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0757",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0758",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1192-ESP-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1193-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1194-FAH-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1195-FAH-2.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1197-FRG-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1199-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-1201-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-2629-AUS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-2775-USA-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-2799-SCN.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-3432-AUS-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-4251-NOE-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-4252-NEU6-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-4253-ESP-2.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2-5242-BRA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=484",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=632",
+				"record:dmgpage.com:192",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-W2E-0/beckybecky125-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-W2X-0/3615retro-1.html",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-W2X-0/tobiasvl-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Mega Man II (Europe)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Mega Man II (USA)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-W2J-3902-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=456"
+			]
+		]
+	},
+	{
+		"stem": "DMG-WM",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0763",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0764",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-WM-1227-EUR.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-WM-1228-USA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1311",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-WMX-0/tobiasvl-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Mega Man V (Europe) (SGB Enhanced)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Mega Man V (USA) (SGB Enhanced)"
+			],
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1147",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-WMJ-3571-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1019",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Rockman World 5 (Japan) (SGB Enhanced)"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1048"
+			]
+		]
+	},
+	{
+		"stem": "DMG-DR",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0853",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-DR-1354-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-DR-1355-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-DR-1357-USA.html",
+				"record:dmgpage.com:213",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Nail 'n Scale (USA, Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-DRA-3941-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=216"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=527"
+			]
+		]
+	},
+	{
+		"stem": "DMG-CN",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=0931",
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1072",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1434-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1578-ASI.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1579-ESP.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1580-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1581-GPS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1582-ITA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1583-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-1584-SCN.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-2964-USA-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-3284-AUS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CN-4563-FRG.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=229",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=417",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-CNE-0/gekkio-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Operation C (USA)",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Probotector (Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-CNJ-3766-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=208"
+			]
+		]
+	},
+	{
+		"stem": "DMG-LM",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1248",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LM-1793-AUS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LM-1794-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LM-1795-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LM-1796-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LM-2437-ESP.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=535",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Spanky's Quest (Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-LMJ-4056-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=263"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=390"
+			]
+		]
+	},
+	{
+		"stem": "DMG-E2",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1251",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-E2-1797-ESP.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-E2-1798-FRG.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-E2-1799-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-E2-1800-NOE-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-E2-1801-USA.html",
+				"record:dmgpage.com:295",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Speedball 2 - Brutal Deluxe (USA, Europe)"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=661"
+			]
+		]
+	},
+	{
+		"stem": "DMG-HZ",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1287",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-HZ-1862-USA.html",
+				"record:dmgpage.com:310",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Stop That Roach! (USA)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-HZJ-3133-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=962"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1022"
+			]
+		]
+	},
+	{
+		"stem": "DMG-KF",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1314",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KF-1892-ESP.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KF-2811-SCN.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KF-3016-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KF-4469-ITA.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=503",
+				"record:dmgpage.com:318",
+				"record:gbhwdb.gekkio.fi:https://gbhwdb.gekkio.fi/cartridges/DMG-KFX-0/ikk5-1.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Super Kick Off (Europe) (En,Fr,De,It,Nl)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KFJ-4069-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=522"
+			]
+		]
+	},
+	{
+		"stem": "DMG-KH",
+		"groups": [
+			[
+				"record:no-intro.org:https://datomatic.no-intro.org/index.php?page=show_record&s=46&n=1424",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2131-FAH.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2132-FAH-1.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2133-ITA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2134-NOE.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2135-SCN.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2136-USA.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-2610-ESP.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-4480-GPS.html",
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KH-4586-NOE-2.html",
+				"record:libretro-thumbnails:Nintendo_-_Game_Boy/Track _ Field (USA, Europe)"
+			],
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-KHJ-3295-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=575"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=618"
+			]
+		]
+	},
+	{
+		"stem": "DMG-WZ",
+		"groups": [
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-WZ-2224-USA.html"
+			],
+			[
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=561"
+			]
+		]
+	},
+	{
+		"stem": "DMG-ASC",
+		"groups": [
+			[
+				"record:game-boy-database.com:https://www.game-boy-database.com/game-ASCJ-4058-JPN.html",
+				"record:sprintinglegs:https://www.sprintinglegs.com/gbdb/gamedata?id=1358"
+			],
+			[
+				"record:dmgpage.com:280"
+			]
+		]
+	}
+]

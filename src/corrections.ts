@@ -69,3 +69,18 @@ export function loadSameGameStems(): SameGameStem[] {
 		readFileSync("raw-data-sources/corrections/same-game-stems.json", "utf-8"),
 	) as SameGameStem[];
 }
+
+// Product codes that aren't the same game as the rest of their stem, although nothing contradicts it, e.g. "DMG-MQJ".
+export type SeparateCode = {
+	code: string;
+	/** For readability only. */
+	titles: string[];
+	reason: string;
+	evidence: string[];
+};
+
+export function loadSeparateCodes(): SeparateCode[] {
+	return JSON.parse(
+		readFileSync("raw-data-sources/corrections/separate-codes.json", "utf-8"),
+	) as SeparateCode[];
+}
