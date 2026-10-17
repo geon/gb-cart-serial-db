@@ -7,7 +7,8 @@
     "typecheck": "tsc",
     "lint": "eslint .",
     "test": "vitest",
-    "import:sprintinglegs": "tsx src/importers/sprintinglegs/import.ts"
+    "import:sprintinglegs": "tsx src/importers/sprintinglegs/import.ts",
+    "import:game-boy-database.com": "tsx src/importers/game-boy-database.com/import.ts"
   },
   "prettier": {
     "useTabs": true
