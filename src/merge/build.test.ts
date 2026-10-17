@@ -42,7 +42,7 @@ const sources: Sources = {
 			noIntroName: "Tetris (World) (Rev 1)",
 			title: "Tetris",
 			versions: ["Rev 1"],
-			cartridgeSerials: ["DMG-TR-USA", "DMG-TRA"],
+			cartridgeSerials: ["DMG-TR-USA", "DMG-TRA", "none"],
 			romChipSerials: ["DMG-TRA-1"],
 			files: [{ crc32: "46df91ad", size: 32768 }],
 		}),
@@ -137,6 +137,11 @@ describe("buildGames", () => {
 		]);
 		expect(game!.versions[0]).not.toHaveProperty("noIntroName");
 		expect(game!.versions[0]).not.toHaveProperty("revision");
+		expect(game!.versions[1]!.cartridgeSerials).toEqual([
+			"DMG-TR-USA",
+			"DMG-TRA",
+		]);
+		expect(game!.versions[1]!.languages).toEqual(["en"]);
 		expect(game!.versions[1]).toMatchObject({
 			revision: "Rev 1",
 			crc32s: ["46df91ad"],

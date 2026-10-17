@@ -6,6 +6,7 @@ import type { GbhwdbDate } from "../importers/gbhwdb.gekkio.fi/parse.ts";
 import { members } from "./union-find.ts";
 import {
 	dmgpageLanguage,
+	languageTags,
 	noIntroLanguage,
 	regionLanguage,
 	sprintinglegsLanguage,
@@ -118,6 +119,7 @@ export function buildGames(
 		agb: "Nintendo_-_Game_Boy_Advance",
 	};
 
+	// Corrected and normalized, with other publishers' codes as written, e.g. Sachen's "4B-002", and without rejected values.
 	const labelSerials = (
 		source: string,
 		record: string,
@@ -125,7 +127,12 @@ export function buildGames(
 	) =>
 		correctSerials(corrections, source, record, "cartridgeSerials", serials)
 			.flatMap(parseLabelSerials)
-			.flatMap((parsed) => (parsed.kind === "nintendo" ? [parsed.serial] : []));
+			.flatMap((parsed) => (parsed.kind === "rejected" ? [] : [parsed.serial]));
+	const romChipSerials = (
+		source: string,
+		record: string,
+		serials: readonly string[],
+	) => correctSerials(corrections, source, record, "romChipSerials", serials);
 
 	const records: SourceRecord[] = [
 		...sources.noIntro.map((entry) => ({
@@ -145,21 +152,22 @@ export function buildGames(
 				),
 			version: noIntroVersion(
 				entry,
+				labelSerials("no-intro.org", entry.url, entry.cartridgeSerials),
+				romChipSerials("no-intro.org", entry.url, entry.romChipSerials),
 				libretro.get(
 					`${libretroRepositories[entry.dat]}/${libretroName(entry.noIntroName)}`,
 				),
 			),
 			system: noIntroSystem(entry),
 			licensing: entry.licensing,
-			cartridgeSerials:
-				entry.licensing === "licensed"
-					? labelSerials("no-intro.org", entry.url, entry.cartridgeSerials)
-					: [],
-			romChipSerials: correctSerials(
-				corrections,
+			cartridgeSerials: labelSerials(
 				"no-intro.org",
 				entry.url,
-				"romChipSerials",
+				entry.cartridgeSerials,
+			),
+			romChipSerials: romChipSerials(
+				"no-intro.org",
+				entry.url,
 				entry.romChipSerials,
 			),
 		})),
@@ -411,6 +419,8 @@ function mostCommon<T>(values: readonly T[]): T | undefined {
 
 function noIntroVersion(
 	entry: Sources["noIntro"][number],
+	cartridgeSerials: string[],
+	romChipSerials: string[],
 	images: Sources["libretroThumbnails"][number] | undefined,
 ): Version {
 	const gameBoyColorEnhanced =
@@ -424,10 +434,10 @@ function noIntroVersion(
 		...(superGameBoyEnhanced && { superGameBoyEnhanced }),
 		...(entry.versions.length && { revision: entry.versions.join(" ") }),
 		regions: entry.regions,
-		languages: entry.languages,
+		languages: [...new Set(entry.languages.flatMap(languageTags))],
 		crc32s: entry.files.map(({ crc32 }) => crc32),
-		cartridgeSerials: entry.cartridgeSerials,
-		romChipSerials: entry.romChipSerials,
+		cartridgeSerials,
+		romChipSerials,
 		...(images?.boxArtUrl && { boxArtUrl: images.boxArtUrl }),
 		...(images?.titleScreenshotUrl && {
 			titleScreenshotUrl: images.titleScreenshotUrl,

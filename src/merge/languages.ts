@@ -47,17 +47,32 @@ export function noIntroLanguage(
 		return countryLanguages[region];
 	}
 	// Only entries with a single language say which language the title is in.
-	const [language] = languages;
-	const [, code, script] =
-		language?.match(/^([A-Za-z]{2})(?:-([A-Za-z]{4}))?$/) ?? [];
-	return languages.length === 1 && code
-		? [
-				code.toLowerCase(),
-				...(script
-					? [script.charAt(0).toUpperCase() + script.slice(1).toLowerCase()]
-					: []),
-			].join("-")
-		: undefined;
+	const tags = languages.flatMap(languageTags);
+	return tags.length === 1 ? tags[0] : undefined;
+}
+
+// No-Intro's language codes as language tags, e.g. ["en"] for "En", ["zh-Hant"] for "Zh-Hant", ["en-US"] for "En-US",
+// and ["de", "en"] for "De+En", a language option with both.
+export function languageTags(language: string): string[] {
+	return [
+		...new Set(
+			language.split("+").map((part) => {
+				const [, code, subtag] =
+					part.match(/^([A-Za-z]{2})(?:-([A-Za-z]{4}|[A-Za-z]{2}))?$/) ?? [];
+				if (!code) {
+					throw new Error(`Unexpected language: ${language}`);
+				}
+				return [
+					code.toLowerCase(),
+					...(subtag === undefined
+						? []
+						: subtag.length === 4
+							? [subtag.charAt(0).toUpperCase() + subtag.slice(1).toLowerCase()]
+							: [subtag.toUpperCase()]),
+				].join("-");
+			}),
+		),
+	];
 }
 
 // sprintinglegs' language names. Others, e.g. "Choice", "-", "English/French", say nothing about the title.
