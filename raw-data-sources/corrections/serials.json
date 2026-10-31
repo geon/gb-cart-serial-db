@@ -710,5 +710,18 @@
 			"https://www.sprintinglegs.com/gbdb/gamedata?id=2946"
 		],
 		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0084",
+		"title": "Balloon Fight GB (Japan) (SGB Enhanced, GB Compatible) (NP)",
+		"field": "cartridgeSerials",
+		"wrong": "DMG-BBKJ-JPN",
+		"correct": null,
+		"reason": "Its only cartridge is the Nintendo Power flash cartridge, labelled DMG-MMSA-JPN: written at kiosks, or sold in a box with the game on it (No-Intro's NP tag). It never had a ROM cartridge or a label with this serial (geon).",
+		"evidence": [
+			"https://en.wikipedia.org/wiki/Balloon_Fight_GB"
+		],
+		"reported": null
 	}
 ]
