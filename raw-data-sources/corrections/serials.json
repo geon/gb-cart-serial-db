@@ -723,5 +723,59 @@
 			"https://en.wikipedia.org/wiki/Balloon_Fight_GB"
 		],
 		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0418",
+		"title": "Golf Ou - The King of Golf (Japan) (SGB Enhanced) (GB Compatible)",
+		"field": "cartridgeSerials",
+		"wrong": "CGB-AZAJ-JPN",
+		"correct": "DMG-AZAJ-JPN",
+		"reason": "Photos of the cartridge show DMG-AZAJ-JPN on a black Game Boy & Color cartridge (\"ゲームボーイ＆カラー共通\"), three photos from different sellers (geon); sprintinglegs lists DMG-AZAJ. No-Intro's serial comes from a scene release, not a dump of a cartridge.",
+		"evidence": [
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=1846",
+			"https://www.otakaraou.com/product/15518"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0231",
+		"title": "Dance Dance Revolution GB 3 (Japan)",
+		"field": "cartridgeSerials",
+		"wrong": "DMG-BD6J-JPN",
+		"correct": "CGB-BD6J-JPN",
+		"reason": "A photo of the cartridge shows CGB-BD6J-JPN and \"ゲームボーイカラー専用\" (Game Boy Color only) (geon); sprintinglegs lists CGB-BD6J, and No-Intro has it in the Game Boy Color list without GB Compatible. No-Intro's serial comes from a scene release, not a dump of a cartridge.",
+		"evidence": [
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2829"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0512",
+		"title": "Itsudemo Pachinko GB - CR Monster House (Japan)",
+		"field": "cartridgeSerials",
+		"wrong": "DMG-BCRJ-JPN",
+		"correct": "CGB-BCRJ-JPN",
+		"reason": "No-Intro has it in the Game Boy Color list without GB Compatible, so a Game Boy Color only cartridge, whose serials start with CGB; sprintinglegs lists CGB-BCRJ. No-Intro's serial comes from a scene release, not a dump of a cartridge. No photo of the label found yet.",
+		"evidence": [
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2493"
+		],
+		"reported": null
+	},
+	{
+		"source": "game-boy-database.com",
+		"record": "https://www.game-boy-database.com/game-B99F-5432-FRA.html",
+		"title": "Les 102 dalmatiens à la rescousse",
+		"field": "cartridgeSerials",
+		"wrong": "DMG-B99F-FRA",
+		"correct": "CGB-B99F-FRA",
+		"reason": "No-Intro's trusted dump of a cartridge has label CGB-B99F-FRA and ROM chip CGB-B99F-0, in the Game Boy Color list without GB Compatible; sprintinglegs lists CGB-B99F.",
+		"evidence": [
+			"https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=0004",
+			"https://www.sprintinglegs.com/gbdb/gamedata?id=2825"
+		],
+		"reported": null
 	}
 ]
