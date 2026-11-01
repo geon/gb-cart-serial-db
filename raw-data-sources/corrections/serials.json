@@ -777,5 +777,18 @@
 			"https://www.sprintinglegs.com/gbdb/gamedata?id=2825"
 		],
 		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=47&n=1192",
+		"title": "Tetris DX (World) (SGB Enhanced) (GB Compatible)",
+		"field": "cartridgeSerials",
+		"wrong": "DMG-ATEJ-JPN",
+		"correct": "DMG-ATEA-JPN",
+		"reason": "From a scene release (Eurasia), not a cartridge. ROM chip DMG-ATEA-0 for all regions; gbhwdb has a Japanese cartridge labelled DMG-ATEA-JPN, as do photos of several Japanese cartridges in gameboy-labels.",
+		"evidence": [
+			"https://gbhwdb.gekkio.fi/cartridges/DMG-ATEA-0/beckybecky125-3.html"
+		],
+		"reported": null
 	}
 ]
