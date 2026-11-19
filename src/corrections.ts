@@ -61,6 +61,29 @@ export function correctSerials(
 	];
 }
 
+// Serials printed wrong on real labels, e.g. "DMT-DT-USA" on a run of DuckTales (USA) labels. Unlike a source's typo, they
+// are kept as label serials of the release of the serial they should have been, so lookup by serial finds them.
+export type MisprintedSerial = {
+	/** As printed on the label. */
+	serial: string;
+	/** The serial it should have been, e.g. "DMG-DT-USA". */
+	misprintOf: string;
+	/** For readability only. */
+	title: string;
+	reason: string;
+	/** URLs, or photos in the gameboy-labels repository as "gameboy-labels:<path>". */
+	evidence: string[];
+};
+
+export function loadMisprintedSerials(): MisprintedSerial[] {
+	return JSON.parse(
+		readFileSync(
+			"raw-data-sources/corrections/misprinted-serials.json",
+			"utf-8",
+		),
+	) as MisprintedSerial[];
+}
+
 // Product code stems confirmed to be the same game, although No-Intro puts its games in different families.
 export type SameGameStem = {
 	stem: string;

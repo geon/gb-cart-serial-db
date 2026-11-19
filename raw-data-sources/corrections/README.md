@@ -8,11 +8,16 @@ Corrections should also be reported to the source, so it can be fixed there. `np
 | -------------- | --------------------------------------------------------------------------------------- |
 | `serials.json` | Cartridge label and ROM chip serials (`field`): typos, and serials linked to the wrong game |
 | `same-game-stems.json` | Product code stems shared by games in different No-Intro families that are still the same game (see below) |
+| `misprinted-serials.json` | Serials printed wrong on real labels, kept as label serials of the release they should have been in (see below) |
 | `separate-codes.json` | Product codes that aren't the same game as the rest of their stem, although no No-Intro family contradicts it |
 
 The evidence is mostly the game code in the ROM header (Game Boy Advance), ROM chip serials, other sources agreeing, and photos of cartridges.
 
 Run `npm run report:label-serials` to see corrections in use and any that no longer match their source, e.g. after the source has fixed the error.
+
+## Misprinted serials
+
+Some serials really are printed wrong on the label, e.g. a run of DuckTales (USA) labels say DMT-DT-USA instead of DMG-DT-USA. They aren't errors to correct: they are added as label serials of the release of the serial they should have been, marked with `misprintOf`, so lookup by the printed serial finds them. Photos in the [gameboy-labels](https://github.com/geon/gameboy-cartridge-labels) repository are cited as `gameboy-labels:<path>`.
 
 ## Same game stems
 

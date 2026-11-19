@@ -1,0 +1,12 @@
+[
+	{
+		"serial": "DMT-DT-USA",
+		"misprintOf": "DMG-DT-USA",
+		"title": "DuckTales (USA)",
+		"reason": "A run of DuckTales (USA) labels has DMT-DT-USA printed instead of DMG-DT-USA.",
+		"evidence": [
+			"https://www.reddit.com/r/Gameboy/s/NLDphQQ4UU",
+			"https://iamerror.gamehacking.org/?page=database&catID=5&sysID=24&o=0"
+		]
+	}
+]
