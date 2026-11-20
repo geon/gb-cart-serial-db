@@ -1,0 +1,699 @@
+[
+ {
+  "serial": "AGB-BRDX-HOL",
+  "query": "AGB-BRDX-HOL",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Power Rangers S.P.D. (Europe) (En,Fr,De)",
+    "serialShown": "AGB-BRDX-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with suffix 0 (different suffix from searched). Summary does not say which of the two gbhwdb URLs showed the BRDX-0 row."
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-BRDP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Power Rangers S.P.D. (USA, Europe)",
+    "serialShown": "AGB-BRDP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Different code BRDP; the BRDX-0 row is mentioned as listed in the same database (URL attribution uncertain)."
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BRYP-EUR",
+  "query": "AGB-BRYP-EUR",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/926294-rayman-hoodlums-revenge/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Rayman: Hoodlum's Revenge",
+    "serialShown": "AGB-BRYP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU release 2005-03-18"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/186568--rayman-hoodlums-revenge",
+    "site": "retroplace.com",
+    "titleFound": "Rayman: Hoodlum's Revenge",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says it gives US counterpart AGB-BRYE-USA; unclear whether it shows BRYP-EUR itself"
+   },
+   {
+    "url": "https://gamehacking.org/game/5754",
+    "site": "gamehacking.org",
+    "titleFound": "Rayman: Hoodlums' Revenge",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary ties it to the EU release/languages; serial display not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Rayman: Hoodlums' Revenge (internal name HOODLUMS REV)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Serial display not stated in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BRZE-USA",
+  "query": "AGB-BRZE-USA",
+  "results": [
+   {
+    "url": "https://www.vgcollect.com/item/66003",
+    "site": "vgcollect.com",
+    "titleFound": "Power Rangers: Ninja Storm / Power Rangers: Time Force",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary ties the serial to this 2-in-1 pack; exact display not stated"
+   },
+   {
+    "url": "https://wiiplay2.crystalcommerce.com/buylist/video_games-nintendo-game_boy_advance_gba/power_rangers_time_force__power_rangers_ninja_storm/92619",
+    "site": "wiiplay2.crystalcommerce.com",
+    "titleFound": "Power Rangers: Time Force / Power Rangers: Ninja Storm",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Said to give same ItemNo; exact string not stated"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BRZE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with suffix 0; title not given in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BSIE-USA",
+  "query": "AGB-BSIE-USA",
+  "results": [
+   {
+    "url": "https://vgcollect.com/item/2864",
+    "site": "vgcollect.com",
+    "titleFound": "Shrek 2: Beg for Mercy!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary ties serial to Shrek 2: Beg For Mercy! overall; per-URL serial display not stated"
+   },
+   {
+    "url": "https://gamehacking.org/game/5954",
+    "site": "gamehacking.org",
+    "titleFound": "Shrek 2: Beg For Mercy!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "per-URL serial display not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "Shrek 2: Beg For Mercy!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "GAX 3.05 list; per-URL serial display not stated"
+   },
+   {
+    "url": "https://gbatemp.net/threads/1734-shrek-2-beg-for-mercy-u.21735/",
+    "site": "gbatemp.net",
+    "titleFound": "1734 - Shrek 2 - Beg for Mercy (U)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM release thread; serial display not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BSLE-USA",
+  "query": "AGB-BSLE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/tom-clancys-splinter-cell-pandora-tomorrow-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-BSLE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet scan, title shows serial in brackets"
+   },
+   {
+    "url": "https://archive.org/details/tom-clancys-splinter-cell-pandora-tomorrow-usa-french-manual",
+    "site": "archive.org",
+    "titleFound": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-BSLE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "French manual scan"
+   },
+   {
+    "url": "https://archive.org/details/tom-clancys-splinter-cell-pandora-tomorrow-usa-box",
+    "site": "archive.org",
+    "titleFound": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-BSLE USA",
+    "exact": false,
+    "kind": "other",
+    "note": "Box scan; title shows serial with a space instead of last hyphen"
+   },
+   {
+    "url": "https://vgcollect.com/item/3230",
+    "site": "vgcollect.com",
+    "titleFound": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-BSLE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/xbox/915074-tom-clancys-splinter-cell-pandora-tomorrow/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-BSLE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary says GameFAQs lists AGB-BSLE-USA, but this returned URL is the Xbox data page; the GBA page URL may not have been returned"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TOM CLANCY'S (internal name)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/6296",
+    "site": "gamehacking.org",
+    "titleFound": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-BSLE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "USA, 8M"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BSOE-USA",
+  "query": "AGB-BSOE-USA",
+  "results": [
+   {
+    "url": "https://www.uvlist.net/game-155684-Shaman+King+Master+of+Spirits",
+    "site": "uvlist.net",
+    "titleFound": "Shaman King: Master of Spirits",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary ties serial to this game collectively; per-URL display not stated"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64390--shaman-king-master-of-spirits",
+    "site": "retroplace.com",
+    "titleFound": "Shaman King: Master of Spirits",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "per-URL display not stated; EU code BSOP-EUR mentioned"
+   },
+   {
+    "url": "https://gamehacking.org/game/5897",
+    "site": "gamehacking.org",
+    "titleFound": "Shaman King: Master of Spirits",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 10E554AE, USA"
+   },
+   {
+    "url": "https://www.ebay.com/itm/255920027130",
+    "site": "ebay.com",
+    "titleFound": "Shaman King for Gameboy Advance GBA",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Shaman King (Konami KCEJ/GUN driver)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BSQP-EUR",
+  "query": "AGB-BSQP-EUR",
+  "results": [
+   {
+    "url": "https://www.ebay.co.uk/itm/127948449454",
+    "site": "ebay.co.uk",
+    "titleFound": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "serialShown": "AGB-BSQP-EUR",
+    "exact": true,
+    "kind": "listing",
+    "note": "Title includes AGB-BSQP-EUR"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64702--spongebob-squarepants-battle-for-bikini-bottom",
+    "site": "retroplace.com",
+    "titleFound": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "serialShown": "AGB-BSQP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Product code (box)"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/914963-spongebob-squarepants-battle-for-bikini-bottom/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "serialShown": "AGB-BSQP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU 11/28/03, THQ"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/068ffdf1ee118abff0d97bf97d854b4c",
+    "site": "gist.github.com",
+    "titleFound": "SBSPBATTLEBB (internal name)",
+    "serialShown": "AGB-BSQP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX 3.03A"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/SpongeBob%20SquarePants%20-%20Battle%20for%20Bikini%20Bottom%20(Europe)%20(En,Fr,De).html",
+    "site": "db.libretro.com",
+    "titleFound": "SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (En,Fr,De)",
+    "serialShown": "AGB-BSQP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SpongeBob SquarePants: Battle for Bikini Bottom",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "per-URL display not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BTNP-UKV",
+  "query": "AGB-BTNP-UKV",
+  "results": [
+   {
+    "url": "https://www.pricecharting.com/game/pal-gameboy-advance/tron-20-killer-app",
+    "site": "pricecharting.com",
+    "titleFound": "Tron 2.0: Killer App",
+    "serialShown": "AGB-BTNP-UKV",
+    "exact": true,
+    "kind": "listing",
+    "note": "eBay sale listing titles show the full code"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Tron 2.0 - Killer App (Europe)",
+    "serialShown": "AGB-BTNP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with suffix 0"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BTYE-USA",
+  "query": "AGB-BTYE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Ty the Tasmanian Tiger 2 - Bush Rescue (U).gba",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://glitchwave.com/game/ty-the-tasmanian-tiger-2-bush-rescue-gba/",
+    "site": "glitchwave.com",
+    "titleFound": "Ty the Tasmanian Tiger 2: Bush Rescue",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says it lists the code; exact display not stated"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65382--ty-the-tasmanian-tiger-2-bush-rescue",
+    "site": "retroplace.com",
+    "titleFound": "Ty the Tasmanian Tiger 2: Bush Rescue",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "USA version; EU code AGB-BTYP-EUR"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "GAX list returned; summary does not clearly say it contains this serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BUME-USA",
+  "query": "AGB-BUME-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/926475-monopoly/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Monopoly",
+    "serialShown": "AGB-BUME-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "DSI Games 2004"
+   },
+   {
+    "url": "https://picclick.com/Popular/monopoly-gba",
+    "site": "picclick.com",
+    "titleFound": "Monopoly",
+    "serialShown": "AGB-BUME-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/5",
+    "site": "gamehacking.org",
+    "titleFound": "Mission Impossible: Operation Surma",
+    "serialShown": "AGB-BUME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "US version; conflicts with Monopoly"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BW4P-EUR",
+  "query": "AGB-BW4P-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/57798--2-games-in-1-sonic-advance-sonic-battle",
+    "site": "retroplace.com",
+    "titleFound": "2 Games in 1: Sonic Advance + Sonic Battle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Europe, THQ, 11/16/2005; code display not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "2IN1_ADV_BTL (Sonic Advance + Sonic Battle)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://www.ebay.co.uk/itm/294203018612",
+    "site": "ebay.co.uk",
+    "titleFound": "1 Game Boy Advance Sonic Advance + Sonic Battle Holo Cartridge Label Sticker",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://pyrogames.co.uk/product/sonic-advance-sonic-battle-genuine-cartridge-only-game-boy-advance-gba",
+    "site": "pyrogames.co.uk",
+    "titleFound": "Sonic Advance & Sonic Battle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.agil-retrogaming.fr/jeux-game-boy-advance-a-vendre/5637-pack-de-2-jeux-en-1-sonic-advance-sonic-battle.html",
+    "site": "agil-retrogaming.fr",
+    "titleFound": "Pack de 2 jeux en 1 : Sonic Advance + Sonic Battle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BW5P-EUR",
+  "query": "AGB-BW5P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "2IN1_ADV_PIN: 2218 - 2 in 1 - Sonic Advance & Sonic Pinball Party (E).gba",
+    "serialShown": "AGB-BW5P-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "2 Games in 1 - Sonic Advance + Sonic Pinball Party (Europe)",
+    "serialShown": "AGB-BW5P-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with suffix 0"
+   },
+   {
+    "url": "https://segaretro.org/2_Games_in_1:_Sonic_Advance_&_Sonic_Pinball_Party",
+    "site": "segaretro.org",
+    "titleFound": "2 Games in 1: Sonic Advance & Sonic Pinball Party",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary shows AGB-BW5P-FAH (FR/NL) for another region; EU 2005-11-16"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/57803--2-games-in-1-sonic-advance-sonic-pinball-party",
+    "site": "retroplace.com",
+    "titleFound": "2 Games in 1: Sonic Advance + Sonic Pinball Party",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/930380-combo-pack-sonic-advance-plus-sonic-pinball-party/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Combo Pack: Sonic Advance + Sonic Pinball Party",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says US counterpart AGB-BW5E-USA; EU display not clearly stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BWLE-USA",
+  "query": "AGB-BWLE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "The Wild (2366 - The Wild (U).gba, internal THE WILD)",
+    "serialShown": "AGB-BWLE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Wild, The (USA, Europe) (En,Fr,De,Es)",
+    "serialShown": "AGB-BWLE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with suffix 0"
+   },
+   {
+    "url": "https://gamehacking.org/game/6435",
+    "site": "gamehacking.org",
+    "titleFound": "The Wild (USA, Europe)",
+    "serialShown": "AGB-BWLE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Also shows AGB-BWLP-EUR; CRC32 DE79EDC3"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BWWE-USA",
+  "query": "AGB-BWWE-USA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/game/6471",
+    "site": "gamehacking.org",
+    "titleFound": "WWE Survivor Series",
+    "serialShown": "AGB-BWWE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Also AGB-BWWP; CRC32 6694F94D"
+   },
+   {
+    "url": "https://gbatemp.net/threads/1715-wwe-survivor-series-u.21492/",
+    "site": "gbatemp.net",
+    "titleFound": "1715 - WWE Survivor Series (U)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "WWE Survivor Series (Europe)",
+    "serialShown": "AGB-BWWP",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Different region code"
+   },
+   {
+    "url": "https://www.ebay.com/itm/115520833383",
+    "site": "ebay.com",
+    "titleFound": "WWF Survivor Series WWE Gameboy Advance box and manuals only",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Box/manuals, no game"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BYDP-EUR",
+  "query": "AGB-BYDP-EUR",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/256198215213",
+    "site": "ebay.com",
+    "titleFound": "Yu-Gi-Oh Destiny Board Traveler, Nintendo Game Boy Advance",
+    "serialShown": "AGB-BYDP-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "YUGIOU DBT-E: 2130 - Yu-Gi-Oh! - Destiny Board Traveler (E).gba",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Per summary same serial"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65700--yu-gi-oh-sugoroku-no-sugoroku",
+    "site": "retroplace.com",
+    "titleFound": "Yu-Gi-Oh! Sugoroku no Sugoroku",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Unclear whether this page shows BYDP-EUR; Destiny Board Traveler is the Western name"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/y",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Listing page returned; tie to this serial not explicit"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BYYE-USA",
+  "query": "AGB-BYYE-USA",
+  "results": [
+   {
+    "url": "https://www.wiiplaygameslv.com/buylist/video_games-nintendo-game_boy_advance_gba/yu_yu_hakusho_ghost_files_spirit_detective/92930",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Yu Yu Hakusho: Ghost Files: Spirit Detective",
+    "serialShown": "AGB-BYYE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "ItemNo AGB-BYYE-USA"
+   },
+   {
+    "url": "https://cakeboardgames.com/gba-yu-yu-hakusho-ghost-files-spirit-detective-replacement-label-glossy-finish-sticker-die-cut/",
+    "site": "cakeboardgames.com",
+    "titleFound": "GBA Yu Yu Hakusho - Ghost Files Spirit Detective Replacement Label",
+    "serialShown": "AGB-BYYE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Code as SKU"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/y",
+    "site": "gamehacking.org",
+    "titleFound": "Yggdra Union: We'll Never Fight Alone",
+    "serialShown": "AGB-BYYE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "US version; conflicts with Yu Yu Hakusho"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-FEBJ-JPN",
+  "query": "AGB-FEBJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/276517798201",
+    "site": "ebay.com",
+    "titleFound": "EXCITE BIKE Racing Famicom MINI GameBoy Advance Japan Import",
+    "serialShown": "AGB-FEBJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://famiwiki.net/wiki/Famicom_Mini",
+    "site": "famiwiki.net",
+    "titleFound": "Famicom Mini 04: Excitebike",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Product code per summary; display not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "EXCITEBIKE: 1391 - Famicom Mini - Vol 4 - Excite Bike (J).gba",
+    "serialShown": "AGB-FEBJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/3ds/632672-3d-classics-excitebike/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary cites GameFAQs data with AGB-FEBJ-JPN, but this returned URL is the 3DS page; the GBA page URL may not be the one returned"
+   }
+  ]
+ }
+]

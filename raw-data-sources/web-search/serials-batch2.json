@@ -1,0 +1,689 @@
+[
+ {
+  "serial": "AGB-A3QP-EUR",
+  "query": "AGB-A3QP-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/64645--a-sound-of-thunder",
+    "site": "retroplace.com",
+    "titleFound": "A Sound of Thunder",
+    "serialShown": "AGB-A3QP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561536-a-sound-of-thunder/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "A Sound of Thunder",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary cites GameFAQs EU release (Bam, 02/28/04) but does not quote the serial"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Sound of Thunder, A (Europe)",
+    "serialShown": "AGB-A3QP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A3QP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "driver: Mobius Entertainment; title not given in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABME-USA",
+  "query": "AGB-ABME-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BUSTAMOVEGBA",
+    "serialShown": "AGB-ABME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal ROM name"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64917--super-bust-a-move",
+    "site": "retroplace.com",
+    "titleFound": "Super Bust-A-Move",
+    "serialShown": "AGB-ABME-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/game/6139",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-ABME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Region USA, CRC32 2FB4B14D"
+   },
+   {
+    "url": "http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=spuzbobj",
+    "site": "adb.arcadeitalia.net",
+    "titleFound": "Super Bust-A-Move",
+    "serialShown": "AGB-ABME-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "shown as 'Super Bust-A-Move [Model AGB-ABME-USA]'"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AD2P-EUR",
+  "query": "AGB-AD2P-EUR",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "MR. DRILLER2",
+    "serialShown": "AGB-AD2P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal ROM name"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1369 - Mr. Driller 2 (E).gba",
+    "serialShown": "AGB-AD2P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AESE-USA",
+  "query": "AGB-AESE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AESE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Ecks vs Sever (USA) (En,Fr,De,Es,It)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID not quoted in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says it includes the serial, CRC 86A861F1"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/e",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "same CRC 86A861F1 per summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHJE-USA",
+  "query": "AGB-AHJE-USA",
+  "results": [
+   {
+    "url": "https://jnlgame.com/products/hugo-the-evil-mirror-game-boy-advance",
+    "site": "jnlgame.com",
+    "titleFound": "Hugo: The Evil Mirror",
+    "serialShown": "AGB-AHJE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Product ID; summary gives publisher Namco, 24 April 2005, dev ITE Media"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-AHJP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl)",
+    "serialShown": "AGB-AHJE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says gbhwdb lists ROM ID AGB-AHJE-0 (USA variant); page itself is the AGB-AHJP-0 Europe entry"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AL2P-EUR",
+  "query": "AGB-AL2P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LEGO ISLAND",
+    "serialShown": "AGB-AL2P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal ROM name; driver MusyX"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/pc/581140-lego-island-2-the-bricksters-revenge/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "LEGO Island 2: The Brickster's Revenge",
+    "serialShown": "AGB-AL2P-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU, Lego Media, 10/12/01; URL is the PC page; also lists AGB-AL2E-USA"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/47745--lego-island-2-the-bricksters-revenge",
+    "site": "retroplace.com",
+    "titleFound": "LEGO Island 2: The Brickster's Revenge",
+    "serialShown": "AGB-AL2P-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "URL is the GBC page"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "LEGO Island 2 - The Brickster's Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+    "serialShown": "AGB-AL2P-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://game-boy-database.com/game-AL2P-1106-EUR.html",
+    "site": "game-boy-database.com",
+    "titleFound": "Lemmings 2 the Tribes EUR (41012)",
+    "serialShown": "AL2P-1106-EUR",
+    "exact": false,
+    "kind": "catalog",
+    "note": "only from result title/URL; summary did not discuss it; likely a DMG product, not AGB"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AM8E-USA",
+  "query": "AGB-AM8E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MONSTERFORCE",
+    "serialShown": "AGB-AM8E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename '0550 - Monster Force (U).gba'"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-AM8P-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Monster Force (USA)",
+    "serialShown": "AGB-AM8E-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "variant on the Europe AGB-AM8P-0 page"
+   },
+   {
+    "url": "https://cuchiwaii.com/products/monster-force-gameboy-advance-sp-micro-player-nintendo-ds-cartridge-agb-am8e-usa",
+    "site": "cuchiwaii.com",
+    "titleFound": "Monster Force",
+    "serialShown": "agb-am8e-usa",
+    "exact": false,
+    "kind": "listing",
+    "note": "serial appears in URL slug"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/5",
+    "site": "gamehacking.org",
+    "titleFound": "Mission Impossible - Operation Surma",
+    "serialShown": "AGB-AM8E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Region USA"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AQDP-EUR",
+  "query": "AGB-AQDP-EUR",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/261286772684",
+    "site": "ebay.com",
+    "titleFound": "CROUCHING TIGER HIDDEN DRAGON",
+    "serialShown": "AGB-AQDP-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-AQDP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CROUCHING TI",
+    "serialShown": "AGB-AQDP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename '1298 - Crouching Tiger Hidden Dragon (E).gba'"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "CROUCHING TI",
+    "serialShown": "AGB-AQDP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASAE-USA",
+  "query": "AGB-ASAE-USA",
+  "results": [
+   {
+    "url": "https://www.giantbomb.com/army-men-advance/3030-10937/releases/",
+    "site": "giantbomb.com",
+    "titleFound": "Army Men: Advance",
+    "serialShown": "AGB-ASAE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary says it gives the product code for the US release (June 2001); serial string not quoted verbatim"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Army Men Advance (USA, Europe)",
+    "serialShown": "AGB-ASAE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AWUE-USA",
+  "query": "AGB-AWUE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SABREWULFTHQ",
+    "serialShown": "AGB-AWUE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename '1529 - Sabre Wulf (U).gba'"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Sabre Wulf (USA)",
+    "serialShown": "AGB-AWUE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://cuchiwaii.com/products/spongebob-squarepants-the-movie-gameboy-advance-sp-micro-player-nintendo-ds-cartridge-agb-awue-usa",
+    "site": "cuchiwaii.com",
+    "titleFound": "SpongeBob SquarePants The Movie",
+    "serialShown": "agb-awue-usa",
+    "exact": false,
+    "kind": "listing",
+    "note": "only from result title/URL slug; summary did not discuss it"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AYZE-USA",
+  "query": "AGB-AYZE-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-AYZP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Rayman 3 (USA) (En,Fr,Es)",
+    "serialShown": "AGB-AYZE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "variant on Europe page"
+   },
+   {
+    "url": "https://www.gameritemwarehouse.com/products/rayman-3-gba-game-boy-advance/",
+    "site": "gameritemwarehouse.com",
+    "titleFound": "Rayman 3",
+    "serialShown": "AGB-AYZE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "summary: a seller lists Product ID AGB-AYZE-USA, barcode 008888140405, 03/04/03; which seller URL was not stated (could be retroplace/eBay)"
+   },
+   {
+    "url": "https://gamehacking.org/game/5757",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Region USA, CRC32 D1613266, Fr/En/Es; attribution inferred"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AYZE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-B63P-EUR",
+  "query": "AGB-B63P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BIGMTRUCKER",
+    "serialShown": "AGB-B63P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename '2312 - Big Mutha Truckers (E).gba'"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-B63P-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary: European release of Big Mutha Truckers"
+   },
+   {
+    "url": "https://www.nostalgeekshop.fr/product/4263999/big-mutha-truckers-eur-gba",
+    "site": "nostalgeekshop.fr",
+    "titleFound": "Big Mutha Truckers",
+    "serialShown": "AGB-B63P-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/70024--bakusou-convoy-densetsu-otoko-hanamichi-america-roman",
+    "site": "retroplace.com",
+    "titleFound": "Bakusou Convoy Densetsu - Otoko Hanamichi America Roman",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary cites EAN 5060034553779 / 2005 from this URL; serial not quoted; page is PS2"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BC2J-JPN",
+  "query": "AGB-BC2J-JPN",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/931200-crayon-shin-chan-densetsu-o-yobu-omake-no-to-shukkugaan/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Crayon Shin-Chan: Densetsu o Yobu Omake no Miyako Shukkugaan!",
+    "serialShown": "AGB-BC2J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "JP, Banpresto"
+   },
+   {
+    "url": "https://www.uvlist.net/game-156890-Crayon+Shin+chan+Densetsu+wo+Yobu+Omake+no+Miyako+Shockgaan",
+    "site": "uvlist.net",
+    "titleFound": "Crayon Shin-chan: Densetsu wo Yobu Omake no Miyako Shockgaan",
+    "serialShown": "AGB-BC2J-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/c/4",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-BC2J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "32M, CRC32 45C84466; summary did not say which of the GameHacking URLs (system/gba/c/4, game/4219, game/4208)"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "KURESHIN2006",
+    "serialShown": "AGB-BC2J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal ROM name"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BG5E-USA",
+  "query": "AGB-BG5E-USA",
+  "results": [
+   {
+    "url": "https://www.jnlgame.com/products/cabelas-big-game-hunter-2005-adventures-game-boy-advance-pre-owned",
+    "site": "jnlgame.com",
+    "titleFound": "Cabela's Big Game Hunter 2005 Adventures",
+    "serialShown": "AGB-BG5E-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/924212-cabelas-big-game-hunter-2005-adventures/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Cabela's Big Game Hunter 2005 Adventures",
+    "serialShown": "AGB-BG5E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US, Activision Value, 11/10/04; URL is the GameCube page; also AGB-BG5P-AUS / AGB-BG5P-EUR"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CABELA'S BIG",
+    "serialShown": "AGB-BG5E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename '1773 - Cabela's Big Game Hunter 2005 Adventures (U).gba'"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BHZP-FAH",
+  "query": "AGB-BHZP-FAH",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BHZP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary: a Hot Wheels compilation (European release); exact title not quoted. No page matched the -FAH suffix"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BMHJ-JPN",
+  "query": "AGB-BMHJ-JPN",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/917848-medal-of-honor-infiltrator/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Medal of Honor",
+    "serialShown": "AGB-BMHJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "JP, Electronic Arts, 12/18/03; page is Medal of Honor: Infiltrator"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Medal of Honor Advance (Japan)",
+    "serialShown": "AGB-BMHJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "INFILTRATOR",
+    "serialShown": "AGB-BMHJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 'Medal of Honor - Infiltrator (J).gba'"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BOAX-EUU",
+  "query": "AGB-BOAX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "OPEN SEASON",
+    "serialShown": "AGB-BOAX-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal ROM name"
+   },
+   {
+    "url": "https://www.etsy.com/listing/1670932190/vintage-nintendo-gameboy-advance-sp-ags?frs=1&logging_key=1e0041cf3230aca784c11a754cdd4fae9025f7a3%3A1670932190",
+    "site": "etsy.com",
+    "titleFound": "Open Season",
+    "serialShown": "AGB-BOAX-EUU",
+    "exact": true,
+    "kind": "listing",
+    "note": "GBA SP bundle listing with Open Season and Shrek 2 cartridges"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Open Season (Europe)",
+    "serialShown": "AGB-BOAX-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BRSP-UKV",
+  "query": "AGB-BRSP-UKV",
+  "results": [
+   {
+    "url": "https://onlineshop.oxfam.org.uk/spongebob-squarepants-supersponge-and-rugrats-go-wild-gameboy-advance-cartridge/product/HD_304188562",
+    "site": "onlineshop.oxfam.org.uk",
+    "titleFound": "SpongeBob SquarePants: SuperSponge and Rugrats Go Wild",
+    "serialShown": "AGB-BRSP-UKV",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BRSP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary: same double-pack, Europe; exact title not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BT2E-USA",
+  "query": "AGB-BT2E-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/ps2/920738-teenage-mutant-ninja-turtles-2-battle-nexus/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+    "serialShown": "AGB-BT2E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US, Konami, 10/19/04; URL is the PS2 page"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TMNT GBA 2",
+    "serialShown": "AGB-BT2E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal ROM name"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/67",
+    "site": "gamehacking.org",
+    "titleFound": "Teen Titans",
+    "serialShown": "AGB-BT2E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Version (USA)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BXHE-USA",
+  "query": "AGB-BXHE-USA",
+  "results": [
+   {
+    "url": "https://vgcollect.com/item/86273",
+    "site": "vgcollect.com",
+    "titleFound": "2-In-1 Fun Pack: Dreamworks Madagascar: Operation Penguin / Dreamworks Shrek 2",
+    "serialShown": "AGB-BXHE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/068ffdf1ee118abff0d97bf97d854b4c?permalink_comment_id=4287709",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-BXHE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX list ties code to Madagascar + Shrek 2 pack (file 2573); exact title not quoted"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BXHE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=IZJrnT08B_8",
+    "site": "youtube.com",
+    "titleFound": "2-in-1 Fun Pack: Shrek 2 + Madagascar - Operation Penguin",
+    "serialShown": "AGB-BXHE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "summary says the video uses the same code"
+   }
+  ]
+ }
+]

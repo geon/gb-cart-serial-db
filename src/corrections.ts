@@ -10,7 +10,8 @@ export type Correction = {
 	title: string;
 	/** Which list of serials in the record is corrected. */
 	field: SerialField;
-	wrong: string;
+	/** Null to add `correct`, a serial the record lacks (raw-data-sources/corrections/added-serials.json). */
+	wrong: string | null;
 	/** Null to remove the serial. */
 	correct: string | null;
 	reason: string;
@@ -22,10 +23,37 @@ export type Correction = {
 
 export type SerialField = "cartridgeSerials" | "romChipSerials";
 
+// A label serial a source's record lacks, e.g. one read on photos of the cartridge: added to the record's label serials.
+export type AddedSerial = {
+	/** The source's name in data-sources/, e.g. "no-intro.org". */
+	source: string;
+	/** The URL of the record it is added to. */
+	record: string;
+	/** For readability only. */
+	title: string;
+	serial: string;
+	reason: string;
+	/** URLs, or photos in the gameboy-labels repository as "gameboy-labels:<path>". */
+	evidence: string[];
+	/** As in Correction. */
+	reported: string | null;
+};
+
 export function loadSerialCorrections(): Correction[] {
-	const corrections = JSON.parse(
-		readFileSync("raw-data-sources/corrections/serials.json", "utf-8"),
-	) as Correction[];
+	const added = JSON.parse(
+		readFileSync("raw-data-sources/corrections/added-serials.json", "utf-8"),
+	) as AddedSerial[];
+	const corrections = [
+		...(JSON.parse(
+			readFileSync("raw-data-sources/corrections/serials.json", "utf-8"),
+		) as Correction[]),
+		...added.map(({ serial, ...rest }): Correction => ({
+			...rest,
+			field: "cartridgeSerials",
+			wrong: null,
+			correct: serial,
+		})),
+	];
 	for (const { record, evidence } of corrections) {
 		if (evidence.includes(record)) {
 			throw new Error(`The corrected record isn't evidence: ${record}`);
@@ -57,6 +85,10 @@ export function correctSerials(
 						: [correction.correct]
 					: [serial];
 			}),
+			// Added serials.
+			...relevant.flatMap(({ wrong, correct }) =>
+				wrong === null && correct !== null ? [correct] : [],
+			),
 		]),
 	];
 }

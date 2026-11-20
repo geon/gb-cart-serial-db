@@ -26,9 +26,11 @@ for (const source of sources) {
 		console.log(`## ${title}\n`);
 		console.log(`${record}\n`);
 		console.log(
-			correct === null
-				? `Remove ${what.toLowerCase()} ${wrong}.`
-				: `${what} ${wrong} should be ${correct}.`,
+			wrong === null
+				? `Add ${what.toLowerCase()} ${correct}.`
+				: correct === null
+					? `Remove ${what.toLowerCase()} ${wrong}.`
+					: `${what} ${wrong} should be ${correct}.`,
 		);
 		console.log(`\n${reason}\n`);
 		if (evidence.length) {

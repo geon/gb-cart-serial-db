@@ -1,0 +1,566 @@
+[
+ {
+  "serial": "AGB-A2GJ-JPN",
+  "query": "AGB-A2GJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395516026547",
+    "site": "ebay.com",
+    "titleFound": "Advance GT2",
+    "serialShown": "AGB-A2GJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0411 - Advance GT2 (J).gba",
+    "serialShown": "AGB-A2GJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://arcade-history.com/?id=69529&n=advance-gt2-model-agb-a2gj-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Advance GT2",
+    "serialShown": "AGB-A2GJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A2GJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/57893--advance-gta-2",
+    "site": "retroplace.com",
+    "titleFound": "Advance GTA 2",
+    "serialShown": "AGB-A2GJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AB4J-JPN",
+  "query": "AGB-AB4J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.co.uk/p/2208847650",
+    "site": "ebay.co.uk",
+    "titleFound": "Summon Night",
+    "serialShown": "AGB-AB4J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/395354940806",
+    "site": "ebay.com",
+    "titleFound": "Summon Night: Swordcraft Story",
+    "serialShown": "AGB-AB4J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64902--summon-night-swordcraft-story",
+    "site": "retroplace.com",
+    "titleFound": "Summon Night: Swordcraft Story",
+    "serialShown": "AGB-AB4J-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/583203-summon-night-swordcraft-story/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Summon Night: Swordcraft Story",
+    "serialShown": "AGB-AB4J-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/game/6127?hacker=Helder",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-AB4J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADBE-USA",
+  "query": "AGB-ADBE-USA",
+  "results": [
+   {
+    "url": "http://www.jeuxgameboy.com/numserie/1983_agb-adbe-usa",
+    "site": "jeuxgameboy.com",
+    "titleFound": "Denki Blocks!",
+    "serialShown": "AGB-ADBE-USA",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFSP-UKV",
+  "query": "AGB-AFSP-UKV",
+  "results": [
+   {
+    "url": "https://archive.org/details/the-flintstones-big-trouble-in-bedrock-ukv-manual",
+    "site": "archive.org",
+    "titleFound": "Flintstones, The: Big Trouble in Bedrock",
+    "serialShown": "AGB-AFSP-UKV",
+    "exact": true,
+    "kind": "other"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-AFSP-0",
+    "exact": false,
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJLP-EUU",
+  "query": "AGB-AJLP-EUU",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Justice League - Injustice for All (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-AJLP-0",
+    "exact": false,
+    "kind": "other"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "INJUSTICEFOR",
+    "serialShown": "AGB-AJLP-EUR",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AMRP-EUR",
+  "query": "AGB-AMRP-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/62907--maniac-racers-advance",
+    "site": "retroplace.com",
+    "titleFound": "Maniac Racers Advance",
+    "serialShown": "AGB-AMRP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0484 - Maniac Racers Advance (E).gba",
+    "serialShown": "AGB-AMRP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AMRP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.nintandbox.net/index.php/en/nintendo-boxes-project/GameBoyAdvance/Metroid-Zero-Mission/MetroidZeroMission_GBA-Box_EUR(AGB-AMRP-NEU6).zip/file-3870/",
+    "site": "nintandbox.net",
+    "titleFound": "Metroid Zero Mission",
+    "serialShown": "AGB-AMRP-NEU6",
+    "exact": false,
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ARKE-USA",
+  "query": "AGB-ARKE-USA",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/index.php?annee=all&demo=1&editeur=5432&export=1&mamed=1&nongame=0&page=database&pirate=1&position=15&reissue=1",
+    "site": "arcade-history.com",
+    "titleFound": "Rocket Power - Dream Scheme",
+    "serialShown": "AGB-ARKE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/rocket_power_dream_scheme/92663",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Rocket Power: Dream Scheme",
+    "serialShown": "AGB-ARKE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DREAMSCHEME",
+    "serialShown": "AGB-ARKE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/r/2",
+    "site": "gamehacking.org",
+    "titleFound": "Rock 'N Roll Racing",
+    "serialShown": "AGB-ARKE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AU2E-USA",
+  "query": "AGB-AU2E-USA",
+  "results": [
+   {
+    "url": "https://segaretro.org/Shining_Soul_II",
+    "site": "segaretro.org",
+    "titleFound": "Shining Soul II",
+    "serialShown": "AGB-AU2E-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/game/5938?hacker=DarkSerge",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-AU2E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SHININGSOUL2",
+    "serialShown": "AGB-AU2E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AZUJ-JPN",
+  "query": "AGB-AZUJ-JPN",
+  "results": [
+   {
+    "url": "https://arcade-history.com/?id=75858&n=street-fighter-zero-3-upper-model-agb-azuj-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Street Fighter Zero 3 Upper",
+    "serialShown": "AGB-AZUJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://vgmdb.net/release/17111",
+    "site": "vgmdb.net",
+    "titleFound": "Street Fighter Zero 3 Upper",
+    "serialShown": "AGB-AZUJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AZUJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/516513-street-fighter-alpha-3/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Street Fighter Alpha 3",
+    "serialShown": "AGB-AZUJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-B8QE-USA",
+  "query": "AGB-B8QE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "2435 - Pirates of the Caribbean - Dead Man's Chest (U).gba",
+    "serialShown": "AGB-B8QE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-B8QP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-B8QE-0",
+    "exact": false,
+    "kind": "other"
+   },
+   {
+    "url": "https://picclick.com/Nintendo-GBA-Pirates-of-the-Caribbean-Dead-Mans-183233951994.html",
+    "site": "picclick.com",
+    "titleFound": "PIRATES of the Caribbean Dead Man's Chest",
+    "serialShown": "AGB-B8QE-USA",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BFIE-USA",
+  "query": "AGB-BFIE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/286189042897",
+    "site": "ebay.com",
+    "titleFound": "FIFA Soccer 2004",
+    "serialShown": "AGB-BFIE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/589750-fifa-soccer-2004/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "FIFA Soccer 2004",
+    "serialShown": "AGB-BFIE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FIFA 2004",
+    "serialShown": "AGB-BFIE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/f/1",
+    "site": "gamehacking.org",
+    "titleFound": "Famicom Mini - Vol. 29 - Akumajou Dracula",
+    "serialShown": "AGB-BFIE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BIMX-EUR",
+  "query": "AGB-BIMX-EUR",
+  "results": [
+   {
+    "url": "https://www.agil-retrogaming.fr/jeux-game-boy-advance-a-vendre/4930-dogz-2.html",
+    "site": "agil-retrogaming.fr",
+    "titleFound": "Dogz 2",
+    "serialShown": "AGB-BIMX-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www2.gamespirit.fr/accueil/114959-29674-dogz-2-gba.html",
+    "site": "gamespirit.fr",
+    "titleFound": "Dogz 2 - GBA",
+    "serialShown": "AGB-BIMX-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www2.gamespirit.fr/560-jeux-pal-euro",
+    "site": "gamespirit.fr",
+    "titleFound": "Dogz 2",
+    "serialShown": "AGB-BIMX-EUR",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BNKE-USA",
+  "query": "AGB-BNKE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/930460-noddy-a-day-in-toyland/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Noddy: A Day in Toyland",
+    "serialShown": "AGB-BNKE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63672--noddy-a-day-in-toyland",
+    "site": "retroplace.com",
+    "titleFound": "Noddy: A Day in Toyland",
+    "serialShown": "AGB-BNKP",
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/n/1",
+    "site": "gamehacking.org",
+    "titleFound": "Need for Speed Carbon: Own the City",
+    "serialShown": "AGB-BNKE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Noddy",
+    "serialShown": "AGB-BNKE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BRDE-USA",
+  "query": "AGB-BRDE-USA",
+  "results": [
+   {
+    "url": "https://github.com/geon/gameboy-cartridge-labels/issues/4",
+    "site": "github.com",
+    "titleFound": "Pac-Man Collection",
+    "serialShown": "AGB-BRDE-USA",
+    "exact": true,
+    "kind": "other"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-BRDP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Power Rangers S.P.D. (USA, Europe)",
+    "serialShown": "AGB-BRDP-0",
+    "exact": false,
+    "kind": "other"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "2143 - Power Rangers - SPD (U).gba",
+    "serialShown": "AGB-BRDE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63998--power-rangers-s-p-d",
+    "site": "retroplace.com",
+    "titleFound": "Power Rangers S.P.D.",
+    "serialShown": "AGB-BRDE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.arcade-history.com/index.php?page=database&annee=all&editeur=5432&position=15&pirate=1&demo=1&export=1&reissue=1&mamed=1&nongame=0",
+    "site": "arcade-history.com",
+    "titleFound": null,
+    "serialShown": "AGB-BRDE-USA",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BTOE-USA",
+  "query": "AGB-BTOE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-BTOE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1226 - Tony Hawk's Underground (U)",
+    "serialShown": "AGB-BTOE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://glitchwave.com/game/tony-hawks-underground-gba/release/tony-hawks-underground-nintendo-game-boy-advance-na/",
+    "site": "glitchwave.com",
+    "titleFound": "Tony Hawk's Underground",
+    "serialShown": "AGB-BTOE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/915013-tony-hawks-underground/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Tony Hawk's Underground",
+    "serialShown": "AGB-BTOE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/game/6311",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-BTOE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-835E-USA",
+  "query": "AGB-835E-USA",
+  "results": [
+   {
+    "url": "https://incube8games.com/products/discrete-orange-gba",
+    "site": "incube8games.com",
+    "titleFound": "Discrete Orange (GBA)",
+    "serialShown": "AGB-835E-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://incube8games.com/products/discrete-orange-gba-digital-edition-demo",
+    "site": "incube8games.com",
+    "titleFound": "Discrete Orange (GBA) - Digital Edition - Demo",
+    "serialShown": "AGB-835E-USA",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AN2E-USA",
+  "query": "AGB-AN2E-USA",
+  "results": []
+ },
+ {
+  "serial": "AGB-AZOP-EUR",
+  "query": "AGB-AZOP-EUR",
+  "results": []
+ },
+ {
+  "serial": "AGB-BMAE-USA",
+  "query": "AGB-BMAE-USA",
+  "results": []
+ },
+ {
+  "serial": "CGB-3SZE-USA",
+  "query": "CGB-3SZE-USA",
+  "results": []
+ }
+]

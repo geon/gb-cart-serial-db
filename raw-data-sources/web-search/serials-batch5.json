@@ -1,0 +1,745 @@
+[
+ {
+  "serial": "AGB-AL9E-USA",
+  "query": "AGB-AL9E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TOMB RAIDER",
+    "serialShown": "AGB-AL9E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-AL9E-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/5090",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary gives USA, 8M, CRC32 556F40FA for the Prophecy; serial column not quoted"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62675--lara-croft-tomb-raider-the-prophecy",
+    "site": "retroplace.com",
+    "titleFound": "Lara Croft - Tomb Raider: The Prophecy",
+    "serialShown": "AGB-AL9E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary says retailer listing, 2002, EAN 008888140351; likely this URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ALBE-USA",
+  "query": "AGB-ALBE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/116810224409",
+    "site": "ebay.com",
+    "titleFound": "LEGO Bionicle Game Nintendo Game Boy Advance GBA Cartridge",
+    "serialShown": "AGB-ALBE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/117503039595",
+    "site": "ebay.com",
+    "titleFound": "LEGO Bionicle Game Nintendo Game Boy Advance GBA Cartridge",
+    "serialShown": "AGB-ALBE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LEGO BIONICL",
+    "serialShown": "AGB-ALBE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://retrospekt.com/products/lego-bionicle-game-boy-advance-game",
+    "site": "retrospekt.com",
+    "titleFound": "Lego Bionicle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Summary mentions a retailer with 2001 USA; unsure which URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ALDP-EUR",
+  "query": "AGB-ALDP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LADY SIA",
+    "serialShown": "AGB-ALDP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Lady Sia (Europe) (En,Fr,De,Es,It,Nl)",
+    "serialShown": "AGB-ALDP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62657--lady-sia",
+    "site": "retroplace.com",
+    "titleFound": "Lady Sia",
+    "serialShown": "AGB-ALDP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary: retail listing, RFX Interactive, TDK Core, 2001, box code AGB-ALDP-EUR; US code AGB-ALDE-USA; attribution to retroplace likely but not certain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ALNJ-JPN",
+  "query": "AGB-ALNJ-JPN",
+  "results": [
+   {
+    "url": "https://archive.org/details/lunar-legend-gba-jpn-card",
+    "site": "archive.org",
+    "titleFound": "Lunar Legend (ルナレジェンド)",
+    "serialShown": "AGB-ALNJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "Product registration card scan"
+   },
+   {
+    "url": "https://www.ebay.com/itm/137159430241",
+    "site": "ebay.com",
+    "titleFound": "Lunar Legend GBA Game Boy Advance AGB-ALNJ-JPN Authentic Japanese Version",
+    "serialShown": "AGB-ALNJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://archive.org/details/lunar-legend-gba-jpn-box",
+    "site": "archive.org",
+    "titleFound": "Lunar Legend (ルナレジェンド)",
+    "serialShown": "AGB-ALNJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "Box scan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ALNJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://www.pricecharting.com/game/jp-gameboy-advance/lunar-legend",
+    "site": "pricecharting.com",
+    "titleFound": "Lunar Legend",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary gives JP catalog listing 'JP 4 989006 000367 AGB-ALNJ-JPN', 2002-12-10, but attribution to a single URL unclear"
+   },
+   {
+    "url": "https://www.uvlist.net/game-102280-Lunar+Legend",
+    "site": "uvlist.net",
+    "titleFound": "Lunar Legend",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Unclear whether this page shows the serial"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62826--lunar-legend",
+    "site": "retroplace.com",
+    "titleFound": "Lunar Legend",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Unclear whether this page shows the serial; US version said to be AGB-ALNE-USA"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ALPJ-JPN",
+  "query": "AGB-ALPJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TWO TOWERS",
+    "serialShown": "AGB-ALPJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Lord of the Rings, The - Futatsu no Tou (Japan)",
+    "serialShown": "AGB-ALPJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "ロード・オブ・ザ・リング ～二つの塔～ (Lord of the Rings -Two Towers-)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says Japanese master list gives this title; does not clearly show the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AMQE-USA",
+  "query": "AGB-AMQE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394601138240",
+    "site": "ebay.com",
+    "titleFound": "Midnight Club: Street Racing [Nintendo Game Boy Advance - AGB-AMQE-USA]",
+    "serialShown": "AGB-AMQE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://vgcollect.com/item/2637",
+    "site": "vgcollect.com",
+    "titleFound": "Midnight Club: Street Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary ties serial to the game across listings; per-URL serial not stated"
+   },
+   {
+    "url": "https://gamehacking.org/game/5341",
+    "site": "gamehacking.org",
+    "titleFound": "Midnight Club: Street Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary: ROM database with Size 4M, CRC32 911BE520, USA; serial not quoted per URL"
+   },
+   {
+    "url": "https://retrospekt.com/products/midnight-club-street-racing-game-boy-advance-game",
+    "site": "retrospekt.com",
+    "titleFound": "Midnight Club: Street Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AOGE-USA",
+  "query": "AGB-AOGE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/super-robot-taisen-original-generation-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Super Robot Taisen: Original Generation",
+    "serialShown": "AGB-AOGE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet scan"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/582946-super-robot-taisen-original-generation/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Super Robot Taisen: Original Generation",
+    "serialShown": "AGB-AOGE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US release, Atlus, 08/08/06"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/64",
+    "site": "gamehacking.org",
+    "titleFound": "Super Ghouls'n Ghosts (USA)",
+    "serialShown": "AGB-AOGE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says one listing shows this serial for Super Ghouls'n Ghosts (USA); unsure which URL"
+   },
+   {
+    "url": "https://vgcollect.com/item/17413",
+    "site": "vgcollect.com",
+    "titleFound": "Super Robot Taisen: Original Generation",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Serial not stated for this URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AOGJ-JPN",
+  "query": "AGB-AOGJ-JPN",
+  "results": [
+   {
+    "url": "https://www.amazon.co.uk/GameBoy-Advance-Generation-gebraucht-AGB-AOGJ-JPN/dp/B00006JTDI",
+    "site": "amazon.co.uk",
+    "titleFound": "GameBoy Advance - Super Robot Taisen: Original Generation (JAP Version)",
+    "serialShown": "AGB-AOGJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://archive.org/details/super-robot-taisen-original-generation-jpn-manual",
+    "site": "archive.org",
+    "titleFound": "Super Robot Taisen: Original Generation (スーパーロボット大戦 ORIGINAL GENERATION)",
+    "serialShown": "AGB-AOGJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "Manual scan"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Super%20Robot%20Taisen%20-%20Original%20Generation%20(Japan).html",
+    "site": "db.libretro.com",
+    "titleFound": "Super Robot Taisen - Original Generation (Japan)",
+    "serialShown": "AGB-AOGJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says libretro gives year 2006 (conflicts with 2002)"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/582946-super-robot-taisen-original-generation/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Super Robot Taisen: Original Generation",
+    "serialShown": "AGB-AOGJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japan, Banpresto, 11/22/02"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AOGJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AOIP-EUR",
+  "query": "AGB-AOIP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SHREK REEKIN",
+    "serialShown": "AGB-AOIP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64516--shrek-reekin-havoc",
+    "site": "retroplace.com",
+    "titleFound": "Shrek: Reekin' Havoc",
+    "serialShown": "AGB-AOIP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Europe, TDK Mediactive, 2003; US code AGB-AOIE-USA"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AOWP-EUR",
+  "query": "AGB-AOWP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SPYRO 3",
+    "serialShown": "AGB-AOWP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64781--spyro-adventure",
+    "site": "retroplace.com",
+    "titleFound": "Spyro Adventure",
+    "serialShown": "AGB-AOWP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Release 11/14/2003, VU Games"
+   },
+   {
+    "url": "https://retrobroker.com/en-GB/gb/products/spyro-adventure-gba-game-only",
+    "site": "retrobroker.com",
+    "titleFound": "Spyro Adventure GBA (game only) - GameBoy Advance (AGB-AOWP-EUR)",
+    "serialShown": "AGB-AOWP-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://retrobroker.com/en-US/us/products/spyro-adventure-gba-game-only",
+    "site": "retrobroker.com",
+    "titleFound": "Spyro Adventure GBA (game only) - GameBoy Advance (AGB-AOWP-EUR)",
+    "serialShown": "AGB-AOWP-EUR",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-APHE-USA",
+  "query": "AGB-APHE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "PREHISTO MAN",
+    "serialShown": "AGB-APHE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl)",
+    "serialShown": "AGB-APHE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/524170-prehistorik-man/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Prehistorik Man",
+    "serialShown": "AGB-APHE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US, Titus Software, 10/16/01, barcode 091493542122"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64027--prehistorik-man",
+    "site": "retroplace.com",
+    "titleFound": "Prehistorik Man",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says agrees on code and 2001; Europe code AGB-APHP-EUR; exact serial for this URL not certain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AQTE-USA",
+  "query": "AGB-AQTE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/2.5-box-back-cropped",
+    "site": "archive.org",
+    "titleFound": "Cat in the Hat, The",
+    "serialShown": "AGB-AQTE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Movie ticket variant box scan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CATINTHEHAT",
+    "serialShown": "AGB-AQTE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Dr. Seuss' The Cat in the Hat (USA)",
+    "serialShown": "AGB-AQTE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gameovervideogames.com/products/gba-cat-in-the-hat",
+    "site": "gameovervideogames.com",
+    "titleFound": "GBA Cat in the Hat - The Movie - AGB-AQTE-USA",
+    "serialShown": "AGB-AQTE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps2/915608-dr-seuss-the-cat-in-the-hat/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Dr. Seuss' The Cat in the Hat",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says GameFAQs lists US, VU Games, 11/05/03 with this product ID, but URL is the PS2 page; likely a GBA page not returned; unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AR5E-USA",
+  "query": "AGB-AR5E-USA",
+  "results": [
+   {
+    "url": "https://www.lazada.com.ph/products/rugrats-gba-nintendo-game-boy-advance-video-game-agb-ar5e-usa-i984436272.html",
+    "site": "lazada.com.ph",
+    "titleFound": "Rugrats GBA Nintendo Game Boy Advance Video Game AGB-AR5E-USA",
+    "serialShown": "AGB-AR5E-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "RR GO PARTY",
+    "serialShown": "AGB-AR5E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/rugrats_i_gotta_go_party/92668",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Rugrats: I Gotta Go Party",
+    "serialShown": "AGB-AR5E-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Item number AGB-AR5E-USA, Eurocom/THQ"
+   },
+   {
+    "url": "https://www.uvlist.net/game-101773-Rugrats+I+Gotta+Go+Party",
+    "site": "uvlist.net",
+    "titleFound": "Rugrats - I Gotta Go Party",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary gives 2002-10-22 THQ; serial not stated for this URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ARFP-EUR",
+  "query": "AGB-ARFP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FREESTYLE SC",
+    "serialShown": "AGB-ARFP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61119--freestyle-scooter",
+    "site": "retroplace.com",
+    "titleFound": "Freestyle Scooter",
+    "serialShown": "AGB-ARFP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Product code (medium) AGB-ARFP-EUR, box AGB-ARFP, 12/7/2001, Crave; attribution likely"
+   },
+   {
+    "url": "https://www.nostalgeekshop.fr/product/4263524/freestyle-scooter-eur-gba",
+    "site": "nostalgeekshop.fr",
+    "titleFound": "Freestyle Scooter / EUR. / GBA",
+    "serialShown": "AGB-ARFP-EUR",
+    "exact": true,
+    "kind": "listing",
+    "note": "French seller loose cart PAL; attribution likely"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ARPJ-JPN",
+  "query": "AGB-ARPJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/196984676308",
+    "site": "ebay.com",
+    "titleFound": "Robot Ponkottsu 2: Ring Version - Game Boy Advance AGB-P-ARPJ(JPN)",
+    "serialShown": "AGB-P-ARPJ(JPN)",
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ROBOPON2RING",
+    "serialShown": "AGB-ARPJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Older AGBinator list returned; summary not explicit"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Robot Poncots 2 - Ring Version (Japan)",
+    "serialShown": "AGB-ARPJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/582397-robopon-2-ring-version/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Robopon 2: Ring Version",
+    "serialShown": "AGB-ARPJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japan, Hudson, 09/13/01, barcode 4988607005634; US AGB-ARPE-USA"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ARQP-EUR",
+  "query": "AGB-ARQP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MBXCTH",
+    "serialShown": "AGB-ARQP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Cross Town Heroes (Europe)",
+    "serialShown": "AGB-ARQP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AS8E-USA",
+  "query": "AGB-AS8E-USA",
+  "results": [
+   {
+    "url": "https://www.wiiplay2.com/catalog/video_games-nintendo-game_boy_advance_gba/star_x/92782",
+    "site": "wiiplay2.com",
+    "titleFound": "Star X",
+    "serialShown": "AGB-AS8E-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Item number AGB-AS8E-USA; BAM! Entertainment"
+   },
+   {
+    "url": "https://glitchwave.com/game/star-x/",
+    "site": "glitchwave.com",
+    "titleFound": "Star X",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary says catalog ties code to Star X, 2002"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/63",
+    "site": "gamehacking.org",
+    "titleFound": "SSX Tricky",
+    "serialShown": "AGB-AS8E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking gives this serial for USA SSX Tricky"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASGE-USA",
+  "query": "AGB-ASGE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/smugglers-run-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Smuggler's Run",
+    "serialShown": "AGB-ASGE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet"
+   },
+   {
+    "url": "https://archive.org/details/wing-commander-prophecy",
+    "site": "archive.org",
+    "titleFound": "Wing Commander: Prophecy",
+    "serialShown": "AGB-ASGE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet"
+   },
+   {
+    "url": "https://archive.org/details/smugglers-run-usa-box",
+    "site": "archive.org",
+    "titleFound": "Smuggler's Run",
+    "serialShown": "AGB-ASGE USA",
+    "exact": false,
+    "kind": "other",
+    "note": "Box scan; serial with space"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SMUGGLERSRUN",
+    "serialShown": "AGB-ASGE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASZE-USA",
+  "query": "AGB-ASZE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SCORPIONKING",
+    "serialShown": "AGB-ASZE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list; title is internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Scorpion King, The - Sword of Osiris (USA)",
+    "serialShown": "AGB-ASZE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ }
+]

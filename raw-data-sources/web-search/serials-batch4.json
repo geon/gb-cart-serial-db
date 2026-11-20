@@ -1,0 +1,744 @@
+[
+ {
+  "serial": "AGB-A8SE-USA",
+  "query": "AGB-A8SE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Digimon Battle Spirit",
+    "serialShown": "AGB-A8SE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d/1",
+    "site": "gamehacking.org",
+    "titleFound": "Digimon Battle Spirit",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://digimonbasic.altervista.org/index.php?id=33&section=content",
+    "site": "digimonbasic.altervista.org",
+    "titleFound": "Digimon Tamers: Battle Spirit",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "summary only says Digimon Battle Spirit / Tamers: Battle Spirit, release 2003-01-13 NTSC-U, CRC32 CEEF2008; which URL gave which fact is unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACAE-USA",
+  "query": "AGB-ACAE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GT Advance - Championship Racing",
+    "serialShown": "AGB-ACAE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "GT Advance - Championship Racing (USA, Europe)",
+    "serialShown": "AGB-ACAE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.originalgame.eu/product/13098427/agb-cartridge-gt-advance-championship-racing-usa",
+    "site": "originalgame.eu",
+    "titleFound": "GT Advance Championship Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "serial shown per search title/summary; 'AGB Cartridge: GT Advance Championship Racing -USA'"
+   },
+   {
+    "url": "https://www.ebay.com/itm/334339957195",
+    "site": "ebay.com",
+    "titleFound": "GT Advance Championship Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary mentions Item number 1AGB-ACAE-USA"
+   },
+   {
+    "url": "https://gamehacking.org/game/4765?hacker=Abstract",
+    "site": "gamehacking.org",
+    "titleFound": "GT Advance Championship Racing?",
+    "serialShown": "AGB-ACAE-USA, AGB-ACAP",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/57885--advance-gta",
+    "site": "retroplace.com",
+    "titleFound": "Advance GTA",
+    "serialShown": "AGB-AG7J-JPN",
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japanese release listed with different code AGB-AG7J-JPN"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADNE-USA",
+  "query": "AGB-ADNE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7",
+    "site": "gist.github.com",
+    "titleFound": "JP3 THE DNA (internal name; Jurassic Park III: The DNA Factor)",
+    "serialShown": "AGB-ADNE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jurassic Park III: The DNA Factor",
+    "serialShown": "AGB-ADNE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/j/0",
+    "site": "gamehacking.org",
+    "titleFound": "Jackie Chan Adventures: Legend of the Dark Hand",
+    "serialShown": "AGB-ADNE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADNJ-JPN",
+  "query": "AGB-ADNJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Jurassic Park III (Japan)",
+    "serialShown": "AGB-ADNJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62337--jurassic-park-iii-ushinawareta-idenshi",
+    "site": "retroplace.com",
+    "titleFound": "Jurassic Park III: Ushinawareta Idenshi",
+    "serialShown": "AGB-ADNJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jurassic Park III (Japan)",
+    "serialShown": "AGB-ADNJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary: ROM ID AGB-ADNJ-0"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "(entry for a different game per summary)",
+    "serialShown": "AGB-ADNJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says GBxDumper line AGB-ADNJ-JPN 64 64 2BB92A5B EEPROM_V122 4 is for a different game; name not given"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/516519-jurassic-park-iii-the-dna-factor/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Jurassic Park III: The DNA Factor",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "lists US/EU counterparts AGB-ADNE-USA and AGB-ADNP-EUR; Konami; JP code not confirmed to be on this page"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADQJ-JPN",
+  "query": "AGB-ADQJ-JPN",
+  "results": [
+   {
+    "url": "https://www.pricecharting.com/game/jp-gameboy-advance/dokapon-q-monster-hunter",
+    "site": "pricecharting.com",
+    "titleFound": "Dokapon Q Monster Hunter",
+    "serialShown": "AGB-ADQJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/536498-dokapon-monster-hunter/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Dokapon: Monster Hunter",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/60069--dokapon-monster-hunter",
+    "site": "retroplace.com",
+    "titleFound": "Dokapon-Q: Monster Hunter!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "lists US AGB-ADOE-USA and EU AGB-ADQP-EUR as related codes"
+   },
+   {
+    "url": "https://www.ebay.com/itm/307192706884",
+    "site": "ebay.com",
+    "titleFound": "Dokapon Q Monster Hunter Game Boy Advance Asmik Ace AGB-ADQJ-JPN Used",
+    "serialShown": "AGB-ADQJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/128113625145",
+    "site": "ebay.com",
+    "titleFound": "DOKAPON-Q MONSTER HUNTER",
+    "serialShown": "AGB-ADQJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394886195390",
+    "site": "ebay.com",
+    "titleFound": "Dokapon Q: Monster Hunter!",
+    "serialShown": "AGB-ADQJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEMP-EUR",
+  "query": "AGB-AEMP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Eggo Mania",
+    "serialShown": "AGB-AEMP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Eggo Mania (Europe)",
+    "serialShown": "AGB-AEMP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/60461--eggo-mania",
+    "site": "retroplace.com",
+    "titleFound": "Eggo Mania",
+    "serialShown": "AGB-AEMP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFPE-USA",
+  "query": "AGB-AFPE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Fire Pro Wrestling",
+    "serialShown": "AGB-AFPE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61060--fire-pro-wrestling",
+    "site": "retroplace.com",
+    "titleFound": "Fire Pro Wrestling",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary: Fire Pro Wrestling, released 6/10/2001, Bam Entertainment; source URL of these facts uncertain"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/f/2",
+    "site": "gamehacking.org",
+    "titleFound": "Fire Emblem - Fuuin no Tsurugi (USA, Europe)",
+    "serialShown": "AGB-AFPE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFRP-EUR",
+  "query": "AGB-AFRP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FROG: TEMPLE (Frogger's Adventures: Temple of the Frog)",
+    "serialShown": "AGB-AFRP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "FROG: TEMPLE",
+    "serialShown": "AGB-AFRP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFSP-EUR",
+  "query": "AGB-AFSP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FSTONES BTIB (The Flintstones - Big Trouble in Bedrock)",
+    "serialShown": "AGB-AFSP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/p/8423",
+    "site": "ebay.com",
+    "titleFound": "Flintstones: Big Trouble in Bedrock",
+    "serialShown": "AGB-AFSP-EUR",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGEP-EUR",
+  "query": "AGB-AGEP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GEKIDO (Gekido Advance - Kintaro's Revenge)",
+    "serialShown": "AGB-AGEP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-AGEP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://glitchwave.com/game/gekido-advance-kintaros-revenge/",
+    "site": "glitchwave.com",
+    "titleFound": "Gekido Advance: Kintaro's Revenge",
+    "serialShown": "AGB-AGEP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGPE-USA",
+  "query": "AGB-AGPE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GET PHAT! (No Rules Get Phat)",
+    "serialShown": "AGB-AGPE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "No Rules - Get Phat",
+    "serialShown": "AGB-AGPE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63664--no-rules-get-phat",
+    "site": "retroplace.com",
+    "titleFound": "No Rules: Get Phat",
+    "serialShown": "AGB-AGPE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary: USA box code AGB-AGPE-USA, 2001; EU AGB-AGPP-EUR"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AH4E-USA",
+  "query": "AGB-AH4E-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394635784043",
+    "site": "ebay.com",
+    "titleFound": "Shrek: Hassle at the Castle",
+    "serialShown": "AGB-AH4E-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Shrek: Hassle at the Castle?",
+    "serialShown": "AGB-AH4E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AH4E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary only says serial is in the list; title not given"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Shrek%20-%20Hassle%20at%20the%20Castle%20(USA)%20(En,Fr,De,Es,It,Nl).html",
+    "site": "db.libretro.com",
+    "titleFound": "Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl)",
+    "serialShown": "AGB-AH4E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.vgcollect.com/item/3163",
+    "site": "vgcollect.com",
+    "titleFound": "Shrek: Hassle at the Castle",
+    "serialShown": "AGB-AH4E-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/?game=5943&simple=true",
+    "site": "gamehacking.org",
+    "titleFound": "Shrek: Hassle at the Castle (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHNE-USA",
+  "query": "AGB-AHNE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/spyhunter-usa-manual",
+    "site": "archive.org",
+    "titleFound": "SpyHunter",
+    "serialShown": "AGB-AHNE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "manual scan title 'SpyHunter [AGB-AHNE-USA] Instruction Manual'"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Spy Hunter (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/6072",
+    "site": "gamehacking.org",
+    "titleFound": "Spy Hunter (USA)?",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/61",
+    "site": "gamehacking.org",
+    "titleFound": "SpongeBob SquarePants: Battle for Bikini Bottom / Spider-Man 3 (per summary; serial shared)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Spy Hunter?",
+    "serialShown": "AGB-AHNE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHPP-UKV",
+  "query": "AGB-AHPP-UKV",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Hot Potato (Europe)",
+    "serialShown": "AGB-AHPP-UKV",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary: ROM ID AGB-AHPP-0, release AGB-AHPP-UKV, board AGB-E03-01"
+   },
+   {
+    "url": "https://www.gooretro.nl/gameboy/gb-advance/hardware/hot-potato-ukv",
+    "site": "gooretro.nl",
+    "titleFound": "Hot Potato - UKV",
+    "serialShown": "AGB-AHPP-UKV",
+    "exact": true,
+    "kind": "listing",
+    "note": "summary: 'Hot Potato - AGB-AHPP-UKV' EUR 5.99; URL attribution approximate"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHPX-EUU",
+  "query": "AGB-AHPX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HOT POTATO (0519 - Hot Potato (E).gba)",
+    "serialShown": "AGB-AHPX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Hot Potato (Europe) (En,Fr,De)",
+    "serialShown": "AGB-AHPX-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "HOT POTATO",
+    "serialShown": "AGB-AHPX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.pricecharting.com/game/pal-gameboy-advance/hot-potato",
+    "site": "pricecharting.com",
+    "titleFound": "Hot Potato",
+    "serialShown": "AGB-AHPX-EUU",
+    "exact": true,
+    "kind": "listing",
+    "note": "eBay listing text referencing serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AIAE-USA",
+  "query": "AGB-AIAE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com.au/itm/Nintendo-GBA-Ice-Age-AGB-AIAE-USA-/173358739852",
+    "site": "ebay.com.au",
+    "titleFound": "Nintendo GBA. Ice Age.",
+    "serialShown": "AGB-AIAE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "ICEAGE",
+    "serialShown": "AGB-AIAE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62162--ice-age",
+    "site": "retroplace.com",
+    "titleFound": "Ice Age",
+    "serialShown": "AGB-AIAE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary: entry lists AGB-AIAE-USA and EU AGB-AIAP-EUR; source URL approximate"
+   },
+   {
+    "url": "https://gamehacking.org/game/4895",
+    "site": "gamehacking.org",
+    "titleFound": "Ice Age (USA)",
+    "serialShown": "AGB-AIAE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AIFE-USA",
+  "query": "AGB-AIFE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/583366-tom-and-jerry-in-infurnal-escape/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Tom and Jerry in Infurnal Escape",
+    "serialShown": "AGB-AIFE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://vgcollect.com/item/27575",
+    "site": "vgcollect.com",
+    "titleFound": "Tom and Jerry in Infurnal Escape",
+    "serialShown": "AGB-AIFE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TOM AND JERR (Tom and Jerry in Infurnal Escape)",
+    "serialShown": "AGB-AIFE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/t/2",
+    "site": "gamehacking.org",
+    "titleFound": "Tiny Toon Adventures: Scary Dreams (USA)",
+    "serialShown": "AGB-AIFE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJ4E-USA",
+  "query": "AGB-AJ4E-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561452-earthworm-jim-2/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Earthworm Jim 2",
+    "serialShown": "AGB-AJ4E-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/game/4444",
+    "site": "gamehacking.org",
+    "titleFound": "Earthworm Jim 2 (USA)",
+    "serialShown": "AGB-AJ4E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "Earthworm Jim 2",
+    "serialShown": "AGB-AJ4E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary attributes retroplace-like row 'Earthworm Jim 2 USA | 096427012719 | AGB-AJ4E-USA | 2002' to Retroplace; actual URL uncertain"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "EARTHWORM J2 (Earthworm Jim 2)",
+    "serialShown": "AGB-AJ4E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJNX-EUR",
+  "query": "AGB-AJNX-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/193594--jimmy-neutron-der-mutige-erfinder",
+    "site": "retroplace.com",
+    "titleFound": "Jimmy Neutron: Der mutige Erfinder",
+    "serialShown": "AGB-AJNX-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "serial shown not explicitly quoted in summary; retailer listing for DACH, THQ/Human Soft"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jimmy Neutron - Boy Genius (Europe) (En,Fr,De,Es)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary: game database entry lists same code; likely ROM ID AGB-AJNX-0 (unconfirmed)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AL4J-JPN",
+  "query": "AGB-AL4J-JPN",
+  "results": [
+   {
+    "url": "https://archive.org/details/devil-children-light-book-jpn-box",
+    "site": "archive.org",
+    "titleFound": "DemiKids: Light Version [Devil Children Light Book]",
+    "serialShown": "AGB-AL4J-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "box scan"
+   },
+   {
+    "url": "https://archive.org/details/devil-children-light-book-jpn-manual",
+    "site": "archive.org",
+    "titleFound": "DemiKids: Light Version [Devil Children Light Book]",
+    "serialShown": "AGB-AL4J-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "manual scan"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394886500808",
+    "site": "ebay.com",
+    "titleFound": "Shin Megami Tensei Devil Children: Hikari no Sho",
+    "serialShown": "AGB-AL4J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DEBITIRUHIKA (Shin Megami Tensei Devil Children Hikari no Sho)",
+    "serialShown": "AGB-AL4J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59628--shin-megami-tensei-devil-children-hikari-no-sho",
+    "site": "retroplace.com",
+    "titleFound": "Shin Megami Tensei: Devil Children Hikari no Sho",
+    "serialShown": "AGB-AL4J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary: product code (box) AGB-AL4J-JPN, Atlus, 2002; URL attribution approximate"
+   }
+  ]
+ }
+]

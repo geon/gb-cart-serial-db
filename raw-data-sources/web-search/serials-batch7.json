@@ -1,0 +1,106 @@
+[
+{"serial":"AGB-B69P-EUR","query":"AGB-B69P-EUR","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Gauntlet & Rampart (file name: 2217 - Gauntlet & Rampart (E).gba; internal name GAUNTLETRAMP)","serialShown":"AGB-B69P-EUR","exact":true,"kind":"rom-derived"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"\"2 Games in One!\" - Gauntlet + Rampart (Europe)","serialShown":"AGB-B69P","exact":false,"kind":"rom-derived","note":"Summary says ROM ID for the European version; exact ROM ID string not quoted, likely AGB-B69P-0"},
+{"url":"https://www.arcade-history.com/index.php?Tri=1&annee=39&demo=0&editeur=&export=1&gallery=&lemot=&listtypes=all&mamed=1&nongame=0&page=database&pirate=0&position=34&reissue=1","site":"arcade-history.com","titleFound":"Gauntlet + Rampart","serialShown":"AGB-B69P","exact":false,"kind":"catalog","note":"Summary: Model AGB-B69P, DSI Games, 2005, US counterpart AGB-B69E-USA; which of the arcade-history URLs gave this is uncertain, only this database listing URL is plausible"}
+]},
+{"serial":"AGB-B6EE-USA","query":"AGB-B6EE-USA","results":[
+{"url":"https://www.jnlgame.com/products/board-game-classics-game-boy-advance","site":"jnlgame.com","titleFound":"Board Game Classics","serialShown":"AGB-B6EE-USA","exact":true,"kind":"listing","note":"Product ID AGB-B6EE-USA, DSI Games, 11/03/05"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Board Game Classics (USA)","serialShown":"AGB-B6EE-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Board Game Classics (file name: 2096 - Board Game Classics (U).gba; internal name BOARDGAMES)","serialShown":"AGB-B6EE-USA","exact":true,"kind":"rom-derived"}
+]},
+{"serial":"AGB-BAUP-EUR","query":"AGB-BAUP-EUR","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Barbie as the Princess and the Pauper (file: 1673 - Barbie as the Princess and the Pauper (E); internal name BARBIE AS TH)","serialShown":"AGB-BAUP-EUR","exact":true,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1","site":"gist.github.com","titleFound":"Barbie as the Princess and the Pauper (1673 ... (E) ROM)","serialShown":"AGB-BAUP-EUR","exact":true,"kind":"rom-derived","note":"Summary says another GitHub list ties the serial to the ROM; likely this GAX list"},
+{"url":"https://www.uvlist.net/game-156588-Barbie+as+the+Princess+and+the+Pauper","site":"uvlist.net","titleFound":"Barbie as the Princess and the Pauper","serialShown":null,"exact":false,"kind":"catalog","note":"Summary only says the game database describes the game (WayForward, Vivendi 2004); serial not stated"}
+]},
+{"serial":"AGB-BBVE-USA","query":"AGB-BBVE-USA","results":[
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Babar to the Rescue (USA) (En,Fr,Es)","serialShown":"AGB-BBVE-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Babar - To the Rescue (file: 2424 - Babar - To the Rescue (U).gba; internal name BABAR_TTR)","serialShown":"AGB-BBVE-USA","exact":true,"kind":"rom-derived"},
+{"url":"https://www.youtube.com/watch?v=0Q2Z7HjptfY","site":"youtube.com","titleFound":"Test du jeu Babar to the Rescue - Version Etats-Unis","serialShown":"AGB-BBVE-USA","exact":true,"kind":"other","note":"Video description gives the code"}
+]},
+{"serial":"AGB-BBYE-USA","query":"AGB-BBYE-USA","results":[
+{"url":"https://www.ebay.com/itm/394602967548","site":"ebay.com","titleFound":"Nickelodeon Barnyard [Nintendo Game Boy Advance - AGB-BBYE-USA]","serialShown":"AGB-BBYE-USA","exact":true,"kind":"listing"},
+{"url":"https://gamefaqs.gamespot.com/gba/926191-nickelodeon-barnyard/data","site":"gamefaqs.gamespot.com","titleFound":"Nickelodeon Barnyard","serialShown":"AGB-BBYE-USA","exact":true,"kind":"catalog","note":"US, THQ, 08/01/06, E"},
+{"url":"https://www.uvlist.net/game-182066-Barnyard","site":"uvlist.net","titleFound":"Barnyard","serialShown":null,"exact":false,"kind":"catalog","note":"Summary only gives developer/publisher/date; serial not stated"}
+]},
+{"serial":"AGB-BCGP-UKV","query":"AGB-BCGP-UKV","results":[
+{"url":"https://pyrogames.co.uk/product/cabbage-patch-kids-the-patch-puppy-rescue-gameboy-advance-gba-cartridge-only","site":"pyrogames.co.uk","titleFound":"Cabbage Patch Kids: The Patch Puppy Rescue","serialShown":"AGB-BCGP-UKV","exact":true,"kind":"listing","note":"Code appears as a tag on the listing"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Cabbage Patch Kids: The Patch Puppy Rescue","serialShown":"AGB-BCGP-0","exact":false,"kind":"rom-derived"}
+]},
+{"serial":"AGB-BCKE-USA","query":"AGB-BCKE-USA","results":[
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es)","serialShown":"AGB-BCKE-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Star Wars Trilogy - Apprentice of the Force","serialShown":"AGB-BCKE-USA","exact":true,"kind":"rom-derived","note":"Driver MusicPlayer2000"},
+{"url":"https://gamehacking.org/game/5484","site":"gamehacking.org","titleFound":"SSX Tricky or Spy Kids Challenger (unclear which)","serialShown":"AGB-BCKE-USA","exact":true,"kind":"rom-derived","note":"Summary: SSX Tricky and Spy Kids Challenger pages both show AGB-BCKE-USA, 8M, CRC32 714A0D3A; unclear which URL maps to which title"},
+{"url":"https://gamehacking.org/system/gba/s/6","site":"gamehacking.org","titleFound":"SSX Tricky or Spy Kids Challenger (unclear which)","serialShown":"AGB-BCKE-USA","exact":true,"kind":"rom-derived","note":"List page; unclear which of the gamehacking URLs showed which title"}
+]},
+{"serial":"AGB-BCMJ-JPN","query":"AGB-BCMJ-JPN","results":[
+{"url":"https://archive.org/details/frontier-stories-jpn-box","site":"archive.org","titleFound":"Frontier Stories (フロンティア ストーリーズ)","serialShown":"AGB-BCMJ-JPN","exact":true,"kind":"other","note":"Box scan"},
+{"url":"https://archive.org/details/frontier-stories-jpn-manual","site":"archive.org","titleFound":"Frontier Stories (フロンティア ストーリーズ)","serialShown":"AGB-BCMJ-JPN","exact":true,"kind":"other","note":"Manual scan"},
+{"url":"https://www.ebay.com/itm/143840786863","site":"ebay.com","titleFound":"CIMA: The Enemy－Frontier Stories－GBA Game Boy Advance","serialShown":"AGB-BCMJ-JPN","exact":true,"kind":"listing"},
+{"url":"https://www.retroplace.com/en/games/59215--frontier-stories","site":"retroplace.com","titleFound":"Frontier Stories","serialShown":"AGB-BCMJ-JPN","exact":true,"kind":"catalog","note":"Neverland / Marvelous, 2005"},
+{"url":"https://gamefaqs.gamespot.com/gba/915387-cima-the-enemy/data","site":"gamefaqs.gamespot.com","titleFound":"CIMA: The Enemy (Frontier Stories in Japan)","serialShown":"AGB-BCMJ-JPN","exact":true,"kind":"catalog","note":"JP release 10/27/05"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":null,"serialShown":null,"exact":false,"kind":"rom-derived","note":"Appeared in results but summary does not say what it shows for this serial"}
+]},
+{"serial":"AGB-BDXJ-JPN","query":"AGB-BDXJ-JPN","results":[
+{"url":"https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/B-Densetsu!%20Battle%20B-Daman%20-%20Moero!%20B-Damashii!!%20(Japan).html","site":"db.libretro.com","titleFound":"B-Densetsu! Battle B-Daman - Moero! B-Damashii!! (Japan)","serialShown":"AGB-BDXJ-JPN","exact":true,"kind":"rom-derived"},
+{"url":"https://www.retroplace.com/en/games/58271--b-legend-battle-b-daman-moero-b-damashi","site":"retroplace.com","titleFound":"B-Legend! Battle B-Daman: Moero! B-Damashi!!","serialShown":"AGB-BDXJ-JPN","exact":true,"kind":"catalog","note":"2004, Atlus, EAN 4984995101132"},
+{"url":"https://gamehacking.org/game/3889","site":"gamehacking.org","titleFound":null,"serialShown":"AGB-BDXJ-JPN","exact":true,"kind":"rom-derived","note":"Japanese 8M version"},
+{"url":"https://www.ebay.co.uk/itm/352273451394","site":"ebay.co.uk","titleFound":"B-Legend Battle B-Daman Game Boy Advance Jap JP Jpn GBA","serialShown":null,"exact":false,"kind":"listing","note":"Summary does not clearly tie the serial to this listing"}
+]},
+{"serial":"AGB-BF5E-USA","query":"AGB-BF5E-USA","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"FIFA 2005 (file: 1700 - FIFA 2005 (U).gba)","serialShown":"AGB-BF5E-USA","exact":true,"kind":"rom-derived"},
+{"url":"https://gamehacking.org/game/4563","site":"gamehacking.org","titleFound":null,"serialShown":"AGB-BF5E-USA","exact":true,"kind":"rom-derived","note":"Summary: serial with 8M, CRC32 DA90F396; which gamehacking URL (4563 or system/gba/all/23) is uncertain"},
+{"url":"https://gamefaqs.gamespot.com/ps/920611-fifa-soccer-2005/data","site":"gamefaqs.gamespot.com","titleFound":"FIFA Soccer 2005","serialShown":null,"exact":false,"kind":"catalog","note":"This is the PlayStation page; summary says a listing gives AGB-BF5E-USA, EA Sports, US, 10/12/04, E but the source URL is unclear (may be a GBA page not returned)"}
+]},
+{"serial":"AGB-BF6E-USA","query":"AGB-BF6E-USA","results":[
+{"url":"https://gbhwdb.gekkio.fi/cartridges/AGB-BF6P-0/","site":"gbhwdb.gekkio.fi","titleFound":"FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)","serialShown":"AGB-BF6E-0","exact":false,"kind":"rom-derived","note":"Listed among variants of the AGB-BF6P-0 page"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Fifa 06 (file: 2158 - Fifa 06 (U).gba; internal name FIFA 06)","serialShown":"AGB-BF6E-USA","exact":true,"kind":"rom-derived"},
+{"url":"https://gamefaqs.gamespot.com/gba/929312-fifa-soccer-06/data","site":"gamefaqs.gamespot.com","titleFound":"FIFA Soccer 06","serialShown":"AGB-BF6E-USA","exact":true,"kind":"catalog","note":"US, EA Sports, 10/11/05, barcode 014633149913, E"},
+{"url":"https://www.retroplace.com/en/games/60860--fifa-soccer-06","site":"retroplace.com","titleFound":"FIFA Soccer 06","serialShown":"AGB-BF6E-USA","exact":true,"kind":"catalog","note":"Summary says retailer pages give same code and barcode; retroplace is the likely catalog one"}
+]},
+{"serial":"AGB-BFSP-EUR","query":"AGB-BFSP-EUR","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Freekstyle (file: 1354 - Freekstyle (E).gba; internal name FREEKSTYLE)","serialShown":"AGB-BFSP-EUR","exact":true,"kind":"rom-derived"},
+{"url":"https://gamefaqs.gamespot.com/ps2/543640-freekstyle/data","site":"gamefaqs.gamespot.com","titleFound":"Freekstyle","serialShown":null,"exact":false,"kind":"catalog","note":"PS2 page; summary says GameFAQs shows EU release by Zoo Digital Publishing 10/17/03 but does not tie AGB-BFSP-EUR to this URL"},
+{"url":"https://www.retroplace.com/en/games/188731--freekstyle","site":"retroplace.com","titleFound":"Freekstyle","serialShown":null,"exact":false,"kind":"catalog","note":"GameCube page; a product-code table listing 'Freekstyle Europe | AGB-BFSP-EUR | 2003' appeared in the summary but source URL not identified"}
+]},
+{"serial":"AGB-BGTE-USA","query":"AGB-BGTE-USA","results":[
+{"url":"https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Grand%20Theft%20Auto%20Advance%20(USA).html","site":"db.libretro.com","titleFound":"Grand Theft Auto Advance (USA)","serialShown":"AGB-BGTE-USA","exact":true,"kind":"rom-derived"},
+{"url":"https://glitchwave.com/game/grand-theft-auto/release/nintendo-game-boy-advance-na/","site":"glitchwave.com","titleFound":"Grand Theft Auto","serialShown":null,"exact":false,"kind":"catalog","note":"Rockstar, 10/26/04, ESRB M; serial not explicitly attributed"},
+{"url":"https://www.jnlgame.com/products/grand-theft-auto-game-boy-advance-pre-owned-jnlgame-3251-gba","site":"jnlgame.com","titleFound":"Grand Theft Auto","serialShown":null,"exact":false,"kind":"listing","note":"Barcode 710425253775; serial not explicitly attributed"},
+{"url":"https://vgcollect.com/item/2613","site":"vgcollect.com","titleFound":"Grand Theft Auto Advance","serialShown":"AGB P BGTE","exact":false,"kind":"catalog","note":"Item number shown as AGB P BGTE; barcode 710425253775"},
+{"url":"https://www.retroplace.com/en/games/168256--grand-theft-auto","site":"retroplace.com","titleFound":"Grand Theft Auto","serialShown":null,"exact":false,"kind":"catalog","note":"Barcode 710425253775; serial not explicitly attributed"},
+{"url":"https://www.wiiplay2.com/catalog/video_games-nintendo-game_boy_advance_gba/grand_theft_auto/91868","site":"wiiplay2.com","titleFound":"Grand Theft Auto","serialShown":null,"exact":false,"kind":"listing","note":"Item number same as VGCollect (AGB P BGTE) per summary"}
+]},
+{"serial":"AGB-BH7E-USA","query":"AGB-BH7E-USA","results":[
+{"url":"https://gbhwdb.gekkio.fi/cartridges/AGB-BH7P-0/","site":"gbhwdb.gekkio.fi","titleFound":"Over the Hedge - Hammy Goes Nuts! (Europe) (En,Fr,De,Es,It,Nl)","serialShown":"AGB-BH7E-0","exact":false,"kind":"rom-derived","note":"Variant listing: Over the Hedge - Hammy Goes Nuts! (USA) AGB-BH7E-0"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Over the Hedge - Hammy Goes Nuts (internal name HAMMYGOSNUTS)","serialShown":"AGB-BH7E-USA","exact":true,"kind":"rom-derived","note":"GAX Sound Engine 3.05A; summary cites this list or the GAX gists"},
+{"url":"https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1","site":"gist.github.com","titleFound":null,"serialShown":null,"exact":false,"kind":"rom-derived","note":"GAX list appeared; summary does not say what it shows"},
+{"url":"https://www.ebay.com/p/54935075","site":"ebay.com","titleFound":"Over the Hedge: Hammy Goes Nuts (Nintendo Game Boy Advance, 2006)","serialShown":null,"exact":false,"kind":"listing","note":"Summary mentions 'Over the Hedge: Hammy Goes Nuts! [Nintendo Game Boy Advance - AGB-BH7E-USA]' and a retail database row with UPC 047875816411, 2006, but source URLs unclear"}
+]},
+{"serial":"AGB-BH8E-USA","query":"AGB-BH8E-USA","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Harry Potter and the Goblet of Fire","serialShown":"AGB-BH8E-USA","exact":true,"kind":"rom-derived","note":"GAX Sound Engine 3.05A"},
+{"url":"https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1","site":"gist.github.com","titleFound":"Harry Potter and the Goblet of Fire","serialShown":"AGB-BH8E-USA","exact":true,"kind":"rom-derived","note":"Summary says GitHub lists (plural) tie the code to GAX 3.05A"},
+{"url":"https://nicerom.com/game/harry-potter-and-the-goblet-of-fire-usa-europe-gba-rom/","site":"nicerom.com","titleFound":"Harry Potter and the Goblet of Fire (USA, Europe)","serialShown":"AGB-BH8P-EUR","exact":false,"kind":"rom-derived","note":"Summary: ROM site pairs it with European code AGB-BH8P-EUR"},
+{"url":"https://gamefaqs.gamespot.com/psp/927369-harry-potter-and-the-goblet-of-fire/data","site":"gamefaqs.gamespot.com","titleFound":"Harry Potter and the Goblet of Fire","serialShown":null,"exact":false,"kind":"catalog","note":"PSP page; summary says GameFAQs data gives the product ID but URL is not a GBA page, so uncertain"},
+{"url":"https://retrospekt.com/products/harry-potter-and-the-goblet-of-fire-game-boy-advance-game","site":"retrospekt.com","titleFound":"Harry Potter and the Goblet of Fire","serialShown":null,"exact":false,"kind":"listing","note":"Summary says retailer listings give the same product ID; not explicit per URL"}
+]},
+{"serial":"AGB-BHNP-EUR","query":"AGB-BHNP-EUR","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"The Original Harlem Globetrotters (file: 2657 - The Original Harlem Globetrotters (E).gba; internal name HARLEMGLOBE)","serialShown":"AGB-BHNP-EUR","exact":true,"kind":"rom-derived"}
+]},
+{"serial":"AGB-BHPJ-JPN","query":"AGB-BHPJ-JPN","results":[
+{"url":"https://archive.org/details/harry-potter-quidditch-world-cup-jpn-box","site":"archive.org","titleFound":"Harry Potter: Quidditch World Cup (ハリー・ポッター クィディッチ ワールドカップ)","serialShown":"AGB-BHPJ-JPN","exact":true,"kind":"other","note":"Box scan, Electronic Arts"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Harry Potter Quidditch World Cup (internal name QUIDDITCH WC)","serialShown":"AGB-BHPJ-JPN","exact":true,"kind":"rom-derived","note":"GAX Sound Engine"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Harry Potter: Quidditch World Cup (Japan)","serialShown":"AGB-BHPJ-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gamefaqs.gamespot.com/gamecube/914743-harry-potter-quidditch-world-cup/data","site":"gamefaqs.gamespot.com","titleFound":"Harry Potter: Quidditch World Cup","serialShown":null,"exact":false,"kind":"catalog","note":"GameCube page; summary says GameFAQs lists JP release EA 11/13/03 but does not tie the serial to this URL"}
+]},
+{"serial":"AGB-BHVP-EUR","query":"AGB-BHVP-EUR","results":[
+{"url":"https://gamefaqs.gamespot.com/gba/928485-scurge-hive/data","site":"gamefaqs.gamespot.com","titleFound":"Scurge: Hive","serialShown":null,"exact":false,"kind":"catalog","note":"EU product ID, SouthPeak, 11/03/06; summary says sources disagree on whether it is AGB-BHVP or AGB-BHVP-EUR, so exact string not confirmed"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Scurge Hive (internal name SCURGEHIVE)","serialShown":"AGB-BHVP-EUR","exact":true,"kind":"rom-derived","note":"Krawall driver"},
+{"url":"https://vgcollect.com/item/69547","site":"vgcollect.com","titleFound":"Scurge: Hive","serialShown":null,"exact":false,"kind":"catalog","note":"EU Game Boy Advance page; summary does not state the serial it shows"}
+]},
+{"serial":"AGB-BIMP-UKV","query":"AGB-BIMP-UKV","results":[
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Dogz 2 (Europe)","serialShown":"AGB-BIMP-0","exact":false,"kind":"rom-derived"},
+{"url":"https://picclick.de/Game-Boy-Advance-Cartridges-AGB-USA-EUR-please-ask-125816636455.html","site":"picclick.de","titleFound":"Dogz 2","serialShown":"AGB-BIMP-UKV","exact":true,"kind":"listing","note":"Summary: a listing names Dogz 2 AGB-BIMP-UKV among GBA cartridges; URL attribution is probable but not certain"}
+]}
+]

@@ -1,0 +1,813 @@
+[
+ {
+  "serial": "AGB-BJHE-USA",
+  "query": "AGB-BJHE-USA",
+  "results": [
+   {
+    "url": "https://www.jnlgame.com/products/justice-league-heroes-the-flash-gba-game-boy-advance-pre-owned",
+    "site": "jnlgame.com",
+    "titleFound": "Justice League Heroes: The Flash",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary says a retailer listing gives product ID AGB-BJHE-USA; unclear which of jnlgame/ebay is that retailer"
+   },
+   {
+    "url": "https://www.ebay.com.my/itm/144868391220",
+    "site": "ebay.com.my",
+    "titleFound": "Justice League Heroes: The Flash",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary says a retailer listing gives product ID AGB-BJHE-USA; unclear whether this eBay or jnlgame"
+   },
+   {
+    "url": "https://gamehacking.org/game/4968",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-BJHE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary: lists the serial with USA region; title not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GAX Sound Engine 3.05A recorded for the game; serial not explicitly shown"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GAX 3.05A recorded for the game; serial not explicitly shown"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BJUE-USA",
+  "query": "AGB-BJUE-USA",
+  "results": [
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/tak_and_the_power_of_juju/92822",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Tak and the Power of Juju",
+    "serialShown": "AGB-BJUE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "ItemNo AGB-BJUE-USA"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65072--tak-and-the-power-of-juju",
+    "site": "retroplace.com",
+    "titleFound": "Tak and the Power of Juju",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary says Retroplace gives box product code AGB-BJUE-USA; unclear which of the retroplace Tak URLs"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61485--tak-and-the-power-of-juju",
+    "site": "retroplace.com",
+    "titleFound": "Tak and the Power of Juju",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary says Retroplace gives box product code AGB-BJUE-USA; unclear which of the retroplace Tak URLs"
+   },
+   {
+    "url": "https://gamehacking.org/game/6214",
+    "site": "gamehacking.org",
+    "titleFound": "Tak and the Power of Juju",
+    "serialShown": "AGB-BJUE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "English USA, CRC32 A9AF1381"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "listed in results; serial not explicitly stated in summary"
+   },
+   {
+    "url": "https://vgcollect.com/item/2768",
+    "site": "vgcollect.com",
+    "titleFound": "Tak and the Power of JuJu",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Tak, Game Boy Advance [NA]; summary doesn't state serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BKHP-EUR",
+  "query": "AGB-BKHP-EUR",
+  "results": [
+   {
+    "url": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/92602",
+    "site": "github.com",
+    "titleFound": "Nintendo Game Boy Advance: Kill Switch (PAL) USK 16 AGB-BKHP-EUR",
+    "serialShown": "AGB-BKHP-EUR",
+    "exact": true,
+    "kind": "listing",
+    "note": "German eBay listing mirrored on GitHub"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "KILLSWITCH (internal name)",
+    "serialShown": "AGB-BKHP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX Sound Engine driver"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/068ffdf1ee118abff0d97bf97d854b4c",
+    "site": "gist.github.com",
+    "titleFound": "KILLSWITCH / Kill.Switch (E)",
+    "serialShown": "AGB-BKHP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "entry '1778 - Kill.Switch (E)'"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Kill Switch (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-BKHP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-BKHP-0"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BL7P-EUR",
+  "query": "AGB-BL7P-EUR",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/931977-lego-star-wars-ii-the-original-trilogy/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "LEGO Star Wars II: The Original Trilogy",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary says a database lists EU release by LucasArts with Product ID AGB-BL7P-EUR, release 09/11/06; URL is a GameCube data page so the attribution to it is uncertain"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "LEGO Star Wars II - The Original Trilogy (Europe)",
+    "serialShown": "AGB-BL7P-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-BL7P-0; exact URL of the entry uncertain"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Krawall driver paired with serial per summary"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/l/1",
+    "site": "gamehacking.org",
+    "titleFound": "LEGO Star Wars II",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "16M size mentioned per GameHacking; serial not explicitly shown"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62732--lego-star-wars-ii-the-original-trilogy",
+    "site": "retroplace.com",
+    "titleFound": "LEGO Star Wars II: The Original Trilogy",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "listed; summary doesn't state serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BLSE-USA",
+  "query": "AGB-BLSE-USA",
+  "results": [
+   {
+    "url": "https://www.vgcollect.com/item/2972",
+    "site": "vgcollect.com",
+    "titleFound": "Disney's Lilo & Stitch 2: Hamsterviel Havoc",
+    "serialShown": "AGB-BLSE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Game Boy Advance [NA]"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LILO&STITCH2 (internal name)",
+    "serialShown": "AGB-BLSE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/l/1",
+    "site": "gamehacking.org",
+    "titleFound": "LEGO Star Wars II - The Original Trilogy",
+    "serialShown": "AGB-BLSE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary claims GameHacking lists AGB-BLSE-USA for LEGO Star Wars II, conflicting with Lilo & Stitch 2; unverified"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BLTE-USA",
+  "query": "AGB-BLTE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/165764460816",
+    "site": "ebay.com",
+    "titleFound": "Nintendo Game Boy Advance GBA - Looney Tunes: Back in Action - AGB-BLTE-USA 14633146356",
+    "serialShown": "AGB-BLTE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://wiiplay2.crystalcommerce.com/catalog/video_games-nintendo-game_boy_advance_gba/looney_tunes_back_in_action/91991",
+    "site": "wiiplay2.crystalcommerce.com",
+    "titleFound": "Looney Tunes Back in Action",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary says listing gives ItemNo AGB-BLTE-USA; which retailer URL is uncertain"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/l/2",
+    "site": "gamehacking.org",
+    "titleFound": "Lode Runner",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says 'another result lists the same code for a Lode Runner release'; URL attribution uncertain, possibly an error"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BMTE-USA",
+  "query": "AGB-BMTE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "1132 - Monster Truck Madness (U).gba",
+    "serialShown": "AGB-BMTE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX 3.03A"
+   },
+   {
+    "url": "https://retrospekt.com/products/monster-truck-madness-game-boy-advance-game",
+    "site": "retrospekt.com",
+    "titleFound": "Monster Truck Madness",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary says a listing gives MPN AGB-BMTE-USA, publisher THQ; which listing URL uncertain"
+   },
+   {
+    "url": "https://www.ebay.com/itm/204339408770",
+    "site": "ebay.com",
+    "titleFound": "Monster Truck Madness",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "possible source of MPN AGB-BMTE-USA; uncertain"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-BMTP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Monster Truck Madness (USA, Europe)",
+    "serialShown": "AGB-BMTP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID of European code"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "listed; serial not explicitly stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BMZJ-JPN",
+  "query": "AGB-BMZJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/63332--zooo-action-puzzle-game",
+    "site": "retroplace.com",
+    "titleFound": "Minna no Soft Series: ZOOO",
+    "serialShown": "AGB-BMZJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box product code, Success/Buddiez 2003"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ZOOO (internal name) / 1257 - Zooo (J).gba",
+    "serialShown": "AGB-BMZJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BN2E-USA",
+  "query": "AGB-BN2E-USA",
+  "results": [
+   {
+    "url": "https://retrocollect.com/releases/20066/naruto-ninja-council-2",
+    "site": "retrocollect.com",
+    "titleFound": "Naruto: Ninja Council 2",
+    "serialShown": "AGB-BN2E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US retail release, Tomy"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63566--naruto-ninja-council-2",
+    "site": "retroplace.com",
+    "titleFound": "Naruto: Ninja Council 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary gives Country USA, Aspect/D3Publisher; serial not explicitly attributed"
+   },
+   {
+    "url": "https://vgcollect.com/item/38782",
+    "site": "vgcollect.com",
+    "titleFound": "Naruto: Ninja Council 2",
+    "serialShown": "AGB-BN2E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Cartridge ID, ESRB E10+"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Naruto%20-%20Ninja%20Council%202%20(USA).html",
+    "site": "db.libretro.com",
+    "titleFound": "Naruto - Ninja Council 2 (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says libretro and GameHacking use the serial"
+   },
+   {
+    "url": "https://gamehacking.org/game/5464?hacker=Abystus",
+    "site": "gamehacking.org",
+    "titleFound": "Naruto: Ninja Council 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking uses the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BN7E-USA",
+  "query": "AGB-BN7E-USA",
+  "results": [
+   {
+    "url": "https://arcade-history.com/?id=72037&n=need-for-speed-carbon-own-the-city-model-agb-bn7e-usa&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Need for Speed Carbon: Own the City",
+    "serialShown": "AGB-BN7E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EA Games 2006"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/pc/934371-need-for-speed-carbon/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Need for Speed: Carbon",
+    "serialShown": "AGB-BN7E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary says GameFAQs gives US release 10/31/06 for this product ID; URL is the PC data page, so attribution uncertain"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=9T8gwg_AuUM",
+    "site": "youtube.com",
+    "titleFound": "Need for Speed Carbon - Own the City - Version Etats-Unis",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "summary says French video uses this code; not explicit"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-BN7P-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Need for Speed - Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-BN7P-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "pairs serial with sound driver per summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BNUE-USA",
+  "query": "AGB-BNUE-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Nicktoons Unite! (USA)",
+    "serialShown": "AGB-BNUE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-BNUE-0"
+   },
+   {
+    "url": "https://vgcollect.com/item/36143",
+    "site": "vgcollect.com",
+    "titleFound": "Nicktoons Unite!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "release 2005-10-27, ESRB E; serial not explicitly stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000 with the serial per summary"
+   },
+   {
+    "url": "https://www.jnlgame.com/products/nicktoons-unite-game-boy-advance-pre-owned-jnlgame-5267-gba",
+    "site": "jnlgame.com",
+    "titleFound": "Nicktoons Unite!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "serial not explicitly stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BNWE-USA",
+  "query": "AGB-BNWE-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Need for Speed: Most Wanted",
+    "serialShown": "AGB-BNWE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-BNWE-0"
+   },
+   {
+    "url": "https://gamehacking.org/game/5471",
+    "site": "gamehacking.org",
+    "titleFound": "Need for Speed: Most Wanted",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking lists AGB-BNWE-USA with AGB-BNWP, 8M, CRC32 EA15A16E; which of the gamehacking URLs is uncertain"
+   },
+   {
+    "url": "https://gamehacking.org/game/5487?hacker=Abstract",
+    "site": "gamehacking.org",
+    "titleFound": "Need for Speed: Most Wanted",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "possible source of the GameHacking claim; uncertain"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "driver GBAModPlay/LS_Play per summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BOAE-USA",
+  "query": "AGB-BOAE-USA",
+  "results": [
+   {
+    "url": "https://www.jnlgame.com/products/open-season-game-boy-advance",
+    "site": "jnlgame.com",
+    "titleFound": "Open Season",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary: retailer listing gives release 09-19-2006; serial not explicitly stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "OPEN SEASON",
+    "serialShown": "AGB-BOAE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://gamehacking.org/game/5519",
+    "site": "gamehacking.org",
+    "titleFound": "Open Season",
+    "serialShown": "AGB-BOAE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "USA version"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BPOE-USA",
+  "query": "AGB-BPOE-USA",
+  "results": [
+   {
+    "url": "https://vgcollect.com/item/2701",
+    "site": "vgcollect.com",
+    "titleFound": "Power Rangers: Dino Thunder",
+    "serialShown": "AGB-BPOE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Cartridge ID, THQ, 2004-08-30"
+   },
+   {
+    "url": "https://www.amazon.com/Rangers-Thunder-Renewed-Game-Boy-Advance/dp/B08CKZVDMR",
+    "site": "amazon.com",
+    "titleFound": "Power Rangers Dino Thunder (Renewed)",
+    "serialShown": "AGB-BPOE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Model Name"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BPXE-USA",
+  "query": "AGB-BPXE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/the-polar-express-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Polar Express, The",
+    "serialShown": "AGB-BPXE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "shown as [AGB-BPXE-USA]; manual scan"
+   },
+   {
+    "url": "https://archive.org/details/the-polar-express-usa-box",
+    "site": "archive.org",
+    "titleFound": "Polar Express, The",
+    "serialShown": "AGB-BPXE USA",
+    "exact": false,
+    "kind": "other",
+    "note": "box scan; written without second hyphen"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63952--the-polar-express",
+    "site": "retroplace.com",
+    "titleFound": "The Polar Express",
+    "serialShown": "AGB-BPXE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box product code, Tantalus Interactive 2004; attribution to this URL per summary"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/polar_express/92610",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Polar Express, The",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "retailer; summary says USA region, THQ; serial not explicit"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/51",
+    "site": "gamehacking.org",
+    "titleFound": "Pokemon Emerald Version",
+    "serialShown": "AGB-BPXE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking lists this serial for Pokemon Emerald, probably a data error; URL attribution uncertain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BQCP-EUR",
+  "query": "AGB-BQCP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CRASHTITANS / 2781 - Crash of the Titans (E).gba",
+    "serialShown": "AGB-BQCP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Krawall"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/psp/939010-crash-of-the-titans/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Crash of the Titans",
+    "serialShown": "AGB-BQCP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU release, Sierra, 2007; page is the PSP data page; also shows AGB-BQCE-USA and AGB-BQCP-AUS"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Crash of the Titans (Europe)",
+    "serialShown": "AGB-BQCP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BQXE-USA",
+  "query": "AGB-BQXE-USA",
+  "results": [
+   {
+    "url": "https://www.giantbomb.com/superman-returns/3030-11057/releases/",
+    "site": "giantbomb.com",
+    "titleFound": "Superman Returns: Fortress of Solitude",
+    "serialShown": "AGB-BQXE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Nintendo product ID, US, 2006-11-20, ESRB E"
+   },
+   {
+    "url": "https://glitchwave.com/game/superman-returns-fortress-of-solitude/release/nintendo-game-boy-advance-na/",
+    "site": "glitchwave.com",
+    "titleFound": "Superman Returns: Fortress of Solitude",
+    "serialShown": "AGB-BQXE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EA"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SUPERMAN R",
+    "serialShown": "AGB-BQXE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BR3E-USA",
+  "query": "AGB-BR3E-USA",
+  "results": [
+   {
+    "url": "https://www.jnlgame.com/products/r-type-iii-the-third-lightning-gba-game-boy-advance",
+    "site": "jnlgame.com",
+    "titleFound": "R-Type III: The Third Lightning",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "barcode 802068100223; serial attribution to this URL uncertain"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64093--r-type-iii-the-third-lightning",
+    "site": "retroplace.com",
+    "titleFound": "R-Type III: The Third Lightning",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "listed; serial not explicitly stated"
+   },
+   {
+    "url": "https://gamehacking.org/game/5739",
+    "site": "gamehacking.org",
+    "titleFound": "R-Type III: The Third Lightning",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "USA, CRC32 EA863F4D; serial not explicitly stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1418 - R-Type III (U).gba",
+    "serialShown": "AGB-BR3E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BR6J-JPN",
+  "query": "AGB-BR6J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394879811563",
+    "site": "ebay.com",
+    "titleFound": "Rockman EXE 6 - Dennoujuu Falzar",
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "NTSC-J"
+   },
+   {
+    "url": "https://www.ebay.com/p/1102880889",
+    "site": "ebay.com",
+    "titleFound": "Rockman Exe 6 Cybeast Falzar ... AGB-BR6J-JPN",
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://zenplus.jp/en/mega-man-battle-network-6-cyber-beast-falzar-agb-br6j-jpn-capcom-game-boy-advanc/p/mmo-store:fe951f3b-3936-4d44-b222-b94b77c272db",
+    "site": "zenplus.jp",
+    "titleFound": "Rockman EXE 6 Cyber Beast Falzer",
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/929992-mega-man-battle-network-6-cybeast-falzar/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Mega Man Battle Network 6: Cybeast Falzar",
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japan release 11/23/05, Capcom, barcode 4976219653596; also gives US AGB-BR6E-USA"
+   },
+   {
+    "url": "https://www.jnlgame.com/products/rockman-exe-6-dennoujuu-faltzer-game-boy-advance-pre-owned-japanese-import",
+    "site": "jnlgame.com",
+    "titleFound": "RockMan EXE 6: Dennoujuu Faltzer",
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "same product ID and release date per summary"
+   },
+   {
+    "url": "https://gamehacking.org/game/5817",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 2DFB603E"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-BR6J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "sound driver for Japanese ROM"
+   }
+  ]
+ }
+]

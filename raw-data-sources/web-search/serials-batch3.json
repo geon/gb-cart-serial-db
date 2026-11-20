@@ -1,0 +1,675 @@
+[
+ {
+  "serial": "AGB-A2XE-USA",
+  "query": "AGB-A2XE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MX 2002",
+    "serialShown": "AGB-A2XE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A2XE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says it matches this serial with CRC32 0BF1DC56; title not stated"
+   },
+   {
+    "url": "https://gamehacking.org/game/5444?hacker=InterAct",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-A2XE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Lists serial alongside AGB-A2XP-EUR; size 4M, CRC32 0BF1DC56; title not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A3DE-USA",
+  "query": "AGB-A3DE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DS-FOOTBALLU (file: 0814 - Disney Sports Football (U).gba)",
+    "serialShown": "AGB-A3DE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DS-FOOTBALLU",
+    "serialShown": "AGB-A3DE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "128 Mbit, CRC 01413DB1; title is internal name"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d/1",
+    "site": "gamehacking.org",
+    "titleFound": "Demon Driver - Time to Burn Rubber!",
+    "serialShown": "AGB-A3DE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "DISNEY SPORTS : FOOTBALL",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says the list links the code to this title; exact serial text not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A3MJ-JPN",
+  "query": "AGB-A3MJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MIC&MIN MA",
+    "serialShown": "AGB-A3MJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Mickey to Minnie no Magical Quest",
+    "serialShown": "AGB-A3MJ-0",
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561562-disneys-magical-quest-starring-mickey-and-minnie/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Disney's Magical Quest Starring Mickey & Minnie",
+    "serialShown": "AGB-A3MJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japanese release, Nintendo, 2002"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A3MJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Same title with this serial alongside US and EU versions; title wording not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5UP-UKV",
+  "query": "AGB-A5UP-UKV",
+  "results": [
+   {
+    "url": "https://www.facebook.com/marketplace/item/313740008461247/",
+    "site": "facebook.com",
+    "titleFound": "Spider-Man & Spider-Man 2",
+    "serialShown": "AGB-A5UP-UKV",
+    "exact": true,
+    "kind": "listing",
+    "note": "Summary says two Facebook Marketplace listings give this code with this title; unclear which of the two URLs"
+   },
+   {
+    "url": "https://www.facebook.com/marketplace/item/1710851173011402/",
+    "site": "facebook.com",
+    "titleFound": "Spider-Man & Spider-Man 2",
+    "serialShown": "AGB-A5UP-UKV",
+    "exact": true,
+    "kind": "listing",
+    "note": "Same note: unclear which of the two Marketplace URLs"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Space Channel 5: Ulala's Cosmic Attack (Europe)",
+    "serialShown": "AGB-A5UP-0",
+    "exact": false,
+    "kind": "catalog",
+    "note": "Same base code, ROM id form"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A8BE-USA",
+  "query": "AGB-A8BE-USA",
+  "results": [
+   {
+    "url": "https://www.etsy.com/it/listing/1656810182/medabots-replacement-label-agb-a8be-usa",
+    "site": "etsy.com",
+    "titleFound": "Medabots",
+    "serialShown": "AGB-A8BE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Replacement label listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MEDABOTSMTBV (file: 1892 - Medabots - Metabee Version (U).gba)",
+    "serialShown": "AGB-A8BE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-102704-Medabots+Metabee+Version+Medarot+Ni+Core+Kabuto+Version",
+    "site": "uvlist.net",
+    "titleFound": "Medabots: Metabee Version",
+    "serialShown": "AGB-A8BE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "2003, Imagineer, published by Natsume"
+   },
+   {
+    "url": "https://gamehacking.org/game/5263",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "USA, English, CRC32 59F208FC; title and serial text not quoted"
+   },
+   {
+    "url": "https://repairmydiscs.com/gba-medabots-metabee-replacement-label-glossy-finish-sticker-die-cut/",
+    "site": "repairmydiscs.com",
+    "titleFound": "GBA Medabots Metabee Replacement Label",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Summary says labels bear this code; serial text not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A8SE-USA",
+  "query": "AGB-A8SE-USA",
+  "results": []
+ },
+ {
+  "serial": "AGB-A9NE-USA",
+  "query": "AGB-A9NE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/piglets-big-game-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Piglet's Big Game",
+    "serialShown": "AGB-A9NE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet"
+   },
+   {
+    "url": "https://archive.org/details/piglets-big-game-usa-box",
+    "site": "archive.org",
+    "titleFound": "Piglet's Big Game",
+    "serialShown": "AGB-A9NE USA",
+    "exact": false,
+    "kind": "other",
+    "note": "Box scan; title shows serial with space instead of hyphen"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps2/914783-disney-presents-piglets-big-game/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Disney Presents Piglet's Big Game",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary cites GameFAQs release info (02/02/03, UPC 712725001414) but URL is the PS2 page; unclear if serial shown"
+   },
+   {
+    "url": "https://www.uvlist.net/game-104555-Disneys+Piglets+Big+Game",
+    "site": "uvlist.net",
+    "titleFound": "Disney's Piglet's Big Game",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Dôki Denki, 2003; serial text not quoted"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/p",
+    "site": "gamehacking.org",
+    "titleFound": "Pac-Man Collection",
+    "serialShown": "AGB-A9NE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary: serial also on a Pac-Man Collection entry; unclear whether this or gba/all/49 URL"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/49",
+    "site": "gamehacking.org",
+    "titleFound": "Piglet's Big Game",
+    "serialShown": "AGB-A9NE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary: USA, 8M, 3 cheat codes for Piglet's; unclear which of the two gamehacking URLs"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AABP-EUR",
+  "query": "AGB-AABP-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/187634--super-black-bass-advance",
+    "site": "retroplace.com",
+    "titleFound": "Super Black Bass Advance",
+    "serialShown": "AGB-AABP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Product code (medium): AGB-AABP-EUR"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BASS ADVANCE",
+    "serialShown": "AGB-AABP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAQP-EUR",
+  "query": "AGB-AAQP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ANIMAL SNAP (file: Animal Snap - Rescue Them 2 By 2 (E))",
+    "serialShown": "AGB-AAQP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/58100--animal-snap",
+    "site": "retroplace.com",
+    "titleFound": "Animal Snap: Rescue Them 2 By 2 Europe",
+    "serialShown": "AGB-AAQP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "2003; summary says 'retail listing' pairs code with title, URL attribution inferred"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABEE-USA",
+  "query": "AGB-ABEE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BattleBots: Beyond the BattleBox",
+    "serialShown": "AGB-ABEE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusyX Audio Tools; title from summary, not verbatim internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "BattleBots: Beyond the BattleBox",
+    "serialShown": "AGB-ABEE-0",
+    "exact": false,
+    "kind": "catalog",
+    "note": "Title wording per summary"
+   },
+   {
+    "url": "https://searchworks.stanford.edu/view/9686138",
+    "site": "searchworks.stanford.edu",
+    "titleFound": "BattleBots, beyond the battlebox",
+    "serialShown": "AGB-ABEE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "2002 Majesco; cartridge label shows serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABOE-USA",
+  "query": "AGB-ABOE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Boxing Fever",
+    "serialShown": "AGB-ABOE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusicPlayer2000; title per summary"
+   },
+   {
+    "url": "https://gamehacking.org/game/4028",
+    "site": "gamehacking.org",
+    "titleFound": "Boxing Fever",
+    "serialShown": "AGB-ABOE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "English, 8M, USA/Europe"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Boxing Fever",
+    "serialShown": "AGB-ABOE-0",
+    "exact": false,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AC6D-NOE",
+  "query": "AGB-AC6D-NOE",
+  "results": [
+   {
+    "url": "https://www.facebook.com/marketplace/item/313740008461247/",
+    "site": "facebook.com",
+    "titleFound": "Splinter Cell: Pandora Tomorrow",
+    "serialShown": "AGB-AC6D-NOE",
+    "exact": true,
+    "kind": "listing",
+    "note": "Summary cites marketplace listings; attribution to this URL per summary"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Spirit: Der Wilde Mustang",
+    "serialShown": "AGB-AC6D-0",
+    "exact": false,
+    "kind": "catalog",
+    "note": "German release; different region suffix"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AC6E-USA",
+  "query": "AGB-AC6E-USA",
+  "results": [
+   {
+    "url": "https://vgcollect.com/item/3171",
+    "site": "vgcollect.com",
+    "titleFound": "Spirit: Stallion of the Cimarron",
+    "serialShown": "AGB-AC6E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary lists several sources (vgcollect, horsegamedatabase, ebay, wiiplay, arcade-history) for Game ID AGB-AC6E-USA / AGB-AC6F-FRA; per-URL attribution uncertain"
+   },
+   {
+    "url": "https://horsegamedatabase.miraheze.org/wiki/Spirit:_Stallion_Of_The_Cimarron_-_Search_For_Homeland",
+    "site": "horsegamedatabase.miraheze.org",
+    "titleFound": "Spirit: Stallion Of The Cimarron - Search For Homeland",
+    "serialShown": "AGB-AC6E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Likely the 'Game ID(s) are AGB-AC6E-USA (US) and AGB-AC6F-FRA (FR)' source; uncertain"
+   },
+   {
+    "url": "https://arcade-history.com/index.php?annee=all&demo=1&editeur=5432&export=1&mamed=1&nongame=0&page=database&pirate=1&position=19&reissue=1",
+    "site": "arcade-history.com",
+    "titleFound": "Spirit: Stallion of the Cimarron",
+    "serialShown": "AGB-AC6E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Likely the '2002 Nintendo GBA cart, THQ, Hyperspace Cowgirls' source; uncertain"
+   },
+   {
+    "url": "https://ebay.com/p/8676?iid=",
+    "site": "ebay.com",
+    "titleFound": "Spirit: Stallion of the Cimarron -- Search for Homeland",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Serial not confirmed by summary for this URL"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/spirit_stallion_of_the_cimarron_search_for_homeland/92749",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Spirit: Stallion of the Cimarron: Search for Homeland",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Serial not confirmed by summary for this URL"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/s/5",
+    "site": "gamehacking.org",
+    "titleFound": "Spider-Man 3",
+    "serialShown": "AGB-AC6E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary: GameHacking lists Spider-Man 3 with this serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AC7E-USA",
+  "query": "AGB-AC7E-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/ct-special-forces-usa-french-box-sleeve",
+    "site": "archive.org",
+    "titleFound": "CT Special Forces",
+    "serialShown": "AGB-AC7E-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Canadian box sleeve"
+   },
+   {
+    "url": "https://archive.org/details/ct-special-forces-usa-manual",
+    "site": "archive.org",
+    "titleFound": "CT Special Forces",
+    "serialShown": "AGB-AC7E-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AC7E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary: GAX Sound Engine 2.3B driver for this game; may come from this or the GAX list gist"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps/915474-ct-special-forces/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "CT Special Forces",
+    "serialShown": "AGB-AC7E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary: table row Hip Games | AGB-AC7E-USA | 677990102658 | 01/04/04 | T; URL is the PS page, attribution uncertain"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59495--ct-special-forces",
+    "site": "retroplace.com",
+    "titleFound": "CT Special Forces",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary cites a listing with Hip Games / LSP / Jan 2004 / barcode; attribution uncertain"
+   },
+   {
+    "url": "https://vgcollect.com/item/2796",
+    "site": "vgcollect.com",
+    "titleFound": "CT Special Forces",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Same uncertainty as retroplace"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACAE-USA",
+  "query": "AGB-ACAE-USA",
+  "results": []
+ },
+ {
+  "serial": "AGB-ACBJ-JPN",
+  "query": "AGB-ACBJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ACBJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusicPlayer2000; title not stated"
+   },
+   {
+    "url": "https://archive.org/details/gekitou-car-battler-go",
+    "site": "archive.org",
+    "titleFound": "Gekitou! Car Battler Go!! Manual JPN",
+    "serialShown": "AGB-ACBJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "Summary says manual entry gives same code"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/58979--gekitou-car-battler-go",
+    "site": "retroplace.com",
+    "titleFound": "Gekitou! Car Battler Go!!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Ancient/Victor Interactive Software, 30 Nov 2001; serial text not quoted"
+   },
+   {
+    "url": "https://glitchwave.com/game/car-battler-joe/",
+    "site": "glitchwave.com",
+    "titleFound": "Car Battler Joe",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says it references the code"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Gekitou! Car Battler Go!!",
+    "serialShown": "AGB-ACBJ-0",
+    "exact": false,
+    "kind": "catalog",
+    "note": "ROM id inferred; summary only says entry references the code"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AD6E-USA",
+  "query": "AGB-AD6E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Davis Cup",
+    "serialShown": "AGB-AD6E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Title per summary, not verbatim"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Davis Cup",
+    "serialShown": "AGB-AD6E-0",
+    "exact": false,
+    "kind": "catalog",
+    "note": "USA, multilingual"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d",
+    "site": "gamehacking.org",
+    "titleFound": "Dancing Sword - Senkou",
+    "serialShown": "AGB-AD6E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADKE-USA",
+  "query": "AGB-ADKE-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Donald Duck Advance (USA)",
+    "serialShown": "AGB-ADKE-0",
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/game/4345?hacker=misfire",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-ADKE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 936DAAB2; title not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Disney's Donald Duck Advance",
+    "serialShown": "AGB-ADKE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusicPlayer2000; title per summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADME-USA",
+  "query": "AGB-ADME-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Doom",
+    "serialShown": "AGB-ADME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Pairs serial with Doom filename; title per summary"
+   },
+   {
+    "url": "https://gamehacking.org/game/4355",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-ADME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGB-ADMP also listed; title not stated"
+   },
+   {
+    "url": "https://vgcollect.com/item/2685",
+    "site": "vgcollect.com",
+    "titleFound": "Doom",
+    "serialShown": "AGB-ADME-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary: serial alongside another code; 27 Oct 2001, Activision; attribution uncertain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADNE-USA",
+  "query": "AGB-ADNE-USA",
+  "results": []
+ }
+]

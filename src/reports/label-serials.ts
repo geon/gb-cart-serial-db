@@ -135,21 +135,25 @@ const unusedCorrections = corrections.filter(
 			({ source, record, serials }) =>
 				source === correction.source &&
 				record === correction.record &&
-				serials.includes(correction.wrong),
+				// An added serial is unused once the source has it.
+				(correction.wrong === null
+					? !serials.includes(correction.correct ?? "")
+					: serials.includes(correction.wrong)),
 		),
 );
 section(
-	"Corrections (raw-data-sources/corrections/serials.json)",
+	"Corrections (raw-data-sources/corrections/serials.json and added-serials.json)",
 	corrections
 		.filter(({ field }) => field === "cartridgeSerials")
 		.map(
 			({ source, title, wrong, correct }) =>
-				`${source}: ${title}: ${wrong} -> ${correct ?? "(removed)"}`,
+				`${source}: ${title}: ${wrong ?? "(added)"} -> ${correct ?? "(removed)"}`,
 		),
 );
 section(
 	"Unused corrections (no longer match their source)",
 	unusedCorrections.map(
-		({ source, title, wrong }) => `${source}: ${title}: ${wrong}`,
+		({ source, title, wrong, correct }) =>
+			`${source}: ${title}: ${wrong ?? `${correct} (added)`}`,
 	),
 );
