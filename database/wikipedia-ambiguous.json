@@ -1,0 +1,464 @@
+[
+	{
+		"list": "dmg",
+		"titles": [
+			"Bomberman GB",
+			"Bomberman GB 2"
+		],
+		"gameIds": [
+			"DMG-AB2E",
+			"DMG-EE"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"The Bugs Bunny Crazy Castle",
+			"Mickey Mouse"
+		],
+		"gameIds": [
+			"DMG-BB",
+			"DMG-M2",
+			"DMG-MMA"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"The Bugs Bunny Crazy Castle 2",
+			"Mickey Mouse II",
+			"Mickey Mouse",
+			"Hugo"
+		],
+		"gameIds": [
+			"DMG-BY",
+			"DMG-M2",
+			"DMG-MMA",
+			"DMG-AGOP"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Centipede"
+		],
+		"gameIds": [
+			"DMG-AC4E",
+			"DMG-CZ"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Chikyū Kaihō Gun ZAS"
+		],
+		"gameIds": [
+			"crc32:7bfd1cff",
+			"crc32:b7f5ced2",
+			"DMG-ZAA"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Donkey Kong Land"
+		],
+		"gameIds": [
+			"DMG-YT",
+			"DMG-ADDP"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Elite Soccer",
+			"World Cup Striker",
+			"Soccer"
+		],
+		"gameIds": [
+			"DMG-YK",
+			"crc32:fdefa88d",
+			"DMG-GS"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"F-1 Race"
+		],
+		"gameIds": [
+			"DMG-F1",
+			"DMG-F1FA"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Football International",
+			"Soccer"
+		],
+		"gameIds": [
+			"DMG-GS",
+			"DMG-YK"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Game Boy Gallery"
+		],
+		"gameIds": [
+			"DMG-AGAE",
+			"DMG-AGGA"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Goal!",
+			"J.Cup Soccer",
+			"Takeda Nobuhiro no Ace Striker"
+		],
+		"gameIds": [
+			"crc32:00d4caf2",
+			"DMG-JV",
+			"DMG-JRJ"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Home Alone"
+		],
+		"gameIds": [
+			"DMG-HM",
+			"DMG-AH"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"NFL Quarterback Club"
+		],
+		"gameIds": [
+			"DMG-AQ9P",
+			"DMG-Q6"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Pocket Shogi"
+		],
+		"gameIds": [
+			"DMG-APSJ",
+			"crc32:2fa1bde6"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Ring Rage"
+		],
+		"gameIds": [
+			"crc32:fd3d5ba7",
+			"crc32:bce5dfb7",
+			"DMG-RUA"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"seaQuest DSV"
+		],
+		"gameIds": [
+			"DMG-ASCJ",
+			"DMG-ASQE"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Shanghai Pocket"
+		],
+		"gameIds": [
+			"crc32:6b8eff2c",
+			"DMG-ASEJ"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Super Kick Off",
+			"Pro Soccer"
+		],
+		"gameIds": [
+			"DMG-KF",
+			"DMG-K0",
+			"crc32:a6f3bee2"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Taz-Mania",
+			"Looney Tunes 2: Tazmanian Devil in Island Chase"
+		],
+		"gameIds": [
+			"DMG-ZT",
+			"DMG-ZM"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Taz-Mania 2",
+			"Taz-Mania"
+		],
+		"gameIds": [
+			"DMG-ATZE",
+			"DMG-ZT",
+			"DMG-ZM"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Wario Blast: Featuring Bomberman!",
+			"Bomberman GB"
+		],
+		"gameIds": [
+			"DMG-EE",
+			"DMG-AB2E"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"X"
+		],
+		"gameIds": [
+			"DMG-SX",
+			"DMG-ECJ"
+		]
+	},
+	{
+		"list": "dmg",
+		"titles": [
+			"Zoids Densetsu"
+		],
+		"gameIds": [
+			"DMG-ZOJ",
+			"crc32:c32dca06"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Antz World Sportz"
+		],
+		"gameIds": [
+			"crc32:67c7f85c",
+			"CGB-BA7P"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Dance Dance Revolution GB"
+		],
+		"gameIds": [
+			"CGB-BDGJ",
+			"CGB-BD5J"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Elevator Action EX",
+			"Elevator Action",
+			"Dexter's Laboratory: Robot Rampage"
+		],
+		"gameIds": [
+			"CGB-BEXP",
+			"CGB-BROP"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Game & Watch Gallery 2",
+			"Game Boy Gallery 3"
+		],
+		"gameIds": [
+			"DMG-AGLE",
+			"DMG-AGQE"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Game & Watch Gallery 3",
+			"Game Boy Gallery 3",
+			"Game Boy Gallery 4"
+		],
+		"gameIds": [
+			"DMG-AGQE",
+			"DMG-AGLE"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Mia Hamm Soccer Shootout",
+			"Telefoot Soccer 2000",
+			"European Super League"
+		],
+		"gameIds": [
+			"CGB-BMHE",
+			"CGB-AO3P"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Ronaldo V-Soccer",
+			"Ronaldo V-Football",
+			"UEFA 2000"
+		],
+		"gameIds": [
+			"DMG-AORP",
+			"CGB-BUEP"
+		]
+	},
+	{
+		"list": "cgb",
+		"titles": [
+			"Worms: Armageddon"
+		],
+		"gameIds": [
+			"CGB-AAOE",
+			"crc32:e241edde",
+			"CGB-AWUP",
+			"crc32:626dfadb"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Disney Sports Football",
+			"Disney Sports: American Football"
+		],
+		"gameIds": [
+			"AGB-A3DJ",
+			"AGB-A6DP"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Disney Sports Soccer",
+			"Disney Sports Football"
+		],
+		"gameIds": [
+			"AGB-A6DP",
+			"AGB-A3DJ"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Dr. Seuss' The Cat in the Hat",
+			"The Cat in the Hat"
+		],
+		"gameIds": [
+			"AGB-AQTP",
+			"AGB-BCTE"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"F-Zero: Maximum Velocity",
+			"F-Zero"
+		],
+		"gameIds": [
+			"AGB-AFZP",
+			"AGB-BFZP"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Gadget Racers",
+			"Penny Racers",
+			"Choro Q Advance"
+		],
+		"gameIds": [
+			"AGB-AQ2J",
+			"AGB-AQAJ"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Road Trip: Shifting Gears",
+			"Gadget Racers",
+			"Choro Q Advance 2"
+		],
+		"gameIds": [
+			"AGB-AQ2J",
+			"AGB-AQAJ"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Shark Tale",
+			"Gang De Requins",
+			"Große Haie-Kleine Fische",
+			"El Espantatiburones"
+		],
+		"gameIds": [
+			"AGB-BSUP",
+			"AGB-MSAE",
+			"AGB-B9TJ"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Shrek 2"
+		],
+		"gameIds": [
+			"AGB-BSEP",
+			"AGB-M2SE"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Who Wants to Be a Millionaire?",
+			"Qui Veut Gagner des Millions",
+			"Wer Wird Millionar",
+			"Quien Quiere Ser Millonario",
+			"¿Quiere ser millonario? 50 por 15",
+			"Chi Vuol Essere Milionario",
+			"Weekend Miljonairs"
+		],
+		"gameIds": [
+			"AGB-A55P",
+			"AGB-B55P"
+		]
+	},
+	{
+		"list": "agb",
+		"titles": [
+			"Zoids Saga"
+		],
+		"gameIds": [
+			"AGB-ATZJ",
+			"AGB-BZFJ"
+		]
+	}
+]
