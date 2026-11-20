@@ -1,0 +1,281 @@
+[
+ {
+  "serial": "AGB-ATTE-USA",
+  "query": "AGB-ATTE-USA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/game/6270",
+    "site": "gamehacking.org",
+    "titleFound": "Tiny Toon Adventures: Scary Dreams",
+    "serialShown": "AGB-ATTE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://vgcollect.com/item/19537",
+    "site": "vgcollect.com",
+    "titleFound": "Tiny Toon Adventures: Scary Dreams",
+    "serialShown": "AGB-ATTE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TTABBD (internal name only)",
+    "serialShown": "AGB-ATTE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "gives internal name TTABBD, not a full title"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65197--tiny-toon-adventures-busters-bad-dream",
+    "site": "retroplace.com",
+    "titleFound": "Tiny Toon Adventures: Buster's Bad Dream",
+    "serialShown": "AGB-ATTE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary says USA version, 2006; conflicts with Scary Dreams title"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ATTP-EUR",
+  "query": "AGB-ATTP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TTABBD (internal name only)",
+    "serialShown": "AGB-ATTP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65197--tiny-toon-adventures-busters-bad-dream",
+    "site": "retroplace.com",
+    "titleFound": "Tiny Toon Adventures: Buster's Bad Dream",
+    "serialShown": "AGB-ATTP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Europe edition, EAN 4033756004363, 2002"
+   },
+   {
+    "url": "https://gamehacking.org/game/6269",
+    "site": "gamehacking.org",
+    "titleFound": "Tiny Toon Adventures: Buster's Bad Dream",
+    "serialShown": "AGB-ATTP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary does not state title explicitly; title inferred from the result set (Giant Bomb/Retroplace)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ATVP-EUR",
+  "query": "AGB-ATVP-EUR",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/index.php?name=Dom&page=person",
+    "site": "arcade-history.com",
+    "titleFound": "TIR et BUT - Edition Champions du Monde",
+    "serialShown": "AGB-ATVP",
+    "exact": false,
+    "kind": "catalog",
+    "note": "page shows model AGB-ATVP (no region suffix), 2002, Titus; URL attribution uncertain (person listing pages)"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TIRETBUT (internal name only)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "serial format not clearly stated"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "TIR et BUT",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary vague on exact serial/title"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ATWY-EUU",
+  "query": "AGB-ATWY-EUU",
+  "results": [
+   {
+    "url": "https://archive.org/details/tetris-worlds-euu-box",
+    "site": "archive.org",
+    "titleFound": "Tetris: Worlds",
+    "serialShown": "AGB-ATWY EUU",
+    "exact": false,
+    "kind": "other",
+    "note": "box scan title shows 'AGB-ATWY EUU' with space"
+   },
+   {
+    "url": "https://archive.org/details/tetris-worlds-euu-manual",
+    "site": "archive.org",
+    "titleFound": "Tetris: Worlds",
+    "serialShown": "AGB-ATWY-EUU",
+    "exact": true,
+    "kind": "other"
+   },
+   {
+    "url": "https://vgcollect.com/item/59386",
+    "site": "vgcollect.com",
+    "titleFound": "Tetris Worlds",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "EU, 2001, THQ; serial not explicitly shown in summary"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Tetris Worlds",
+    "serialShown": "AGB-ATWY-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-ATWY-0"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/208881--tetris-worlds",
+    "site": "retroplace.com",
+    "titleFound": "Tetris Worlds",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "barcode 4005209035026"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ATWY-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ATWY-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "32 MB"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ATYJ-JPN",
+  "query": "AGB-ATYJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394885731218",
+    "site": "ebay.com",
+    "titleFound": "Gambler Densetsu Tetsuya: Yogigaeru Densetsu",
+    "serialShown": "AGB-ATYJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "title as in listing (Yogigaeru)"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Gambler Densetsu Tetsuya: Yomigaeru Densetsu",
+    "serialShown": "AGB-ATYJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-ATYJ-0; Japan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Tetsuya Yomigaeru Densetsu (J)",
+    "serialShown": "AGB-ATYJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name TETSUYA, filename 0553 - Tetsuya Yomigaeru Densetsu (J).gba"
+   },
+   {
+    "url": "http://snesmusic.org/pmh/view.php?id=2999",
+    "site": "snesmusic.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "release 2002.07.19 Athena; serial not confirmed in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AU2J-JPN",
+  "query": "AGB-AU2J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/318639233291",
+    "site": "ebay.com",
+    "titleFound": "SEGA Shining Soul II",
+    "serialShown": "AGB-AU2J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/377585841268",
+    "site": "ebay.com",
+    "titleFound": "Shining Soul II",
+    "serialShown": "AGB-AU2J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/206520483512",
+    "site": "ebay.com",
+    "titleFound": "Shining Soul II",
+    "serialShown": "AGB-AU2J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/178445341545",
+    "site": "ebay.com",
+    "titleFound": "SEGA Shining Soul II",
+    "serialShown": "AGB-AU2J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://segaretro.org/Shining_Soul_II",
+    "site": "segaretro.org",
+    "titleFound": "Shining Soul II",
+    "serialShown": "AGB-AU2J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japan cartridge 2003-07-03 per summary"
+   },
+   {
+    "url": "https://suda51.fandom.com/wiki/Shining_Soul",
+    "site": "suda51.fandom.com",
+    "titleFound": "Shining Soul",
+    "serialShown": "AGB-AU2J-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "summary says original Shining Soul (2002-03-28) cartridge listed with this code; uncertain/possibly summary error"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary doesn't state details"
+   }
+  ]
+ }
+]

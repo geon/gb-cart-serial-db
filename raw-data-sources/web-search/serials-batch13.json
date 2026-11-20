@@ -1,0 +1,748 @@
+[
+ {
+  "serial": "AGB-A3TE-USA",
+  "query": "AGB-A3TE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/ps/915437-the-three-stooges/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "The Three Stooges",
+    "serialShown": "AGB-A3TE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary: Metro3D, US, 03/31/02; URL path says PlayStation but summary ties the product ID to the GBA release"
+   },
+   {
+    "url": "https://www.arcade-history.com/index.php?name=TN&page=person",
+    "site": "arcade-history.com",
+    "titleFound": "The Three Stooges",
+    "serialShown": "AGB-A3TE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary says arcade-history lists 'The Three Stooges [Model AGB-A3TE-USA]' (Metro 3D, 2002); unsure which of the arcade-history person-list URLs returned (TN/jami/Crawfish/Joseph)"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "3 STOOGES (internal name)",
+    "serialShown": "AGB-A3TE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/67",
+    "site": "gamehacking.org",
+    "titleFound": "Teen Titans (USA)",
+    "serialShown": "AGB-A3TE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary: 'Version / Teen Titans: (USA); Serial: AGB-A3TE-USA'; unsure whether this exact URL or another gamehacking page"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A3ZE-USA",
+  "query": "AGB-A3ZE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Street Jam Basketball (internal name STREETJAM)",
+    "serialShown": "AGB-A3ZE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Street Jam Basketball (32 MB, EEPROM_V122 4KB)",
+    "serialShown": "AGB-A3ZE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/63",
+    "site": "gamehacking.org",
+    "titleFound": "SSX Tricky / Steel Empire (listed under this serial per summary)",
+    "serialShown": "AGB-A3ZE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking.org gives this serial for SSX Tricky and Steel Empire (CRC32 3F20A970, 4M); which of the gamehacking URLs (all/63, s/7, all/61) is uncertain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4AX-EUU",
+  "query": "AGB-A4AX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SIMPSONSRAGE (internal name)",
+    "serialShown": "AGB-A4AX-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "SIMPSONSRAGE (64 Mbit, no save type)",
+    "serialShown": "AGB-A4AX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Simpsons, The - Road Rage (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-A4AX-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4BE-USA",
+  "query": "AGB-A4BE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MONSTER BASS (internal name)",
+    "serialShown": "AGB-A4BE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/6",
+    "site": "gamehacking.org",
+    "titleFound": "Monster Bass Fishing (U)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 3EDBA390, 4M; summary does not show the serial on this page; could also be gamehacking.org/game/5401"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/buylist/video_games-nintendo-game_boy_advance_gba/monster_bass_fishing/92520",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Monster! Bass Fishing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Summary mentions a listing with this product ID, publisher AIA, 09/28/04; unsure which URL (could be pinterest/gameigloo/wiiplay)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4DE-USA",
+  "query": "AGB-A4DE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Disney Sports Skateboarding (file '0813 - Disney Sports Skateboarding (U).gba', internal DS-SKATE-U)",
+    "serialShown": "AGB-A4DE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DS-SKATE-U (128, EEPROM_V122 4)",
+    "serialShown": "AGB-A4DE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59784--disney-sports-skateboarding",
+    "site": "retroplace.com",
+    "titleFound": "Disney Sports: Skateboarding USA",
+    "serialShown": "AGB-A4DE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary: '083717500247 | AGB-A4DE-USA | 2002'; JP version AGB-A4DJ-JPN; unsure whether this exact URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4DP-EUR",
+  "query": "AGB-A4DP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MusicPlayer2000 driver listed; no title in summary",
+    "serialShown": "AGB-A4DP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DS-SKATE-E (128, EEPROM_V122)",
+    "serialShown": "AGB-A4DP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-A4DP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59784--disney-sports-skateboarding",
+    "site": "retroplace.com",
+    "titleFound": "Disney Sports: Skateboarding Europe",
+    "serialShown": "AGB-A4DP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary: listed with that code, 2003; unsure which URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4GE-USA",
+  "query": "AGB-A4GE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/929541-zatch-bell-electric-arena/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Zatch Bell! Electric Arena",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary: Eighting/Bandai, US, Nov 2005; serial not explicitly quoted for this URL"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Zatch Bell! Electric Arena (CRC32 B4F1E785)",
+    "serialShown": "AGB-A4GE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ZATCH EA1 (internal name)",
+    "serialShown": "AGB-A4GE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4KJ-JPN",
+  "query": "AGB-A4KJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395354928402",
+    "site": "ebay.com",
+    "titleFound": "Hamster Club 4: Shigessa Daidassou",
+    "serialShown": "AGB-A4KJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "NTSC-J"
+   },
+   {
+    "url": "https://arcade-history.com/index.php?editeur=5904&page=database",
+    "site": "arcade-history.com",
+    "titleFound": "Hamster Club 4 (Jorudan Co., Ltd. Japan, 2003)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says code listed with 2003 and Jorudan; shown serial not explicit"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HAM-CLUB4 (internal name)",
+    "serialShown": "AGB-A4KJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Hamster Club 4 (Japan)",
+    "serialShown": "AGB-A4KJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4LJ-JPN",
+  "query": "AGB-A4LJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.ca/itm/395039866265",
+    "site": "ebay.ca",
+    "titleFound": "Sylvanian Families 4",
+    "serialShown": "AGB-A4LJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SYLVANIA4 (internal name)",
+    "serialShown": "AGB-A4LJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A4LJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "present in results; summary gives no detail"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Sylvanian Families 4 (Japan)",
+    "serialShown": "AGB-A4LJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   },
+   {
+    "url": "https://releaselister.info/en/gba/site372.htm",
+    "site": "releaselister.info",
+    "titleFound": "Sylvanian Families 4 (Telenet, EEPROM 64Kbit)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary does not show serial for this page"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4NP-EUR",
+  "query": "AGB-A4NP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Harvest Moon - Friends of Mineral Town (E).gba, internal HARVESTMOGBA",
+    "serialShown": "AGB-A4NP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A4NP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "present in results; summary gives no detail"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Harvest Moon: Friends of Mineral Town (Europe)",
+    "serialShown": "AGB-A4NP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   },
+   {
+    "url": "https://gamehacking.org/game/4828",
+    "site": "gamehacking.org",
+    "titleFound": "Harvest Moon: Friends of Mineral Town (Europe, CRC32 F50F82AD)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "serial not explicit"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4PJ-JPN",
+  "query": "AGB-A4PJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Sister Princess Re Pure (file '0924 - Sister Princess Re Pure (J).gba', internal SISTERP-MMV1)",
+    "serialShown": "AGB-A4PJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Sister Princess Re Pure (64 Mbit, EEPROM_V122 4KB)",
+    "serialShown": "AGB-A4PJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Sister Princess Re Pure (Japan)",
+    "serialShown": "AGB-A4PJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   },
+   {
+    "url": "https://jp.mercari.com/item/m49697915361",
+    "site": "jp.mercari.com",
+    "titleFound": "シスター・プリンセス リピュア GBA",
+    "serialShown": "AGB-A4PJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "summary says same model number shown"
+   },
+   {
+    "url": "https://detteiugames.rash.jp/archive/gbabackup/index.html",
+    "site": "detteiugames.rash.jp",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary mentions a Japanese retro database page with 2003/3/20 date; unsure which URL (this or gb1gbc1.tripod.com/gba/gba_save.htm)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4RE-USA",
+  "query": "AGB-A4RE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/562369-rock-n-roll-racing/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Rock 'N Roll Racing",
+    "serialShown": "AGB-A4RE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Blizzard Classic Arcade, 06/23/03"
+   },
+   {
+    "url": "https://www.giantbomb.com/rock-n-roll-racing/3030-18026/releases/",
+    "site": "giantbomb.com",
+    "titleFound": "Rock N' Roll Racing",
+    "serialShown": "AGB-A4RE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US release, June 20 2003"
+   },
+   {
+    "url": "https://gamehacking.org/game/5802",
+    "site": "gamehacking.org",
+    "titleFound": "Rock 'N Roll Racing (internal RRRACING)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking maps the code to this game; URL uncertain (system/gba/r/2 or game/5802)"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "RRRACING (internal name)",
+    "serialShown": "AGB-A4RE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says save-type list maps the code to this game"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A4VJ-JPN",
+  "query": "AGB-A4VJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Yuujou no Victory Goal: 4V4 Arashi Get the Goal!!",
+    "serialShown": "AGB-A4VJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394778541063",
+    "site": "ebay.com",
+    "titleFound": "Yuujou no Victory Goal: 4V4 Arashi Get the Goal!!",
+    "serialShown": "AGB-A4VJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Yuujou no Victory Goal 4V4 Arashi (Japan)",
+    "serialShown": "AGB-A4VJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   },
+   {
+    "url": "https://gamehacking.org/?game=6533",
+    "site": "gamehacking.org",
+    "titleFound": "Yuujou no Victory Goal: 4V4 Arashi (Japan), CRC32 CE987F90",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "serial not explicit"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A52J-JPN",
+  "query": "AGB-A52J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0897 - Eitangohen - 2000 Words (J).gba",
+    "serialShown": "AGB-A52J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "AGB-P-A52J, 64 Mbit, SRAM_V112",
+    "serialShown": "AGB-A52J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Koukou Juken Advance Series Eitango Hen (Japan)",
+    "serialShown": "AGB-A52J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   },
+   {
+    "url": "https://releaselister.info/en/gba/site385.htm",
+    "site": "releaselister.info",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "relevance uncertain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A53J-JPN",
+  "query": "AGB-A53J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "AGB-P-A53J, Koukou Juken Advance Series Eijukugo Hen",
+    "serialShown": "AGB-A53J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "64 Mbit, SRAM_V112",
+    "serialShown": "AGB-A53J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Koukou Juken Advance Series Eijukugo Hen (Japan)",
+    "serialShown": "AGB-A53J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A54J-JPN",
+  "query": "AGB-A54J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395354956478",
+    "site": "ebay.com",
+    "titleFound": "Eigo Koubunhen 26 Units Shuuroku",
+    "serialShown": "AGB-A54J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://arcade-history.com/?id=71407&n=koukou-juken-advance-series-eigo-koubun-hen-26-units-shuuroku-model-agb-a54j-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Koukou Juken Advance Series Eigo Koubun-Hen: 26 Units Shuuroku",
+    "serialShown": "AGB-A54J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "URL slug contains model agb-a54j-jpn; Keynet 2001"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MusicPlayer2000; AGB-P-A54J",
+    "serialShown": "AGB-A54J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "AGB-P-A54J, 64 Mbit, SRAM",
+    "serialShown": "AGB-A54J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Japan release",
+    "serialShown": "AGB-A54J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown, not the full serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A55D-NOE",
+  "query": "AGB-A55D-NOE",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/187618--wer-wird-millionaer",
+    "site": "retroplace.com",
+    "titleFound": "Wer wird Millionär",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Zoo Digital Publishing, German; serial not explicitly quoted"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "WWTBAM (internal name)",
+    "serialShown": "AGB-A55D-DEU",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "different region suffix"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "32 MB, no save type",
+    "serialShown": "AGB-A55D-NOE",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A55F-NOE",
+  "query": "AGB-A55F-NOE",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Qui Veut Gagner Des Millions (F).gba, internal WWTBAM",
+    "serialShown": "AGB-A55F-FRA",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "different region suffix; exact serial not found"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "French version of Who Wants to Be a Millionaire?",
+    "serialShown": "AGB-A55F",
+    "exact": false,
+    "kind": "catalog",
+    "note": "partial serial without suffix"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A55S-ESP",
+  "query": "AGB-A55S-ESP",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0934 - Quiere ser Millonario (S).gba, internal WWTBAM",
+    "serialShown": "AGB-A55S-ESP",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://www.ebay.com/itm/286674403799",
+    "site": "ebay.com",
+    "titleFound": "50 por 15 ¿Quiere Ser Millonario?",
+    "serialShown": "AGB-A55S-ESP",
+    "exact": true,
+    "kind": "listing",
+    "note": "MPN AGB-A55S-ESP, ZOO Digital Publishing, 2002"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5DE-USA",
+  "query": "AGB-A5DE-USA",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/game/70357/disney-sports-snowboarding-model-agb-a5de-usa",
+    "site": "arcade-history.com",
+    "titleFound": "Disney Sports: Snowboarding",
+    "serialShown": "AGB-A5DE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Disney Interactive 2003"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DS_SNOWBD_U (internal name)",
+    "serialShown": "AGB-A5DE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name / filename shown as given in summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A5DE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "present in results; summary gives no detail"
+   }
+  ]
+ }
+]

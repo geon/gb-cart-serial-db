@@ -1,0 +1,109 @@
+[
+{"serial":"AGB-A24J-JPN","query":"AGB-A24J-JPN","results":[
+{"url":"https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv","site":"github.com","titleFound":"EZ-TALK","serialShown":"AGB-A24J-JPN","exact":true,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"0268 - EZ-Talk 3 (J).gba","serialShown":null,"exact":false,"kind":"rom-derived","note":"summary gives filename only; serial presumably AGB-A24J-JPN"},
+{"url":"https://www.youtube.com/watch?v=HPtCnGUJV9U","site":"youtube.com","titleFound":"EZ-Talk - Shokyuu Hen 3","serialShown":null,"exact":false,"kind":"other","note":"summary says video identifies Japanese version by this code"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"EZ-Talk - Shokyuu Hen 3 (Japan)","serialShown":null,"exact":false,"kind":"rom-derived","note":"summary says 'one database' lists this title with the ROM ID; unclear which URL; ROM ID form would be AGB-A24J-0"}
+]},
+{"serial":"AGB-A2ZJ-JPN","query":"AGB-A2ZJ-JPN","results":[
+{"url":"https://gamefaqs.gamespot.com/gba/583199-zen-nippon-shounen-soccer-taikai-2-mezase-nippon-ichi/data","site":"gamefaqs.gamespot.com","titleFound":"Zen-Nippon Shounen Soccer Taikai 2: Mezase Nippon Ichi!","serialShown":"AGB-A2ZJ-JPN","exact":true,"kind":"catalog"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"BOYSSOCCER#2 (internal name)","serialShown":"AGB-A2ZJ-JPN","exact":true,"kind":"rom-derived"},
+{"url":"https://www.ebay.com/itm/383434796247","site":"ebay.com","titleFound":"All Japan Youth Soccer Tournament 2, Dodgeball Fighters GBA","serialShown":"AGB-A2ZJ-JPN","exact":true,"kind":"listing","note":"summary says listing shows this code alongside AGB-ADFJ-JPN, looks mixed/mislabeled; same listing also at ebay.co.uk and ebay.ca"}
+]},
+{"serial":"AGB-A4RP-EUR","query":"AGB-A4RP-EUR","results":[
+{"url":"https://gamefaqs.gamespot.com/gba/562369-rock-n-roll-racing/data","site":"gamefaqs.gamespot.com","titleFound":"Rock 'N Roll Racing","serialShown":"AGB-A4RP-EUR","exact":true,"kind":"catalog"},
+{"url":"https://www.retroplace.com/en/games/64215--rock-n-roll-racing","site":"retroplace.com","titleFound":"Rock 'N Roll Racing","serialShown":"AGB-A4RP-EUR","exact":true,"kind":"catalog"},
+{"url":"https://www.giantbomb.com/rock-n-roll-racing/3030-18026/releases/","site":"giantbomb.com","titleFound":"Rock N' Roll Racing","serialShown":"AGB-A4RP-EUR","exact":true,"kind":"catalog"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"1134 - Rock n' Roll Racing (E).gba","serialShown":"AGB-A4RP-EUR","exact":true,"kind":"rom-derived"},
+{"url":"https://www.cashandyou.fr/jeux-game-boy-advance/24135-jeu-gameboy-advance-rock-n-roll-racing-agb-a4rp-eur-sans-boite.html","site":"cashandyou.fr","titleFound":"Rock N Roll Racing","serialShown":"AGB-A4RP-EUR","exact":true,"kind":"listing"}
+]},
+{"serial":"AGB-A6GJ-JPN","query":"AGB-A6GJ-JPN","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Monster Gate 2 - Dai Inaru Dungeon (J)","serialShown":"AGB-A6GJ-JPN","exact":true,"kind":"rom-derived","note":"internal name MONSTERGATE2"},
+{"url":"https://gamehacking.org/game/5385","site":"gamehacking.org","titleFound":"Monster Gate - Ooinaru Dungeon - Fuuin no Orb","serialShown":null,"exact":false,"kind":"rom-derived","note":"summary says CRC32 05AC7685, 8M; serial not explicitly quoted"},
+{"url":"https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv","site":"github.com","titleFound":null,"serialShown":null,"exact":false,"kind":"rom-derived","note":"summary says save type SRAM_F_V102 256 for this serial"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":null,"serialShown":"AGB-A6GJ-0","exact":false,"kind":"rom-derived","note":"summary says ROM ID AGB-A6GJ-0 for the same Japanese title; title not given"}
+]},
+{"serial":"AGB-A9CE-USA","query":"AGB-A9CE-USA","results":[
+{"url":"https://www.retroplace.com/en/games/59498--ct-special-forces-2-back-in-the-trenches","site":"retroplace.com","titleFound":"CT Special Forces 2: Back in the Trenches","serialShown":"AGB-A9CE-USA","exact":true,"kind":"catalog"},
+{"url":"https://vgcollect.com/item/78649","site":"vgcollect.com","titleFound":"CT Special Forces 2: Back in the Trenches","serialShown":"AGB-A9CE-USA","exact":true,"kind":"catalog"},
+{"url":"https://archive.org/details/ct-special-forces-2-usa-manual","site":"archive.org","titleFound":"CT Special Forces 2: Back in the Trenches","serialShown":"AGB-A9CE-USA","exact":true,"kind":"other"},
+{"url":"https://archive.org/details/ct-special-forces-2-usa-box","site":"archive.org","titleFound":"CT Special Forces 2: Back in the Trenches","serialShown":"AGB-A9CE USA","exact":false,"kind":"other"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"CT SPECIAL F (internal name)","serialShown":null,"exact":false,"kind":"rom-derived","note":"summary gives internal name and GAX 3.03A; serial not explicitly quoted"}
+]},
+{"serial":"AGB-ABDE-USA","query":"AGB-ABDE-USA","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"0597 - Boulder Dash EX (U).gba","serialShown":"AGB-ABDE-USA","exact":true,"kind":"rom-derived","note":"internal name B-DASH EX"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Boulder Dash EX (USA)","serialShown":"AGB-ABDE-0","exact":false,"kind":"rom-derived"},
+{"url":"https://vgcollect.com/item/2932","site":"vgcollect.com","titleFound":"Boulder Dash EX","serialShown":null,"exact":false,"kind":"catalog","note":"summary gives release date Sept 20 2002, Kemco; serial not explicitly quoted"},
+{"url":"https://www.retroplace.com/en/games/58806--boulder-dash-ex","site":"retroplace.com","titleFound":"Boulder Dash EX","serialShown":"AGB-ABDE-USA","exact":true,"kind":"catalog","note":"summary cites a retail listing/table with the US code and Europe AGB-ABDP-EUR; uncertain whether this URL or VGCollect"}
+]},
+{"serial":"AGB-AD9E-USA","query":"AGB-AD9E-USA","results":[
+{"url":"https://vgcollect.com/item/2994","site":"vgcollect.com","titleFound":"Duke Nukem Advance","serialShown":"AGB-AD9E-USA","exact":true,"kind":"catalog"},
+{"url":"https://gamehacking.org/game/4433?hacker=Datel","site":"gamehacking.org","titleFound":"Duke Nukem Advance","serialShown":"AGB-AD9E-USA","exact":true,"kind":"rom-derived","note":"CRC32 06570282, 8M"},
+{"url":"https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv","site":"github.com","titleFound":"DUKE NUKEM A","serialShown":"AGB-AD9E-USA","exact":true,"kind":"rom-derived"},
+{"url":"https://www.retroplace.com/en/games/60404--duke-nukem-advance","site":"retroplace.com","titleFound":"Duke Nukem Advance","serialShown":null,"exact":false,"kind":"catalog","note":"summary says eBay and Retroplace use this code; European AGB-AD9P-EUR mentioned from some listing"}
+]},
+{"serial":"AGB-AENE-USA","query":"AGB-AENE-USA","results":[
+{"url":"https://www.uvlist.net/game-111357-Serious+Sam+Advance","site":"uvlist.net","titleFound":"Serious Sam Advance","serialShown":"AGB-AENE-USA","exact":true,"kind":"catalog","note":"also lists European SKU AGB-AENP-EUR"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Serious Sam Advance (USA) (En,Fr,De)","serialShown":"AGB-AENE-0","exact":false,"kind":"rom-derived"}
+]},
+{"serial":"AGB-AGFS-SPA","query":"AGB-AGFS-SPA","results":[
+{"url":"https://www.uvlist.net/game-105025-Golden+Sun+The+Lost+Age","site":"uvlist.net","titleFound":"Golden Sun: The Lost Age","serialShown":"AGB-AGFS-SPA","exact":true,"kind":"catalog","note":"page lists several regional SKUs"}
+]},
+{"serial":"AGB-AHQJ-JPN","query":"AGB-AHQJ-JPN","results":[
+{"url":"https://www.ebay.com/itm/395890041936","site":"ebay.com","titleFound":"Harobots: Robo Hero Battling!!","serialShown":"AGB-AHQJ-JPN","exact":true,"kind":"listing"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"HAROBOTSADVN (internal name)","serialShown":"AGB-AHQJ-JPN","exact":true,"kind":"rom-derived"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Harobots (Japan)","serialShown":"AGB-AHQJ-0","exact":false,"kind":"rom-derived","note":"title wording approximate per summary"},
+{"url":"https://gamehacking.org/system/gba/h","site":"gamehacking.org","titleFound":"Hamtaro - Ham-Ham Games","serialShown":"AGB-AHQJ-JPN","exact":true,"kind":"rom-derived","note":"summary says GameHacking ties serial to a 4 MB file CRC32 F54976C8 and to Hamtaro - Ham-Ham Games (Japan); unclear which of the GameHacking URLs (system/gba/h or system/gba/all/28) this is"}
+]},
+{"serial":"AGB-AJGF-NOE","query":"AGB-AJGF-NOE","results":[
+{"url":"https://www.retroplace.com/en/games/133722--golden-sun-die-vergessene-epoche","site":"retroplace.com","titleFound":"Golden Sun: Die Vergessene Epoche","serialShown":null,"exact":false,"kind":"catalog","note":"summary was muddled (said Tarzan: Return to the Jungle); this URL title is Golden Sun German; no serial confirmed from summary"},
+{"url":"https://rfgeneration.com/cgi-bin/getinfo.pl?ID=E-074-S-00251-A","site":"rfgeneration.com","titleFound":"Golden Sun: Die vergessene Epoche","serialShown":null,"exact":false,"kind":"catalog","note":"summary muddled; serial not confirmed"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"Tarzan (French release?)","serialShown":null,"exact":false,"kind":"rom-derived","note":"summary says GitHub list and gbhwdb tie the AJGF part to a French Tarzan release; unreliable"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":null,"serialShown":null,"exact":false,"kind":"rom-derived","note":"see gist note; unreliable summary"}
+]},
+{"serial":"AGB-ALCE-USA","query":"AGB-ALCE-USA","results":[
+{"url":"https://gamehacking.org/system/gba/l/1","site":"gamehacking.org","titleFound":"LEGO Star Wars II - The Original Trilogy","serialShown":"AGB-ALCE-USA","exact":true,"kind":"rom-derived","note":"CRC32 B550F8CB, 8M"},
+{"url":"https://www.arcade-history.com/index.php?Tri=0&annee=36&demo=0&editeur=&export=1&gallery=&lemot=&listtypes=all&mamed=1&nongame=0&page=database&pirate=0&position=55&reissue=1","site":"arcade-history.com","titleFound":"Little League Baseball 2002","serialShown":"AGB-ALCE-USA","exact":true,"kind":"catalog","note":"NewKidCo International, 2002"}
+]},
+{"serial":"AGB-AMTC-CHN","query":"AGB-AMTC-CHN","results":[
+{"url":"https://www.uvlist.net/game-101830-Metroid+Fusion","site":"uvlist.net","titleFound":"Metroid Fusion","serialShown":"AGB-AMTC-CHN","exact":true,"kind":"catalog","note":"SKU for Chinese edition"},
+{"url":"https://releaselister.info/en/gba/search_Publisher=iQue_2329.htm","site":"releaselister.info","titleFound":"METFUSIONCHN","serialShown":"AGB-AMTC-CHN","exact":true,"kind":"rom-derived","note":"64Mbit / 8MByte Chinese ROM; title given is internal name"}
+]},
+{"serial":"AGB-AO3E-USA","query":"AGB-AO3E-USA","results":[
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Terminator 3 - Rise of the Machines (USA)","serialShown":"AGB-AO3E-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"TERMINATOR 3 (internal name)","serialShown":"AGB-AO3E-USA","exact":true,"kind":"rom-derived"},
+{"url":"https://gamehacking.org/system/gba/t/1","site":"gamehacking.org","titleFound":"Terminator 3: Rise of the Machines","serialShown":"AGB-AO3E-USA","exact":true,"kind":"rom-derived","note":"CRC32 F74B3C7D, 8M; exact URL among GameHacking results (system/gba/t/1, all/67, game/6251) uncertain"},
+{"url":"https://www.retroplace.com/en/games/82461--terminator-3-rise-of-the-machines","site":"retroplace.com","titleFound":"Terminator 3: Rise of the Machines","serialShown":"AGB-AO3E-USA","exact":true,"kind":"catalog","note":"summary says retailer listing with UPC, year 2003, EU AGB-AO3P-EUR; uncertain which URL"}
+]},
+{"serial":"AGB-AQPI-ITA","query":"AGB-AQPI-ITA","results":[
+{"url":"http://www.jeuxgameboy.com/pays/16_italie","site":"jeuxgameboy.com","titleFound":"Disney Principesse","serialShown":"AGB-AQPI-ITA","exact":true,"kind":"catalog","note":"summary calls it a catalog of Italian releases (Disney Princess); URL attribution somewhat uncertain"}
+]},
+{"serial":"AGB-ASDE-USA","query":"AGB-ASDE-USA","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"0137 - Scooby-Doo and the Cyber Chase (U).gba","serialShown":"AGB-ASDE-USA","exact":true,"kind":"rom-derived","note":"internal name SCOOBY CYBER"},
+{"url":"https://www.youtube.com/watch?v=n-WZSg9YvLE","site":"youtube.com","titleFound":"Scooby-Doo and the Cyber Chase","serialShown":"AGB-ASDE-USA","exact":true,"kind":"other"},
+{"url":"https://www.dragonstrove.com/products/scooby-doo-and-the-cyber-chase-gba","site":"dragonstrove.com","titleFound":"Scooby-Doo and the Cyber Chase","serialShown":null,"exact":false,"kind":"listing","note":"summary cites a retailer listing with SKU AGB-ASDE-USA; which retailer URL is uncertain (dragonstrove, retrospekt, wiiplay2)"}
+]},
+{"serial":"AGB-ATHJ-JPN","query":"AGB-ATHJ-JPN","results":[
+{"url":"https://gamefaqs.gamespot.com/gba/471231-tony-hawks-pro-skater-2/data","site":"gamefaqs.gamespot.com","titleFound":"Tony Hawk's Pro Skater 2","serialShown":null,"exact":false,"kind":"catalog","note":"summary says Japanese release (SK8: Tony Hawk no Pro Skater 2), Success, Dec 14 2001; product ID not quoted"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":null,"serialShown":"AGB-ATHJ-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":null,"serialShown":null,"exact":false,"kind":"rom-derived","note":"summary says internal name and sound engine recorded; no title given"}
+]},
+{"serial":"AGB-AUZE-USA","query":"AGB-AUZE-USA","results":[
+{"url":"https://www.retroplace.com/en/games/64307--santa-claus-saves-the-earth","site":"retroplace.com","titleFound":"Santa Claus Saves the Earth","serialShown":"AGB-AUZE-USA","exact":true,"kind":"catalog","note":"summary says 'retailer listing', published by Telegames"},
+{"url":"https://gamefaqs.gamespot.com/gba/919432-santa-claus-saves-the-earth/data","site":"gamefaqs.gamespot.com","titleFound":"Santa Claus Saves the Earth","serialShown":null,"exact":false,"kind":"catalog","note":"US release canceled; lists European AGB-AUZP-EUR; US serial not explicitly quoted"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"0938 - Santa Claus Saves the Earth (E).gba","serialShown":null,"exact":false,"kind":"rom-derived","note":"internal name SANTA; summary attaches it to the USA code, but filename is (E)"}
+]},
+{"serial":"AGB-AWCE-USA","query":"AGB-AWCE-USA","results":[
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"World Tennis Stars (U).gba","serialShown":"AGB-AWCE-USA","exact":true,"kind":"rom-derived","note":"internal name WORLD TENNIS"},
+{"url":"https://www.uvlist.net/game-103633-World+Tennis+Stars","site":"uvlist.net","titleFound":"World Tennis Stars","serialShown":"AGB-AWCE-USA","exact":true,"kind":"catalog"},
+{"url":"https://www.retroplace.com/en/games/65628--world-tennis-stars","site":"retroplace.com","titleFound":"World Tennis Stars","serialShown":null,"exact":false,"kind":"catalog","note":"summary lists EU code AGB-AWCP-EUR and US year 2004"},
+{"url":"https://gamehacking.org/system/gba/w/1","site":"gamehacking.org","titleFound":"World Tennis Stars","serialShown":"AGB-AWCE-USA","exact":true,"kind":"rom-derived","note":"USA, 4M"}
+]},
+{"serial":"AGB-AZFE-USA","query":"AGB-AZFE-USA","results":[
+{"url":"https://www.ebay.com/itm/394601168401","site":"ebay.com","titleFound":"Need for Speed: Porsche Unleashed","serialShown":"AGB-AZFE-USA","exact":true,"kind":"listing"},
+{"url":"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07","site":"gist.github.com","titleFound":"NEEDFORSPEED (internal name)","serialShown":null,"exact":false,"kind":"rom-derived","note":"summary pairs internal name with the code"},
+{"url":"https://gbhwdb.gekkio.fi/cartridges/gba.html","site":"gbhwdb.gekkio.fi","titleFound":"Need for Speed - Porsche Unleashed (USA)","serialShown":"AGB-AZFE-0","exact":false,"kind":"rom-derived"},
+{"url":"https://gamehacking.org/game/5472","site":"gamehacking.org","titleFound":"Need for Speed: Porsche Unleashed","serialShown":"AGB-AZFE-USA","exact":true,"kind":"rom-derived","note":"USA, English, 4M"},
+{"url":"https://releaselister.info/en/gba/site242.htm","site":"releaselister.info","titleFound":null,"serialShown":"AGB-AZFE-USA","exact":true,"kind":"rom-derived","note":"summary says ROM tagged Japan/Japanese language, conflicting"}
+]}
+]

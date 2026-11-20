@@ -1,0 +1,768 @@
+[
+ {
+  "serial": "AGB-AFHP-EUR",
+  "query": "AGB-AFHP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Strike Force Hydra (E)",
+    "serialShown": "AGB-AFHP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "HYDRA",
+    "serialShown": "AGB-AFHP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Strike Force Hydra (Europe)",
+    "serialShown": "AGB-AFHP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/s/7",
+    "site": "gamehacking.org",
+    "titleFound": "Steel Empire (Europe)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking labels same serial as Steel Empire, CRC32 277D2C89; exact serial form not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFJE-USA",
+  "query": "AGB-AFJE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FIFA 2003",
+    "serialShown": "AGB-AFJE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/60870--fifa-football-2003",
+    "site": "retroplace.com",
+    "titleFound": "FIFA Football 2003",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary ties code to FIFA Soccer 2003 but not which URL shows exact serial"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps/914519-fifa-soccer-2003/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "FIFA Soccer 2003",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "PlayStation page; unclear whether it shows this serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFPJ-JPN",
+  "query": "AGB-AFPJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394778531816",
+    "site": "ebay.com",
+    "titleFound": "Fire Pro Wrestling A",
+    "serialShown": "AGB-AFPJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://arcade-history.com/?id=70689&n=fire-pro-wrestling-a-model-agb-afpj-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Fire Pro Wrestling A",
+    "serialShown": "AGB-AFPJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Fire Pro Wrestling A (J)",
+    "serialShown": "AGB-AFPJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "2021 version of sound driver list returned; summary does not detail it"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFYE-USA",
+  "query": "AGB-AFYE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Fire Pro Wrestling 2",
+    "serialShown": "AGB-AFYE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Fire Pro Wrestling 2 (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/f/2",
+    "site": "gamehacking.org",
+    "titleFound": "Final Fantasy VI Advance / Fire Emblem: Fuuin no Tsurugi (conflicting)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking lists same serial for FFVI Advance and Fire Emblem; conflicting, unclear which URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFZC-CHN",
+  "query": "AGB-AFZC-CHN",
+  "results": [
+   {
+    "url": "https://www.youtube.com/watch?v=FxtXsTeCQCY",
+    "site": "youtube.com",
+    "titleFound": "Jisu F-Zero Weilai Saiche",
+    "serialShown": "AGB-AFZC-CHN",
+    "exact": true,
+    "kind": "other"
+   },
+   {
+    "url": "https://www.rfgeneration.com/cgi-bin/getinfo.pl?ID=C-074-S-00020-A",
+    "site": "rfgeneration.com",
+    "titleFound": "Jisu F-Zero Weilai Saiche (iQue)",
+    "serialShown": "AGB-AFZC-CHN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.uvlist.net/game-96678-F+Zero+Maximum+Velocity",
+    "site": "uvlist.net",
+    "titleFound": "F-Zero: Maximum Velocity",
+    "serialShown": "AGB-AFZC-CHN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "lists SKUs AGB-AFZC-CHN, AGB-AFZE-USA, AGB-AFZJ-JPN"
+   },
+   {
+    "url": "https://archive.nes.science/nintendoage-forums/nintendoage.com/indexcef4.html?FuseAction=Search.Results&bincludeminorvariations=0&exclregionid=5,6,7,8,9,11,12,14,15,16,18,20&bregionalname=0&resultsperpage=25&exclclassid=1&bexclusive=0&bnominorvariations=0&category_id=1&exclformatid=2,3,4&companytype=P&match=all&region_id=22",
+    "site": "archive.nes.science",
+    "titleFound": "Jisu F-Zero Weilai Saiche",
+    "serialShown": "AGB-AFZC-CHN",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AG5E-USA",
+  "query": "AGB-AG5E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561151-super-ghouls-n-ghosts/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Super Ghouls 'n Ghosts",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary ties product code to this page without quoting the serial string"
+   },
+   {
+    "url": "https://vgcollect.com/item/3191",
+    "site": "vgcollect.com",
+    "titleFound": "Super Ghouls 'n Ghosts",
+    "serialShown": "AGB P AG5E",
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/64",
+    "site": "gamehacking.org",
+    "titleFound": "Super Ghouls 'n Ghosts (USA, Europe)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 1EF2ACF3"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59194--super-ghouls-n-ghosts",
+    "site": "retroplace.com",
+    "titleFound": "Super Ghouls 'n Ghosts",
+    "serialShown": "AGB-AG5P-EUR",
+    "exact": false,
+    "kind": "catalog",
+    "note": "European counterpart serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AG8E-USA",
+  "query": "AGB-AG8E-USA",
+  "results": [
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Galidor%20-%20Defenders%20of%20the%20Outer%20Dimension%20(USA)%20(En,Fr,De,Es,It,Nl,Sv,Da).html",
+    "site": "db.libretro.com",
+    "titleFound": "Galidor - Defenders of the Outer Dimension (USA)",
+    "serialShown": "AGB-AG8E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-101799-Galidor+Defenders+of+the+Outer+Dimension",
+    "site": "uvlist.net",
+    "titleFound": "Galidor: Defenders of the Outer Dimension",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary mentions publisher/date but not clearly the serial"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/g/0",
+    "site": "gamehacking.org",
+    "titleFound": "Gadget Racers",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking attributes the serial to Gadget Racers; URL uncertain (g/0 vs g)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AG9J-JPN",
+  "query": "AGB-AG9J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395113006688",
+    "site": "ebay.com",
+    "titleFound": "Greatest Nine",
+    "serialShown": "AGB-AG9J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.giantbomb.com/baseball-advance/3030-333/releases/",
+    "site": "giantbomb.com",
+    "titleFound": "Greatest Nine",
+    "serialShown": "AGB-AG9J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Nintendo Product ID; page is the Baseball Advance releases page"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GREATESTNINE",
+    "serialShown": "AGB-AG9J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Greatest Nine (Japan)",
+    "serialShown": "AGB-AG9J-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGGE-USA",
+  "query": "AGB-AGGE-USA",
+  "results": [
+   {
+    "url": "https://www.youtube.com/watch?v=A03HWecnF9I",
+    "site": "youtube.com",
+    "titleFound": "Gremlins - Stripe vs Gizmo",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61746--gremlins-stripe-vs-gizmo",
+    "site": "retroplace.com",
+    "titleFound": "Gremlins: Stripe vs Gizmo",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/gremlins_stripe_vs_gizmo/91870",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Gremlins: Stripe vs. Gizmo",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/27",
+    "site": "gamehacking.org",
+    "titleFound": "Golden Nugget Casino (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says same code in a GameHacking entry for US Golden Nugget Casino; conflicting"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGGP-EUR",
+  "query": "AGB-AGGP-EUR",
+  "results": [
+   {
+    "url": "https://www.originalgame.eu/product/12419462/agb-cartridge-gremlins-stripe-vs-gizmo-eur",
+    "site": "originalgame.eu",
+    "titleFound": "AGB Cartridge: Gremlins Stripe vs Gizmo -EUR",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Gremlins Stripe vs Gizmo",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Gremlins - Stripe vs Gizmo (Europe)",
+    "serialShown": "AGB-AGGP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/4760",
+    "site": "gamehacking.org",
+    "titleFound": "Gremlins: Stripe vs Gizmo (Europe)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 B6225186"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGOJ-JPN",
+  "query": "AGB-AGOJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Kurohige no Golf Shiyouyo",
+    "serialShown": "AGB-AGOJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Kurohige%20no%20Golf%20Shiyouyo%20(Japan).html",
+    "site": "db.libretro.com",
+    "titleFound": "Kurohige no Golf Shiyouyo (Japan)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Kurohige no Golf Shiyouyo (Japan)",
+    "serialShown": "AGB-AGOJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-183065-Kurohige+no+Golf+Shiyouyo",
+    "site": "uvlist.net",
+    "titleFound": "Kurohige no Golf Shiyouyo",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGRJ-JPN",
+  "query": "AGB-AGRJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/396254665647",
+    "site": "ebay.com",
+    "titleFound": "JGTO Golf Master: Japan Tour Golf Game",
+    "serialShown": "AGB-AGRJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394778440959",
+    "site": "ebay.com",
+    "titleFound": "JGTO Golf Master: Japan Tour Golf Game",
+    "serialShown": "AGB-AGRJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GOLFMASTER",
+    "serialShown": "AGB-AGRJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "JGTO Golf Master (Japan)",
+    "serialShown": "AGB-AGRJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGTJ-JPN",
+  "query": "AGB-AGTJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395531394050",
+    "site": "ebay.com",
+    "titleFound": "Zen Nihon GT Senshuken",
+    "serialShown": "AGB-AGTJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GT-CHAMP",
+    "serialShown": "AGB-AGTJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://chromagi.com/nintendo/gba/agb-agtj-jpn/",
+    "site": "chromagi.com",
+    "titleFound": "Zen-Nihon GT Senshuken",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "URL slug contains serial; datasheet site"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-BskfgZ-VvI",
+    "site": "youtube.com",
+    "titleFound": "Top Gear All-Japan GT Championship",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGUE-USA",
+  "query": "AGB-AGUE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HE-MAN POWER",
+    "serialShown": "AGB-AGUE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Masters of the Universe - He-Man - Power of Grayskull (USA)",
+    "serialShown": "AGB-AGUE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGXE-USA",
+  "query": "AGB-AGXE-USA",
+  "results": [
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Guilty%20Gear%20X%20-%20Advance%20Edition%20(USA).html",
+    "site": "db.libretro.com",
+    "titleFound": "Guilty Gear X - Advance Edition (USA)",
+    "serialShown": "AGB-AGXE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Guilty Gear X - Advance Edition (U)",
+    "serialShown": "AGB-AGXE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://glitchwave.com/game/guilty-gear-x/release/guilty-gear-x-advance-edition-nintendo-game-boy-advance-na/",
+    "site": "glitchwave.com",
+    "titleFound": "Guilty Gear X: Advance Edition",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "UPC 808777402894 mentioned"
+   },
+   {
+    "url": "https://www.uvlist.net/game-111727-Guilty+Gear+X+Advance+Edition",
+    "site": "uvlist.net",
+    "titleFound": "Guilty Gear X: Advance Edition",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGXP-EUR",
+  "query": "AGB-AGXP-EUR",
+  "results": [
+   {
+    "url": "https://github.com/Aur-Dev-re/veille-jeux-retro/issues/82924",
+    "site": "github.com",
+    "titleFound": "Sammy Guilty Gear X Advance Edition Nintendo Game Boy Advance PAL",
+    "serialShown": "AGB-AGXP-EUR",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Guilty Gear X (GGXAE)",
+    "serialShown": "AGB-AGXP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Guilty Gear X - Advance Edition (Europe)",
+    "serialShown": "AGB-AGXP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/533325-guilty-gear-x-advance-edition/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Guilty Gear X Advance Edition",
+    "serialShown": "AGB-AGXP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AGZJ-JPN",
+  "query": "AGB-AGZJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/204730855493",
+    "site": "ebay.com",
+    "titleFound": "Galaxy Angel Game Boy Advance",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary says MPN AGB-AGZJ-JPN, URL attribution uncertain"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Galaxy Angel Game Boy Advance - Moridakusan Tenshi no Full-Course - Okawari Jiyuu (Japan)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AH2E-USA",
+  "query": "AGB-AH2E-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Mat Hoffman's Pro BMX 2 (USA, Europe)",
+    "serialShown": "AGB-AH2E-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/540333-mat-hoffmans-pro-bmx-2/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Mat Hoffman's Pro BMX 2",
+    "serialShown": "AGB-AH2E-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63044--mat-hoffmans-pro-bmx-2",
+    "site": "retroplace.com",
+    "titleFound": "Mat Hoffman's Pro BMX 2",
+    "serialShown": "AGB-AH2P-EUR",
+    "exact": false,
+    "kind": "catalog",
+    "note": "European box code; US barcode listed"
+   },
+   {
+    "url": "https://www.arcade-history.com/index.php?name=Joseph&page=person",
+    "site": "arcade-history.com",
+    "titleFound": "Mat Hoffman's Pro BMX 2",
+    "serialShown": "AGB-AH2E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "person page listing; summary quotes Model AGB-AH2E-USA"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AH5J-JPN",
+  "query": "AGB-AH5J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394884924538",
+    "site": "ebay.com",
+    "titleFound": "Beast Shooter: Mezase Beast King",
+    "serialShown": "AGB-AH5J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BEASTSHOOTER",
+    "serialShown": "AGB-AH5J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-182075-Beast+Shooter+Mezase+Beast+King",
+    "site": "uvlist.net",
+    "titleFound": "Beast Shooter - Mezase Beast King!",
+    "serialShown": "AGB-AH5J-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://vgarchive.org/games/list/page/22/startswith/B/sortby/releasedate",
+    "site": "vgarchive.org",
+    "titleFound": "Beast Shooter - Mezase Beast King!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "list page; UPC 4988602087734"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Beast Shooter (Japan)",
+    "serialShown": "AGB-AH5J-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AH8P-EUR",
+  "query": "AGB-AH8P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HOT WHEELS V / Hot Wheels - Velocity X (E)",
+    "serialShown": "AGB-AH8P-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/558370-hot-wheels-velocity-x/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Hot Wheels: Velocity X",
+    "serialShown": "AGB-AH8P-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "GameCube page; summary says EU row (THQ) shows the serial, likely a multi-platform release table"
+   },
+   {
+    "url": "https://gamehacking.org/game/4875?game=4875",
+    "site": "gamehacking.org",
+    "titleFound": "Hot Wheels: Velocity X (Europe)",
+    "serialShown": "AGB-AH8P",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary shows serial without suffix"
+   }
+  ]
+ }
+]

@@ -1,0 +1,693 @@
+[
+ {
+  "serial": "AGB-B2MP-EUR",
+  "query": "AGB-B2MP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SHAMAN KING2",
+    "serialShown": "AGB-B2MP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-B2MP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-B4DP-EUR",
+  "query": "AGB-B4DP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SKYDANCERS",
+    "serialShown": "AGB-B4DP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-B4DP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=CoqhP8vVhk4",
+    "site": "youtube.com",
+    "titleFound": "Sky Dancers - They Magically Fly! - Version Europe",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary says the video labels the European version with this code; unclear if shown verbatim"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-B6ME-USA",
+  "query": "AGB-B6ME-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MADDEN 2006",
+    "serialShown": "AGB-B6ME-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-B6ME-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/5180",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-B6ME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Title not stated in summary; USA, 4M, CRC32 374FD6F9"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps2/927412-madden-nfl-06/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Madden NFL 06",
+    "serialShown": "AGB-B6ME-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "URL is the PS2 release page but summary says it gives Product ID AGB-B6ME-USA (EA Sports, E, 08/08/05); uncertain which row/platform"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BABJ-JPN",
+  "query": "AGB-BABJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TOWERSHAFT",
+    "serialShown": "AGB-BABJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Aleck Bordon Adventure - Tower & Shaft Advance (Japan)",
+    "serialShown": "AGB-BABJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/57989--aleck-bordon-adventure-tower-shaft-advance",
+    "site": "retroplace.com",
+    "titleFound": "Aleck Bordon Adventure: Tower & Shaft Advance",
+    "serialShown": "AGB-BABJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Product code (box)"
+   },
+   {
+    "url": "https://www.giantbomb.com/aleck-bordon-adventure-tower-shaft-advance/3030-61891/releases/",
+    "site": "giantbomb.com",
+    "titleFound": "Aleck Bordon Adventure: Tower & Shaft Advance",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary does not say this page shows the serial; gives Japan release 2004-11-26"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BC3P-EUR",
+  "query": "AGB-BC3P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CT Special Forces 3: Bioterror",
+    "serialShown": "AGB-BC3P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says the serial is matched to a file named for that game; internal name not given"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says a related ROM ID is listed; exact value not given"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59502--ct-special-forces-3-bioterror",
+    "site": "retroplace.com",
+    "titleFound": "CT Special Forces 3: Bioterror",
+    "serialShown": "AGB-BC3P-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary says box product code is the serial; EAN 3760049398205, 2004; which URL gave which fact is unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BDEE-USA",
+  "query": "AGB-BDEE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DEADTORIGHTS",
+    "serialShown": "AGB-BDEE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Dead to Rights (USA)",
+    "serialShown": "AGB-BDEE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59602--dead-to-rights",
+    "site": "retroplace.com",
+    "titleFound": "Dead to Rights",
+    "serialShown": "AGB-BDEE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.newwise.com/news/gba/200610/589.html",
+    "site": "newwise.com",
+    "titleFound": "1817 - Dead To Rights (U)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Chinese GBA news page, publisher Namco, 2004-12-02; summary does not say serial shown"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Returned for this query; summary does not tie it to the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BEFP-EUR",
+  "query": "AGB-BEFP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MEIN PFERD",
+    "serialShown": "AGB-BEFP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BEFP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63808--pferd-pony-best-friends-mein-pferd",
+    "site": "retroplace.com",
+    "titleFound": "Pferd & Pony: Best Friends - Mein Pferd",
+    "serialShown": "AGB-BEFP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Product code (medium)"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=SJsHgNBbaSs",
+    "site": "youtube.com",
+    "titleFound": "Pferd & Pony - Best Friends - Mein Pferd / Best Friends - My Horse",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary says video identifies game by this code; unclear if verbatim"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BFXE-USA",
+  "query": "AGB-BFXE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "PHILOFUTURE",
+    "serialShown": "AGB-BFXE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BFXE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/933106-phil-of-the-future/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Phil of the Future",
+    "serialShown": "AGB-BFXE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Buena Vista Games, 2006-09-18, E"
+   },
+   {
+    "url": "https://www.ebay.com/p/53812661",
+    "site": "ebay.com",
+    "titleFound": "Phil of the Future (Nintendo Game Boy Advance, 2006)",
+    "serialShown": "AGB-BFXE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Summary says listing carries the code in its title"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BGZS-SPA",
+  "query": "AGB-BGZS-SPA",
+  "results": [
+   {
+    "url": "https://www.uvlist.net/game-183265-Madagascar",
+    "site": "uvlist.net",
+    "titleFound": "Madagascar",
+    "serialShown": "AGB-BGZS-SPA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary says SKU lists this code for Spanish release; Vicarious Visions/Activision 2005"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-BGZH-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Madagascar (Netherlands)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "URL is AGB-BGZH-0 (Netherlands); summary also mentions a Spain variant AGB-BGZS-0 but its URL was not returned"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BICI-ITA",
+  "query": "AGB-BICI-ITA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/system/gba/i",
+    "site": "gamehacking.org",
+    "titleFound": "Ice Age",
+    "serialShown": "AGB-BICI-ITA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "8M, CRC32 615839EF"
+   },
+   {
+    "url": "https://forum.gamehacking.org/forum/video-game-hacking-and-development/school-of-hacking/14403-informations-about-hacking-game-boy-advance-games",
+    "site": "forum.gamehacking.org",
+    "titleFound": "Disney GLI INCREDIBILI",
+    "serialShown": "AGB-BICI-ITA",
+    "exact": true,
+    "kind": "other",
+    "note": "Forum post lists 'Serials: AGB-BICI-78, AGB-BICI-ITA' for this title; conflicts with Ice Age"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BJLE-USA",
+  "query": "AGB-BJLE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "JUSTICE LEAG",
+    "serialShown": "AGB-BJLE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/4967",
+    "site": "gamehacking.org",
+    "titleFound": "Justice League: Chronicles",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary: USA, 8M, CRC32 07090F67; serial display not explicit"
+   },
+   {
+    "url": "https://retrospekt.com/products/justice-league-chronicles-game-boy-advance-game",
+    "site": "retrospekt.com",
+    "titleFound": "Justice League: Chronicles",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "2003, USA; serial not stated in summary"
+   },
+   {
+    "url": "https://www.jnlgame.com/products/justice-league-chronicles-game-boy-advance-pre-owned-jnlgame-1777-gba",
+    "site": "jnlgame.com",
+    "titleFound": "Justice League: Chronicles",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Publisher Midway, 2003-11-12 per summary; serial not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BLBX-EUU",
+  "query": "AGB-BLBX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LK_&_BB_MULT",
+    "serialShown": "AGB-BLBX-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File '1867 - Disney's Young Pack (E).gba', GAX 3.03A"
+   },
+   {
+    "url": "https://arcade-history.com/?id=69438&n=2-games-in-1-disneys-brother-bear-+-disneys-the-lion-king-model-agb-blbx-euu&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "2 Games in 1: Disney's Brother Bear + Disney's The Lion King",
+    "serialShown": "AGB-BLBX-EUU",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Serial taken from URL slug (model-agb-blbx-euu); T-HQ"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Disney's Brother Bear + The Lion King 2-in-1 (Europe)",
+    "serialShown": "AGB-BLBX-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BM7X-EUU",
+  "query": "AGB-BM7X-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "PENGUINS",
+    "serialShown": "AGB-BM7X-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File '2198 - Madagascar - Operation Pingouins (E).gba', GAX 3.05A"
+   },
+   {
+    "url": "https://www.uvlist.net/game-154614-Madagascar+Operation+Penguin+Madagascar+Operacion+Pinguino+Madagascar+Operation+Pingouins",
+    "site": "uvlist.net",
+    "titleFound": "Madagascar: Operation Penguin",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary lists sibling serials AGB-BM7E-USA, AGB-BM7P-EUR, AGB-BM7S-ESP; unclear whether BM7X-EUU appears there"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BNVP-EUR",
+  "query": "AGB-BNVP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SBSP BFVI",
+    "serialShown": "AGB-BNVP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File '2744 - SpongeBob SquarePants and Friends - Battle for Volcano Island (E).gba'"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/SpongeBob%20SquarePants%20and%20Friends%20-%20Battle%20for%20Volcano%20Island%20(Europe)%20(En,Fr,De,Es,It,Nl).html",
+    "site": "db.libretro.com",
+    "titleFound": "SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)",
+    "serialShown": "AGB-BNVP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/932677-nicktoons-battle-for-volcano-island/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Nicktoons: Battle for Volcano Island",
+    "serialShown": "AGB-BNVP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "URL is the GameCube page; summary says EU release 05/24/07, THQ, code AGB-BNVP-EUR; platform row uncertain"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63652--spongebob-and-friends-battle-for-volcano-island",
+    "site": "retroplace.com",
+    "titleFound": "Spongebob and Friends: Battle for Volcano Island",
+    "serialShown": "AGB-BNVP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Halfbrick Studios / THQ, 5/24/2007"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=LczHahDDx3I",
+    "site": "youtube.com",
+    "titleFound": "SpongeBob Squarepants and Friends Unite! - Version Europe",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary does not say it shows serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BPIE-USA",
+  "query": "AGB-BPIE-USA",
+  "results": []
+ },
+ {
+  "serial": "AGB-BR6P-EUR",
+  "query": "AGB-BR6P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MEGAMAN6_FXX",
+    "serialShown": "AGB-BR6P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File '2429 - MegaMan Battle Network 6 - Cybeast Falzar (E).gba', MusicPlayer2000"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/929992-mega-man-battle-network-6-cybeast-falzar/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Mega Man Battle Network 6: Cybeast Falzar",
+    "serialShown": "AGB-BR6P-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU 06/16/06; pairs with AGB-BR5P-EUR (Gregar)"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63186--mega-man-battle-network-6-cybeast-falzar",
+    "site": "retroplace.com",
+    "titleFound": "Mega Man Battle Network 6: Cybeast Falzar",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary does not say serial shown"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/3",
+    "site": "gamehacking.org",
+    "titleFound": "Mega Man & Bass",
+    "serialShown": "AGB-BR6P",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says a Europe-region Mega Man & Bass entry shows AGB-BR6P (truncated); suspicious, summary's own claim"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BRZF-FRA",
+  "query": "AGB-BRZF-FRA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - La Force du Temps (France)",
+    "serialShown": "AGB-BRZF-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/068ffdf1ee118abff0d97bf97d854b4c",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-BRZF-FRA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX list; summary says same code listed but gives no title"
+   },
+   {
+    "url": "https://picclick.co.uk/Power-Rangers-Ninja-Storm-La-Force-352844316984.html",
+    "site": "picclick.co.uk",
+    "titleFound": "POWER RANGERS NINJA Storm + La Force Du Temps",
+    "serialShown": "Agb-Brzf-Fra",
+    "exact": false,
+    "kind": "listing",
+    "note": "Case differs in title"
+   },
+   {
+    "url": "https://picclick.fr/Power-Rangers-Force-Du-Temps-Et-Ninja-Storm-283996887000.html",
+    "site": "picclick.fr",
+    "titleFound": "POWER RANGERS FORCE Du Temps Et Ninja Storm",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Summary says listings for this cartridge; serial not confirmed in snippet"
+   },
+   {
+    "url": "https://picclick.fr/Power-Rangers-La-Force-Du-temps-Ninja-174968523268.html",
+    "site": "picclick.fr",
+    "titleFound": "POWER RANGERS LA Force Du temps + Ninja Storm",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Same as above"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BT9X-EUU",
+  "query": "AGB-BT9X-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TAK&JUJUMULT",
+    "serialShown": "AGB-BT9X-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File '1946 - Tak 2 - The Staff of Dreams (E).gba', MusyX"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Tak 2 - The Staff of Dreams (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-BT9X-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BUVJ-JPN",
+  "query": "AGB-BUVJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1463 - Uchu No Stellvia (J).gba",
+    "serialShown": "AGB-BUVJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusicPlayer2000; titleFound is the filename"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-BUVJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/920056-uchuu-no-stellvia/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Uchuu no Stellvia",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japan 2004-04-23, barcode 4988003297718, alt title Uchuu no Stellvia Advance; serial not explicitly stated in summary"
+   },
+   {
+    "url": "https://glitchwave.com/game/uchuu-no-stellvia/release/%E5%AE%87%E5%AE%99%E3%81%AE%E3%82%B9%E3%83%86%E3%83%AB%E3%83%B4%E3%82%A3%E3%82%A2-nintendo-game-boy-advance-jp/",
+    "site": "glitchwave.com",
+    "titleFound": "Uchuu no Stellvia",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Same date/publisher; serial not stated"
+   },
+   {
+    "url": "https://gb1gbc1.tripod.com/gba/gba_save.htm",
+    "site": "gb1gbc1.tripod.com",
+    "titleFound": null,
+    "serialShown": "AGB-BUVJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "Japanese save-type list: FRAM AGB-Y11-01, 64Mbit; title not given in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-BWPJ-JPN",
+  "query": "AGB-BWPJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MIRUMODEPON5",
+    "serialShown": "AGB-BWPJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Wagamama Fairy Mirumo de Pon! - Nazo no Kagi to Shinjitsu no Tobira (Japan)",
+    "serialShown": "AGB-BWPJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394771782819",
+    "site": "ebay.com",
+    "titleFound": "Wagamama Fairy: Mirumo de Pon! Nazo no Kagi to Shinjitsu no Tobira [AGB-BWPJ]",
+    "serialShown": "AGB-BWPJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "Summary: Konami 2004, UPC 4988602116847, model number AGB-BWPJ-JPN; which eBay URL gave this is slightly uncertain (title shows AGB-BWPJ)"
+   }
+  ]
+ }
+]

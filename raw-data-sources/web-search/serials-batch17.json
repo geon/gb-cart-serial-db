@@ -1,0 +1,819 @@
+[
+ {
+  "serial": "AGB-ADVE-USA",
+  "query": "AGB-ADVE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DRIVEN",
+    "serialShown": "AGB-ADVE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "ROM file '0224 - Driven (U).gba'"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Driven (USA)",
+    "serialShown": "AGB-ADVE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown AGB-ADVE-0; unclear from summary which URL"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d/4",
+    "site": "gamehacking.org",
+    "titleFound": "Dragon Ball Z title (per summary)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking associates serial with a Dragon Ball Z title; not clear the page shows the serial exactly"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADVP-EUR",
+  "query": "AGB-ADVP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DRIVEN AGB",
+    "serialShown": "AGB-ADVP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DRIVEN AGB",
+    "serialShown": "AGB-ADVP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EEPROM_V120 4"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Driven (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-ADVP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADWE-USA",
+  "query": "AGB-ADWE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DOWNFORCEAGB / 0440 - Downforce (U)",
+    "serialShown": "AGB-ADWE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "Downforce",
+    "serialShown": "AGB-ADWE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX engine list"
+   },
+   {
+    "url": "https://www.uvlist.net/game-182279-Downforce",
+    "site": "uvlist.net",
+    "titleFound": "Downforce",
+    "serialShown": "AGB-ADWE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary says a database entry lists SKU; uvlist assumed"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADXE-USA",
+  "query": "AGB-ADXE-USA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/game/4285",
+    "site": "gamehacking.org",
+    "titleFound": "Dexter's Laboratory: Chess Challenge",
+    "serialShown": "AGB-ADXE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Region USA, 8M, CRC32 AE61322E"
+   },
+   {
+    "url": "https://glitchwave.com/game/dexters-laboratory-chess-challenge/",
+    "site": "glitchwave.com",
+    "titleFound": "Dexter's Laboratory: Chess Challenge",
+    "serialShown": "AGB-ADXE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "barcode-style 'XNA 6 82384 32015 0 AGB-ADXE-USA'"
+   },
+   {
+    "url": "https://www.uvlist.net/game-101521-Dexters+Laboratory+Chess+Challenge",
+    "site": "uvlist.net",
+    "titleFound": "Dexter's Laboratory: Chess Challenge",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "listed in results; summary does not explicitly quote serial from this URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADYJ-JPN",
+  "query": "AGB-ADYJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/61902--hanafuda-trump-mahjong-depachika-wayounaka",
+    "site": "retroplace.com",
+    "titleFound": "Hanafuda Trump Mahjong: Depachika Wayounaka",
+    "serialShown": "AGB-ADYJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box product code"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DEPATIKA",
+    "serialShown": "AGB-ADYJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ADYJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-ADYJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AE7Y-EUU",
+  "query": "AGB-AE7Y-EUU",
+  "results": [
+   {
+    "url": "https://www.uvlist.net/game-105463-Fire+Emblem",
+    "site": "uvlist.net",
+    "titleFound": "Fire Emblem",
+    "serialShown": "AGB-AE7Y-EUU",
+    "exact": true,
+    "kind": "catalog",
+    "note": "SKU list: AE7E-USA, AE7J-JPN, AE7X-EUU, AE7Y-EUU"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FIREEMBLEMY",
+    "serialShown": "AGB-AE7Y-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "FIREEMBLEMY",
+    "serialShown": "AGB-AE7Y-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "SRAM_F_V102"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61002--fire-emblem",
+    "site": "retroplace.com",
+    "titleFound": "Fire Emblem",
+    "serialShown": "AGB-AE7X-EUR",
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary: box code AGB-AE7X-EUR (different serial); URL attribution approximate"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEAJ-JPN",
+  "query": "AGB-AEAJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/64593--snapkids",
+    "site": "retroplace.com",
+    "titleFound": "Snapkid's",
+    "serialShown": "AGB-AEAJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box product code; Enix 2002"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Snap Kid's (Japan)",
+    "serialShown": "AGB-AEAJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/395269378670",
+    "site": "ebay.com",
+    "titleFound": "Snapkid's",
+    "serialShown": "AGB-AEAJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AEAJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says sound-driver/dump lists tie serial to game"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AEAJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says dump lists tie serial to game"
+   },
+   {
+    "url": "https://gamehacking.org/game/5989",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-AEAJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Japanese, region Japan; attribution approximate"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEEE-USA",
+  "query": "AGB-AEEE-USA",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/58364--ballistic-ecks-vs-sever-ii",
+    "site": "retroplace.com",
+    "titleFound": "Ballistic: Ecks vs. Sever",
+    "serialShown": "AGB-AEEE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box code AGB-AEEE-USA; BAM 9/14/2002; URL title says 'Ecks vs. Sever II' (attribution approximate)"
+   },
+   {
+    "url": "https://gamehacking.org/game/3912?game=3912",
+    "site": "gamehacking.org",
+    "titleFound": "Ballistic: Ecks vs. Sever",
+    "serialShown": "AGB-AEEE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Region USA"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "appeared in results; summary does not state its content"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEEP-EUR",
+  "query": "AGB-AEEP-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/58365--ballistic-ecks-vs-sever-ii",
+    "site": "retroplace.com",
+    "titleFound": "Ballistic: Ecks vs. Sever II",
+    "serialShown": "AGB-AEEP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box code; 11/8/2002 Bam"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Ballistic: Ecks vs. Sever II",
+    "serialShown": "AGB-AEEP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says sound driver list records serial for the game"
+   },
+   {
+    "url": "https://ogdb.eu/index.php?amp=&gameid=44601&section=game",
+    "site": "ogdb.eu",
+    "titleFound": "Ecks vs. Sever II: Ballistic",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary doesn't explicitly show serial for this URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEHJ-JPN",
+  "query": "AGB-AEHJ-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Puzzle & Tantei Collection (Japan)",
+    "serialShown": "AGB-AEHJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/396270025806",
+    "site": "ebay.com",
+    "titleFound": "Puzzle & Tantei Collection",
+    "serialShown": "AGB-AEHJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "PAZ TANTEI / 1029 - Okaitoku Series 5 - Puzzle & Tantei Collection (J).gba",
+    "serialShown": "AGB-AEHJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/Dhole/gba-reversing-notes/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AEHJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "size 64, EEPROM_V122, brief entry"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEKJ-JPN",
+  "query": "AGB-AEKJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/276463549533",
+    "site": "ebay.com",
+    "titleFound": "Elemix! RPG",
+    "serialShown": "AGB-AEKJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/60468--elemix",
+    "site": "retroplace.com",
+    "titleFound": "Elemix!",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Sims 1/3/2003; serial not explicitly tied to this URL"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Elemix!",
+    "serialShown": "AGB-AEKJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Elemix!",
+    "serialShown": "AGB-AEKJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AEKJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "appeared in results; attribution approximate"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEMJ-JPN",
+  "query": "AGB-AEMJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/383440981863",
+    "site": "ebay.com",
+    "titleFound": "Egg Mania",
+    "serialShown": "AGB-AEMJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://arcade-history.com/index.php?annee=36&demo=0&export=1&mamed=1&nongame=0&page=database&pirate=0&position=28&reissue=1",
+    "site": "arcade-history.com",
+    "titleFound": null,
+    "serialShown": "AGB-AEMJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Year 2002; Kemco, Ltd. Japan"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/60460--tsukande-mawashite-dossun-pazuru-eggo-mania",
+    "site": "retroplace.com",
+    "titleFound": "Tsukande! Mawashite! Dossun Pazuru Eggo Mania",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "HotGen/Kemco 9/27/2002; serial not explicitly tied"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "EGGOMANIA",
+    "serialShown": "AGB-AEMJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "EGGOMANIA",
+    "serialShown": "AGB-AEMJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AENP-EUR",
+  "query": "AGB-AENP-EUR",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "SERIOUS SAM",
+    "serialShown": "AGB-AENP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 82 58199232"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Serious Sam Advance (Europe) (En,Fr,De)",
+    "serialShown": "AGB-AENP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-111357-Serious+Sam+Advance",
+    "site": "uvlist.net",
+    "titleFound": "Serious Sam Advance",
+    "serialShown": "AGB-AENP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "SKU, alongside AGB-AENE-USA"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "appeared; summary doesn't state its content"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AETE-USA",
+  "query": "AGB-AETE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/580272-et-the-extra-terrestrial/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "E.T. The Extra-Terrestrial",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "NewKidCo Dec 2001; summary does not quote serial explicitly"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "E.T. The Extra-Terrestrial (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says USA ROM ID; exact string not shown"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "E.T. The Extra-Terrestrial",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says code matched to E.T. ROM file"
+   },
+   {
+    "url": "https://www.ebay.com/itm/128091567687",
+    "site": "ebay.com",
+    "titleFound": "E.T. The Extra-Terrestrial",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "CIB listing; serial not explicitly quoted"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-AETP-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "E.T. - The Extra-Terrestrial (Europe) (En,Fr,De,Es,It,Nl)",
+    "serialShown": "AGB-AETP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "European variant"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AEXJ-JPN",
+  "query": "AGB-AEXJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "KOFEX2HOWLIN",
+    "serialShown": "AGB-AEXJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/306375281102",
+    "site": "ebay.com",
+    "titleFound": "The King of Fighters EX2 Howling Blood",
+    "serialShown": "AGB-AEXJ",
+    "exact": false,
+    "kind": "listing",
+    "note": "title shows AGB-AEXJ; MPN AGB-AEXJ-JPN"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "KOFEX2HOWLIN",
+    "serialShown": "AGB-AEXJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EEPROM_V122 4; US is AGB-AEXE-USA"
+   },
+   {
+    "url": "https://ameblo.jp/usagiandbear/entry-12705947296.html",
+    "site": "ameblo.jp",
+    "titleFound": "Kirby: Nightmare in Dream Land (counterfeit)",
+    "serialShown": "AGB-AEXJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "blog: serial seen on counterfeit Kirby cart"
+   },
+   {
+    "url": "https://www.uvlist.net/game-102656-The+King+of+Fighters+EX2+Howling+Blood",
+    "site": "uvlist.net",
+    "titleFound": "The King of Fighters EX2: Howling Blood",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "serial not explicitly tied"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AF4J-JPN",
+  "query": "AGB-AF4J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395039922776",
+    "site": "ebay.com",
+    "titleFound": "Fushigi no Kuni no Alice",
+    "serialShown": "AGB-AF4J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61186--fushigi-no-kuni-no-alice",
+    "site": "retroplace.com",
+    "titleFound": "Fushigi no Kuni no Alice",
+    "serialShown": "AGB-AF4J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box code; 2003 Global A"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ALICE",
+    "serialShown": "AGB-AF4J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AF4J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "32 MB"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AF6E-USA",
+  "query": "AGB-AF6E-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/zip_20240310_20240310_1816",
+    "site": "archive.org",
+    "titleFound": "The Fairly OddParents: Breakin' Da Rules",
+    "serialShown": "AGB-AF6E-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "manual scan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "FAIRLYODDAGB",
+    "serialShown": "AGB-AF6E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusyX"
+   },
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Fairly%20OddParents!,%20The%20-%20Breakin'%20da%20Rules%20(USA).html",
+    "site": "db.libretro.com",
+    "titleFound": "Fairly OddParents!, The - Breakin' da Rules (USA)",
+    "serialShown": "AGB-AF6E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/4504",
+    "site": "gamehacking.org",
+    "titleFound": "Fairly OddParents!, The - Breakin' da Rules (USA)",
+    "serialShown": "AGB-AF6E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "attribution approximate"
+   },
+   {
+    "url": "https://connect.gocollect.com/discussion/186402/input-needed-real-or-fake-fire-emblem-gba",
+    "site": "connect.gocollect.com",
+    "titleFound": "The Fairly OddParents: Breakin' Da Rules",
+    "serialShown": "AGB-AF6E",
+    "exact": false,
+    "kind": "other",
+    "note": "counterfeit Fire Emblem discussion"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/f",
+    "site": "gamehacking.org",
+    "titleFound": "F-14 Tomcat",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says serial prefix AGB-AF6E also appears on an F-14 Tomcat entry; unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AF8E-USA",
+  "query": "AGB-AF8E-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/583419-f1-2002/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "F1 2002",
+    "serialShown": "AGB-AF8E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "US 01/07/03; attribution approximate"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "F1 2002",
+    "serialShown": "AGB-AF8E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX 3.01"
+   },
+   {
+    "url": "https://gamehacking.org/game/4502",
+    "site": "gamehacking.org",
+    "titleFound": "F1 2002",
+    "serialShown": "AGB-AF8E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 7DD20F33; also mentions AGB-AF8P; attribution approximate"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "appeared; content not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFAJ-JPN",
+  "query": "AGB-AFAJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/61190--fushigi-no-kuni-no-angelique",
+    "site": "retroplace.com",
+    "titleFound": "Fushigi no Kuni no Angelique",
+    "serialShown": "AGB-AFAJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Koei 2002"
+   },
+   {
+    "url": "https://en.bdjogos.com.br/game.php?id=20601",
+    "site": "en.bdjogos.com.br",
+    "titleFound": "Fushigi no Kuni no Angelique",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "March 8, 2002; serial not explicitly quoted"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-AFAJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AFAJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AFFE-USA",
+  "query": "AGB-AFFE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/471041-final-fight-one/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Final Fight One",
+    "serialShown": "AGB-AFFE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Capcom 09/26/01"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0128 - Final Fight One (U).gba",
+    "serialShown": "AGB-AFFE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   }
+  ]
+ }
+]

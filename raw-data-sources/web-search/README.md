@@ -5,7 +5,9 @@ in `raw-data-sources/corrections/added-serials.json`.
 
 The candidates come from the [gameboy-labels](https://github.com/geon/gameboy-cartridge-labels) repository: serials
 read on label photos (`generated/read-serials/serials.json`) that gb-game-list lacks, whose product code is the ROM
-header code of one release (`npm run -s report:label-serial-candidates -- <gameboy-labels>`).
+header code of one release (`npm run -s report:label-serial-candidates -- <gameboy-labels>`). Batches 10 and 11 are a
+sample of 40 of the 711 serials in GBxDumper's game list that no release has on its label, whose code is the header code
+of one release; GBxDumper builds them from the ROM header, so its own list isn't counted as a result for them.
 
 | File                  | Searched   | Serials |
 | --------------------- | ---------- | ------- |
@@ -18,6 +20,23 @@ header code of one release (`npm run -s report:label-serial-candidates -- <gameb
 | `serials-batch7.json` | 2026-11-20 | 19 |
 | `serials-batch8.json` | 2026-11-20 | 19 |
 | `serials-batch9.json` | 2026-11-20 | 17 |
+| `serials-batch10.json` | 2026-11-20 | 20 |
+| `serials-batch11.json` | 2026-11-20 | 20 |
+| `serials-batch12.json` | 2026-11-20 | 20 |
+| `serials-batch13.json` | 2026-11-20 | 20 |
+| `serials-batch14.json` | 2026-11-20 | 20 |
+| `serials-batch15.json` | 2026-11-20 | 20 |
+| `serials-batch16.json` | 2026-11-20 | 20 |
+| `serials-batch17.json` | 2026-11-20 | 20 |
+| `serials-batch18.json` | 2026-11-20 | 20 |
+| `serials-batch19.json` | 2026-11-20 | 14 |
+| `serials-batch20.json` | 2026-11-20 | 10 |
+| `serials-batch21.json` | 2026-11-20 | 8 |
+| `serials-batch22.json` | 2026-11-20 | 8 |
+| `serials-batch23.json` | 2026-11-20 | 8 |
+| `serials-batch24.json` | 2026-11-20 | 8 |
+| `serials-batch25.json` | 2026-11-20 | 6 |
+| `serials-batch26.json` | 2026-11-20 | 6 |
 
 Each serial was searched once with Claude Code's WebSearch tool in its "extended" mode, the bare serial as the query
 (quoted serials in "standard" mode found nothing). The results are written from the search tool's summaries; the pages

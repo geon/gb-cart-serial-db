@@ -1,6 +1,68 @@
 [
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0298",
+		"title": "EZ-Talk - Shokyuu Hen 6 (Japan)",
+		"serial": "AGB-A27J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A27J); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395102326095",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0796",
+		"title": "Disney Sports - Basketball (USA)",
+		"serial": "AGB-A2AE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A2AE); 2 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/59769--disney-sports-basketball",
+			"https://gamehacking.org/game/4308"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1050",
+		"title": "Disney Sports - Basketball (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-A2AP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A2AP); 3 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://gbhwdb.gekkio.fi/cartridges/gba.html",
+			"https://gamefaqs.gamespot.com/gba/561324-disney-sports-basketball/data",
+			"https://www.retroplace.com/en/games/58609--disney-sports-basketball"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0491",
+		"title": "Bubble Bobble - Old & New (Japan)",
+		"serial": "AGB-A2BJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A2BJ); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://www.arcade-history.com/?id=70079&n=bubble-bobble-old-and-new-model-agb-a2bj-jpn&page=detail",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0713",
+		"title": "Defender (USA)",
+		"serial": "AGB-A2FE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A2FE); 3 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamehacking.org/system/gba/d",
+			"https://www.ebay.com/itm/334340107391"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0398",
 		"title": "Advance GT2 (Japan) (En)",
 		"serial": "AGB-A2GJ-JPN",
@@ -16,6 +78,155 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0788",
+		"title": "Magi Nation (Japan)",
+		"serial": "AGB-A2IJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A2IJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/62871--magi-nation",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0527",
+		"title": "Spy Kids Challenger (USA)",
+		"serial": "AGB-A2KE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A2KE); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/p/9115",
+			"https://gamehacking.org/system/gba/s/6"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0724",
+		"title": "Revenge of Shinobi, The (USA)",
+		"serial": "AGB-A3RE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A3RE); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch12.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/64158--the-revenge-of-shinobi",
+			"https://gamehacking.org/game/5777?hacker=MadCatz"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0384",
+		"title": "Three Stooges, The (USA)",
+		"serial": "AGB-A3TE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A3TE); 2 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/ps/915437-the-three-stooges/data",
+			"https://www.arcade-history.com/index.php?name=TN&page=person"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0797",
+		"title": "Disney Sports - Skateboarding (USA)",
+		"serial": "AGB-A4DE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A4DE); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/59784--disney-sports-skateboarding"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0908",
+		"title": "Sister Princess - RePure (Japan)",
+		"serial": "AGB-A4PJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A4PJ); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://jp.mercari.com/item/m49697915361"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1059",
+		"title": "Rock 'N Roll Racing (USA)",
+		"serial": "AGB-A4RE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A4RE); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/562369-rock-n-roll-racing/data",
+			"https://www.giantbomb.com/rock-n-roll-racing/3030-18026/releases/"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1116",
+		"title": "Rock 'N Roll Racing (Europe)",
+		"serial": "AGB-A4RP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A4RP); 5 of 5 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/562369-rock-n-roll-racing/data",
+			"https://www.retroplace.com/en/games/64215--rock-n-roll-racing",
+			"https://www.giantbomb.com/rock-n-roll-racing/3030-18026/releases/",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.cashandyou.fr/jeux-game-boy-advance/24135-jeu-gameboy-advance-rock-n-roll-racing-agb-a4rp-eur-sans-boite.html"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0188",
+		"title": "Yuujou no Victory Goal 4v4 Arashi - Get the Goal!! (Japan)",
+		"serial": "AGB-A4VJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A4VJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/itm/394778541063"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0387",
+		"title": "Koukou Juken Advance Series Eigo Koubun Hen - 26 Units Shuuroku (Japan)",
+		"serial": "AGB-A54J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A54J); 2 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395354956478",
+			"https://arcade-history.com/?id=71407&n=koukou-juken-advance-series-eigo-koubun-hen-26-units-shuuroku-model-agb-a54j-jpn&page=detail"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0918",
+		"title": "Quiere Ser Millonario (Spain)",
+		"serial": "AGB-A55S-ESP",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A55S); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch13.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/itm/286674403799"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1090",
+		"title": "Onimusha Tactics (Japan)",
+		"serial": "AGB-A6OJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A6OJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch14.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/276463124032",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1868",
 		"title": "Medabots - Metabee (USA)",
 		"serial": "AGB-A8BE-USA",
@@ -26,6 +237,69 @@
 			"https://www.uvlist.net/game-102704-Medabots+Metabee+Version+Medarot+Ni+Core+Kabuto+Version",
 			"https://www.ebay.com/itm/287685850928",
 			"gameboy-labels:photos/80cee323b97bf320de0482aa99aa4f62835bcd1c.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0779",
+		"title": "Derby Stallion Advance (Japan)",
+		"serial": "AGB-A8PJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A8PJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/125749528091",
+			"https://www.ebay.com/itm/394871348132",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0685",
+		"title": "Best Play Pro Yakyuu (Japan)",
+		"serial": "AGB-A8YJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A8YJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395531406915",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://vgarchive.org/games/list/page/22/startswith/B/sortby/releasedate"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1548",
+		"title": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
+		"serial": "AGB-A9CE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A9CE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/59498--ct-special-forces-2-back-in-the-trenches",
+			"https://vgcollect.com/item/78649"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1336",
+		"title": "Road Rash - Jailbreak (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-A9RP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (A9RP); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamefaqs.gamespot.com/gba/539990-road-rash-jailbreak/data"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0786",
+		"title": "Monster Maker 4 - Killer Dice (Japan)",
+		"serial": "AGB-AA5J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AA5J); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://www.arcade-history.com/index.php?Tri=3&annee=all&demo=0&editeur=446&export=1&listtypes=all&mamed=1&nongame=0&page=database&pirate=0&position=4&reissue=1",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/itm/154348584196"
 		],
 		"reported": null
 	},
@@ -49,6 +323,42 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0334",
+		"title": "Donald Duck Advance (Japan)",
+		"serial": "AGB-AADJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AADJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395888860696",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1519",
+		"title": "Secret Agent Barbie - Royal Jewels Mission (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-AAHP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AAHP); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/64364--secret-agent-barbie"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0629",
+		"title": "Metalgun Slinger (Japan)",
+		"serial": "AGB-AAPJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AAPJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.arcade-history.com/?id=71819&n=metalgun-slinger-model-agb-aapj-jpn&page=detail"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0906",
 		"title": "Animal Snap - Rescue Them 2 by 2 (Europe)",
 		"serial": "AGB-AAQP-EUR",
@@ -63,6 +373,31 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0369",
+		"title": "Atari Anniversary Advance (USA)",
+		"serial": "AGB-AAVE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AAVE); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch15.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395671602486",
+			"https://www.ebay.com/itm/395289158345",
+			"https://arcade-history.com/?id=69806&n=atari-anniversary-advance-model-agb-aave-usa&page=detail"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0582",
+		"title": "Boulder Dash EX (USA)",
+		"serial": "AGB-ABDE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ABDE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/58806--boulder-dash-ex"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0790",
 		"title": "BattleBots - Beyond the BattleBox (USA)",
 		"serial": "AGB-ABEE-USA",
@@ -72,6 +407,18 @@
 			"https://searchworks.stanford.edu/view/9686138",
 			"https://golisto.com/goods/R29vZDoxNDU5MDc=/BattleBots(GB-Advance)",
 			"gameboy-labels:photos/04f6c2f44c29be6561e14deeb82f8c5a3926850b.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0117",
+		"title": "Back Track (USA, Europe)",
+		"serial": "AGB-ABKE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ABKE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch16.json).",
+		"evidence": [
+			"https://arcade-history.com/index.php?editeur=4905&page=database",
+			"https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7"
 		],
 		"reported": null
 	},
@@ -113,6 +460,71 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0292",
+		"title": "WTA Tour Tennis Pocket (Japan)",
+		"serial": "AGB-ACIJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ACIJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch16.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/394885319656",
+			"https://www.ebay.com/itm/116126762892",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1009",
+		"title": "Chessmaster (USA)",
+		"serial": "AGB-ACYE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ACYE); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch16.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamehacking.org/game/4133",
+			"https://www.ebay.com/itm/267331394356"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0574",
+		"title": "Comix Zone (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-ACZP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ACZP); 4 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch16.json).",
+		"evidence": [
+			"https://segaretro.org/Comix_Zone",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/137105--comix-zone",
+			"https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0532",
+		"title": "Duke Nukem Advance (USA)",
+		"serial": "AGB-AD9E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AD9E); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://vgcollect.com/item/2994",
+			"https://gamehacking.org/game/4433?hacker=Datel"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0194",
+		"title": "Adventure of Tokyo Disney Sea (Japan)",
+		"serial": "AGB-ADEJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ADEJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch16.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/394885270867",
+			"https://arcade-history.com/?id=69539&n=adventure-of-tokyo-disney-sea-model-agb-adej-jpn&page=detail",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0154",
 		"title": "Doom (USA, Europe)",
 		"serial": "AGB-ADME-USA",
@@ -142,6 +554,103 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0427",
+		"title": "Downforce (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-ADWE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ADWE); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+			"https://www.uvlist.net/game-182279-Downforce"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0695",
+		"title": "Dexter's Laboratory - Chess Challenge (USA)",
+		"serial": "AGB-ADXE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ADXE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://gamehacking.org/game/4285",
+			"https://glitchwave.com/game/dexters-laboratory-chess-challenge/"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1555",
+		"title": "Fire Emblem (Europe) (En,Es,It)",
+		"serial": "AGB-AE7Y-EUU",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AE7Y); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.uvlist.net/game-105463-Fire+Emblem",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0268",
+		"title": "Snap Kid's (Japan)",
+		"serial": "AGB-AEAJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AEAJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/64593--snapkids",
+			"https://www.ebay.com/itm/395269378670"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0622",
+		"title": "Ballistic - Ecks vs. Sever (USA)",
+		"serial": "AGB-AEEE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AEEE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/58364--ballistic-ecks-vs-sever-ii",
+			"https://gamehacking.org/game/3912?game=3912"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0776",
+		"title": "Ecks vs. Sever II - Ballistic (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-AEEP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AEEP); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/58365--ballistic-ecks-vs-sever-ii",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1013",
+		"title": "Puzzle & Tantei Collection (Japan)",
+		"serial": "AGB-AEHJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AEHJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/396270025806",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0845",
+		"title": "Elemix! (Japan)",
+		"serial": "AGB-AEKJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AEKJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/276463549533",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1047",
 		"title": "Eggo Mania (Europe) (En,Fr,De,Es,It,Nl)",
 		"serial": "AGB-AEMP-EUR",
@@ -151,6 +660,57 @@
 			"https://www.retroplace.com/en/games/60461--eggo-mania",
 			"https://retrogameworld.ch/shop/eggo-mania-gameboy-advance-modul/",
 			"gameboy-labels:photos/c23211e9df33d02bfa68d19827e603badf9aafd7.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0863",
+		"title": "Fushigi no Kuni no Alice (Japan)",
+		"serial": "AGB-AF4J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AF4J); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395039922776",
+			"https://www.retroplace.com/en/games/61186--fushigi-no-kuni-no-alice",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0828",
+		"title": "F1 2002 (USA, Europe)",
+		"serial": "AGB-AF8E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AF8E); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/583419-f1-2002/data",
+			"https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+			"https://gamehacking.org/game/4502"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0127",
+		"title": "Final Fight One (USA)",
+		"serial": "AGB-AFFE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AFFE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch17.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/471041-final-fight-one/data",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0015",
+		"title": "Fire Pro Wrestling A (Japan)",
+		"serial": "AGB-AFPJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AFPJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/394778531816",
+			"https://arcade-history.com/?id=70689&n=fire-pro-wrestling-a-model-agb-afpj-jpn&page=detail",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
 		],
 		"reported": null
 	},
@@ -171,6 +731,31 @@
 			"gameboy-labels:photos/4a2cb546e50b7ed169c41d695cf3e347d3b43d85.jpg",
 			"gameboy-labels:photos/c082aab6374cdb49ed77af6992ec5f435af335d6.jpg",
 			"gameboy-labels:photos/c374385a6f29f22d132a9a5cbea33b38c9d73ae8.webp"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2733",
+		"title": "Jisu F-Zero Weilai Saiche (China)",
+		"serial": "AGB-AFZC-CHN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AFZC); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://www.rfgeneration.com/cgi-bin/getinfo.pl?ID=C-074-S-00020-A",
+			"https://archive.nes.science/nintendoage-forums/nintendoage.com/indexcef4.html?FuseAction=Search.Results&bincludeminorvariations=0&exclregionid=5,6,7,8,9,11,12,14,15,16,18,20&bregionalname=0&resultsperpage=25&exclclassid=1&bexclusive=0&bnominorvariations=0&category_id=1&exclformatid=2,3,4&companytype=P&match=all&region_id=22"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0516",
+		"title": "Greatest Nine (Japan)",
+		"serial": "AGB-AG9J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AG9J); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395113006688",
+			"https://www.giantbomb.com/baseball-advance/3030-333/releases/",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
 		],
 		"reported": null
 	},
@@ -212,6 +797,42 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0014",
+		"title": "Zen-Nihon GT Senshuken (Japan)",
+		"serial": "AGB-AGTJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AGTJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395531394050",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0620",
+		"title": "Guilty Gear X - Advance Edition (Europe)",
+		"serial": "AGB-AGXP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AGXP); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://github.com/Aur-Dev-re/veille-jeux-retro/issues/82924",
+			"https://gamefaqs.gamespot.com/gba/533325-guilty-gear-x-advance-edition/data"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0533",
+		"title": "Mat Hoffman's Pro BMX 2 (USA, Europe)",
+		"serial": "AGB-AH2E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AH2E); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/540333-mat-hoffmans-pro-bmx-2/data",
+			"https://www.arcade-history.com/index.php?name=Joseph&page=person"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0645",
 		"title": "Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl)",
 		"serial": "AGB-AH4E-USA",
@@ -223,6 +844,44 @@
 			"https://www.vgcollect.com/item/3163",
 			"https://retroravengames.com/products/shrek-hassle-at-the-castle-game-boy-advance",
 			"gameboy-labels:photos/7da3882c564983b5743721658fcd96482b35a789.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0683",
+		"title": "Beast Shooter - Mezase Beast King! (Japan)",
+		"serial": "AGB-AH5J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AH5J); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/394884924538",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.uvlist.net/game-182075-Beast+Shooter+Mezase+Beast+King"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2552",
+		"title": "Hot Wheels - Velocity X (Europe)",
+		"serial": "AGB-AH8P-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AH8P); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch18.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamefaqs.gamespot.com/gamecube/558370-hot-wheels-velocity-x/data"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0422",
+		"title": "Hitsuji no Kimochi. (Japan)",
+		"serial": "AGB-AHIJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AHIJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch19.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/62059--hitsuji-no-kimochi",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/itm/225668712210"
 		],
 		"reported": null
 	},
@@ -251,6 +910,43 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0204",
+		"title": "Hot Wheels - Burnin' Rubber (USA)",
+		"serial": "AGB-AHWE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AHWE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch19.json).",
+		"evidence": [
+			"https://www.uvlist.net/game-182869-Hot+Wheels+Burnin+Rubber",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0303",
+		"title": "Hot Wheels - Burnin' Rubber (Europe) (En,Fr)",
+		"serial": "AGB-AHWP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AHWP); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch19.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.uvlist.net/game-182869-Hot+Wheels+Burnin+Rubber",
+			"https://www.ebay.co.uk/itm/166740740183"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0913",
+		"title": "Inukko Club (Japan)",
+		"serial": "AGB-AI9J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AI9J); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch19.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/62205--inukko-club-fukumaru-no-daibouken",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0353",
 		"title": "Ice Age (USA) (En,Fr,Es)",
 		"serial": "AGB-AIAE-USA",
@@ -264,6 +960,18 @@
 			"https://www.game-outlet.nl/gameboy-advance-ice-age-namaak.html",
 			"gameboy-labels:photos/eef8008bccc8df3f15686e00a7095a97e5b84659.jpg",
 			"gameboy-labels:photos/92e22e1ec25b37016fa7a859b4bd01a48e2bd969.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0340",
+		"title": "Space Invaders (USA, Europe)",
+		"serial": "AGB-AIDE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AIDE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch19.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gbc/915903-space-invaders/data",
+			"https://gamehacking.org/system/gba/all/61"
 		],
 		"reported": null
 	},
@@ -309,6 +1017,44 @@
 			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
 			"https://www.tradera.com/item/300306/746430662/earthworm-jim-2-game-boy-advance",
 			"gameboy-labels:photos/0675dc34cb53145a2c13e60d9e6777b438fbc0a4.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0375",
+		"title": "Magical Houshin (Japan)",
+		"serial": "AGB-AJOJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AJOJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch20.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/314562925306",
+			"https://www.ebay.com/itm/394885927746",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0091",
+		"title": "Jurassic Park III - Advanced Action (Japan)",
+		"serial": "AGB-AJQJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AJQJ); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch20.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/itm/394885154297",
+			"https://gamefaqs.gamespot.com/gba/516521-jurassic-park-iii-island-attack/data"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0361",
+		"title": "Kikaika Guntai - Mech Platoon (Japan)",
+		"serial": "AGB-AKGJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AKGJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch20.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://glitchwave.com/game/mech-platoon/release/%E6%A9%9F%E6%A2%B0%E5%8C%96%E8%BB%8D%E9%9A%8A-%E3%83%A1%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3-nintendo-game-boy-advance-jp/"
 		],
 		"reported": null
 	},
@@ -398,6 +1144,43 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1325",
+		"title": "LEGO Racers 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+		"serial": "AGB-ALRP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ALRP); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch21.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/62728--lego-racers-2"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0241",
+		"title": "Mortal Kombat Advance (USA)",
+		"serial": "AGB-AM5E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AM5E); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch21.json).",
+		"evidence": [
+			"https://arcade-history.com/?id=71959&n=mortal-kombat-advance-model-agb-am5e-usa&page=detail",
+			"https://www.etsy.com/listing/1206822966/mortal-kombat-gameboy-advance-games"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0337",
+		"title": "Mike Tyson Boxing (USA) (En,Fr,De,Es,It)",
+		"serial": "AGB-AM6E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AM6E); 3 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch21.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamehacking.org/game/5348",
+			"https://www.ebay.com/itm/265379938220"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0470",
 		"title": "Maniac Racers Advance (Europe) (En,Fr,De,Es,It)",
 		"serial": "AGB-AMRP-EUR",
@@ -409,6 +1192,67 @@
 			"https://retrogameworld.ch/shop/maniac-racers-advance-gameboy-advance-modul/",
 			"gameboy-labels:photos/4ab2b649762224f480f2df7b720b560001ffbdde.jpg",
 			"gameboy-labels:photos/76050162f22fc91384cf19e3982b3c6145e0252f.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0235",
+		"title": "Namco Museum (Japan) (En)",
+		"serial": "AGB-ANMJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ANMJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch22.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395893827587",
+			"https://www.arcade-history.com/?n=namco-museum-model-agb-anmj-jpn&page=detail&id=72017"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0557",
+		"title": "Nobunaga Ibun (Japan)",
+		"serial": "AGB-ANOJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ANOJ); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch22.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamefaqs.gamespot.com/gba/571555-nobunaga-ibun/data"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0563",
+		"title": "Nicktoons Racing (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-ANQP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ANQP); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch22.json).",
+		"evidence": [
+			"https://www.arcade-history.com/?n=nicktoons-racing-model-agb-anqp-eur&page=detail&id=72044",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0652",
+		"title": "Gachinko Pro Yakyuu (Japan)",
+		"serial": "AGB-ANYJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ANYJ); 3 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch22.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/395384529526",
+			"https://www.retroplace.com/en/games/61218--gachinko-pro-yakyuu",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1261",
+		"title": "Terminator 3 - Rise of the Machines (USA)",
+		"serial": "AGB-AO3E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AO3E); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://gamehacking.org/system/gba/t/1",
+			"https://www.retroplace.com/en/games/82461--terminator-3-rise-of-the-machines"
 		],
 		"reported": null
 	},
@@ -468,6 +1312,18 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0529",
+		"title": "Combat Choro Q - Advance Daisakusen (Japan)",
+		"serial": "AGB-AQCJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AQCJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch23.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/582245-combat-choro-q-advance-daisakusen/data",
+			"https://www.ebay.com/itm/395355319440"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1279",
 		"title": "Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It)",
 		"serial": "AGB-AQDP-EUR",
@@ -480,6 +1336,34 @@
 			"https://www.ebay.com/itm/406739748293",
 			"gameboy-labels:photos/2e62d43d524229ab234e1e8175938fb05a6d193f.jpg",
 			"gameboy-labels:photos/7f1d4ad5f48292f68a2403b2cbc80f51baf123a6.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1430",
+		"title": "Ice Nine (USA, Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-AR3E-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AR3E); 4 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch23.json).",
+		"evidence": [
+			"https://gamehacking.org/game/4898",
+			"https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/ice_nine/91913",
+			"https://gamefaqs.gamespot.com/ps2/562427-ice-nine/data",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0229",
+		"title": "Advance Rally (Japan) (En)",
+		"serial": "AGB-AR7J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AR7J); 4 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch23.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/396227150886",
+			"https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.nippon-snaps.com/product/advance-rally-gba-game-boy-advance2001agb-ar7j-jpnjapan-import/"
 		],
 		"reported": null
 	},
@@ -527,6 +1411,30 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0114",
+		"title": "Spider-Man - Mysterio's Menace (USA, Europe)",
+		"serial": "AGB-ASEE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ASEE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch24.json).",
+		"evidence": [
+			"https://flatbushny.paymore.com/products/spider-man-mysterios-menace-game-boy-advance-gba-2001-video-game-agb-asee-usa",
+			"https://vgcollect.com/item/2607"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0176",
+		"title": "SpongeBob SquarePants - SuperSponge (USA, Europe)",
+		"serial": "AGB-ASPE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ASPE); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch24.json).",
+		"evidence": [
+			"https://www.arcade-history.com/?n=spongebob-squarepants-supersponge-model-agb-aspe-usa&page=detail&id=73277",
+			"https://vgcollect.com/item/2589"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0777",
 		"title": "Turok - Evolution (USA)",
 		"serial": "AGB-AT4E-USA",
@@ -539,6 +1447,42 @@
 			"https://www.retronintendostore.com/gameboy/games/gameboy-advance-gba/turok-evolution",
 			"gameboy-labels:photos/32db2faf8197c9acfd083e0a5052cf5f07245f5e.jpg",
 			"gameboy-labels:photos/6b4cf63c1072d83da1a852982e934a76355af859.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2265",
+		"title": "Tiny Toon Adventures - Scary Dreams (USA)",
+		"serial": "AGB-ATTE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ATTE); 2 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch25.json).",
+		"evidence": [
+			"https://gamehacking.org/game/6270",
+			"https://vgcollect.com/item/19537"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0493",
+		"title": "Tiny Toon Adventures - Buster's Bad Dream (Europe) (En,Fr,De,Es,It)",
+		"serial": "AGB-ATTP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ATTP); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch25.json).",
+		"evidence": [
+			"https://www.retroplace.com/en/games/65197--tiny-toon-adventures-busters-bad-dream",
+			"https://gamehacking.org/game/6269"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0538",
+		"title": "Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)",
+		"serial": "AGB-ATYJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (ATYJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch25.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/394885731218",
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07"
 		],
 		"reported": null
 	},
@@ -560,6 +1504,33 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1096",
+		"title": "Shining Soul II (Japan)",
+		"serial": "AGB-AU2J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AU2J); 5 of 5 web search results with this serial give this game (raw-data-sources/web-search/serials-batch25.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/318639233291",
+			"https://www.ebay.com/itm/377585841268",
+			"https://www.ebay.com/itm/206520483512",
+			"https://www.ebay.com/itm/178445341545",
+			"https://segaretro.org/Shining_Soul_II"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0545",
+		"title": "V-Rally 3 (Japan)",
+		"serial": "AGB-AVRJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AVRJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch26.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/65458--v-rally-3"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0642",
 		"title": "Virtua Tennis (USA)",
 		"serial": "AGB-AVTE-USA",
@@ -574,6 +1545,43 @@
 			"gameboy-labels:photos/42e17828ca905de04cb256e2317e3a97e8369c22.jpg",
 			"gameboy-labels:photos/66ebfc1ce2c6b8ae5ab009309199ba97c8c33a55.jpg",
 			"gameboy-labels:photos/743577ac49738f3c05d9c17b3574848084f1267d.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0810",
+		"title": "Super Bubble Pop (USA)",
+		"serial": "AGB-AVZE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AVZE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch26.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://gamefaqs.gamespot.com/ps/563562-super-bubble-pop/data"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=0949",
+		"title": "Yumemi-chan no Naritai Series 3 - Watashi no Makesalon (Japan)",
+		"serial": "AGB-AW3J-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AW3J); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch26.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/305382340821",
+			"https://www.ebay.com/itm/394886001406"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1867",
+		"title": "World Tennis Stars (USA)",
+		"serial": "AGB-AWCE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AWCE); 3 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.uvlist.net/game-103633-World+Tennis+Stars",
+			"https://gamehacking.org/system/gba/w/1"
 		],
 		"reported": null
 	},
@@ -660,6 +1668,18 @@
 			"gameboy-labels:photos/67297667b6ad0bdf25f88206c670a317ac211741.jpg",
 			"gameboy-labels:photos/7278f36fc5c0aa1858d9568a053c932f1794eb1a.jpg",
 			"gameboy-labels:photos/ea9cc04c3e0ff55b306619ac3e953628ea41fec2.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1590",
+		"title": "Need for Speed - Porsche Unleashed (USA)",
+		"serial": "AGB-AZFE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (AZFE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch10.json).",
+		"evidence": [
+			"https://www.ebay.com/itm/394601168401",
+			"https://gamehacking.org/game/5472"
 		],
 		"reported": null
 	},
@@ -752,6 +1772,18 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2033",
+		"title": "Aleck Bordon Adventure - Tower & Shaft Advance (Japan)",
+		"serial": "AGB-BABJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BABJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/57989--aleck-bordon-adventure-tower-shaft-advance"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2431",
 		"title": "Barnyard (USA)",
 		"serial": "AGB-BBYE-USA",
@@ -788,6 +1820,18 @@
 	},
 	{
 		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1425",
+		"title": "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
+		"serial": "AGB-BC3P-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BC3P); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/59502--ct-special-forces-3-bioterror"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
 		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2174",
 		"title": "Frontier Stories (Japan)",
 		"serial": "AGB-BCMJ-JPN",
@@ -797,6 +1841,30 @@
 			"https://www.retroplace.com/en/games/59215--frontier-stories",
 			"https://gamefaqs.gamespot.com/gba/915387-cima-the-enemy/data",
 			"gameboy-labels:photos/0df3a4d69952b4c138444d4fcd9176504bd3d867.webp"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1793",
+		"title": "Dead to Rights (USA)",
+		"serial": "AGB-BDEE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BDEE); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/59602--dead-to-rights"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2647",
+		"title": "Pferd & Pony - Best Friends - Mein Pferd (Germany) (En,De)",
+		"serial": "AGB-BEFP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BEFP); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.retroplace.com/en/games/63808--pferd-pony-best-friends-mein-pferd"
 		],
 		"reported": null
 	},
@@ -831,6 +1899,18 @@
 			"https://gamefaqs.gamespot.com/gamecube/589750-fifa-soccer-2004/data",
 			"https://www.mercari.com/us/item/m12681803251/",
 			"gameboy-labels:photos/23ba158ffff8a78a5c1fc00e7d3e52e3b61f94fe.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2460",
+		"title": "Phil of the Future (USA)",
+		"serial": "AGB-BFXE-USA",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BFXE); 2 of 3 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://gamefaqs.gamespot.com/gba/933106-phil-of-the-future/data",
+			"https://www.ebay.com/p/53812661"
 		],
 		"reported": null
 	},
@@ -952,6 +2032,18 @@
 			"gameboy-labels:photos/eb9ba7e31a3c402b95dd1d5c459dd26dd8852240.jpg",
 			"gameboy-labels:photos/964119afacb678109312bb2d24bda0eb53f89614.jpg",
 			"gameboy-labels:photos/13bbef4b4c801813b5bcc7dbda75bbdf84d7e189.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=2712",
+		"title": "SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)",
+		"serial": "AGB-BNVP-EUR",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BNVP); 2 of 4 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/SpongeBob%20SquarePants%20and%20Friends%20-%20Battle%20for%20Volcano%20Island%20(Europe)%20(En,Fr,De,Es,It,Nl).html",
+			"https://www.retroplace.com/en/games/63652--spongebob-and-friends-battle-for-volcano-island"
 		],
 		"reported": null
 	},
@@ -1139,6 +2231,18 @@
 			"https://www.mercari.com/us/item/m47265031403/",
 			"gameboy-labels:photos/74c4365ca6dcbb34ec370df69b29ce371c3353e3.jpg",
 			"gameboy-labels:photos/d3fe697ba2e260f4140dc3b7da5ec005d157dbe1.jpg"
+		],
+		"reported": null
+	},
+	{
+		"source": "no-intro.org",
+		"record": "https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1822",
+		"title": "Wagamama Fairy Mirumo de Pon! - Nazo no Kagi to Shinjitsu no Tobira (Japan)",
+		"serial": "AGB-BWPJ-JPN",
+		"reason": "In GBxDumper's game list; the product code is the ROM header code (BWPJ); 2 of 2 web search results with this serial give this game (raw-data-sources/web-search/serials-batch11.json).",
+		"evidence": [
+			"https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+			"https://www.ebay.com/itm/394771782819"
 		],
 		"reported": null
 	},

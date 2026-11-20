@@ -1,0 +1,351 @@
+[
+ {
+  "serial": "AGB-ALRE-USA",
+  "query": "AGB-ALRE-USA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/game/5113",
+    "site": "gamehacking.org",
+    "titleFound": "LEGO Racers 2",
+    "serialShown": "AGB-ALRE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 E13B63AD, USA ROM"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LEGO Racers 2",
+    "serialShown": "AGB-ALRE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "AGBinator sound driver list (MusyX)"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62728--lego-racers-2",
+    "site": "retroplace.com",
+    "titleFound": "LEGO Racers 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says a database lists 'LEGO Racers 2 USA | AGB-ALRE-USA | 2001'; URL attribution uncertain (retroplace or a retail listing)"
+   },
+   {
+    "url": "https://bootleggames.fandom.com/wiki/Digimon_Adventure_(Game_Boy_Advance)/Variants#Harry_Potter_IV",
+    "site": "bootleggames.fandom.com",
+    "titleFound": "Digimon-based bootleg / The Lord of the Rings IV (Sintax)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary says the code appears on label of an unlicensed Sintax LOTR IV and a Digimon bootleg; which URL unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ALRP-EUR",
+  "query": "AGB-ALRP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LEGO RACERS (internal name; MusyX)",
+    "serialShown": "AGB-ALRP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "LEGO RACERS",
+    "serialShown": "AGB-ALRP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EEPROM_V120, CRC 7A1DC458"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62728--lego-racers-2",
+    "site": "retroplace.com",
+    "titleFound": "LEGO Racers 2",
+    "serialShown": "AGB-ALRP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Box code, Europe 2001, Pocket Studios/Lego Media; also lists US AGB-ALRE-USA (attribution slightly uncertain)"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "LEGO Racers 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+    "serialShown": "AGB-ALRP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM id AGB-ALRP-0"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ALSE-USA",
+  "query": "AGB-ALSE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561806-soccer-mania/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Soccer Mania",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says code is US product ID of Soccer Mania, Lego Media, 2002-06-17; serial not explicitly quoted for this URL"
+   },
+   {
+    "url": "https://www.ebay.com/itm/396633483451",
+    "site": "ebay.com",
+    "titleFound": "Soccer Mania (Loose) GBA",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Summary says eBay listings tie the code to the game; unclear which"
+   },
+   {
+    "url": "https://www.ebay.com/itm/186040989606",
+    "site": "ebay.com",
+    "titleFound": "Harlem Globetrotters & Soccer Mania Bundle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Summary says bundle listing; serial not clearly shown"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AM2P-EUR",
+  "query": "AGB-AM2P-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MEGAMANBN2 (internal name; MusicPlayer2000)",
+    "serialShown": "AGB-AM2P-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/58472--mega-man-battle-network-2",
+    "site": "retroplace.com",
+    "titleFound": "Mega Man Battle Network 2",
+    "serialShown": "AGB-AM2P-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU 2002.10.18, Capcom/Ubisoft; attribution of code to this URL fairly likely"
+   },
+   {
+    "url": "https://gamehacking.org/game/5289",
+    "site": "gamehacking.org",
+    "titleFound": "Mega Man Battle Network 2 (Europe)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary: Europe, 8M, cheats; serial also noted on a hacked Mega Man & Bass (Europe) ROM, URL unclear"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Listed in results; summary does not state content"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AM4E-USA",
+  "query": "AGB-AM4E-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/534564-motogp/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "MotoGP",
+    "serialShown": "AGB-AM4E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "THQ, 03/08/02, E rating; attribution likely"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "MOTOGP",
+    "serialShown": "AGB-AM4E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 8EE93EB8"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/6",
+    "site": "gamehacking.org",
+    "titleFound": "Mortal Kombat Advance",
+    "serialShown": "AGB-AM4E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking lists Mortal Kombat Advance with serial AGB-AM4E-USA and CRC 8EE93EB8; URL among gamehacking.org results (game/5418, system/gba/m/6, all/44) uncertain"
+   },
+   {
+    "url": "https://gamehacking.org/game/5418",
+    "site": "gamehacking.org",
+    "titleFound": "MotoGP",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking gives 4M size for CRC 8EE93EB8; which URL unclear"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/AGB-AM4P-0/",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "MotoGP (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-AM4P-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "European variant"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AM5E-USA",
+  "query": "AGB-AM5E-USA",
+  "results": [
+   {
+    "url": "https://arcade-history.com/?id=71959&n=mortal-kombat-advance-model-agb-am5e-usa&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Mortal Kombat Advance [Model AGB-AM5E-USA]",
+    "serialShown": "AGB-AM5E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Midway, 2001"
+   },
+   {
+    "url": "https://www.etsy.com/listing/1206822966/mortal-kombat-gameboy-advance-games",
+    "site": "etsy.com",
+    "titleFound": "Mortal Kombat Gameboy Advance Games",
+    "serialShown": "AGB-AM5E-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Label text per summary"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/6",
+    "site": "gamehacking.org",
+    "titleFound": "Bass Fishing (USA)",
+    "serialShown": "AGB-AM5E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says GameHacking lists this serial for Bass Fishing (USA); URL attribution uncertain"
+   },
+   {
+    "url": "https://www.manualslib.com/brand/midway/",
+    "site": "manualslib.com",
+    "titleFound": null,
+    "serialShown": "AGB-AM5E-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet under this code per summary"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Listed; summary does not say"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AM6E-USA",
+  "query": "AGB-AM6E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "TYSON BOXING / 0346 - Mike Tyson Boxing (U).gba (GAX)",
+    "serialShown": "AGB-AM6E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Attribution of this detail to this gist vs GAX gist uncertain"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "GAX games list; summary unclear"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "TYSON BOXING",
+    "serialShown": "AGB-AM6E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/5348",
+    "site": "gamehacking.org",
+    "titleFound": "Mike Tyson Boxing",
+    "serialShown": "AGB-AM6E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Size 4M, CRC32 48109F8D, USA"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Mike Tyson Boxing (USA) (En,Fr,De,Es,It)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/265379938220",
+    "site": "ebay.com",
+    "titleFound": "Mike Tyson Boxing Nintendo Game Boy Advance Manual Only",
+    "serialShown": "AGB-AM6E-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "MPN"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AMAC-CHN",
+  "query": "AGB-AMAC-CHN",
+  "results": [
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Yaoxi%20Dao%20(China).html",
+    "site": "db.libretro.com",
+    "titleFound": "Yaoxi Dao (China)",
+    "serialShown": "AGB-AMAC-CHN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=1Sipaq12qvs",
+    "site": "youtube.com",
+    "titleFound": "Chaoji Maliou",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Summary says review describes the same code; unclear if shown"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64960--super-mario-advance",
+    "site": "retroplace.com",
+    "titleFound": "Super Mario Advance",
+    "serialShown": "AGB-AMAC-CHN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Asian code, 2004 release per summary"
+   }
+  ]
+ }
+]

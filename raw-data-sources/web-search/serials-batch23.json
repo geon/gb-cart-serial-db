@@ -1,0 +1,266 @@
+[
+ {
+  "serial": "AGB-APRD-NOE",
+  "query": "AGB-APRD-NOE",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Power Rangers - Time Force (Germany)",
+    "serialShown": "AGB-APRD-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Different suffix (ROM ID AGB-APRD-0); summary says the title is Power Rangers - Time Force (Germany)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AQAE-USA",
+  "query": "AGB-AQAE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/gadget-racers-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Gadget Racers",
+    "serialShown": "AGB-AQAE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet scan; publisher Conspiracy Entertainment"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says sound driver list records it as MusicPlayer2000 driver; title/serial not quoted"
+   },
+   {
+    "url": "https://vgcollect.com/item/3016",
+    "site": "vgcollect.com",
+    "titleFound": "Gadget Racers",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary does not quote the serial; ties to Gadget Racers GBA [NA] (alt name Choro Q Advance JP)"
+   },
+   {
+    "url": "https://gamehacking.org/game/4649?hacker=Datel",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary lists 4M size and CRC32 95DD156A for US version; unclear which of the GameHacking URLs"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AQCJ-JPN",
+  "query": "AGB-AQCJ-JPN",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/582245-combat-choro-q-advance-daisakusen/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Combat Choro Q: Advance Daisakusen",
+    "serialShown": "AGB-AQCJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.ebay.com/itm/395355319440",
+    "site": "ebay.com",
+    "titleFound": "Combat Choro Q: Advance Daisakusen",
+    "serialShown": "AGB-AQCJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamehacking.org/?game=4178",
+    "site": "gamehacking.org",
+    "titleFound": "Combat Choro Q: Advance Daisakusen",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary: Japanese 4M, CRC32 4E5BFA90; serial not quoted"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Combat Choro Q: Advance Daisakusen",
+    "serialShown": "AGB-AQCJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Appeared in results; summary does not tie it to this serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AQDS-SPA",
+  "query": "AGB-AQDS-SPA",
+  "results": []
+ },
+ {
+  "serial": "AGB-AR2E-USA",
+  "query": "AGB-AR2E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "R2RBOXING R2 (internal name)",
+    "serialShown": "AGB-AR2E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusyX Audio Tools; internal name given, not full title"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Ready 2 Rumble Boxing - Round 2 (USA)",
+    "serialShown": "AGB-AR2E-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "Ready 2 Rumble Boxing: Round 2",
+    "serialShown": "AGB-AR2E",
+    "exact": false,
+    "kind": "catalog",
+    "note": "Shows AGB-AR2E (and AGB-AR2P for PAL) per summary; title wording not verbatim"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AR3E-USA",
+  "query": "AGB-AR3E-USA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/game/4898",
+    "site": "gamehacking.org",
+    "titleFound": "Ice Nine",
+    "serialShown": "AGB-AR3E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "USA/Europe, CRC32 14C23257"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/ice_nine/91913",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Ice Nine",
+    "serialShown": "AGB-AR3E-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps2/562427-ice-nine/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Ice Nine",
+    "serialShown": "AGB-AR3E-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "URL is the PS2 data page but summary says it shows US Bam Entertainment AGB-AR3E-USA 02/28/05; EU AGB-AR3P-EUR"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ICE NINE (internal name)",
+    "serialShown": "AGB-AR3E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver Torus Games"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62171--ice-nine",
+    "site": "retroplace.com",
+    "titleFound": "Ice Nine",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Appeared in results; summary does not quote serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AR5F-NOE",
+  "query": "AGB-AR5F-NOE",
+  "results": [
+   {
+    "url": "https://github.com/Dhole/gba-reversing-notes/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "RR GO PARTY",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says lists RR GO PARTY with 32 MB; exact serial form not quoted"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AR5F-FRA",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says French listing in sound-driver database uses AGB-AR5F-FRA; attribution to this URL is inferred"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Razmoket, Les - A Moi la Fiesta (France)",
+    "serialShown": "AGB-AR5F-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AR7J-JPN",
+  "query": "AGB-AR7J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/396227150886",
+    "site": "ebay.com",
+    "titleFound": "Advance Rally",
+    "serialShown": "AGB-AR7J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7",
+    "site": "gist.github.com",
+    "titleFound": "ADVANCE RALL (internal name)",
+    "serialShown": "AGB-AR7J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary: 2021 list matches; file '0231 - Advance Rally (J).gba' may be from the 2024 list"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ADVANCE RALL (internal name)",
+    "serialShown": "AGB-AR7J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000; file '0231 - Advance Rally (J).gba'"
+   },
+   {
+    "url": "https://www.nippon-snaps.com/product/advance-rally-gba-game-boy-advance2001agb-ar7j-jpnjapan-import/",
+    "site": "nippon-snaps.com",
+    "titleFound": "Advance RALLY",
+    "serialShown": "AGB-AR7J-JPN",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ }
+]

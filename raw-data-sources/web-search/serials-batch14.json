@@ -1,0 +1,863 @@
+[
+ {
+  "serial": "AGB-A5DJ-JPN",
+  "query": "AGB-A5DJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1059 - Disney Sports Snowboarding (J).gba",
+    "serialShown": "AGB-A5DJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name DS_SNOWBD"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Disney Sports - Snowboarding (Japan)",
+    "serialShown": "AGB-A5DJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says a GitHub cartridge list pairs the game with EUR and US versions; unclear that this URL shows this exact serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5DP-EUR",
+  "query": "AGB-A5DP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DS_SNOWBD_E",
+    "serialShown": "AGB-A5DP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name; summary says European release of Disney Sports Snowboarding"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Disney Sports - Snowboarding (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-A5DP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5GJ-JPN",
+  "query": "AGB-A5GJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1112 - Dragon Drive (J).gba",
+    "serialShown": "AGB-A5GJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name DORADORAWDBK"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Dragon Drive - World D Break",
+    "serialShown": "AGB-A5GJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   },
+   {
+    "url": "https://www.uvlist.net/game-182280-Dragon+Drive+World+D+Break",
+    "site": "www.uvlist.net",
+    "titleFound": "Dragon Drive: World D Break",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Banpresto 2003; summary doesn't show the serial on this page"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "www.sprintinglegs.com",
+    "titleFound": "Dragon Drive (Japanese title per master list)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary gives release 2003-07-18 from a Japanese master list; serial display not stated"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d/4",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary cites a database with CRC32 E5A571AD, 8M, Japanese release; which GameHacking URL is uncertain (also https://gamehacking.org/?format=ar34&game=4402&hacker=InterAct)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5QJ-JPN",
+  "query": "AGB-A5QJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395102334924",
+    "site": "www.ebay.com",
+    "titleFound": "Medarot Ni Core: Kuwagata Version [Nintendo Game Boy Advance - AGB-A5QJ-JPN]",
+    "serialShown": "AGB-A5QJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "MEDACOREKWG",
+    "serialShown": "AGB-A5QJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name paired with serial"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A5QJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "associated with Natsume driver"
+   },
+   {
+    "url": "https://www.mercari.com/us/item/m28457234136/",
+    "site": "www.mercari.com",
+    "titleFound": "Medabots Medarot 2 Core Kuwagata Version GBA",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "serial not stated"
+   },
+   {
+    "url": "https://www.video-games-museum.com/en/game/Shingata-Medarot-Kuwagata-Version/18/5/22329/buy",
+    "site": "www.video-games-museum.com",
+    "titleFound": "Shingata Medarot - Kuwagata Version",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary gives Japanese retail listing dated 2003; serial not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5TJ-JPN",
+  "query": "AGB-A5TJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/64417--shin-megami-tensei-ii",
+    "site": "www.retroplace.com",
+    "titleFound": "Shin Megami Tensei II",
+    "serialShown": "AGB-A5TJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box code; Atlus, released 9/26/2003 (could be from GameFAQs instead)"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/918931-shin-megami-tensei-ii/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Shin Megami Tensei II",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "returned in results; summary doesn't say which of retroplace/GameFAQs shows the serial"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Shin Megami Tensei II (Japan)",
+    "serialShown": "AGB-A5TJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A5TJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name AGB-P-A5TJ"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5UP-EUR",
+  "query": "AGB-A5UP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SPACE CHANNE",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary ties internal name SPACE CHANNE to the serial, but shown serial not quoted"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Space Channel 5 - Ulala's Cosmic Attack (Europe)",
+    "serialShown": "AGB-A5UP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID; title paraphrased by summary"
+   },
+   {
+    "url": "https://arcade-history.com/index.php?Tri=1&annee=all&demo=0&export=1&listtypes=all&mamed=1&nongame=0&page=database&pirate=0&position=3507&reissue=1",
+    "site": "arcade-history.com",
+    "titleFound": "Space Channel 5 - Ulala's Cosmic Attack",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Atari 2003; tied to AGB-A5UP model"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "European version, 64 Mbit, CRC32 0F105694, EEPROM_V122; serial display not quoted"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/61",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "same CRC32, 8M European version"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A5WF-NOE",
+  "query": "AGB-A5WF-NOE",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "RUGRATSGWILD",
+    "serialShown": "AGB-A5WF-NOE",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says Rugrats: Go Wild; also lists AGB-A5WE-USA"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A5WF-FRA",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "different region suffix (FRA)"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Les Razmoket Rencontrent les Delajungle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "shows code AGB-A5WF (French)"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "www.sprintinglegs.com",
+    "titleFound": "Les Razmoket Rencontrent les Delajungle",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "shows code AGB-A5WF (French)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A6DJ-JPN",
+  "query": "AGB-A6DJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0502 - Disney Sports Soccer (J).gba",
+    "serialShown": "AGB-A6DJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name DS_SOCCER"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Disney Sports - Soccer (Japan)",
+    "serialShown": "AGB-A6DJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/561317-disney-sports-soccer/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Disney Sports: Soccer",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japanese release Konami 07/18/02; lists US AGB-A6DE-USA and EUR AGB-A6DP-EUR; page is GameCube data, JP serial not stated"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "www.sprintinglegs.com",
+    "titleFound": null,
+    "serialShown": "AGB-A6DJ",
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japanese title paired with code AGB-A6DJ"
+   },
+   {
+    "url": "https://gb1gbc1.tripod.com/gba/gba_save.htm",
+    "site": "gb1gbc1.tripod.com",
+    "titleFound": null,
+    "serialShown": "AGB-A6DJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "save-type table includes the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A6OE-USA",
+  "query": "AGB-A6OE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/onimusha-tactics-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Onimusha Tactics",
+    "serialShown": "AGB-A6OE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "instruction booklet title [AGB-A6OE-USA]"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/562260-onimusha-tactics/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Onimusha Tactics",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "US release 11/11/03, Capcom, ESRB T; serial not quoted by summary"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63706--onimusha-tactics",
+    "site": "www.retroplace.com",
+    "titleFound": "Onimusha Tactics",
+    "serialShown": "AGB P A60P",
+    "exact": false,
+    "kind": "catalog",
+    "note": "box code of the European version"
+   },
+   {
+    "url": "https://vgcollect.com/item/2856",
+    "site": "vgcollect.com",
+    "titleFound": "Onimusha Tactics",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "NA item; serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A6OJ-JPN",
+  "query": "AGB-A6OJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/276463124032",
+    "site": "www.ebay.com",
+    "titleFound": "Onimusha Tactics Nintendo Game Boy Advance - AGB-A6OJ-JPN Japan Import GBA",
+    "serialShown": "AGB-A6OJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1107 - Onimusha Tactics (J).gba",
+    "serialShown": "AGB-A6OJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name ONITAC1"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/562260-onimusha-tactics/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Onimusha Tactics",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japanese release 2003-07-25 Capcom; serial not quoted by summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A6RE-USA",
+  "query": "AGB-A6RE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ROADTRIPSHIF",
+    "serialShown": "AGB-A6RE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name; Road Trip: Shifting Gears"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59190--road-trip-shifting-gears",
+    "site": "www.retroplace.com",
+    "titleFound": "Road Trip: Shifting Gears",
+    "serialShown": "AGB-A6RE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box code; release 4/6/2004 (source of dates could be another catalog)"
+   },
+   {
+    "url": "https://gamehacking.org/game/5789",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 549BF1C5, English, USA; title not stated"
+   },
+   {
+    "url": "https://www.uvlist.net/game-102000-Shifting+Gears+Road+Trip",
+    "site": "www.uvlist.net",
+    "titleFound": "Shifting Gears - Road Trip",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Takara 2002; serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A6SJ-JPN",
+  "query": "AGB-A6SJ-JPN",
+  "results": [
+   {
+    "url": "https://archive.org/details/super-robot-taisen-d-jpn-box",
+    "site": "archive.org",
+    "titleFound": "Super Robot Taisen: D (スーパーロボット大戦D)",
+    "serialShown": "AGB-A6SJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "box scan"
+   },
+   {
+    "url": "https://archive.org/details/super-robot-taisen-d-jpn-manual/mode/1up?view=theater&ui=embed&wrapper=false",
+    "site": "archive.org",
+    "titleFound": "Super Robot Taisen: D (スーパーロボット大戦D)",
+    "serialShown": "AGB-A6SJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "manual scan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SRWD",
+    "serialShown": "AGB-A6SJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name; driver Quintet"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Super Robot Taisen D (Japan)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/6184",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary: serial with 8M, CRC32 EFB45117; uncertain which GameHacking URL (also https://gamehacking.org/system/gba/s/9)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A7AE-USA",
+  "query": "AGB-A7AE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/naruto-ninja-council-manual-images",
+    "site": "archive.org",
+    "titleFound": "Shonen Jump's Naruto Ninja Council",
+    "serialShown": "AGB-A7AE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "manual, Catalog ID [AGB-A7AE-USA], year 2002"
+   },
+   {
+    "url": "https://gamehacking.org/game/5463",
+    "site": "gamehacking.org",
+    "titleFound": "Naruto: Ninja Council",
+    "serialShown": "AGB-A7AE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "USA, English, 8M, CRC32 C402878C; URL attribution among GameHacking pages uncertain"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "NARUTO US1",
+    "serialShown": "AGB-A7AE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   },
+   {
+    "url": "https://vgcollect.com/item/5257",
+    "site": "vgcollect.com",
+    "titleFound": "Naruto: Ninja Council",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "NA item; serial not quoted"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63562--naruto-ninja-council",
+    "site": "www.retroplace.com",
+    "titleFound": "Naruto: Ninja Council",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A7HE-USA",
+  "query": "AGB-A7HE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/zip_20240310_20240310_2014",
+    "site": "archive.org",
+    "titleFound": "Harry Potter and the Chamber of Secrets Manual",
+    "serialShown": "AGB-A7HE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "[AGB-A7HE-USA]"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Harry Potter and the Chamber of Secrets (USA, Europe)",
+    "serialShown": "AGB-A7HE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID; which gbhwdb URL uncertain"
+   },
+   {
+    "url": "https://vgcollect.com/item/2828",
+    "site": "vgcollect.com",
+    "titleFound": "Harry Potter and the Chamber of Secrets",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "NA item, packaging English/French; serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A7IJ-JPN",
+  "query": "AGB-A7IJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SILK&COTTON",
+    "serialShown": "AGB-A7IJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=kZH7WBeHIAo",
+    "site": "www.youtube.com",
+    "titleFound": "Silk to Cotton - Version Japon",
+    "serialShown": "AGB-A7IJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "video review mentions code"
+   },
+   {
+    "url": "https://glitchwave.com/game/silk-to-cotton/",
+    "site": "glitchwave.com",
+    "titleFound": "Silk to Cotton",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "released 31 Oct 2002, EAN 4560113320021; serial not quoted"
+   },
+   {
+    "url": "https://www.uvlist.net/game-184705-Silk+to+Cotton",
+    "site": "www.uvlist.net",
+    "titleFound": "Silk to Cotton",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Mig Records 2002; serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A85J-JPN",
+  "query": "AGB-A85J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1256 - Sanrio Puroland All Characters (J).gba",
+    "serialShown": "AGB-A85J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A85J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "32 KB, EEPROM save type"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-A85J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   },
+   {
+    "url": "https://www.uvlist.net/game-184644-Sanrio+Puroland+All+Characters",
+    "site": "www.uvlist.net",
+    "titleFound": "Sanrio Puroland All Characters",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Tomy 2003; serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A87J-JPN",
+  "query": "AGB-A87J-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Ohanaya-san Monogatari GBA - Iyashikei Ohanaya-san Ikusei Game (Japan)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "HANAYA",
+    "serialShown": "AGB-A87J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mbit, EEPROM_V122"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A87J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "driver MusicPlayer2000"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=e4PLYaVoCtU",
+    "site": "www.youtube.com",
+    "titleFound": "Ohanaya-san Monogatari GBA - Iyashikei Ohanaya-san Ikusei - Version Japon",
+    "serialShown": "AGB-A87J-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "summary says review by this code"
+   },
+   {
+    "url": "https://arcade-history.com/index.php?annee=all&editeur=5905&page=database",
+    "site": "arcade-history.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "year 2002, publisher TDK Core; title/serial not quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A89P-EUR",
+  "query": "AGB-A89P-EUR",
+  "results": [
+   {
+    "url": "https://rockmanpm.com/?p=exe%2Frockmanexebcgp",
+    "site": "rockmanpm.com",
+    "titleFound": "Mega Man Battle Chip Challenge (Rockman EXE Battle Chip Gate)",
+    "serialShown": "AGB-A89P-EUR",
+    "exact": true,
+    "kind": "other",
+    "note": "'(EU) 2004.03.19 (GBA) [AGB-A89P-EUR]'; title per summary"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "BATTLECHIPGP",
+    "serialShown": "AGB-A89P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mbit, CRC 5B4631F9, SRAM_V113"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BATTLECHIPGP",
+    "serialShown": "AGB-A89P-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "driver MusicPlayer2000"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/m/3",
+    "site": "gamehacking.org",
+    "titleFound": "Mega Man & Bass",
+    "serialShown": "AGB-A89P",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "same checksum; summary calls this a labeling error"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A8LJ-JPN",
+  "query": "AGB-A8LJ-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "BB Ball (Japan)",
+    "serialShown": "AGB-A8LJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "1551 - BB Ball (J).gba",
+    "serialShown": "AGB-A8LJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name BBBALL"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "www.sprintinglegs.com",
+    "titleFound": "ＢＢボール (BB ball)",
+    "serialShown": "AGB-A8LJ",
+    "exact": false,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=SVIpD5vdfXw",
+    "site": "www.youtube.com",
+    "titleFound": "BB Ball - Version Japon",
+    "serialShown": "AGB-A8LJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "summary says review cites this code"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A8OJ-JPN",
+  "query": "AGB-A8OJ-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-A8OJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID for Japanese release; title not stated"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "KITCHENBENTO",
+    "serialShown": "AGB-A8OJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A8OJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says serial listed; title not given"
+   },
+   {
+    "url": "https://www.giantbomb.com/doki-doki-cooking-series-2-gourmet-kitchen-suteki-/3030-78873/releases/",
+    "site": "www.giantbomb.com",
+    "titleFound": "Doki Doki Cooking Series 2: Gourmet Kitchen: Suteki na Obentou",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "publisher MTO; serial not quoted"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=fzRtQ3o_N6k",
+    "site": "www.youtube.com",
+    "titleFound": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou - Version Japon",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "serial not quoted"
+   }
+  ]
+ }
+]

@@ -1,0 +1,644 @@
+[
+ {
+  "serial": "AGB-ABJP-EUR",
+  "query": "AGB-ABJP-EUR",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/58874--broken-sword-the-shadow-of-the-templars",
+    "site": "retroplace.com",
+    "titleFound": "Broken Sword: The Shadow of the Templars",
+    "serialShown": "AGB-ABJP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary says product code AGB-ABJP-EUR, European release 3/22/2002, Bam Entertainment"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "BROKENSWORD",
+    "serialShown": "AGB-ABJP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABKE-USA",
+  "query": "AGB-ABKE-USA",
+  "results": [
+   {
+    "url": "https://arcade-history.com/index.php?editeur=4905&page=database",
+    "site": "arcade-history.com",
+    "titleFound": "Back Track",
+    "serialShown": "AGB-ABKE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Year 2001, Telegames"
+   },
+   {
+    "url": "https://gist.github.com/huhao1987/dc0e48c99f5efaade7cc4a0ed678aeb7",
+    "site": "gist.github.com",
+    "titleFound": "BACKTRACK",
+    "serialShown": "AGB-ABKE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Internal name BACKTRACK; file 0118 - Backtrack (U).gba"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Back Track (USA, Europe)",
+    "serialShown": "AGB-ABKE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary does not give exact URL of the gbhwdb page; ROM ID AGB-ABKE-0"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABNE-USA",
+  "query": "AGB-ABNE-USA",
+  "results": [
+   {
+    "url": "https://retrospekt.com/products/nba-jam-2002-game-boy-advance-game",
+    "site": "retrospekt.com",
+    "titleFound": "NBA Jam 2002",
+    "serialShown": "AGB-ABNE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "SKU AGB-ABNE-USA"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "NBA Jam 2002 (U)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says sound driver GAX 2.11, file 0308 - NBA Jam 2002 (U); unclear which of the gist URLs (60e29... or GAX list f824...) shows the serial"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "NBA Jam 2002 (USA, Europe)",
+    "serialShown": "AGB-ABNE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABYX-EUU",
+  "query": "AGB-ABYX-EUU",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DANCE BEAT",
+    "serialShown": "AGB-ABYX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://retrobroker.com/en-US/us/products/britneys-dance-beat-game-boy-advance-game-only",
+    "site": "retrobroker.com",
+    "titleFound": "Britney's Dance Beat",
+    "serialShown": "AGB-ABYX-EUR",
+    "exact": false,
+    "kind": "listing",
+    "note": "Shows suffix EUR, 2002 PAL"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Britney's Dance Beat (Europe)",
+    "serialShown": "AGB-ABYX-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ABYY-EUU",
+  "query": "AGB-ABYY-EUU",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DANCE BEAT",
+    "serialShown": "AGB-ABYY-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Entry: DANCE BEAT AGB-ABYY-EUU 64 16 CFE69825"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Britney's Dance Beat (Europe) (En,De)",
+    "serialShown": "AGB-ABYY-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AC4J-JPN",
+  "query": "AGB-AC4J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/365202723116",
+    "site": "ebay.com",
+    "titleFound": "Meitantei Conan: Nerawareta Tantei",
+    "serialShown": "AGB-AC4J-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "Banpresto, NTSC-J"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DETECTIVE CO (internal name)",
+    "serialShown": "AGB-AC4J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AC4J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mbit, EEPROM_V122"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-AC4J-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AC6F-NOE",
+  "query": "AGB-AC6F-NOE",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Spirit - L'Etalon des Plaines - A la Recherche de la Terre Natale (France)",
+    "serialShown": "AGB-AC6F-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "No result showed AGB-AC6F-NOE itself"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "SPRIT: L'ETALON DES PLAINES",
+    "serialShown": "AGB-AC6F",
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says a second listing gives AGB-AC6F; URL attribution uncertain"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACIJ-JPN",
+  "query": "AGB-ACIJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394885319656",
+    "site": "ebay.com",
+    "titleFound": "WTA Tour Tennis Pocket",
+    "serialShown": "AGB-ACIJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/116126762892",
+    "site": "ebay.com",
+    "titleFound": "WTA Tour Tennis Pocket",
+    "serialShown": "AGB-ACIJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "Title: WTA Tour Tennis Nintendo Gameboy Advance Japan Import AGB-ACIJ-JPN"
+   },
+   {
+    "url": "https://www.ebay.com/itm/304545035975",
+    "site": "ebay.com",
+    "titleFound": "WTA Tour Tennis Pocket",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Title only; serial not stated in summary"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "WTATOUR / WTA Tour Tennis Pocket (J).gba",
+    "serialShown": "AGB-ACIJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "WTA Tour Tennis Pocket (Japan)",
+    "serialShown": "AGB-ACIJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gamecube/561596-wta-tour-tennis/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "WTA Tour Tennis Pocket",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "GameFAQs release info Japan 2002-02-14, Konami; summary does not tie URL to serial (GameCube page)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACME-USA",
+  "query": "AGB-ACME-USA",
+  "results": []
+ },
+ {
+  "serial": "AGB-ACTX-EUU",
+  "query": "AGB-ACTX-EUU",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Creatures (Europe)",
+    "serialShown": "AGB-ACTX-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary mixes ACTX-0 and a Creatures (Europe) (En,Es,It) entry with AGB-ACTY-0 / AGB-ACTY-EUU; ambiguous"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "CREATURESAGB",
+    "serialShown": "AGB-ACTX-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Entry: CREATURESAGB AGB-ACTX-EUU 32 1A 68206301 EEPROM_V122 64"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACVJ-JPN",
+  "query": "AGB-ACVJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/396284142664",
+    "site": "ebay.com",
+    "titleFound": "Robot Ponkottsu 2: Cross Version",
+    "serialShown": "AGB-ACVJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "ROBOPON2CROS",
+    "serialShown": "AGB-ACVJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://vgdb.io/games/2571-game-boy-advance-robopon-2-cross-version",
+    "site": "vgdb.io",
+    "titleFound": "Robopon 2: Cross Version",
+    "serialShown": "AGB-ACVJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "MPN AGB-ACVJ-JPN, Hudson, 2001-09-13"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACXE-USA",
+  "query": "AGB-ACXE-USA",
+  "results": [
+   {
+    "url": "https://vgcollect.com/item/2797",
+    "site": "vgcollect.com",
+    "titleFound": "Cubix Robots for Everyone: Clash 'n Bash",
+    "serialShown": "AGB-ACXE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "3DO, 2002-06-01"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Cubix title",
+    "serialShown": "AGB-ACXE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACYE-USA",
+  "query": "AGB-ACYE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CHESSMASTER; 1025 - ChessMaster (U).gba",
+    "serialShown": "AGB-ACYE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Chessmaster (USA)",
+    "serialShown": "AGB-ACYE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/4133",
+    "site": "gamehacking.org",
+    "titleFound": "Chessmaster",
+    "serialShown": "AGB-ACYE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 25B0E933, 4M, USA; exact GameHacking URL uncertain (results also include system/gba/all/11 and system/gba/c/1)"
+   },
+   {
+    "url": "https://www.ebay.com/itm/267331394356",
+    "site": "ebay.com",
+    "titleFound": "Chessmaster",
+    "serialShown": "AGB-ACYE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "Manual only, MPN AGB-ACYE-USA, Ubisoft"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACYF-NOE",
+  "query": "AGB-ACYF-NOE",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Chessmaster (France)",
+    "serialShown": "AGB-ACYF-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/Dhole/gba-reversing-notes/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "CHESSMASTER",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "NOE-region entry, checksum 55EF8392; summary says suffix/region label differ, serial exactly as shown unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACYP-EUR",
+  "query": "AGB-ACYP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "CHESSMASTER; 0366 - Chessmaster (E).gba",
+    "serialShown": "AGB-ACYP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ACYP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "32 MB, EEPROM_V122; title not given"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Chessmaster (Europe)",
+    "serialShown": "AGB-ACYP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ACZP-EUR",
+  "query": "AGB-ACZP-EUR",
+  "results": [
+   {
+    "url": "https://archive.org/details/comix-zone-eur-manual",
+    "site": "archive.org",
+    "titleFound": "Comix Zone",
+    "serialShown": "AGB-ACZP-EUR",
+    "exact": true,
+    "kind": "other",
+    "note": "Instruction booklet title [AGB-ACZP-EUR]"
+   },
+   {
+    "url": "https://archive.org/details/comix-zone-eur-box",
+    "site": "archive.org",
+    "titleFound": "Comix Zone",
+    "serialShown": "AGB-ACZP EUR",
+    "exact": false,
+    "kind": "other",
+    "note": "Box scan"
+   },
+   {
+    "url": "https://segaretro.org/Comix_Zone",
+    "site": "segaretro.org",
+    "titleFound": "Comix Zone",
+    "serialShown": "AGB-ACZP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU GBA release 2002-09-11"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "COMIX ZONE",
+    "serialShown": "AGB-ACZP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/137105--comix-zone",
+    "site": "retroplace.com",
+    "titleFound": "Comix Zone",
+    "serialShown": "AGB-ACZP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Medium product code for European release"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "Comix Zone",
+    "serialShown": "AGB-ACZP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "GAX list; per summary records same serial"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Comix Zone",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary does not state the ID shown"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADAE-USA",
+  "query": "AGB-ADAE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DARK ARENA",
+    "serialShown": "AGB-ADAE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Dark Arena (USA, Europe)",
+    "serialShown": "AGB-ADAE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/4255",
+    "site": "gamehacking.org",
+    "titleFound": "Dark Arena",
+    "serialShown": "AGB-ADAE-USA, AGB-ADAP",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 DE5DCDEE; exact GameHacking URL uncertain (also system/gba/d, d/1)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADEJ-JPN",
+  "query": "AGB-ADEJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394885270867",
+    "site": "ebay.com",
+    "titleFound": "Adventure of Tokyo Disney Sea",
+    "serialShown": "AGB-ADEJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "Konami, NTSC-J"
+   },
+   {
+    "url": "https://arcade-history.com/?id=69539&n=adventure-of-tokyo-disney-sea-model-agb-adej-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Adventure of Tokyo Disney Sea",
+    "serialShown": "AGB-ADEJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Disney Interactive 2001 (model in URL)"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DISNEYSEA; 0195 - Adventure of Tokyo Disney Sea (J).gba",
+    "serialShown": "AGB-ADEJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/a",
+    "site": "gamehacking.org",
+    "titleFound": "Adventure of Tokyo Disney Sea",
+    "serialShown": "AGB-ADEJ-JPN (RK265-J1)",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "4M"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADQE-USA",
+  "query": "AGB-ADQE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DOKAPON",
+    "serialShown": "AGB-ADQE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Dokapon - Monster Hunter (USA)",
+    "serialShown": "AGB-ADQE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "http://www.gameigloo.com/gba-games/3411-dokapon-monster-hunter-nintendo-game-boy-advance-2001-839204000024.html",
+    "site": "gameigloo.com",
+    "titleFound": "Dokapon Monster Hunter",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Serial not stated in summary; possibly the source of publisher/year details"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ADSJ-JPN",
+  "query": "AGB-ADSJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DAISENRYAKU",
+    "serialShown": "AGB-ADSJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Daisenryaku for Game Boy Advance (Japan)",
+    "serialShown": "AGB-ADSJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-182122-Daisenryaku+for+Game+Boy+Advance",
+    "site": "uvlist.net",
+    "titleFound": "Daisenryaku for Game Boy Advance",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Media Kite 2001; summary does not show serial"
+   }
+  ]
+ }
+]

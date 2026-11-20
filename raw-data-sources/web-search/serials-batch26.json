@@ -1,0 +1,196 @@
+[
+ {
+  "serial": "AGB-AVRJ-JPN",
+  "query": "AGB-AVRJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "V-Rally 3",
+    "serialShown": "AGB-AVRJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65458--v-rally-3",
+    "site": "retroplace.com",
+    "titleFound": "V-Rally 3",
+    "serialShown": "AGB-AVRJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Summary cites product codes AGB-AVRJ-JPN, 2002, Atari; attribution of this fact to retroplace is inferred"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "V-Rally 3 (Japan)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Shows ROM ID AGB-AVRJ-0 only"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AVYD-NOE",
+  "query": "AGB-AVYD-NOE",
+  "results": [
+   {
+    "url": "https://github.com/Dhole/gba-reversing-notes/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Buffy (title per summary: Buffy Im Bann der Daemonen Koenig Darkhuls Zorn)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says CSV lists code next to Buffy title; exact serial string not confirmed"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Buffy (German release)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-AVYD-0"
+   },
+   {
+    "url": "https://retroreiz.de/shop/nintendo/alle-game-boys/gameboy-spiele/gameboy-advance-spiele/gameboy-advance-buffy-im-bann-der-daemonen-koenig-darkhuls-zorn-spiel/",
+    "site": "retroreiz.de",
+    "titleFound": "Buffy im Bann der Dämonen - König Darkhuls Zorn",
+    "serialShown": "AGB-AVYD-NOE",
+    "exact": true,
+    "kind": "listing",
+    "note": "Serial given as listing keyword"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AVYF-NOE",
+  "query": "AGB-AVYF-NOE",
+  "results": [
+   {
+    "url": "https://github.com/Dhole/gba-reversing-notes/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "BUFFY",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says CSV pairs this code with BUFFY, EEPROM; exact string not confirmed"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Buffy",
+    "serialShown": "AGB-AVYF-FRA",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Same serial with different region suffix (FRA)"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Buffy (French)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-AVYF-0"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AVZE-USA",
+  "query": "AGB-AVZE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Super Bubble Pop (S BUBBLE POP)",
+    "serialShown": "AGB-AVZE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File 0826 - Super Bubble Pop (U).gba"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/ps/563562-super-bubble-pop/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Super Bubble Pop",
+    "serialShown": "AGB-AVZE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "URL is the PlayStation page, but summary attributes Product ID AGB-AVZE-USA, Jaleco, 2003-01-03 to a Super Bubble Pop data page; uncertain which URL (a GBA page may exist)"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AW3J-JPN",
+  "query": "AGB-AW3J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/305382340821",
+    "site": "ebay.com",
+    "titleFound": "WATASHI NO MAKE SALON Yumemi Chan 3",
+    "serialShown": "AGB-AW3J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394886001406",
+    "site": "ebay.com",
+    "titleFound": "Watashi no Make Salon",
+    "serialShown": "AGB-AW3J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "WATASHI-MK / 0965 - Watashi No Make Salon (J).gba",
+    "serialShown": "AGB-AW3J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Yumemi-chan no Naritai Series 3 - Watashi no Makesalon (Japan)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-AW3J-0"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AW8E-USA",
+  "query": "AGB-AW8E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "WWE Road to WrestleMania X8 (WWE_RTWM_X8)",
+    "serialShown": "AGB-AW8E-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "File 0684 - WWE - Road to Wrestlemania X8 (U).gba"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561492-wwe-road-to-wrestlemania-x8/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "WWE Road to WrestleMania X8",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary gives US release 10/23/02, barcode; does not state serial explicitly"
+   },
+   {
+    "url": "https://gamehacking.org/game/6470?hacker=StalkerX",
+    "site": "gamehacking.org",
+    "titleFound": "WWE Road to WrestleMania X8",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Summary says lists AGB-AW8E alongside AGB-AW8P; exact string not confirmed"
+   }
+  ]
+ }
+]

@@ -1,0 +1,830 @@
+[
+ {
+  "serial": "AGB-A8PJ-JPN",
+  "query": "AGB-A8PJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/125749528091",
+    "site": "ebay.com",
+    "titleFound": "DERBY STALLION Nintendo Game Boy Advance Game Japanese GBA",
+    "serialShown": "AGB-A8PJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394871348132",
+    "site": "ebay.com",
+    "titleFound": "Derby Stallion Advance",
+    "serialShown": "AGB-A8PJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Derby Stallion Advance (internal name PBDRBYSTLON)",
+    "serialShown": "AGB-A8PJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Derby Stallion Advance",
+    "serialShown": "AGB-A8PJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A8QP-EUR",
+  "query": "AGB-A8QP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Pirates of the Caribbean (1193 - Pirates of the Caribbean (E).gba)",
+    "serialShown": "AGB-A8QP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Pirates of the Caribbean - The Curse of the Black Pearl (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-A8QP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A8YJ-JPN",
+  "query": "AGB-A8YJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395531406915",
+    "site": "ebay.com",
+    "titleFound": "Best Play Pro Yakyuu",
+    "serialShown": "AGB-A8YJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Best Play Pro Yakyuu (0701 - Best Play Pro Yakyuu (J).gba)",
+    "serialShown": "AGB-A8YJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://vgarchive.org/games/list/page/22/startswith/B/sortby/releasedate",
+    "site": "vgarchive.org",
+    "titleFound": "Best Play Pro Yakyuu",
+    "serialShown": "AGB-A8YJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "summary gives Sku: AGB-A8YJ-JPN, UPC 4541993011209; title inferred from listing context"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Best Play Pro Yakyuu (Japan)",
+    "serialShown": "AGB-A8YJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A9AP-EUR",
+  "query": "AGB-A9AP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Demon Driver (0870 - Demon Driver (E).gba)",
+    "serialShown": "AGB-A9AP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/583061-demon-driver-time-to-burn-some-rubber/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Demon Driver: Time to Burn Some Rubber",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary ties page to the game, serial display not stated"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Demon Driver - Time to Burn Rubber! (Europe)",
+    "serialShown": "AGB-A9AP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DEMON DRIVER?",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "listed in results but summary does not quote entry"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A9GP-EUR",
+  "query": "AGB-A9GP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Stadium Games (internal STADIUMGAMES; 0872 - Stadium Games (E).gba)",
+    "serialShown": "AGB-A9GP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Stadium Games (Europe)",
+    "serialShown": "AGB-A9GP-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "STADIUMGAMES",
+    "serialShown": "AGB-A9GP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A9ME-USA",
+  "query": "AGB-A9ME-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Motoracer Advance (internal MR ADVANCE; 2602 - Motoracer Advance (U).gba)",
+    "serialShown": "AGB-A9ME-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Moto Racer Advance (USA)",
+    "serialShown": "AGB-A9ME-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/5425",
+    "site": "gamehacking.org",
+    "titleFound": "Moto Racer Advance",
+    "serialShown": "AGB-A9ME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary quotes row with serial, URL attribution among gamehacking results is uncertain"
+   },
+   {
+    "url": "https://www.ebay.com/itm/178289339484",
+    "site": "ebay.com",
+    "titleFound": "Moto Racer Manual Game Boy Advance",
+    "serialShown": "AGB-A9ME-USA",
+    "exact": true,
+    "kind": "listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A9RE-USA",
+  "query": "AGB-A9RE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Road Rash Jailbreak (internal ROADRASHJAIL; 1173 - Road Rash Jailbreak (U).gba)",
+    "serialShown": "AGB-A9RE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Road Rash: Jailbreak (USA)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.uvlist.net/game-152170-Road+Rash+Jailbreak",
+    "site": "uvlist.net",
+    "titleFound": "Road Rash: Jailbreak",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary does not say serial shown on this page"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/65212--road-rash-jailbreak",
+    "site": "retroplace.com",
+    "titleFound": "Road Rash: Jailbreak",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "UPC 802068100100 for USA version; serial display not stated"
+   },
+   {
+    "url": "https://gamehacking.org/game/5788",
+    "site": "gamehacking.org",
+    "titleFound": "Road Rash: Jailbreak",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking lists serial for USA release"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A9RP-EUR",
+  "query": "AGB-A9RP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Road Rash Jailbreak (internal ROADRASHJAIL; GAX 3.03A)",
+    "serialShown": "AGB-A9RP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/539990-road-rash-jailbreak/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Road Rash: Jailbreak",
+    "serialShown": "AGB-A9RP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU | Electronic Arts | AGB-A9RP-EUR; also lists AGB-A9RE-USA"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Road Rash: Jailbreak (Europe)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AA2C-CHN",
+  "query": "AGB-AA2C-CHN",
+  "results": [
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Chaoji%20Maliou%20Shijie%20(China).html",
+    "site": "db.libretro.com",
+    "titleFound": "Chaoji Maliou Shijie (China)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary doesn't state serial shown"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/472572-super-mario-world-super-mario-advance-2/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Super Mario World: Super Mario Advance 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary lists regional serials incl. AGB-AA2C-CHN as China, attribution of URL uncertain"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64968--super-mario-world-super-mario-advance-2",
+    "site": "retroplace.com",
+    "titleFound": "Super Mario World: Super Mario Advance 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "same uncertainty"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AA5J-JPN",
+  "query": "AGB-AA5J-JPN",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/index.php?Tri=3&annee=all&demo=0&editeur=446&export=1&listtypes=all&mamed=1&nongame=0&page=database&pirate=0&position=4&reissue=1",
+    "site": "arcade-history.com",
+    "titleFound": "Monster Maker 4 - Killer Dice",
+    "serialShown": "AGB-AA5J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Model AGB-AA5J-JPN | 2002 | Success [Japan]"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Monster Maker 4 Killer Dice (internal M.M.4 K.DICE)",
+    "serialShown": "AGB-AA5J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/154348584196",
+    "site": "ebay.com",
+    "titleFound": "Monster Maker 4 - Killer Dice (in Japanese games lot)",
+    "serialShown": "AGB-AA5J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/63388--monster-maker-4-killer-dice",
+    "site": "retroplace.com",
+    "titleFound": "Monster Maker 4: Killer Dice",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "release 12/13/2002; serial display not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AA9J-JPN",
+  "query": "AGB-AA9J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Duel Masters (internal DUEL MASTERS)",
+    "serialShown": "AGB-AA9J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "DUEL MASTERS",
+    "serialShown": "AGB-AA9J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/311636-duel-masters/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Duel Masters",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Takara Japan release; serial display not stated"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/60359--duel-masters",
+    "site": "retroplace.com",
+    "titleFound": "Duel Masters",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "lists AA9E-USA, AA9P-EUR; JP serial presumably"
+   },
+   {
+    "url": "https://www.uvlist.net/game-181317-Duel+Masters",
+    "site": "uvlist.net",
+    "titleFound": "Duel Masters",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "EAN 4904880140046"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AADJ-JPN",
+  "query": "AGB-AADJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395888860696",
+    "site": "ebay.com",
+    "titleFound": "Disney's Donald Duck Advance",
+    "serialShown": "AGB-AADJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Disney's Donald Duck Advance (internal DISNEY'S DON)",
+    "serialShown": "AGB-AADJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "listed in results, summary doesn't quote entry"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/565777-disneys-donald-duck-advance/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Disney's Donald Duck Advance",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japan release 12/21/01 Ubisoft"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59847--disneys-donald-duck-advance",
+    "site": "retroplace.com",
+    "titleFound": "Disney's Donald Duck Advance",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "lists JP, US AGB-ADKE-USA, EU AGB-ADKP-EUR"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAHE-USA",
+  "query": "AGB-AAHE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/secret-agent-barbie-royal-jewels-mission-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Secret Agent Barbie: Royal Jewels Mission",
+    "serialShown": "AGB-AAHE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "manual scan"
+   },
+   {
+    "url": "https://archive.org/details/secret-agent-barbie-royal-jewels-mission-usa-box",
+    "site": "archive.org",
+    "titleFound": "Secret Agent Barbie: Royal Jewels Mission",
+    "serialShown": "AGB-AAHE USA",
+    "exact": false,
+    "kind": "other",
+    "note": "box scan; title shows space instead of hyphen"
+   },
+   {
+    "url": "https://www.ebay.com/itm/295860865487",
+    "site": "ebay.com",
+    "titleFound": "Barbie Secret Agent",
+    "serialShown": "AGB-AAHE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Secret Agent Barbie (internal SECRETAGENTB)",
+    "serialShown": "AGB-AAHE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Secret Agent Barbie - Royal Jewels Mission (USA)",
+    "serialShown": "AGB-AAHE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/5880",
+    "site": "gamehacking.org",
+    "titleFound": "Secret Agent Barbie",
+    "serialShown": "AGB-AAHE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAHP-EUR",
+  "query": "AGB-AAHP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Secret Agent Barbie",
+    "serialShown": "AGB-AAHP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64364--secret-agent-barbie",
+    "site": "retroplace.com",
+    "titleFound": "Secret Agent Barbie",
+    "serialShown": "AGB-AAHP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "release 11/22/2002"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "listed; summary says code appears there"
+   },
+   {
+    "url": "https://en.bdjogos.com.br/game.php?id=20693",
+    "site": "bdjogos.com.br",
+    "titleFound": "Secret Agent Barbie: Royal Jewels Mission",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "release Nov 19 2002; serial display not stated"
+   },
+   {
+    "url": "https://sharedmemorydump.net/nintendo",
+    "site": "sharedmemorydump.net",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "summary says same code in GBA cartridge table"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAOJ-JPN",
+  "query": "AGB-AAOJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/389216464650",
+    "site": "ebay.com",
+    "titleFound": "ACROBAT KID GBA Nintendo Game Boy Advance Japanese Version",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Acrobat Kid (0820 - Acrobat Kid (J).gba)",
+    "serialShown": "AGB-AAOJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Acrobat Kid (Japan)",
+    "serialShown": "AGB-AAOJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/57874--acrobat-kid",
+    "site": "retroplace.com",
+    "titleFound": "Acrobat Kid",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "US counterpart AGB-AAOE-USA as Aero the Acro-Bat"
+   },
+   {
+    "url": "https://releaselister.info/en/gba/site400.htm",
+    "site": "releaselister.info",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "summary says pairs serial with different publisher/region"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAPJ-JPN",
+  "query": "AGB-AAPJ-JPN",
+  "results": [
+   {
+    "url": "https://archive.org/details/metalgun-slinger-jpn-manual",
+    "site": "archive.org",
+    "titleFound": "Metalgun Slinger",
+    "serialShown": "AGB-AAPJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "manual scan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Metalgun Slinger (internal METALGUN; 0645 - Metalgun Slinger (J).gba)",
+    "serialShown": "AGB-AAPJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.arcade-history.com/?id=71819&n=metalgun-slinger-model-agb-aapj-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Metalgun Slinger [Model AGB-AAPJ-JPN]",
+    "serialShown": "AGB-AAPJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Metalgun Slinger (Japan)",
+    "serialShown": "AGB-AAPJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/5328",
+    "site": "gamehacking.org",
+    "titleFound": "Metalgun Slinger",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 8DFB7A2F, 8M, Japan"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AASJ-JPN",
+  "query": "AGB-AASJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394778552527",
+    "site": "ebay.com",
+    "titleFound": "World Advance Soccer: Shouri e no Michi - Road to Win",
+    "serialShown": "AGB-AASJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "World Advance Soccer - Road to Win (internal W.A.SOCCER_W; 0239)",
+    "serialShown": "AGB-AASJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "listed; summary doesn't quote entry"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "World Advance Soccer - Road to Win",
+    "serialShown": "AGB-AASJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://sumthings.com/games/18691",
+    "site": "sumthings.com",
+    "titleFound": "World Advance Soccer: Shouri e no Michi - Road to Win",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAVE-USA",
+  "query": "AGB-AAVE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395671602486",
+    "site": "ebay.com",
+    "titleFound": "Atari: Anniversary Advance",
+    "serialShown": "AGB-AAVE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/395289158345",
+    "site": "ebay.com",
+    "titleFound": "Atari Anniversary Advance",
+    "serialShown": "AGB-AAVE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://arcade-history.com/?id=69806&n=atari-anniversary-advance-model-agb-aave-usa&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Atari Anniversary Advance",
+    "serialShown": "AGB-AAVE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Infogrames 2002"
+   },
+   {
+    "url": "https://vgcollect.com/item/2915",
+    "site": "vgcollect.com",
+    "titleFound": "Atari Anniversary Advance",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "release March 27 2002; serial display not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AAWJ-JPN",
+  "query": "AGB-AAWJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Contra Hard Spirits (internal CONTRAADVANC; 0735 - Contra Hard Spirits (J).gba)",
+    "serialShown": "AGB-AAWJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Contra Hard Spirits (Japan) (En)",
+    "serialShown": "AGB-AAWJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561581-contra-advance-the-alien-wars-ex/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Contra Advance: The Alien Wars EX",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japan Konami 11/14/02, reissue 11/03/05"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59352--contra-advance-the-alien-wars-ex",
+    "site": "retroplace.com",
+    "titleFound": "Contra Advance: The Alien Wars EX",
+    "serialShown": "AGB-AAWJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japan Konami the Best | 4542084000652 | AGB-AAWJ-JPN | 2002"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AB9J-JPN",
+  "query": "AGB-AB9J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Dual Blades (internal DUAL BLADES)",
+    "serialShown": "AGB-AB9J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561222-dual-blades/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Dual Blades",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Japan Metro3D 12/25/02; summary says same product id"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Dual Blades (Japan)",
+    "serialShown": "AGB-AB9J-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Dual Blades",
+    "serialShown": "AGB-AB9J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EEPROM save"
+   }
+  ]
+ }
+]

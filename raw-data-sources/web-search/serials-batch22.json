@@ -1,0 +1,320 @@
+[
+ {
+  "serial": "AGB-ANKE-USA",
+  "query": "AGB-ANKE-USA",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395531315758",
+    "site": "ebay.com",
+    "titleFound": "NFL Blitz 20-03",
+    "serialShown": "AGB-ANKE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "http://nintendoage.com/index.cfm?Code_Element=ANKE&FuseAction=Search.Results",
+    "site": "nintendoage.com",
+    "titleFound": "NFL Blitz 20-03",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says entry lists the code for NFL Blitz 20-03, publisher Midway; exact serial string not quoted"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/n/1",
+    "site": "gamehacking.org",
+    "titleFound": "Need for Speed Carbon: Own the City",
+    "serialShown": "AGB-ANKE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary ties this serial to Need for Speed Carbon: Own the City (US); conflicts with the NFL Blitz entries"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ANMJ-JPN",
+  "query": "AGB-ANMJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395893827587",
+    "site": "ebay.com",
+    "titleFound": "Namco Museum",
+    "serialShown": "AGB-ANMJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/404983844435",
+    "site": "ebay.com",
+    "titleFound": "Namco Museum",
+    "serialShown": "AGB-P-ANMJ(JPN)",
+    "exact": false,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.arcade-history.com/?n=namco-museum-model-agb-anmj-jpn&page=detail&id=72017",
+    "site": "arcade-history.com",
+    "titleFound": "Namco Museum",
+    "serialShown": "AGB-ANMJ-JPN",
+    "exact": true,
+    "kind": "catalog"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ANNJ-JPN",
+  "query": "AGB-ANNJ-JPN",
+  "results": [
+   {
+    "url": "https://www.youtube.com/watch?v=F_jze8KegMI",
+    "site": "youtube.com",
+    "titleFound": "Gekitou Densetsu Noah - Dream Management",
+    "serialShown": "AGB-ANNJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "Video description gives code AGB-ANNJ-JPN"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Gekitou Densetsu Noah - Dream Management (Japan)",
+    "serialShown": "AGB-ANNJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID AGB-ANNJ-0 per summary; exact URL of that entry uncertain (could be gba.html or consoles/agb)"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "GEKITOU NOAH",
+    "serialShown": "AGB-ANNJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Internal name; row: GEKITOU NOAH AGB-ANNJ-JPN 64 4C B7293DBA EEPROM_V122 64"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ANOJ-JPN",
+  "query": "AGB-ANOJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "NOBUNAGAIBUN",
+    "serialShown": "AGB-ANOJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Internal name NOBUNAGAIBUN, MusicPlayer2000"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/571555-nobunaga-ibun/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Nobunaga Ibun",
+    "serialShown": "AGB-ANOJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "JP, Global A, 07/04/02"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "NOBUNAGAIBUN",
+    "serialShown": "AGB-ANOJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Nobunaga Ibun (Japan)",
+    "serialShown": "AGB-ANOJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=MqE_vnmi1cs",
+    "site": "youtube.com",
+    "titleFound": "Nobunaga Ibun",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Video titled Nobunaga Ibun - Version Japon; summary does not say it shows the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ANQE-USA",
+  "query": "AGB-ANQE-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/nicktoons-racing-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Nicktoons Racing",
+    "serialShown": "AGB-ANQE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "Manual scan titled with serial"
+   },
+   {
+    "url": "https://www.arcade-history.com/?n=nicktoons-racing-model-agb-anqe-usa&page=detail&id=72045",
+    "site": "arcade-history.com",
+    "titleFound": "Nicktoons Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "URL slug has model agb-anqe-usa; summary text not explicit"
+   },
+   {
+    "url": "https://www.vgcollect.com/item/2854",
+    "site": "vgcollect.com",
+    "titleFound": "NickToons Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says GAME ID: AGB-ANQE-USA from several listings; which URL unclear"
+   },
+   {
+    "url": "https://gamehacking.org/game/5486",
+    "site": "gamehacking.org",
+    "titleFound": "Nicktoons Racing",
+    "serialShown": "AGB-ANQE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "4M ROM, English"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/569332-nicktoons-racing/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "NickToons Racing",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Release info page; serial not explicitly quoted in summary"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ANQP-EUR",
+  "query": "AGB-ANQP-EUR",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/?n=nicktoons-racing-model-agb-anqp-eur&page=detail&id=72044",
+    "site": "arcade-history.com",
+    "titleFound": "Nicktoons Racing",
+    "serialShown": "AGB-ANQP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "NICKTOONS RA",
+    "serialShown": "AGB-ANQP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Internal name NICKTOONS RA, MusicPlayer2000"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=DFRWRGqp3Vg",
+    "site": "youtube.com",
+    "titleFound": "Nicktoons Racing",
+    "serialShown": "AGB-ANQP-EUR",
+    "exact": true,
+    "kind": "other",
+    "note": "Video for Europe version"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/n/1",
+    "site": "gamehacking.org",
+    "titleFound": "Need for Speed Carbon: Own the City",
+    "serialShown": "AGB-ANQP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary ties serial to NFS Carbon Own the City (Europe); suspicious, conflicts with others"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ANYJ-JPN",
+  "query": "AGB-ANYJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395384529526",
+    "site": "ebay.com",
+    "titleFound": "Gachinko Pro Yakyuu",
+    "serialShown": "AGB-ANYJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/61218--gachinko-pro-yakyuu",
+    "site": "retroplace.com",
+    "titleFound": "Gachinko Pro Yakyuu",
+    "serialShown": "AGB-ANYJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Product code (box); release June 21, 2002; Now Production"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GACHINKOPRO",
+    "serialShown": "AGB-ANYJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "SRAM per summary; may be GBxDumper row instead"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "GACHINKOPRO",
+    "serialShown": "AGB-ANYJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Row: GACHINKOPRO AGB-ANYJ-JPN 64 6C 81DE0C16 SRAM_F_V102 256"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AO2J-JPN",
+  "query": "AGB-AO2J-JPN",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "OSYARE PRI2",
+    "serialShown": "AGB-AO2J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EEPROM_V122"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Oshare Princess 2 + Doubutsu Kyaranabi Uranai (Japan)",
+    "serialShown": "AGB-AO2J-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AO2J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary pairs the code with MusicPlayer2000"
+   },
+   {
+    "url": "https://www.sprintinglegs.com/gbdb/gameslist?consoleID=3",
+    "site": "sprintinglegs.com",
+    "titleFound": "Oshare Princess 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says a GBA game list gives Japanese title with same code; which list unclear"
+   }
+  ]
+ }
+]

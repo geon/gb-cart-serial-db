@@ -1,0 +1,489 @@
+[
+ {
+  "serial": "AGB-AH9J-JPN",
+  "query": "AGB-AH9J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HOBBIT NO BO",
+    "serialShown": "AGB-AH9J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "title is the internal ROM name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-AH9J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Japanese Hobbit title; summary gives ROM ID AGB-AH9J-0"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561999-the-hobbit-the-prelude-to-the-lord-of-the-rings/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "The Hobbit: The Prelude to the Lord of the Rings",
+    "serialShown": "AGB-AH9J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Konami, Japan, 2005-01-20"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-AH9J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "128 MB, EEPROM_V124"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHCJ-JPN",
+  "query": "AGB-AHCJ-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Mini Moni. - Mika no Happy Morning Chatty (Japan)",
+    "serialShown": "AGB-AHCJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says sound driver list shows MusicPlayer2000 for this serial; title/serial display not clearly stated"
+   },
+   {
+    "url": "https://www.ebay.com/itm/226077538418",
+    "site": "ebay.com",
+    "titleFound": "Mini Moni Mika no Happy Morning Chatty Minimoni GBA Japan import",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "Shogakukan 2002; unclear whether serial appears on listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHIJ-JPN",
+  "query": "AGB-AHIJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/62059--hitsuji-no-kimochi",
+    "site": "retroplace.com",
+    "titleFound": "Hitsuji no Kimochi",
+    "serialShown": "AGB-AHIJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Capcom 2002"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SHEEP",
+    "serialShown": "AGB-AHIJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": "AGB-AHIJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Japan release"
+   },
+   {
+    "url": "https://www.ebay.com/itm/225668712210",
+    "site": "ebay.com",
+    "titleFound": "Hitsuji no Kimochi",
+    "serialShown": "AGB-AHIJ-JPN",
+    "exact": true,
+    "kind": "listing",
+    "note": "MPN; uncertain which of the two Hitsuji eBay/other URLs supplied it"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHOX-EUU",
+  "query": "AGB-AHOX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07?permalink_comment_id=4490833",
+    "site": "gist.github.com",
+    "titleFound": "MH PRO BMX",
+    "serialShown": "AGB-AHOX-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name; filename Mat Hoffman's Pro BMX (E).gba; could instead be the 2021 gist, uncertain which gist URL"
+   },
+   {
+    "url": "https://www.agil-retrogaming.fr/jeux-game-boy-advance-a-vendre/3297-mat-hoffman-s-pro-bmx.html",
+    "site": "agil-retrogaming.fr",
+    "titleFound": "Mat Hoffman's Pro BMX",
+    "serialShown": "AGB-AHOX-EUU",
+    "exact": true,
+    "kind": "listing",
+    "note": "PAL cartridge, used"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHWE-USA",
+  "query": "AGB-AHWE-USA",
+  "results": [
+   {
+    "url": "https://www.uvlist.net/game-182869-Hot+Wheels+Burnin+Rubber",
+    "site": "uvlist.net",
+    "titleFound": "Hot Wheels - Burnin' Rubber",
+    "serialShown": "AGB-AHWE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Altron, 2001; also lists JP and EU codes"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Hot Wheels - Burnin' Rubber (USA)",
+    "serialShown": "AGB-AHWE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HOTWHEELS BR",
+    "serialShown": "AGB-AHWE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHWP-EUR",
+  "query": "AGB-AHWP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BURNIN RUBBE",
+    "serialShown": "AGB-AHWP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   },
+   {
+    "url": "https://www.uvlist.net/game-182869-Hot+Wheels+Burnin+Rubber",
+    "site": "uvlist.net",
+    "titleFound": "Hot Wheels - Burnin' Rubber",
+    "serialShown": "AGB-AHWP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Altron/THQ 2001-11-21; summary mentions EU/US/JP codes listed; which page lists them is slightly uncertain"
+   },
+   {
+    "url": "https://www.ebay.co.uk/itm/166740740183",
+    "site": "ebay.co.uk",
+    "titleFound": "Hot Wheels: Burnin' Rubber",
+    "serialShown": "AGB-AHWP-EUR",
+    "exact": true,
+    "kind": "listing",
+    "note": "MPN; THQ"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "returned but summary does not tie it to this serial"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "returned but summary does not tie it to this serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHXJ-JPN",
+  "query": "AGB-AHXJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HH MLB 2003",
+    "serialShown": "AGB-AHXJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0663 - High Heat Major League Baseball 2003 (J).gba"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "HH MLB 2003",
+    "serialShown": "AGB-AHXJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EEPROM_V122 64"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "High Heat Major League Baseball 2003 (Japan) (En)",
+    "serialShown": "AGB-AHXJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Gamg9TW2_oQ",
+    "site": "youtube.com",
+    "titleFound": "High Heat Major League Baseball 2003",
+    "serialShown": "AGB-AHXJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "French video review of Japanese version"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AHZJ-JPN",
+  "query": "AGB-AHZJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "HIGANBANA",
+    "serialShown": "AGB-AHZJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name; filename 0842 - Higanbana (J).gba"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qKZYHyiW_Hw",
+    "site": "youtube.com",
+    "titleFound": "Higanbana",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "French review of Japanese GBA version; serial in title not confirmed"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AI9J-JPN",
+  "query": "AGB-AI9J-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/62205--inukko-club-fukumaru-no-daibouken",
+    "site": "retroplace.com",
+    "titleFound": "Inukko Club: Fukumaru no Daibouken",
+    "serialShown": "AGB-AI9J-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box product code, 2002-12-13"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Inukko Club Fukumaru no Bouken",
+    "serialShown": "AGB-AI9J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0929 - Inukko Club Fukumaru no Bouken (J).gba"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Inukko Club (Japan)",
+    "serialShown": "AGB-AI9J-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=UYbAuo7rXv8",
+    "site": "youtube.com",
+    "titleFound": "Inukko Club",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "Japan version video; serial not confirmed"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AIAJ-JPN",
+  "query": "AGB-AIAJ-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Ice Age (Japan)",
+    "serialShown": "AGB-AIAJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Ice Age",
+    "serialShown": "AGB-AIAJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0655 - Ice Age (J).gba; GAX 2.11"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "ICEAGE",
+    "serialShown": "AGB-AIAJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=D3g91dchrQw",
+    "site": "youtube.com",
+    "titleFound": "Ice Age",
+    "serialShown": "AGB-AIAJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "French video review of Japanese version"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AIDE-USA",
+  "query": "AGB-AIDE-USA",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gbc/915903-space-invaders/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Space Invaders",
+    "serialShown": "AGB-AIDE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Activision US, 03/19/02; filed under Game Boy Color"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/61",
+    "site": "gamehacking.org",
+    "titleFound": "Space Invaders (USA, Europe)",
+    "serialShown": "AGB-AIDE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Space Invaders (USA, Europe)",
+    "serialShown": "AGB-AIDE-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AIDF-FRA",
+  "query": "AGB-AIDF-FRA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Space Invaders (France)",
+    "serialShown": "AGB-AIDF-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AIEJ-JPN",
+  "query": "AGB-AIEJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/396237346569",
+    "site": "ebay.com",
+    "titleFound": "Isseki Hacchou: Kore 1-pon de 8 Shurui",
+    "serialShown": "AGB-AIEJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "OneEight",
+    "serialShown": "AGB-AIEJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "OneEight",
+    "serialShown": "AGB-AIEJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "SRAM_V112 256"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AINJ-JPN",
+  "query": "AGB-AINJ-JPN",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Initial D - Another Stage (Japan)",
+    "serialShown": "AGB-AINJ-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=2mrboHPwtx0",
+    "site": "youtube.com",
+    "titleFound": "Initial D - Another Stage",
+    "serialShown": "AGB-AINJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "French video review of Japanese version"
+   },
+   {
+    "url": "https://gb1gbc1.tripod.com/gba/gba_save.htm",
+    "site": "gb1gbc1.tripod.com",
+    "titleFound": "Kashiramoji D - Another Story",
+    "serialShown": "AGB-AINJ-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "save-type list, 64Mbit; summary unclear whether it is this URL or the GBxDumper csv"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "INIDAS",
+    "serialShown": "AGB-AINJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "internal name; filename 0414 - Kashiramoji D - Another Story (J).gba"
+   }
+  ]
+ }
+]

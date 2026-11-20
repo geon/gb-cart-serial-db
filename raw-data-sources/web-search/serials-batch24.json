@@ -1,0 +1,248 @@
+[
+ {
+  "serial": "AGB-ASEE-USA",
+  "query": "AGB-ASEE-USA",
+  "results": [
+   {
+    "url": "https://flatbushny.paymore.com/products/spider-man-mysterios-menace-game-boy-advance-gba-2001-video-game-agb-asee-usa",
+    "site": "flatbushny.paymore.com",
+    "titleFound": "Spider-Man Mysterio's Menace",
+    "serialShown": "AGB-ASEE-USA",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://vgcollect.com/item/2607",
+    "site": "vgcollect.com",
+    "titleFound": "Spider-Man: Mysterio's Menace",
+    "serialShown": "AGB-ASEE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": "Spider-Man: Mysterio's Menace",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "GAX Audio Engine list; summary attributes GAX v2.01b to the game but does not clearly state which URL showed the serial"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "AGBinator list; summary unclear whether this one carries the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASLF-NOE",
+  "query": "AGB-ASLF-NOE",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "STUART LITTL (internal name; Stuart Little 2)",
+    "serialShown": "AGB-ASLF-FRA",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Different region suffix (FRA); driver MusicPlayer? summary says MusyX Audio Tools. Summary did not name the exact URL for this fact; gist is likely source"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASMJ-JPN",
+  "query": "AGB-ASMJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/64269--saibara-rieko-no-dendou-mahjong",
+    "site": "retroplace.com",
+    "titleFound": "Saibara Rieko no Dendou Mahjong",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary ties serial to this game, does not show serial string on page"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Saibara Rieko no Dendou Mahjong",
+    "serialShown": "AGB-ASMJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "Shown as ROM ID AGB-ASMJ-0"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "NishiharaDMJ (internal name)",
+    "serialShown": "AGB-ASMJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Summary says serial with internal name NishiharaDMJ"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Saibara Rieko no Dendou Mahjong",
+    "serialShown": "AGB-ASMJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Listed as SRAM 256KB; title may be inferred"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASPE-USA",
+  "query": "AGB-ASPE-USA",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/?n=spongebob-squarepants-supersponge-model-agb-aspe-usa&page=detail&id=73277",
+    "site": "arcade-history.com",
+    "titleFound": "SpongeBob SquarePants: SuperSponge",
+    "serialShown": "AGB-ASPE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://vgcollect.com/item/2589",
+    "site": "vgcollect.com",
+    "titleFound": "SpongeBob SquarePants: SuperSponge",
+    "serialShown": "AGB-ASPE-USA",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SBSP SS (internal name)",
+    "serialShown": "AGB-ASPE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Driver MusicPlayer2000"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASSE-USA",
+  "query": "AGB-ASSE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "High Heat Major League Baseball 2002 (internal name HH MLB 2002; file 0124 - High Heat - Major League Baseball 2002 (U).gba)",
+    "serialShown": "AGB-ASSE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASWX-EUU",
+  "query": "AGB-ASWX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Star Wars - Jedi Power Battles (E) (internal STARWARSJEDI)",
+    "serialShown": "AGB-ASWX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "STARWARSJEDI (Star Wars Jedi Power Battles)",
+    "serialShown": "AGB-ASWX-EUU",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mb"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Star Wars - Jedi Power Battles (Europe) (En,Fr,De,Es)",
+    "serialShown": "AGB-ASWX-0",
+    "exact": false,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-ASXJ-JPN",
+  "query": "AGB-ASXJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395102596514",
+    "site": "ebay.com",
+    "titleFound": "Sangokushi [Nintendo Game Boy Advance - AGB-ASXJ-JPN]",
+    "serialShown": "AGB-ASXJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64290--san-goku-shi",
+    "site": "retroplace.com",
+    "titleFound": "San Goku Shi",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary ties game to serial but does not show serial on page"
+   },
+   {
+    "url": "https://releaselister.info/en/gba/search_Dumper=Independent.find5_0530.htm",
+    "site": "releaselister.info",
+    "titleFound": null,
+    "serialShown": "AGB-ASXJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "Release database; title not stated in summary"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-ASXJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000 driver; title not stated"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AT3D-NOE",
+  "query": "AGB-AT3D-NOE",
+  "results": [
+   {
+    "url": "https://github.com/Dhole/gba-reversing-notes/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Tony Hawk's Pro Skater 3",
+    "serialShown": "AGB-AT3D-NOE",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 size, EEPROM_V122"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Tony Hawk's Pro Skater 3",
+    "serialShown": "AGB-AT3D-0",
+    "exact": false,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/99068--tony-hawks-pro-skater-3",
+    "site": "retroplace.com",
+    "titleFound": "Tony Hawk's Pro Skater 3",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "URL is the PS2 page; summary says it pairs Germany product codes with AGB-AT3D-NOE; unsure"
+   }
+  ]
+ }
+]

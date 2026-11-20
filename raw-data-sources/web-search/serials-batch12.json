@@ -1,0 +1,799 @@
+[
+ {
+  "serial": "AGB-A25J-JPN",
+  "query": "AGB-A25J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "EZ-TALK",
+    "serialShown": "AGB-A25J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0269 - EZ-Talk 4 (J).gba"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "EZ-TALK",
+    "serialShown": "AGB-A25J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "EZ-Talk - Shokyuu Hen 4 (Japan)",
+    "serialShown": "AGB-A25J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A25J-0, not the full serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A26J-JPN",
+  "query": "AGB-A26J-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "EZ-TALK",
+    "serialShown": "AGB-A26J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "EZ-Talk - Shokyuu Hen 5 (Japan)",
+    "serialShown": "AGB-A26J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A26J-0, not the full serial"
+   },
+   {
+    "url": "https://www.coleccionandovoy.com/items/I5e089f10cec4a/ez-talk-shokyuuhen-5-gameboy-advance-jp",
+    "site": "coleccionandovoy.com",
+    "titleFound": "EZ-Talk Shokyuuhen 5",
+    "serialShown": "AGB-A26J-JPN",
+    "exact": true,
+    "kind": "other",
+    "note": "collector listing, region NTSC-J"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A27J-JPN",
+  "query": "AGB-A27J-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/395102326095",
+    "site": "ebay.com",
+    "titleFound": "EZ-Talk Shokyuuhen 6",
+    "serialShown": "AGB-A27J-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "EZ-TALK",
+    "serialShown": "AGB-A27J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "EZ-TALK",
+    "serialShown": "AGB-A27J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "EZ-Talk - Shokyuu Hen 6 (Japan)",
+    "serialShown": "AGB-A27J-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A27J-0, not the full serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A29J-JPN",
+  "query": "AGB-A29J-JPN",
+  "results": [
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "M&M MAGICAL2",
+    "serialShown": "AGB-A29J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "M&M MAGICAL2",
+    "serialShown": "AGB-A29J-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/snes/588363-the-great-circus-mystery-starring-mickey-and-minnie/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Mickey to Minnie no Magical Quest 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Summary says a database lists product ID AGB-A29J-JPN, Capcom, 07/18/03; unsure which URL (this GameFAQs SNES page or the Hamtaro page) it came from"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2AE-USA",
+  "query": "AGB-A2AE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "unclear",
+    "serialShown": "AGB-A2AE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says sources disagree; title not attributed to this URL"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/59769--disney-sports-basketball",
+    "site": "retroplace.com",
+    "titleFound": "Disney Sports: Basketball",
+    "serialShown": "AGB-A2AE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "box code for USA 2002 release"
+   },
+   {
+    "url": "https://gamecodespro.com/sonic-advance-2-invincibility-cheat-code/",
+    "site": "gamecodespro.com",
+    "titleFound": "Sonic Advance 2",
+    "serialShown": "AGB-A2AE-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "calls it USA ROM code of Sonic Advance 2 (conflicts with others)"
+   },
+   {
+    "url": "https://gamehacking.org/game/4308",
+    "site": "gamehacking.org",
+    "titleFound": "Disney Sports: Basketball",
+    "serialShown": "AGB-A2AE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says GameHacking gives Disney Basketball USA; unsure whether this URL or /system/gba/d/1"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d/1",
+    "site": "gamehacking.org",
+    "titleFound": "Demon Driver: Time to Burn Rubber!",
+    "serialShown": "AGB-A2AE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says a GameHacking system listing shows Demon Driver with this serial; unsure which gamehacking URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2AP-EUR",
+  "query": "AGB-A2AP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DS_BASKET_E",
+    "serialShown": "AGB-A2AP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 1067 - Disney Sports Basketball (E).gba"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Disney Sports: Basketball",
+    "serialShown": "AGB-A2AP-EUR",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "EU release 08/08/03; ROM ID AGB-A2AP-0"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561324-disney-sports-basketball/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Disney Sports: Basketball",
+    "serialShown": "AGB-A2AP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "EU product ID, 08/08/03, Konami"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/58609--disney-sports-basketball",
+    "site": "retroplace.com",
+    "titleFound": "Disney Sports: Basketball",
+    "serialShown": "AGB-A2AP-EUR",
+    "exact": true,
+    "kind": "catalog",
+    "note": "GameCube-titled page but shows AGB-A2AP-EUR edition, 2003 EU"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2BJ-JPN",
+  "query": "AGB-A2BJ-JPN",
+  "results": [
+   {
+    "url": "https://www.arcade-history.com/?id=70079&n=bubble-bobble-old-and-new-model-agb-a2bj-jpn&page=detail",
+    "site": "arcade-history.com",
+    "titleFound": "Bubble Bobble: Old & New",
+    "serialShown": "AGB-A2BJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "MediaKite, 2002; serial from URL model slug"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Bubble Bobble (name not stated)",
+    "serialShown": "AGB-A2BJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "BUBBLEBOBBLE",
+    "serialShown": "AGB-A2BJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Bubble Bobble - Old & New (Japan)",
+    "serialShown": "AGB-A2BJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A2BJ-0, not the full serial"
+   },
+   {
+    "url": "https://www.ebay.com/b/Bubble-Bobble-Region-Free-Video-Games/139973/bn_27866860",
+    "site": "ebay.com",
+    "titleFound": "Bubble Bobble",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "pre-owned cartridge about US$189; serial tie unclear"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2FE-USA",
+  "query": "AGB-A2FE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "DEFENDER",
+    "serialShown": "AGB-A2FE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Defender (USA)",
+    "serialShown": "AGB-A2FE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A2FE-0, not the full serial"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "Defender (name not stated)",
+    "serialShown": "AGB-A2FE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/d",
+    "site": "gamehacking.org",
+    "titleFound": "Defender",
+    "serialShown": "AGB-A2FE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "CRC32 2E271C13, 10 codes, USA"
+   },
+   {
+    "url": "https://www.ebay.com/itm/334340107391",
+    "site": "ebay.com",
+    "titleFound": "Defender: Saving the Human Race",
+    "serialShown": "AGB-A2FE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "manual listing, serial as product code"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2GE-USA",
+  "query": "AGB-A2GE-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "GT Advance 3 - Pro Concept Racing (USA)",
+    "serialShown": "AGB-A2GE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A2GE-0, not the full serial"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "GT ADVANCE 3",
+    "serialShown": "AGB-A2GE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mbit, CRC32 130E73A5"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "driver MusicPlayer2000; title not stated",
+    "serialShown": "AGB-A2GE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/57893--gt-advance-3-pro-concept-racing",
+    "site": "retroplace.com",
+    "titleFound": "GT Advance 3: Pro Concept Racing",
+    "serialShown": "AGB-A2GE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "USA, 2003, UPC 785138321288"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/all/27",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says cheat site lists different size/CRC32 for same serial; unsure which gamehacking URL"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2IJ-JPN",
+  "query": "AGB-A2IJ-JPN",
+  "results": [
+   {
+    "url": "https://www.retroplace.com/en/games/62871--magi-nation",
+    "site": "retroplace.com",
+    "titleFound": "Magi Nation",
+    "serialShown": "AGB-A2IJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Japan 2002, Epoch, 12/13/2002"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Magi Nation (J)",
+    "serialShown": "AGB-A2IJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0804 - Magi Nation (J).gba; driver blank"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2JJ-JPN",
+  "query": "AGB-A2JJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/394778540473",
+    "site": "ebay.com",
+    "titleFound": "J. League Winning Eleven Advance 2002",
+    "serialShown": "AGB-A2JJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.uvlist.net/game-182835-J.League+Winning+Eleven+Advance+2002",
+    "site": "uvlist.net",
+    "titleFound": "J.League Winning Eleven Advance 2002",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary does not state the serial for this URL"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "JWEA2002",
+    "serialShown": "AGB-A2JJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0656 - J-League Winning Eleven Advance 2002 (J).gba"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "J.League Winning Eleven Advance 2002 (Japan)",
+    "serialShown": "AGB-A2JJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A2JJ-0, not the full serial"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A2JJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2KE-USA",
+  "query": "AGB-A2KE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "SPYKIDSCHALL",
+    "serialShown": "AGB-A2KE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/p/9115",
+    "site": "ebay.com",
+    "titleFound": "Spy Kids Challenger",
+    "serialShown": "AGB-A2KE-USA",
+    "exact": true,
+    "kind": "listing",
+    "note": "ItemNo AGB-A2KE-USA, Disney Interactive"
+   },
+   {
+    "url": "https://gamehacking.org/system/gba/s/6",
+    "site": "gamehacking.org",
+    "titleFound": "Spy Kids Challenger",
+    "serialShown": "AGB-A2KE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "4M, CRC32 E8227E41; same serial also on a page listed under Spider-Man 3; unsure which URL"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/f824847449f92587f575bfe466c470a1",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "GAX Sound Engine list; summary doesn't clearly show the serial"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2LE-USA",
+  "query": "AGB-A2LE-USA",
+  "results": [
+   {
+    "url": "https://gamehacking.org/system/gba/l",
+    "site": "gamehacking.org",
+    "titleFound": "Lady Sia (USA, Europe)",
+    "serialShown": "AGB-A2LE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "8M, CRC32 84440066, 42 codes; summary says Legends of Wrestling II but page label was Lady Sia"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "LEGENDS OF W",
+    "serialShown": "AGB-A2LE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusyX; filename 0780 - Legends of Wrestling 2 (U).gba"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "name not stated",
+    "serialShown": "AGB-A2LE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mbit, EEPROM_V122"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2ME-USA",
+  "query": "AGB-A2ME-USA",
+  "results": [
+   {
+    "url": "https://archive.org/details/madden-2002-usa-manual",
+    "site": "archive.org",
+    "titleFound": "Madden 2002",
+    "serialShown": "AGB-A2ME-USA",
+    "exact": true,
+    "kind": "other",
+    "note": "instruction booklet scan"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Madden NFL 2002",
+    "serialShown": "AGB-A2ME-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0192 - Madden NFL 2002 (U).gba"
+   },
+   {
+    "url": "https://gamehacking.org/game/5182",
+    "site": "gamehacking.org",
+    "titleFound": "Madden NFL 2002",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "4MB CRC32 8E797ECD; serial tie unsure"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/madden_nfl_2002/92005",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "Madden NFL 2002",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "summary doesn't tie serial; the ItemNo line may come from here or another listing"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2QE-USA",
+  "query": "AGB-A2QE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "MONSTERRANC2",
+    "serialShown": "AGB-A2QE-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://vgcollect.com/item/2664",
+    "site": "vgcollect.com",
+    "titleFound": "Monster Rancher Advance 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary quotes Cartridge ID AGB-A2QE-USA but doesn't say which URL; likely VGCollect"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/562032-monster-rancher-advance-2/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Monster Rancher Advance 2",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "US release 11/17/02; serial not explicitly shown"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A2VJ-JPN",
+  "query": "AGB-A2VJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "GURUMI",
+    "serialShown": "AGB-A2VJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 0969 - Kisekko Gurumi (J).gba"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/583375-cesti-to-meigurumi-tachi-no-mahou-no-bouken-kisekko-gurumii/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Cesti to Meigurumi-tachi no Mahou no Bouken: Kisekko Gurumii",
+    "serialShown": "AGB-A2VJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Future Creates / MTO, 2003"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Kisekko Gurumii - Chesty to Nuigurumi-tachi no Mahou no Bouken (Japan)",
+    "serialShown": "AGB-A2VJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A2VJ-0, not the full serial"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "GURUMI",
+    "serialShown": "AGB-A2VJ-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "64 Mbit, EEPROM_V122"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A39J-JPN",
+  "query": "AGB-A39J-JPN",
+  "results": [
+   {
+    "url": "https://db.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Lode%20Runner%20(Japan).html",
+    "site": "db.libretro.com",
+    "titleFound": "Lode Runner (Japan)",
+    "serialShown": "AGB-A39J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "2003, Success"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Lode Runner (not stated)",
+    "serialShown": "AGB-A39J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://gamehacking.org/game/5147?hacker=nolberto82",
+    "site": "gamehacking.org",
+    "titleFound": "Lode Runner (Japan)",
+    "serialShown": "AGB-A39J-JPN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "4M"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/62782--lode-runner",
+    "site": "retroplace.com",
+    "titleFound": "Lode Runner",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Success, 2/21/2003; serial not explicitly quoted"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A3AC-CHN",
+  "query": "AGB-A3AC-CHN",
+  "results": [
+   {
+    "url": "https://themushroomkingdom.net/games/sma3",
+    "site": "themushroomkingdom.net",
+    "titleFound": "Yoshi's Island: Super Mario Advance 3 (耀西岛)",
+    "serialShown": "AGB-A3AC-CHN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "China, 3/2/2006"
+   },
+   {
+    "url": "https://www.mariowiki.com/Yoshi's_Island:_Super_Mario_Advance_3",
+    "site": "mariowiki.com",
+    "titleFound": "Yoshi's Island: Super Mario Advance 3",
+    "serialShown": "AGB-A3AC-CHN",
+    "exact": true,
+    "kind": "other",
+    "note": "serial code list"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Yaoxi Dao (China)",
+    "serialShown": "AGB-A3AC-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID shown as AGB-A3AC-0, not the full serial"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A3AC-CHN",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "summary says gives code and ROM filename"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A3KE-USA",
+  "query": "AGB-A3KE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "IK PLUS",
+    "serialShown": "AGB-A3KE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "filename 1888 - IK Plus - The Ultimate Martial Arts Simulation (U).gba"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": "AGB-A3KE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "listed in results; summary doesn't state content"
+   },
+   {
+    "url": "https://www.wiiplaygameslv.com/catalog/video_games-nintendo-game_boy_advance_gba/ik_international_karate_plus_gba/91914",
+    "site": "wiiplaygameslv.com",
+    "titleFound": "IK+ (International Karate Plus)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "listing",
+    "note": "serial tie not explicit"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-A3RE-USA",
+  "query": "AGB-A3RE-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "REVENGEOFSHI",
+    "serialShown": "AGB-A3RE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "MusicPlayer2000"
+   },
+   {
+    "url": "https://vgcollect.com/item/2887",
+    "site": "vgcollect.com",
+    "titleFound": "The Revenge of Shinobi",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "serial tie not explicit in summary"
+   },
+   {
+    "url": "https://www.retroplace.com/en/games/64158--the-revenge-of-shinobi",
+    "site": "retroplace.com",
+    "titleFound": "The Revenge of Shinobi",
+    "serialShown": "AGB-A3RE-USA",
+    "exact": true,
+    "kind": "catalog",
+    "note": "product ID quoted with barcode 785138321202; unsure which retailer URL"
+   },
+   {
+    "url": "https://gamehacking.org/game/5777?hacker=MadCatz",
+    "site": "gamehacking.org",
+    "titleFound": "The Revenge of Shinobi",
+    "serialShown": "AGB-A3RE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "cheat codes"
+   }
+  ]
+ }
+]

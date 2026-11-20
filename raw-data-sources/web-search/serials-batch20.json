@@ -1,0 +1,353 @@
+[
+ {
+  "serial": "AGB-AJLP-EUR",
+  "query": "AGB-AJLP-EUR",
+  "results": [
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/562572-justice-league-injustice-for-all/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Justice League: Injustice for All",
+    "serialShown": "AGB-AJLP-EUR",
+    "exact": true,
+    "kind": "catalog"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "INJUSTICEFOR (internal name)",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary ties internal name INJUSTICEFOR to the serial but does not clearly quote the serial for this URL"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "INJUSTICEFOR (internal name)",
+    "serialShown": "AGB-AJLP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamehacking.org/game/4964",
+    "site": "gamehacking.org",
+    "titleFound": null,
+    "serialShown": "AGB-AJLP",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "European ROM, CRC32 D71C4382; serial shown without region suffix"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJNX-EUU",
+  "query": "AGB-AJNX-EUU",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "JIMMY NEUTRO (internal name)",
+    "serialShown": "AGB-AJNX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "JIMMY NEUTRO (internal name)",
+    "serialShown": "AGB-AJNX-EUU",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jimmy Neutron - Boy Genius (Europe) (En,Fr,De,Es)",
+    "serialShown": "AGB-AJNX-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJOJ-JPN",
+  "query": "AGB-AJOJ-JPN",
+  "results": [
+   {
+    "url": "https://www.ebay.com/itm/314562925306",
+    "site": "ebay.com",
+    "titleFound": "Magical Houshin",
+    "serialShown": "AGB-AJOJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394885927746",
+    "site": "ebay.com",
+    "titleFound": "Magical Houshin",
+    "serialShown": "AGB-AJOJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "M HOUSHIN (internal name; Magical Houshin per summary)",
+    "serialShown": "AGB-AJOJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/561780-magical-houshin/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Magical Houshin",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "summary ties page to the game and product code but doesn't explicitly quote serial for this URL"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x8iLIKgOIX8",
+    "site": "youtube.com",
+    "titleFound": "Magical Houshin - Version Japon",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJQJ-JPN",
+  "query": "AGB-AJQJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "JP3ADVANCEDA (internal name); Jurassic Park III - Advanced Action (J).gba",
+    "serialShown": "AGB-AJQJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://www.ebay.com/itm/394885154297",
+    "site": "ebay.com",
+    "titleFound": "Jurassic Park III: Advance Action",
+    "serialShown": "AGB-AJQJ-JPN",
+    "exact": true,
+    "kind": "listing"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/516521-jurassic-park-iii-island-attack/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Jurassic Park III: Advance Action",
+    "serialShown": "AGB-AJQJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "Konami, 08/30/01; page is the Island Attack release page, JP product ID shown"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jurassic Park III - Advanced Action (Japan)",
+    "serialShown": "AGB-AJQJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": null,
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "appeared in results; summary does not clearly tie it"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJQP-EUR",
+  "query": "AGB-AJQP-EUR",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "JP3DINOATTAC (internal name); Jurassic Park III Dino Attack (E)",
+    "serialShown": "AGB-AJQP-EUR",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jurassic Park III - Dino Attack (Europe) (En,Fr,De,Es,It)",
+    "serialShown": "AGB-AJQP-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJUJ-JPN",
+  "query": "AGB-AJUJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "JUO (internal name); Jissen Pachi-Slot Hisshouhou! Juuou Advance per summary",
+    "serialShown": "AGB-AJUJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jissen Pachi-Slot Hisshouhou! Juuou Advance (per summary)",
+    "serialShown": "AGB-AJUJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix"
+   },
+   {
+    "url": "https://github.com/mstroh76/GBxDumper/blob/master/gbalist.csv",
+    "site": "github.com",
+    "titleFound": "JUO",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "summary says dumper list shows it as 32 Mbit FLASH; serial quote not explicit"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJXD-NOE",
+  "query": "AGB-AJXD-NOE",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Jimmy Neutron (German release per summary)",
+    "serialShown": "AGB-AJXD-DEU",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "different region suffix"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Jimmy Neutron vs. Jimmy Negatron (Germany)",
+    "serialShown": "AGB-AJXD-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix; title is inferred from summary"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=gF7pT1ThLQM",
+    "site": "youtube.com",
+    "titleFound": "Jimmy Neutron vs. Jimmy Negatron - Version Allemagne",
+    "serialShown": null,
+    "exact": false,
+    "kind": "other",
+    "note": "video title only; serial not shown"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AJXE-USA",
+  "query": "AGB-AJXE-USA",
+  "results": [
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe)",
+    "serialShown": "AGB-AJXE-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix"
+   },
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "0616 - Jimmy Neutron vs. Jimmy Negatron (U).gba",
+    "serialShown": "AGB-AJXE-USA",
+    "exact": true,
+    "kind": "rom-derived",
+    "note": "serial inferred from summary context"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AK6E-USA",
+  "query": "AGB-AK6E-USA",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Soccer Kid",
+    "serialShown": "AGB-AK6E-USA",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://gamefaqs.gamespot.com/gba/914511-soccer-kid/data",
+    "site": "gamefaqs.gamespot.com",
+    "titleFound": "Soccer Kid",
+    "serialShown": null,
+    "exact": false,
+    "kind": "catalog",
+    "note": "Telegames US 2002; serial quote not explicit"
+   },
+   {
+    "url": "https://gamehacking.org/game/5994",
+    "site": "gamehacking.org",
+    "titleFound": "Soccer Kid",
+    "serialShown": null,
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "CRC32 D3485F5A"
+   }
+  ]
+ },
+ {
+  "serial": "AGB-AKGJ-JPN",
+  "query": "AGB-AKGJ-JPN",
+  "results": [
+   {
+    "url": "https://gist.github.com/loveemu/60e2945678fb58ea5957708ebcad8f07",
+    "site": "gist.github.com",
+    "titleFound": "Kikaika Gunta - Mech Platoon (J) (internal name KykikaGontie)",
+    "serialShown": "AGB-AKGJ-JPN",
+    "exact": true,
+    "kind": "rom-derived"
+   },
+   {
+    "url": "https://glitchwave.com/game/mech-platoon/release/%E6%A9%9F%E6%A2%B0%E5%8C%96%E8%BB%8D%E9%9A%8A-%E3%83%A1%E3%83%83%E3%82%AF%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3-nintendo-game-boy-advance-jp/",
+    "site": "glitchwave.com",
+    "titleFound": "機械化軍隊 メックプラトゥーン",
+    "serialShown": "AGB-AKGJ-JPN",
+    "exact": true,
+    "kind": "catalog",
+    "note": "catalog entry 'JP 4 906571 225445 AGB-AKGJ-JPN'; may be from this or another result"
+   },
+   {
+    "url": "https://gbhwdb.gekkio.fi/cartridges/gba.html",
+    "site": "gbhwdb.gekkio.fi",
+    "titleFound": "Kikaika Guntai - Mech Platoon (Japan)",
+    "serialShown": "AGB-AKGJ-0",
+    "exact": false,
+    "kind": "rom-derived",
+    "note": "ROM ID with -0 suffix"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=VyP7CIOF5yk",
+    "site": "youtube.com",
+    "titleFound": "Kikaika Guntai - Mech Platoon - Version Japon",
+    "serialShown": "AGB-AKGJ-JPN",
+    "exact": true,
+    "kind": "other"
+   }
+  ]
+ }
+]
